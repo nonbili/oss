@@ -1,7 +1,23 @@
 ---
 type ProductKey = 'noutube' | 'nora';
 type Section = 'downloads' | 'changelog';
-type LocaleKey = 'en' | 'ja';
+type LocaleKey =
+	| 'ar'
+	| 'de'
+	| 'el'
+	| 'en'
+	| 'es'
+	| 'fr'
+	| 'id'
+	| 'it'
+	| 'ja'
+	| 'pl'
+	| 'pt-br'
+	| 'ru'
+	| 'sv'
+	| 'tr'
+	| 'zh-hans'
+	| 'zh-hant';
 
 const { product, section, locale = 'en' } = Astro.props as {
 	product: ProductKey;
@@ -152,7 +168,7 @@ const messages = {
 	},
 } as const;
 
-const message = messages[locale];
+const message = locale === 'ja' ? messages.ja : messages.en;
 const config = configs[product];
 ---
 

@@ -2,6 +2,11 @@
 title: NouTube
 description: NouTube の概要
 ---
+<div class="product-overview-header">
+  <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
+  <p class="product-overview-header__meta">Android / デスクトップ</p>
+</div>
+
 NouTube は YouTube と YouTube Music 向けの Android / デスクトップアプリです。
 
 モバイル版 YouTube と YouTube Music の Web アプリをベースに、広告ブロック、再生制御、ダウンロード、RSS フィード、ローカルライブラリ管理などの機能を追加します。

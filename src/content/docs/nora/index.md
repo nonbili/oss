@@ -2,6 +2,11 @@
 title: Nora
 description: Overview of Nora and its social browsing model.
 ---
+<div class="product-overview-header">
+  <img class="product-overview-header__logo" src="/app-logos/nora.png" alt="Nora logo" />
+  <p class="product-overview-header__meta">Android, iOS, and desktop</p>
+</div>
+
 Nora is an Android, iOS, and desktop browser optimized for social network services.
 
 It keeps the original service websites while adding native conveniences like separate account storage, blocklists, download tools, URL cleanup, and CSS customization.

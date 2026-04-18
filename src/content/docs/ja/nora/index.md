@@ -2,6 +2,11 @@
 title: Nora
 description: Nora の概要
 ---
+<div class="product-overview-header">
+  <img class="product-overview-header__logo" src="/app-logos/nora.png" alt="Nora logo" />
+  <p class="product-overview-header__meta">Android / iOS / デスクトップ</p>
+</div>
+
 Nora は SNS 向けに最適化された Android / iOS / デスクトップブラウザです。
 
 各サービスの公式 Web サイトをそのまま使いながら、アカウント分離、ブロックリスト、ダウンロード、URL クリーンアップ、CSS カスタマイズなどの便利な機能を追加します。

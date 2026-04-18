@@ -2,6 +2,11 @@
 title: NouTube
 description: Overview of NouTube and what it is built to do.
 ---
+<div class="product-overview-header">
+  <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
+  <p class="product-overview-header__meta">Android and desktop</p>
+</div>
+
 NouTube is an Android and desktop app for YouTube and YouTube Music.
 
 It wraps the mobile YouTube and YouTube Music web apps and layers native behavior on top, including ad blocking, playback control hooks, download support, RSS feeds, and offline-friendly library management.

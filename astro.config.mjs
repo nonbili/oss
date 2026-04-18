@@ -20,9 +20,65 @@ export default defineConfig({
 					label: 'English',
 					lang: 'en',
 				},
+				ar: {
+					label: 'العربية',
+					lang: 'ar',
+				},
+				de: {
+					label: 'Deutsch',
+					lang: 'de',
+				},
+				el: {
+					label: 'Ελληνικά',
+					lang: 'el',
+				},
+				es: {
+					label: 'Español',
+					lang: 'es',
+				},
+				fr: {
+					label: 'Français',
+					lang: 'fr',
+				},
+				id: {
+					label: 'Bahasa Indonesia',
+					lang: 'id',
+				},
+				it: {
+					label: 'Italiano',
+					lang: 'it',
+				},
 				ja: {
 					label: '日本語',
 					lang: 'ja',
+				},
+				pl: {
+					label: 'Polski',
+					lang: 'pl',
+				},
+				'pt-br': {
+					label: 'Português (Brasil)',
+					lang: 'pt-BR',
+				},
+				ru: {
+					label: 'Русский',
+					lang: 'ru',
+				},
+				sv: {
+					label: 'Svenska',
+					lang: 'sv',
+				},
+				tr: {
+					label: 'Türkçe',
+					lang: 'tr',
+				},
+				'zh-hans': {
+					label: '简体中文',
+					lang: 'zh-Hans',
+				},
+				'zh-hant': {
+					label: '繁體中文',
+					lang: 'zh-Hant',
 				},
 			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/nonbili' }],
