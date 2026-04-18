@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Häufig gestellte Fragen (FAQ)
 description: Häufige Nora-Fragen aus GitHub-Issues.
 ---
 Diese Seite fasst wiederkehrende Benutzerfragen aus dem öffentlichen GitHub-Issue-Tracker zusammen.

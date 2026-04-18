@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Pertanyaan Sering Diajukan (FAQ)
 description: Pertanyaan umum Nora yang diambil dari issue GitHub.
 ---
 Halaman ini merangkum pertanyaan pengguna yang berulang dari pelacak issue GitHub publik.

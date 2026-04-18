@@ -1,5 +1,5 @@
 ---
-title: Desktop
+title: Scrivania
 description: Utilizzo di NouTube su Linux, macOS e Windows.
 ---
 NouTube ha una build desktop per Linux, macOS e Windows.

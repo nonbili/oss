@@ -1,5 +1,5 @@
 ---
-title: Desktop
+title: Skrivbord
 description: Använda NouTube på Linux, macOS och Windows.
 ---
 NouTube har ett desktop-bygge för Linux, macOS och Windows.

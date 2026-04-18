@@ -1,5 +1,5 @@
 ---
-title: SSS
+title: Sıkça Sorulan Sorular (FAQ)
 description: GitHub sorunlarından çekilen yaygın Nora soruları.
 ---
 Bu sayfa, genel GitHub sorun takipçisinden gelen ve tekrar eden kullanıcı sorularını özetlemektedir.

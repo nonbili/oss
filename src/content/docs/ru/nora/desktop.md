@@ -1,5 +1,5 @@
 ---
-title: Десктоп
+title: Настольная версия
 description: Использование Nora на Linux, macOS и Windows.
 ---
 Nora выпускается как приложение для рабочего стола для Linux, macOS и Windows.

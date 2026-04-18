@@ -133,7 +133,9 @@ const messages = {
 	en: {
 		loadingDownloads: 'Loading latest download links…',
 		loadingChangelog: 'Loading latest changelog…',
-		error: 'Could not load release data right now. Use the GitHub release pages instead.',
+		errorPrefix: 'Could not load release data right now. Use the ',
+		errorLink: 'GitHub release pages',
+		errorSuffix: ' instead.',
 		mobile: 'Mobile',
 		desktop: 'Desktop',
 		latestVersion: 'Latest version',
@@ -151,7 +153,9 @@ const messages = {
 	ja: {
 		loadingDownloads: '最新のダウンロードリンクを読み込んでいます…',
 		loadingChangelog: '最新の変更履歴を読み込んでいます…',
-		error: 'リリース情報を読み込めませんでした。GitHub のリリースページを利用してください。',
+		errorPrefix: 'リリース情報を読み込めませんでした。',
+		errorLink: 'GitHub のリリースページ',
+		errorSuffix: ' を利用してください。',
 		mobile: 'モバイル版',
 		desktop: 'デスクトップ版',
 		latestVersion: '最新バージョン',
@@ -182,7 +186,11 @@ const config = configs[product];
 		{section === 'downloads' ? message.loadingDownloads : message.loadingChangelog}
 	</p>
 	<noscript>
-		<p class="release-runtime__status">{message.error}</p>
+		<p class="release-runtime__status">
+			{message.errorPrefix}
+			<a href={`https://github.com/${config.mobileRepo}/releases`}>{message.errorLink}</a>
+			{message.errorSuffix}
+		</p>
 	</noscript>
 </div>
 
@@ -206,6 +214,16 @@ const config = configs[product];
 				.replaceAll('>', '&gt;')
 				.replaceAll('"', '&quot;')
 				.replaceAll("'", '&#39;');
+
+		const renderError = () => {
+			root.innerHTML = `
+				<p class="release-runtime__status">
+					${escapeHtml(message.errorPrefix)}
+					<a href="https://github.com/${escapeHtml(config.mobileRepo)}/releases">${escapeHtml(message.errorLink)}</a>
+					${escapeHtml(message.errorSuffix)}
+				</p>
+			`;
+		};
 
 		const formatDate = (value) => {
 			try {
@@ -380,7 +398,7 @@ const config = configs[product];
 		const run = section === 'downloads' ? renderDownloads : renderChangelog;
 
 		run().catch(() => {
-			root.innerHTML = `<p class="release-runtime__status">${escapeHtml(message.error)}</p>`;
+			renderError();
 		});
 	})();
 </script>

@@ -1,5 +1,5 @@
 ---
-title: Wersja Desktopowa
+title: Pulpit
 description: Korzystanie z NouTube na systemach Linux, macOS i Windows.
 ---
 NouTube posiada wersję desktopową na systemy Linux, macOS i Windows.

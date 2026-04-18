@@ -1,5 +1,5 @@
 ---
-title: Wersja Desktopowa
+title: Pulpit
 description: Korzystanie z Nora na systemach Linux, macOS i Windows.
 ---
 Nora jest dostępna jako aplikacja desktopowa na systemy Linux, macOS i Windows.

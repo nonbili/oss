@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Perguntas Frequentes (FAQ)
 description: Perguntas comuns do NouTube extraídas das issues do GitHub.
 ---
 Esta página resume as perguntas recorrentes dos usuários do rastreador de problemas público do GitHub.

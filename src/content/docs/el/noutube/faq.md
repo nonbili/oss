@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Συχνές Ερωτήσεις (FAQ)
 description: Συχνές ερωτήσεις για το NouTube από το GitHub issues.
 ---
 Αυτή η σελίδα συνοψίζει επαναλαμβανόμενες ερωτήσεις χρηστών από το δημόσιο GitHub issue tracker.

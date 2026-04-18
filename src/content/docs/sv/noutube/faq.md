@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Vanliga frågor (FAQ)
 description: Vanliga frågor om NouTube hämtade från GitHub-ärenden.
 ---
 Denna sida sammanfattar återkommande användarfrågor från det offentliga GitHub-ärendesystemet.

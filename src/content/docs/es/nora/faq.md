@@ -1,5 +1,5 @@
 ---
-title: Preguntas frecuentes
+title: Preguntas Frecuentes (FAQ)
 description: Preguntas comunes sobre Nora extraídas de los problemas de GitHub.
 ---
 Esta página resume las preguntas recurrentes de los usuarios del rastreador público de problemas de GitHub.
