@@ -1,0 +1,370 @@
+---
+type ProductKey = 'noutube' | 'nora';
+type Section = 'downloads' | 'changelog';
+type LocaleKey = 'en' | 'ja';
+
+const { product, section, locale = 'en' } = Astro.props as {
+	product: ProductKey;
+	section: Section;
+	locale?: LocaleKey;
+};
+
+const configs = {
+	noutube: {
+		name: 'NouTube',
+		mobileRepo: 'nonbili/NouTube',
+		desktopRepo: 'nonbili/NouTube-Desktop',
+		mobileRedirectAssets: [
+			{ name: 'app-arm64-v8a-release.apk', label: 'Android APK (arm64-v8a)' },
+			{ name: 'app-armeabi-v7a-release.apk', label: 'Android APK (armeabi-v7a)' },
+			{ name: 'app-x86-release.apk', label: 'Android APK (x86)' },
+			{ name: 'app-x86_64-release.apk', label: 'Android APK (x86_64)' },
+		],
+		mobileBadges: [
+			{
+				label: 'F-Droid',
+				url: 'https://f-droid.org/packages/jp.nonbili.noutube/',
+				img: 'https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid',
+				alt: 'Get it on F-Droid',
+			},
+			{
+				label: 'GitHub Releases',
+				url: 'https://github.com/nonbili/NouTube/releases/latest',
+				img: 'https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github',
+				alt: 'Get it on GitHub',
+			},
+		],
+		desktopBadges: [
+			{
+				label: 'Microsoft Store',
+				url: 'https://apps.microsoft.com/detail/9n46kk0cqb74',
+				img: 'https://img.shields.io/badge/Microsoft%20Store-15508c.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNDk5LjYgMjUwMCIgdmlld0JveD0iMCAwIDI0OTkuNiAyNTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMTg3LjkgMTE4Ny45aC0xMTg3Ljl2LTExODcuOWgxMTg3Ljl6IiBmaWxsPSIjZjI1MDIyIi8+PHBhdGggZD0ibTI0OTkuNiAxMTg3LjloLTExODh2LTExODcuOWgxMTg3Ljl2MTE4Ny45eiIgZmlsbD0iIzdmYmEwMCIvPjxwYXRoIGQ9Im0xMTg3LjkgMjUwMGgtMTE4Ny45di0xMTg3LjloMTE4Ny45eiIgZmlsbD0iIzAwYTRlZiIvPjxwYXRoIGQ9Im0yNDk5LjYgMjUwMGgtMTE4OHYtMTE4Ny45aDExODcuOXYxMTg3Ljl6IiBmaWxsPSIjZmJiOTAwIi8+PC9zdmc+Cg==',
+				alt: 'Get it on Microsoft Store',
+			},
+			{
+				label: 'Flathub',
+				url: 'https://flathub.org/apps/jp.nonbili.noutube',
+				img: 'https://img.shields.io/badge/Flathub-000000?style=for-the-badge&logo=flathub',
+				alt: 'Get it on Flathub',
+			},
+			{
+				label: 'GitHub Releases',
+				url: 'https://github.com/nonbili/NouTube-Desktop/releases/latest',
+				img: 'https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github',
+				alt: 'Get it on GitHub',
+			},
+		],
+	},
+	nora: {
+		name: 'Nora',
+		mobileRepo: 'nonbili/Nora',
+		desktopRepo: 'nonbili/Nora-Desktop',
+		mobileRedirectAssets: [
+			{ name: 'app-arm64-v8a-release.apk', label: 'Android APK (arm64-v8a)' },
+			{ name: 'app-armeabi-v7a-release.apk', label: 'Android APK (armeabi-v7a)' },
+			{ name: 'app-x86_64-release.apk', label: 'Android APK (x86_64)' },
+		],
+		mobileBadges: [
+			{
+				label: 'App Store',
+				url: 'https://apps.apple.com/us/app/nora-sns-browser/id6758549275',
+				img: 'https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white',
+				alt: 'Get it on App Store',
+			},
+			{
+				label: 'Google Play',
+				url: 'https://play.google.com/store/apps/details?id=jp.nonbili.nora',
+				img: 'https://img.shields.io/badge/Google_Play-01875f?style=for-the-badge&logo=google-play',
+				alt: 'Get it on Google Play',
+			},
+			{
+				label: 'F-Droid',
+				url: 'https://f-droid.org/packages/jp.nonbili.nora/',
+				img: 'https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid',
+				alt: 'Get it on F-Droid',
+			},
+			{
+				label: 'GitHub Releases',
+				url: 'https://github.com/nonbili/Nora/releases/latest',
+				img: 'https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github',
+				alt: 'Get it on GitHub',
+			},
+		],
+		desktopBadges: [
+			{
+				label: 'Microsoft Store',
+				url: 'https://apps.microsoft.com/detail/9pf51nf1x2rb',
+				img: 'https://img.shields.io/badge/Microsoft%20Store-15508c.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNDk5LjYgMjUwMCIgdmlld0JveD0iMCAwIDI0OTkuNiAyNTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0xMTg3LjkgMTE4Ny45aC0xMTg3Ljl2LTExODcuOWgxMTg3Ljl6IiBmaWxsPSIjZjI1MDIyIi8+PHBhdGggZD0ibTI0OTkuNiAxMTg3LjloLTExODh2LTExODcuOWgxMTg3Ljl2MTE4Ny45eiIgZmlsbD0iIzdmYmEwMCIvPjxwYXRoIGQ9Im0xMTg3LjkgMjUwMGgtMTE4Ny45di0xMTg3LjloMTE4Ny45eiIgZmlsbD0iIzAwYTRlZiIvPjxwYXRoIGQ9Im0yNDk5LjYgMjUwMGgtMTE4OHYtMTE4Ny45aDExODcuOXYxMTg3Ljl6IiBmaWxsPSIjZmJiOTAwIi8+PC9zdmc+Cg==',
+				alt: 'Get it on Microsoft Store',
+			},
+			{
+				label: 'Flathub',
+				url: 'https://flathub.org/apps/jp.nonbili.nora',
+				img: 'https://img.shields.io/badge/Flathub-000000?style=for-the-badge&logo=flathub',
+				alt: 'Get it on Flathub',
+			},
+			{
+				label: 'GitHub Releases',
+				url: 'https://github.com/nonbili/Nora-Desktop/releases/latest',
+				img: 'https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github',
+				alt: 'Get it on GitHub',
+			},
+		],
+	},
+} as const;
+
+const messages = {
+	en: {
+		loadingDownloads: 'Loading latest download links…',
+		loadingChangelog: 'Loading latest changelog…',
+		error: 'Could not load release data right now. Use the GitHub release pages instead.',
+		mobile: 'Mobile',
+		desktop: 'Desktop',
+		latestVersion: 'Latest version',
+		storeLinks: 'Store and release links',
+		githubAssets: 'Direct download assets',
+		releasePage: 'Release page',
+		linux: 'Linux',
+		macosX64: 'macOS (x64)',
+		macosArm64: 'macOS (arm64)',
+		windows: 'Windows',
+		noNotes: 'No release notes provided.',
+		published: 'Published',
+		viewOnGitHub: 'View on GitHub',
+	},
+	ja: {
+		loadingDownloads: '最新のダウンロードリンクを読み込んでいます…',
+		loadingChangelog: '最新の変更履歴を読み込んでいます…',
+		error: 'リリース情報を読み込めませんでした。GitHub のリリースページを利用してください。',
+		mobile: 'モバイル版',
+		desktop: 'デスクトップ版',
+		latestVersion: '最新バージョン',
+		storeLinks: 'ストア / リリースリンク',
+		githubAssets: '直接ダウンロード',
+		releasePage: 'リリースページ',
+		linux: 'Linux',
+		macosX64: 'macOS (x64)',
+		macosArm64: 'macOS (arm64)',
+		windows: 'Windows',
+		noNotes: 'リリースノートはありません。',
+		published: '公開日',
+		viewOnGitHub: 'GitHub で見る',
+	},
+} as const;
+
+const message = messages[locale];
+const config = configs[product];
+---
+
+<div
+	class={`release-runtime release-runtime--${section}`}
+	data-product={product}
+	data-section={section}
+	data-locale={locale}
+>
+	<p class="release-runtime__status">
+		{section === 'downloads' ? message.loadingDownloads : message.loadingChangelog}
+	</p>
+	<noscript>
+		<p class="release-runtime__status">{message.error}</p>
+	</noscript>
+</div>
+
+<script
+	is:inline
+	define:vars={{
+		config,
+		locale,
+		section,
+		message,
+	}}
+>
+	(() => {
+		const root = document.currentScript?.previousElementSibling;
+		if (!root || !(root instanceof HTMLElement)) return;
+
+		const escapeHtml = (value) =>
+			String(value)
+				.replaceAll('&', '&amp;')
+				.replaceAll('<', '&lt;')
+				.replaceAll('>', '&gt;')
+				.replaceAll('"', '&quot;')
+				.replaceAll("'", '&#39;');
+
+		const formatDate = (value) => {
+			try {
+				return new Intl.DateTimeFormat(locale === 'ja' ? 'ja-JP' : 'en-US', {
+					year: 'numeric',
+					month: 'short',
+					day: 'numeric',
+				}).format(new Date(value));
+			} catch {
+				return value;
+			}
+		};
+
+		const parseNotes = (body) => {
+			if (!body || !body.trim()) return [];
+			const bulletLines = body
+				.split('\n')
+				.map((line) => line.trim())
+				.filter((line) => /^[-*]\s+/.test(line))
+				.map((line) => line.replace(/^[-*]\s+/, '').trim())
+				.filter(Boolean);
+
+			if (bulletLines.length) return bulletLines;
+
+			const text = body
+				.split('\n')
+				.map((line) => line.trim())
+				.filter(Boolean)
+				.join(' ')
+				.trim();
+
+			return text ? [text] : [];
+		};
+
+		const fetchJson = async (url) => {
+			const res = await fetch(url, {
+				headers: { accept: 'application/vnd.github+json' },
+			});
+			if (!res.ok) throw new Error(`Request failed: ${res.status}`);
+			return res.json();
+		};
+
+		const desktopAssets = (release) => {
+			const assets = release.assets || [];
+			return [
+				{
+					label: message.linux,
+					url: assets.find((asset) => asset.name.endsWith('.AppImage'))?.browser_download_url,
+				},
+				{
+					label: message.macosX64,
+					url: assets.find((asset) => asset.name.endsWith('-x64.dmg'))?.browser_download_url,
+				},
+				{
+					label: message.macosArm64,
+					url: assets.find((asset) => asset.name.endsWith('-arm64.dmg'))?.browser_download_url,
+				},
+				{
+					label: message.windows,
+					url: assets.find((asset) => asset.name.endsWith('-setup.exe'))?.browser_download_url,
+				},
+			].filter((item) => item.url);
+		};
+
+		const mobileRedirectAssets = (repo) =>
+			config.mobileRedirectAssets.map((asset) => ({
+				label: asset.label,
+				url: `https://github.com/${repo}/releases/latest/download/${asset.name}`,
+			}));
+
+		const renderDownloads = async () => {
+			const [mobileLatest, desktopLatest] = await Promise.all([
+				fetchJson(`https://api.github.com/repos/${config.mobileRepo}/releases/latest`),
+				fetchJson(`https://api.github.com/repos/${config.desktopRepo}/releases/latest`),
+			]);
+
+			const mobileLinks = mobileRedirectAssets(config.mobileRepo);
+			const desktopLinks = [
+				{ label: message.releasePage, url: desktopLatest.html_url },
+				...desktopAssets(desktopLatest),
+			];
+
+			const renderBadges = (badges) => `
+				<div class="release-badges">
+					${badges
+						.map(
+							(badge) => `
+								<a href="${escapeHtml(badge.url)}" class="release-badge">
+									<img src="${escapeHtml(badge.img)}" alt="${escapeHtml(badge.alt)}" />
+								</a>
+							`,
+						)
+						.join('')}
+				</div>
+			`;
+
+			root.innerHTML = `
+				<div class="release-grid">
+					<section class="release-card">
+						<div class="release-card__eyebrow">${escapeHtml(message.mobile)}</div>
+						<h2 class="release-card__title">${escapeHtml(config.name)} ${escapeHtml(message.mobile)}</h2>
+						<p class="release-card__meta">${escapeHtml(message.latestVersion)}: <strong>${escapeHtml(mobileLatest.tag_name)}</strong></p>
+						${renderBadges(config.mobileBadges)}
+						<h3 class="release-card__section">${escapeHtml(message.githubAssets)}</h3>
+						<ul class="release-links">
+							${mobileLinks
+								.map(
+									(link) => `<li><a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a></li>`,
+								)
+								.join('')}
+						</ul>
+					</section>
+					<section class="release-card">
+						<div class="release-card__eyebrow">${escapeHtml(message.desktop)}</div>
+						<h2 class="release-card__title">${escapeHtml(config.name)} ${escapeHtml(message.desktop)}</h2>
+						<p class="release-card__meta">${escapeHtml(message.latestVersion)}: <strong>${escapeHtml(desktopLatest.tag_name)}</strong></p>
+						${renderBadges(config.desktopBadges)}
+						<h3 class="release-card__section">${escapeHtml(message.githubAssets)}</h3>
+						<ul class="release-links">
+							${desktopLinks
+								.map(
+									(link) => `<li><a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a></li>`,
+								)
+								.join('')}
+						</ul>
+					</section>
+				</div>
+			`;
+		};
+
+		const renderReleaseGroup = (title, releases) => `
+			<section class="release-stream">
+				<h2>${escapeHtml(title)}</h2>
+				<div class="release-stream__items">
+					${releases
+						.map((release) => {
+							const notes = parseNotes(release.body || '');
+							return `
+								<article class="release-entry">
+									<div class="release-entry__header">
+										<h3>${escapeHtml(release.tag_name)}</h3>
+										<p>${escapeHtml(message.published)}: ${escapeHtml(formatDate(release.published_at || release.created_at || ''))}</p>
+									</div>
+									${
+										notes.length
+											? `<ul>${notes.map((note) => `<li>${escapeHtml(note)}</li>`).join('')}</ul>`
+											: `<p>${escapeHtml(message.noNotes)}</p>`
+									}
+									<p><a href="${escapeHtml(release.html_url)}">${escapeHtml(message.viewOnGitHub)}</a></p>
+								</article>
+							`;
+						})
+						.join('')}
+				</div>
+			</section>
+		`;
+
+		const renderChangelog = async () => {
+			const [mobileReleases, desktopReleases] = await Promise.all([
+				fetchJson(`https://api.github.com/repos/${config.mobileRepo}/releases?per_page=6`),
+				fetchJson(`https://api.github.com/repos/${config.desktopRepo}/releases?per_page=6`),
+			]);
+
+			root.innerHTML = `
+				<div class="release-stacks">
+					${renderReleaseGroup(`${config.name} ${message.mobile}`, mobileReleases)}
+					${renderReleaseGroup(`${config.name} ${message.desktop}`, desktopReleases)}
+				</div>
+			`;
+		};
+
+		const run = section === 'downloads' ? renderDownloads : renderChangelog;
+
+		run().catch(() => {
+			root.innerHTML = `<p class="release-runtime__status">${escapeHtml(message.error)}</p>`;
+		});
+	})();
+</script>
