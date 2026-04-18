@@ -1,6 +1,8 @@
 ---
 title: 桌面端
 description: 在 Linux, macOS, 和 Windows 上使用 Nora。
+sidebar:
+  order: 7
 ---
 Nora 作为桌面应用发布，支持 Linux, macOS, 和 Windows。
 

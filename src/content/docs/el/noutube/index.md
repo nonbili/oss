@@ -1,6 +1,8 @@
 ---
 title: NouTube
 description: Επισκόπηση του NouTube και του σκοπού για τον οποίο δημιουργήθηκε.
+sidebar:
+  order: 1
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />

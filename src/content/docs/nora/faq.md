@@ -1,6 +1,8 @@
 ---
 title: FAQ
 description: Common Nora questions pulled from GitHub issues.
+sidebar:
+  order: 9
 ---
 This page summarizes recurring user questions from the public GitHub issue tracker.
 

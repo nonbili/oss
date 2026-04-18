@@ -1,6 +1,8 @@
 ---
 title: Perguntas Frequentes (FAQ)
 description: Perguntas comuns sobre o Nora retiradas de issues do GitHub.
+sidebar:
+  order: 9
 ---
 Esta página resume perguntas recorrentes de usuários do rastreador público de problemas do GitHub.
 

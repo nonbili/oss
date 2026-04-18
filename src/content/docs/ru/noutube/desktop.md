@@ -1,6 +1,8 @@
 ---
 title: Настольная версия
 description: Использование NouTube на Linux, macOS и Windows.
+sidebar:
+  order: 7
 ---
 У NouTube есть сборка для рабочего стола для Linux, macOS и Windows.
 

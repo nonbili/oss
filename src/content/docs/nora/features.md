@@ -1,6 +1,8 @@
 ---
 title: Features
 description: Core Nora capabilities across supported social networks.
+sidebar:
+  order: 3
 ---
 ## Account Isolation
 

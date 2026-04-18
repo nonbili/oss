@@ -1,6 +1,8 @@
 ---
 title: Skrivbord
 description: Använda Nora på Linux, macOS och Windows.
+sidebar:
+  order: 7
 ---
 Nora finns som en desktop-app för Linux, macOS och Windows.
 

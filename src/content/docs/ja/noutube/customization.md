@@ -1,6 +1,8 @@
 ---
 title: カスタマイズ
 description: NouTube のカスタム CSS と動作に関するメモ。
+sidebar:
+  order: 8
 ---
 NouTube は、埋め込まれた YouTube および YouTube Music ページのカスタム CSS をサポートしています。
 

@@ -1,6 +1,8 @@
 ---
 title: التخصيص
 description: ملاحظات CSS المخصص والسلوك لـ NouTube.
+sidebar:
+  order: 8
 ---
 يدعم NouTube لغة CSS المخصصة لصفحات YouTube و YouTube Music المدمجة.
 

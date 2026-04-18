@@ -1,6 +1,8 @@
 ---
 title: Funktioner
 description: NouTubes kärnfunktioner.
+sidebar:
+  order: 3
 ---
 ## Uppspelning
 

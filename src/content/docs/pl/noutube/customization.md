@@ -1,6 +1,8 @@
 ---
 title: Personalizacja
 description: Niestandardowy CSS i uwagi dotyczące zachowania NouTube.
+sidebar:
+  order: 8
 ---
 NouTube obsługuje niestandardowy CSS dla osadzonych stron YouTube i YouTube Music.
 

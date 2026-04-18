@@ -1,6 +1,8 @@
 ---
 title: Προσαρμογή
 description: Προσαρμοσμένο CSS και σημειώσεις συμπεριφοράς για το NouTube.
+sidebar:
+  order: 8
 ---
 Το NouTube υποστηρίζει προσαρμοσμένο CSS για τις ενσωματωμένες σελίδες του YouTube και του YouTube Music.
 

@@ -1,6 +1,8 @@
 ---
 title: Recursos
 description: Capacidades principais do Nora nas redes sociais suportadas.
+sidebar:
+  order: 3
 ---
 ## Isolamento de Conta
 

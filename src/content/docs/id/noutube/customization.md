@@ -1,6 +1,8 @@
 ---
 title: Kustomisasi
 description: CSS kustom dan catatan perilaku untuk NouTube.
+sidebar:
+  order: 8
 ---
 NouTube mendukung CSS kustom untuk halaman YouTube dan YouTube Music yang disematkan.
 

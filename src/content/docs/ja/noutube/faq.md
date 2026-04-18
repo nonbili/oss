@@ -1,6 +1,8 @@
 ---
 title: よくある質問 (FAQ)
 description: GitHub の issue から抽出された NouTube に関するよくある質問。
+sidebar:
+  order: 9
 ---
 このページでは、公開されている GitHub の issue トラッカーに寄せられた、よくある質問をまとめています。
 

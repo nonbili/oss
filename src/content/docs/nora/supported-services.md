@@ -1,6 +1,8 @@
 ---
 title: Supported Services
 description: Social networks Nora is designed to work with.
+sidebar:
+  order: 4
 ---
 Nora is aimed at browser-based use of mainstream social network services.
 

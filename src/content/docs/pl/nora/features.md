@@ -1,6 +1,8 @@
 ---
 title: Funkcje
 description: Kluczowe możliwości Nora w obsługiwanych sieciach społecznościowych.
+sidebar:
+  order: 3
 ---
 ## Izolacja Kont
 

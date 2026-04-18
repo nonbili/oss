@@ -1,6 +1,8 @@
 ---
 title: Skrivbord
 description: Använda NouTube på Linux, macOS och Windows.
+sidebar:
+  order: 7
 ---
 NouTube har ett desktop-bygge för Linux, macOS och Windows.
 

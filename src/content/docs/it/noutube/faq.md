@@ -1,6 +1,8 @@
 ---
 title: Domande frequenti (FAQ)
 description: Domande comuni su NouTube tratte dai problemi su GitHub.
+sidebar:
+  order: 9
 ---
 Questa pagina riassume le domande ricorrenti degli utenti tratte dal tracker pubblico dei problemi di GitHub.
 

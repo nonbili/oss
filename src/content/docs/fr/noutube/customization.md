@@ -1,6 +1,8 @@
 ---
 title: Personnalisation
 description: Notes sur le CSS personnalisé et le comportement de NouTube.
+sidebar:
+  order: 8
 ---
 NouTube prend en charge le CSS personnalisé pour les pages YouTube et YouTube Music intégrées.
 

@@ -1,6 +1,8 @@
 ---
 title: الميزات
 description: إمكانيات NouTube الأساسية.
+sidebar:
+  order: 3
 ---
 ## التشغيل
 

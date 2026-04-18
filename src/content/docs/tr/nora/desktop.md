@@ -1,6 +1,8 @@
 ---
 title: Masaüstü
 description: Linux, macOS ve Windows'ta Nora kullanımı.
+sidebar:
+  order: 7
 ---
 Nora; Linux, macOS ve Windows için masaüstü uygulaması olarak sunulur.
 

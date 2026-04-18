@@ -1,6 +1,8 @@
 ---
 title: Personalizacja
 description: CSS i modyfikacje przeglądania w Nora.
+sidebar:
+  order: 8
 ---
 Nora obsługuje niestandardowy CSS, dzięki czemu możesz zmieniać wygląd osadzanych stron internetowych serwisów.
 

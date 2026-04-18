@@ -1,6 +1,8 @@
 ---
 title: Customization
 description: Custom CSS and behavior notes for NouTube.
+sidebar:
+  order: 8
 ---
 NouTube supports custom CSS for the embedded YouTube and YouTube Music pages.
 

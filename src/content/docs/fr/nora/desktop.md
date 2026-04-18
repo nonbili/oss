@@ -1,6 +1,8 @@
 ---
 title: Bureau
 description: Utiliser Nora sur Linux, macOS et Windows.
+sidebar:
+  order: 7
 ---
 Nora est disponible en tant qu'application de bureau pour Linux, macOS et Windows.
 

@@ -1,6 +1,8 @@
 ---
 title: Serviços Suportados
 description: Redes sociais para as quais o Nora foi projetado para funcionar.
+sidebar:
+  order: 4
 ---
 O Nora destina-se ao uso via navegador dos principais serviços de redes sociais.
 

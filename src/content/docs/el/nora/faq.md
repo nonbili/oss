@@ -1,6 +1,8 @@
 ---
 title: Συχνές Ερωτήσεις (FAQ)
 description: Συχνές ερωτήσεις για το Nora από το GitHub issues.
+sidebar:
+  order: 9
 ---
 Αυτή η σελίδα συνοψίζει επαναλαμβανόμενες ερωτήσεις χρηστών από το δημόσιο GitHub issue tracker.
 

@@ -1,6 +1,8 @@
 ---
 title: Servicios compatibles
 description: Redes sociales con las que Nora está diseñado para funcionar.
+sidebar:
+  order: 4
 ---
 Nora está orientado al uso basado en navegador de los servicios de redes sociales convencionales.
 

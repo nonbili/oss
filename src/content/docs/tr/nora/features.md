@@ -1,6 +1,8 @@
 ---
 title: Özellikler
 description: Desteklenen sosyal ağlarda temel Nora yetenekleri.
+sidebar:
+  order: 3
 ---
 ## Hesap İzolasyonu
 

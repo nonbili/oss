@@ -1,6 +1,8 @@
 ---
 title: Customização
 description: Ajustes de CSS e navegação no Nora.
+sidebar:
+  order: 8
 ---
 O Nora suporta CSS personalizado para que você possa remodelar os sites de serviços que ele incorpora.
 

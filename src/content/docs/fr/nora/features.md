@@ -1,6 +1,8 @@
 ---
 title: Fonctionnalités
 description: Capacités principales de Nora sur les réseaux sociaux pris en charge.
+sidebar:
+  order: 3
 ---
 ## Isolation des comptes
 

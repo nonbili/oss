@@ -1,6 +1,8 @@
 ---
 title: Bureau
 description: Utiliser NouTube sur Linux, macOS et Windows.
+sidebar:
+  order: 7
 ---
 NouTube dispose d'une version de bureau pour Linux, macOS et Windows.
 

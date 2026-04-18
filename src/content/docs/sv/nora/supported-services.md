@@ -1,6 +1,8 @@
 ---
 title: Tjänster Som Stöds
 description: Sociala nätverk som Nora är utformad för att fungera med.
+sidebar:
+  order: 4
 ---
 Nora är inriktad på webbläsarbaserad användning av de vanligaste sociala nätverkstjänsterna.
 

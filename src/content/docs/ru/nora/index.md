@@ -1,6 +1,8 @@
 ---
 title: Nora
 description: Обзор Nora и её модели просмотра социальных сетей.
+sidebar:
+  order: 1
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/nora.png" alt="Nora logo" />

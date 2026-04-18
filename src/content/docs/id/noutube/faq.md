@@ -1,6 +1,8 @@
 ---
 title: Pertanyaan Sering Diajukan (FAQ)
 description: Pertanyaan umum NouTube yang diambil dari issue GitHub.
+sidebar:
+  order: 9
 ---
 Halaman ini merangkum pertanyaan pengguna yang berulang dari pelacak issue GitHub publik.
 

@@ -1,6 +1,8 @@
 ---
 title: デスクトップ
 description: Linux、macOS、および Windows での NouTube の使用。
+sidebar:
+  order: 7
 ---
 NouTube には、Linux、macOS、および Windows 用のデスクトップビルドがあります。
 

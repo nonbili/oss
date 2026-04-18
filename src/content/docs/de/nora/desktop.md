@@ -1,6 +1,8 @@
 ---
 title: Desktop
 description: Verwendung von Nora unter Linux, macOS und Windows.
+sidebar:
+  order: 7
 ---
 Nora wird als Desktop-App für Linux, macOS und Windows ausgeliefert.
 

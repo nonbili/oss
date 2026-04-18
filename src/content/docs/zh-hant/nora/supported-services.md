@@ -1,6 +1,8 @@
 ---
 title: 支援的服務
 description: Nora 設計支援使用的社群網絡服務。
+sidebar:
+  order: 4
 ---
 Nora 旨在透過瀏覽器使用主流社群網絡服務。
 

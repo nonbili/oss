@@ -1,6 +1,8 @@
 ---
 title: Services pris en charge
 description: Réseaux sociaux avec lesquels Nora est conçu pour fonctionner.
+sidebar:
+  order: 4
 ---
 Nora est destiné à une utilisation via navigateur des services de réseaux sociaux grand public.
 

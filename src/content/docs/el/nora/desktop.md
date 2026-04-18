@@ -1,6 +1,8 @@
 ---
 title: Επιφάνεια εργασίας
 description: Χρήση του Nora σε Linux, macOS και Windows.
+sidebar:
+  order: 7
 ---
 Το Nora κυκλοφορεί ως εφαρμογή desktop για Linux, macOS και Windows.
 

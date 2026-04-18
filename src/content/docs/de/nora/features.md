@@ -1,6 +1,8 @@
 ---
 title: Funktionen
 description: Nora-Kernfunktionen in unterstützten sozialen Netzwerken.
+sidebar:
+  order: 3
 ---
 ## Kontoisolierung
 

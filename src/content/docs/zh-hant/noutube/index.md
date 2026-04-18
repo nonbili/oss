@@ -1,6 +1,8 @@
 ---
 title: NouTube
 description: NouTube 概覽及其設計初衷。
+sidebar:
+  order: 1
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />

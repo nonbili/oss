@@ -1,6 +1,8 @@
 ---
 title: Features
 description: Core NouTube capabilities.
+sidebar:
+  order: 3
 ---
 ## Playback
 

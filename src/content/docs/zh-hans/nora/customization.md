@@ -1,6 +1,8 @@
 ---
 title: 自定义
 description: Nora 中的 CSS 和浏览调整。
+sidebar:
+  order: 8
 ---
 Nora 支持自定义 CSS，因此你可以重塑它所嵌入的服务网站。
 

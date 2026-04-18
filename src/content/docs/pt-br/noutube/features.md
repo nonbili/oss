@@ -1,6 +1,8 @@
 ---
 title: Recursos
 description: Capacidades principais do NouTube.
+sidebar:
+  order: 3
 ---
 ## Reprodução
 

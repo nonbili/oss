@@ -1,6 +1,8 @@
 ---
 title: Masaüstü
 description: Linux, macOS ve Windows'ta NouTube kullanımı.
+sidebar:
+  order: 7
 ---
 NouTube'un Linux, macOS ve Windows için masaüstü derlemesi vardır.
 

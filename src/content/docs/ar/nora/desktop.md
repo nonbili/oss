@@ -1,6 +1,8 @@
 ---
 title: سطح المكتب
 description: استخدام Nora على Linux و macOS و Windows.
+sidebar:
+  order: 7
 ---
 يتوفر Nora كتطبيق سطح مكتب لأنظمة Linux و macOS و Windows.
 

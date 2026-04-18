@@ -1,6 +1,8 @@
 ---
 title: NouTube
 description: NouTube'a genel bakış ve ne için inşa edildiği.
+sidebar:
+  order: 1
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />

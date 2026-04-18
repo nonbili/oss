@@ -1,6 +1,8 @@
 ---
 title: Escritorio
 description: Uso de NouTube en Linux, macOS y Windows.
+sidebar:
+  order: 7
 ---
 NouTube cuenta con una versión de escritorio para Linux, macOS y Windows.
 

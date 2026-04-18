@@ -1,6 +1,8 @@
 ---
 title: Επιφάνεια εργασίας
 description: Χρήση του NouTube σε Linux, macOS και Windows.
+sidebar:
+  order: 7
 ---
 Το NouTube διαθέτει έκδοση desktop για Linux, macOS και Windows.
 

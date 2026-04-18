@@ -1,6 +1,8 @@
 ---
 title: Funzionalità
 description: Funzionalità principali di NouTube.
+sidebar:
+  order: 3
 ---
 ## Riproduzione
 

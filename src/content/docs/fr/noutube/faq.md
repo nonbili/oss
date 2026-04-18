@@ -1,6 +1,8 @@
 ---
 title: Foire aux questions (FAQ)
 description: Questions courantes sur NouTube extraites des tickets GitHub.
+sidebar:
+  order: 9
 ---
 Cette page résume les questions récurrentes des utilisateurs provenant du suivi public des tickets GitHub.
 

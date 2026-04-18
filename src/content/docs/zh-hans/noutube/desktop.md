@@ -1,6 +1,8 @@
 ---
 title: 桌面端
 description: 在 Linux, macOS, 和 Windows 上使用 NouTube。
+sidebar:
+  order: 7
 ---
 NouTube 为 Linux, macOS, 和 Windows 提供桌面端构建。
 

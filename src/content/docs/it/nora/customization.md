@@ -1,6 +1,8 @@
 ---
 title: Personalizzazione
 description: Regolazioni CSS e di navigazione in Nora.
+sidebar:
+  order: 8
 ---
 Nora supporta CSS personalizzato in modo da poter rimodellare i siti web dei servizi che incorpora.
 

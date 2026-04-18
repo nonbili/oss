@@ -1,6 +1,8 @@
 ---
 title: Servizi Supportati
 description: Social network con cui Nora è progettata per funzionare.
+sidebar:
+  order: 4
 ---
 Nora è mirata all'uso basato su browser dei principali servizi di social network.
 

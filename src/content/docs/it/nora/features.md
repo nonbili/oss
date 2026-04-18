@@ -1,6 +1,8 @@
 ---
 title: Funzionalità
 description: Funzionalità principali di Nora nei social network supportati.
+sidebar:
+  order: 3
 ---
 ## Isolamento dell'Account
 

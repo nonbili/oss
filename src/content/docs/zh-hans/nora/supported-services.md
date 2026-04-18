@@ -1,6 +1,8 @@
 ---
 title: 支持的服务
 description: Nora 旨在配合使用的社交网络。
+sidebar:
+  order: 4
 ---
 Nora 旨在用于主流社交网络服务的浏览器端使用。
 

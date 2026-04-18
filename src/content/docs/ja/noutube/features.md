@@ -1,6 +1,8 @@
 ---
 title: 機能
 description: NouTube の主な機能。
+sidebar:
+  order: 3
 ---
 ## 再生
 

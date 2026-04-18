@@ -1,6 +1,8 @@
 ---
 title: Obsługiwane Serwisy
 description: Sieci społecznościowe, z którymi Nora ma współpracować.
+sidebar:
+  order: 4
 ---
 Nora jest przeznaczona do korzystania z głównych serwisów społecznościowych za pośrednictwem przeglądarki.
 

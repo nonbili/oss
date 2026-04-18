@@ -1,6 +1,8 @@
 ---
 title: Anpassung
 description: Benutzerdefiniertes CSS und Verhaltenshinweise für NouTube.
+sidebar:
+  order: 8
 ---
 NouTube unterstützt benutzerdefiniertes CSS für die eingebetteten YouTube- und YouTube Music-Seiten.
 

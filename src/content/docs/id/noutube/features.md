@@ -1,6 +1,8 @@
 ---
 title: Fitur
 description: Kemampuan inti NouTube.
+sidebar:
+  order: 3
 ---
 ## Pemutaran
 

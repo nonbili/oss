@@ -1,6 +1,8 @@
 ---
 title: 常見問題（FAQ）
 description: 從 GitHub Issue 中提取的 NouTube 常見問題。
+sidebar:
+  order: 9
 ---
 本頁面總結了來自公開 GitHub Issue 追蹤器中經常出現的使用者問題。
 

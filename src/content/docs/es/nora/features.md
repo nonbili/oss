@@ -1,6 +1,8 @@
 ---
 title: Funciones
 description: Capacidades principales de Nora en las redes sociales compatibles.
+sidebar:
+  order: 3
 ---
 ## Aislamiento de cuentas
 

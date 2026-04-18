@@ -1,6 +1,8 @@
 ---
 title: Layanan yang Didukung
 description: Jejaring sosial yang dirancang untuk bekerja dengan Nora.
+sidebar:
+  order: 4
 ---
 Nora ditujukan untuk penggunaan berbasis browser dari layanan jejaring sosial arus utama.
 

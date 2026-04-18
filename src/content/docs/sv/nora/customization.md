@@ -1,6 +1,8 @@
 ---
 title: Anpassning
 description: CSS och webbläsarjusteringar i Nora.
+sidebar:
+  order: 8
 ---
 Nora stöder anpassad CSS så att du kan omforma webbplatserna den bäddar in.
 

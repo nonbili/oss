@@ -1,6 +1,8 @@
 ---
 title: 自定义
 description: NouTube 的自定义 CSS 和行为说明。
+sidebar:
+  order: 8
 ---
 NouTube 支持对嵌入的 YouTube 和 YouTube Music 页面使用自定义 CSS。
 

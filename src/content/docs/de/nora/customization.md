@@ -1,6 +1,8 @@
 ---
 title: Anpassung
 description: CSS- und Browsing-Anpassungen in Nora.
+sidebar:
+  order: 8
 ---
 Nora unterstützt benutzerdefiniertes CSS, sodass Sie die Websites der eingebetteten Dienste umgestalten können.
 

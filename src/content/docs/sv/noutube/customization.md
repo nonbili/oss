@@ -1,6 +1,8 @@
 ---
 title: Anpassning
 description: Anpassad CSS och beteendeanteckningar för NouTube.
+sidebar:
+  order: 8
 ---
 NouTube stöder anpassad CSS för de inbäddade YouTube- och YouTube Music-sidorna.
 

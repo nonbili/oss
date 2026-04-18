@@ -1,6 +1,8 @@
 ---
 title: Często zadawane pytania (FAQ)
 description: Często zadawane pytania dotyczące NouTube, zebrane z problemów na GitHubie.
+sidebar:
+  order: 9
 ---
 Ta strona podsumowuje powtarzające się pytania użytkowników z publicznego systemu śledzenia problemów na GitHubie.
 

@@ -1,6 +1,8 @@
 ---
 title: Desktop
 description: Using Nora on Linux, macOS, and Windows.
+sidebar:
+  order: 7
 ---
 Nora ships as a desktop app for Linux, macOS, and Windows.
 

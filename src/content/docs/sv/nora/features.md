@@ -1,6 +1,8 @@
 ---
 title: Funktioner
 description: Noras kärnfunktioner över sociala nätverk som stöds.
+sidebar:
+  order: 3
 ---
 ## Kontoisolering
 

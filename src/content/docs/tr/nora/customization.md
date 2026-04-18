@@ -1,6 +1,8 @@
 ---
 title: Özelleştirme
 description: Nora'da CSS ve tarama ayarlamaları.
+sidebar:
+  order: 8
 ---
 Nora, içine yerleştirdiği hizmet web sitelerini yeniden şekillendirebilmeniz için özel CSS'yi destekler.
 

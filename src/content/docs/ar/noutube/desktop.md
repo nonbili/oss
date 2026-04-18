@@ -1,6 +1,8 @@
 ---
 title: سطح المكتب
 description: استخدام NouTube على Linux و macOS و Windows.
+sidebar:
+  order: 7
 ---
 يحتوي NouTube على إصدار سطح مكتب لأنظمة Linux و macOS و Windows.
 

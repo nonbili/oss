@@ -1,6 +1,8 @@
 ---
 title: Fitur
 description: Kemampuan inti Nora di jejaring sosial yang didukung.
+sidebar:
+  order: 3
 ---
 ## Isolasi Akun
 

@@ -1,6 +1,8 @@
 ---
 title: Özelleştirme
 description: NouTube için özel CSS ve davranış notları.
+sidebar:
+  order: 8
 ---
 NouTube, gömülü YouTube ve YouTube Music sayfaları için özel CSS'yi destekler.
 

@@ -1,6 +1,8 @@
 ---
 title: Funktionen
 description: NouTube-Kernfunktionen.
+sidebar:
+  order: 3
 ---
 ## Wiedergabe
 

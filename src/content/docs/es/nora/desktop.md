@@ -1,6 +1,8 @@
 ---
 title: Escritorio
 description: Uso de Nora en Linux, macOS y Windows.
+sidebar:
+  order: 7
 ---
 Nora se distribuye como una aplicación de escritorio para Linux, macOS y Windows.
 

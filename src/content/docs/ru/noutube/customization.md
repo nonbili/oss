@@ -1,6 +1,8 @@
 ---
 title: Настройка
 description: Пользовательский CSS и примечания к поведению NouTube.
+sidebar:
+  order: 8
 ---
 NouTube поддерживает пользовательский CSS для встроенных страниц YouTube и YouTube Music.
 

@@ -1,6 +1,8 @@
 ---
 title: Desktop
 description: Usando o NouTube no Linux, macOS e Windows.
+sidebar:
+  order: 7
 ---
 O NouTube tem uma versão desktop para Linux, macOS e Windows.
 

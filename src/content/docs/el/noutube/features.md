@@ -1,6 +1,8 @@
 ---
 title: Χαρακτηριστικά
 description: Βασικές δυνατότητες του NouTube.
+sidebar:
+  order: 3
 ---
 ## Αναπαραγωγή
 

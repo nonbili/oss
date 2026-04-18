@@ -1,6 +1,8 @@
 ---
 title: Unterstützte Dienste
 description: Soziale Netzwerke, für die Nora konzipiert wurde.
+sidebar:
+  order: 4
 ---
 Nora zielt auf die browserbasierte Nutzung gängiger sozialer Netzwerke ab.
 

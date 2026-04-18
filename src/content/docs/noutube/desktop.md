@@ -1,6 +1,8 @@
 ---
 title: Desktop
 description: Using NouTube on Linux, macOS, and Windows.
+sidebar:
+  order: 7
 ---
 NouTube has a desktop build for Linux, macOS, and Windows.
 

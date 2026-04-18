@@ -1,6 +1,8 @@
 ---
 title: 桌面版
 description: 在 Linux、macOS 與 Windows 上使用 NouTube。
+sidebar:
+  order: 7
 ---
 NouTube 為 Linux、macOS 與 Windows 提供了桌面版本。
 

@@ -1,6 +1,8 @@
 ---
 title: デスクトップ
 description: Linux、macOS、および Windows での Nora の使用。
+sidebar:
+  order: 7
 ---
 Nora は Linux、macOS、および Windows 用のデスクトップアプリとして提供されています。
 

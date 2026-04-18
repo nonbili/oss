@@ -1,6 +1,8 @@
 ---
 title: 功能
 description: NouTube 的核心功能。
+sidebar:
+  order: 3
 ---
 ## 播放
 

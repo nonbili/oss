@@ -1,6 +1,8 @@
 ---
 title: 機能
 description: サポートされているソーシャルネットワークにおける Nora の主な機能。
+sidebar:
+  order: 3
 ---
 ## アカウントの分離
 

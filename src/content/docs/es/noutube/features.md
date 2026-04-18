@@ -1,6 +1,8 @@
 ---
 title: Funciones
 description: Capacidades principales de NouTube.
+sidebar:
+  order: 3
 ---
 ## Reproducción
 

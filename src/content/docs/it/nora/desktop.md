@@ -1,6 +1,8 @@
 ---
 title: Scrivania
 description: Utilizzo di Nora su Linux, macOS e Windows.
+sidebar:
+  order: 7
 ---
 Nora viene distribuita come app desktop per Linux, macOS e Windows.
 

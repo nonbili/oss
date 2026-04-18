@@ -1,6 +1,8 @@
 ---
 title: Özellikler
 description: Temel NouTube yetenekleri.
+sidebar:
+  order: 3
 ---
 ## Oynatma
 

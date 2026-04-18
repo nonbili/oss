@@ -1,6 +1,8 @@
 ---
 title: カスタマイズ
 description: Nora での CSS とブラウジングの調整。
+sidebar:
+  order: 8
 ---
 Nora はカスタム CSS をサポートしており、埋め込まれたサービスウェブサイトの見た目を変更できます。
 

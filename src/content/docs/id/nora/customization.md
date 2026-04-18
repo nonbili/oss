@@ -1,6 +1,8 @@
 ---
 title: Kustomisasi
 description: CSS dan penyesuaian penjelajahan di Nora.
+sidebar:
+  order: 8
 ---
 Nora mendukung CSS kustom sehingga Anda dapat membentuk kembali situs web layanan yang disematkannya.
 

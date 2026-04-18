@@ -1,6 +1,8 @@
 ---
 title: Funkcje
 description: Kluczowe możliwości NouTube.
+sidebar:
+  order: 3
 ---
 ## Odtwarzanie
 

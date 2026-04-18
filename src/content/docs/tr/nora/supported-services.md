@@ -1,6 +1,8 @@
 ---
 title: Desteklenen Hizmetler
 description: Nora'nın birlikte çalışmak üzere tasarlandığı sosyal ağlar.
+sidebar:
+  order: 4
 ---
 Nora, ana akım sosyal ağ hizmetlerinin tarayıcı tabanlı kullanımını amaçlamaktadır.
 

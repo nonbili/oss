@@ -1,6 +1,8 @@
 ---
 title: Customization
 description: CSS and browsing adjustments in Nora.
+sidebar:
+  order: 8
 ---
 Nora supports custom CSS so you can reshape the service websites it embeds.
 

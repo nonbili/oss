@@ -1,6 +1,8 @@
 ---
 title: Vanliga frågor (FAQ)
 description: Vanliga frågor om Nora hämtade från GitHub-ärenden.
+sidebar:
+  order: 9
 ---
 Denna sida sammanfattar återkommande användarfrågor från det offentliga GitHub-ärendesystemet.
 

@@ -1,6 +1,8 @@
 ---
 title: 功能
 description: Nora 在支持的社交网络上的核心功能。
+sidebar:
+  order: 3
 ---
 ## 账号隔离
 

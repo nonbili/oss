@@ -1,6 +1,8 @@
 ---
 title: Häufig gestellte Fragen (FAQ)
 description: Häufige NouTube-Fragen aus GitHub-Issues.
+sidebar:
+  order: 9
 ---
 Diese Seite fasst wiederkehrende Benutzerfragen aus dem öffentlichen GitHub-Issue-Tracker zusammen.
 
