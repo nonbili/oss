@@ -6,50 +6,32 @@ sidebar:
 ---
 Esta página resume as perguntas recorrentes dos usuários do rastreador de problemas público do GitHub.
 
-## O botão de login na versão desktop sumiu ou o login parece travado
+## Problemas de login na versão desktop
 
-Se o aplicativo desktop não mostrar um botão `Sign in` visível, tente abrir o menu `Your data in YouTube` primeiro. Na discussão da issue, esse caminho permitiu que os usuários afetados chegassem ao fluxo de login, e o mantenedor disse mais tarde que o botão visível deve estar de volta na `v0.1.6`.
+Se o aplicativo desktop não mostrar um botão `Entrar` visível, tente abrir o menu `Seus dados no YouTube` primeiro. Se a página de login abrir, mas você receber um erro de "navegador ou aplicativo pode não ser seguro", use o recurso **Injetar cookie**:
+
+1. Use uma extensão de navegador (como `getcookies.txt`) para exportar seus cookies do YouTube.
+2. Importe os cookies para o NouTube usando o botão **Injetar cookie**.
+
+Este método ignora a verificação de navegador seguro do Google e é atualmente a correção mais confiável para problemas de login no desktop.
 
 Fontes:
 
-- [Issue #46: desktop version never logs in always error](https://github.com/nonbili/NouTube/issues/46)
-
-## O login no desktop ainda falha mesmo quando a página de login abre
-
-Houve relatos de que algumas configurações de desktop ainda falham no login do Google mesmo após limpar os dados. A discussão da issue não terminou com uma correção universal confirmada, então a orientação prática é:
-
-- atualize para a versão mais recente do desktop
-- limpe os dados do webview/perfil do app se você já tentou fazer o login
-- se ainda falhar, relate seu SO, formato do pacote e capturas de tela no GitHub
-
-Fonte:
-
-- [Issue #103: Unable to login from desktop client](https://github.com/nonbili/NouTube/issues/103)
+- [Issue #142: Can't login to Google on Windows app](https://github.com/nonbili/NouTube/issues/142)
 
 ## O YouTube Music não está carregando corretamente
 
-Um caminho de solução de problemas documentado foi:
+Se o YouTube Music não estiver carregando corretamente, tente alternar para **Site para computador** no menu do aplicativo (disponível desde a `v0.5.1`).
+
+Outras etapas de solução de problemas:
 
 1. Certifique-se de que o `NouTube` seja o aplicativo padrão para `music.youtube.com`.
 2. Se o aplicativo oficial do YouTube Music estiver instalado, remova primeiro o tratamento de link padrão dele.
 3. Se o problema continuar, tente um user agent personalizado em `Configurações > Ferramentas > User agent personalizado`.
 
-Esta orientação vem diretamente do mantenedor no tópico da issue. É uma solução alternativa, não uma correção garantida para todos os dispositivos.
-
 Fonte:
 
 - [Issue #150: Noutube Music Error Message, Not Loading.](https://github.com/nonbili/NouTube/issues/150)
-
-## Alguns anúncios ainda estão passando
-
-Houve um relato de anúncios curtos do YouTube Premium aparecendo antes dos vídeos. O mantenedor indicou aos usuários a `v0.4.9`, o que implica que as correções de bloqueio de anúncios foram enviadas em versões posteriores. Se você vir anúncios:
-
-- atualize para a versão mais recente do F-Droid ou GitHub
-- se o problema persistir, abra uma nova issue com a versão do app e uma captura de tela
-
-Fonte:
-
-- [Issue #117: Ad not blocked](https://github.com/nonbili/NouTube/issues/117)
 
 ## O NouTube abre uma fila em vez da página inicial
 

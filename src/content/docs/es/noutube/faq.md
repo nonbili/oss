@@ -6,50 +6,32 @@ sidebar:
 ---
 Esta página resume las preguntas recurrentes de los usuarios del rastreador público de problemas de GitHub.
 
-## Falta el botón de inicio de sesión en escritorio o el inicio de sesión parece bloqueado
+## Problemas de inicio de sesión en escritorio
 
-Si la aplicación de escritorio no muestra un botón de `Iniciar sesión` visible, intenta abrir primero el menú `Tus datos en YouTube`. En la discusión del problema, esa ruta permitió a los usuarios afectados llegar al flujo de inicio de sesión, y el mantenedor dijo más tarde que el botón visible debería volver en la `v0.1.6`.
+Si la aplicación de escritorio no muestra un botón de `Iniciar sesión` visible, intenta abrir primero el menú `Tus datos en YouTube`. Si se abre la página de inicio de sesión pero recibes el error "es posible que el navegador o la aplicación no sean seguros", utiliza la función **Inyectar cookie (Inject cookie)**:
+
+1. Utiliza una extensión del navegador (como `getcookies.txt`) para exportar tus cookies de YouTube.
+2. Importa las cookies a NouTube usando el botón **Inyectar cookie (Inject cookie)**.
+
+Este método omite la comprobación de navegador seguro de Google y es actualmente la solución más fiable para los problemas de inicio de sesión en escritorio.
 
 Fuentes:
 
-- [Issue #46: desktop version never logs in always error](https://github.com/nonbili/NouTube/issues/46)
-
-## El inicio de sesión en escritorio sigue fallando incluso cuando se abre la página de inicio de sesión
-
-Se ha informado de que algunas configuraciones de escritorio siguen fallando en el inicio de sesión de Google incluso después de borrar los datos. El hilo del problema no terminó con una solución universal confirmada, por lo que la guía práctica es:
-
-- actualizar a la última versión de escritorio
-- borrar los datos de webview/perfil de la aplicación si ya has intentado iniciar sesión
-- si sigue fallando, informa de tu sistema operativo, formato de paquete y capturas de pantalla en GitHub
-
-Fuente:
-
-- [Issue #103: Unable to login from desktop client](https://github.com/nonbili/NouTube/issues/103)
+- [Issue #142: Can't login to Google on Windows app](https://github.com/nonbili/NouTube/issues/142)
 
 ## YouTube Music no se carga correctamente
 
-Una de las vías de solución de problemas documentadas fue:
+Si YouTube Music no se carga correctamente, intenta activar **Sitio de escritorio (Desktop site)** en el menú de la aplicación (disponible desde `v0.5.1`).
+
+Otros pasos de solución de problemas:
 
 1. Asegúrate de que `NouTube` sea la aplicación predeterminada para `music.youtube.com`.
 2. Si la aplicación oficial de YouTube Music está instalada, elimina primero su gestión de enlaces predeterminada.
 3. Si el problema persiste, prueba con un agente de usuario personalizado desde `Ajustes > Herramientas > Agente de usuario personalizado`.
 
-Esta guía proviene directamente del mantenedor en el hilo del problema. Es una solución temporal, no una solución garantizada para todos los dispositivos.
-
 Fuente:
 
 - [Issue #150: Noutube Music Error Message, Not Loading.](https://github.com/nonbili/NouTube/issues/150)
-
-## Algunos anuncios se siguen colando
-
-Hubo un informe de anuncios cortos de YouTube Premium que aparecían antes de los vídeos. El mantenedor remitió a los usuarios a la versión `v0.4.9`, lo que implica que las correcciones de bloqueo de anuncios se incluyeron en versiones posteriores. Si ves anuncios:
-
-- actualiza a la última versión desde F-Droid o GitHub
-- si el problema persiste, abre un nuevo problema con la versión de la aplicación y una captura de pantalla
-
-Fuente:
-
-- [Issue #117: Ad not blocked](https://github.com/nonbili/NouTube/issues/117)
 
 ## NouTube vuelve a abrir una cola en lugar de la página de inicio
 

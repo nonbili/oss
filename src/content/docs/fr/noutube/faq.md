@@ -6,50 +6,32 @@ sidebar:
 ---
 Cette page résume les questions récurrentes des utilisateurs provenant du suivi public des tickets GitHub.
 
-## Le bouton de connexion sur bureau est manquant ou la connexion semble bloquée
+## Problèmes de connexion sur bureau
 
-Si l'application de bureau n'affiche pas de bouton `Se connecter` visible, essayez d'abord d'ouvrir le menu `Vos données dans YouTube`. Dans la discussion du ticket, ce chemin a permis aux utilisateurs concernés d'accéder au flux de connexion, et le mainteneur a déclaré plus tard que le bouton visible devrait être de retour dans la `v0.1.6`.
+Si l'application de bureau n'affiche pas de bouton `Se connecter` visible, essayez d'abord d'ouvrir le menu `Vos données dans YouTube`. Si la page de connexion s'ouvre mais que vous recevez une erreur "le navigateur ou l'application n'est peut-être pas sécurisé", utilisez la fonction **Injecter un cookie (Inject cookie)** :
+
+1. Utilisez une extension de navigateur (comme `getcookies.txt`) pour exporter vos cookies YouTube.
+2. Importez les cookies dans NouTube en utilisant le bouton **Injecter un cookie (Inject cookie)**.
+
+Cette méthode contourne la vérification du navigateur sécurisé de Google et constitue actuellement le correctif le plus fiable pour les problèmes de connexion sur bureau.
 
 Sources :
 
-- [Issue #46: desktop version never logs in always error](https://github.com/nonbili/NouTube/issues/46)
-
-## La connexion sur bureau échoue toujours même lorsque la page de connexion s'ouvre
-
-Il a été signalé que certaines configurations de bureau échouent toujours à la connexion Google même après avoir effacé les données. Le fil de discussion ne s'est pas terminé par un correctif universel confirmé, les conseils pratiques sont donc les suivants :
-
-- mettre à jour vers la dernière version de bureau
-- effacer les données de webview/profil de l'application si vous avez déjà essayé de vous connecter
-- si cela échoue toujours, signalez votre système d'exploitation, le format du package et des captures d'écran sur GitHub
-
-Source :
-
-- [Issue #103: Unable to login from desktop client](https://github.com/nonbili/NouTube/issues/103)
+- [Issue #142: Can't login to Google on Windows app](https://github.com/nonbili/NouTube/issues/142)
 
 ## YouTube Music ne se charge pas correctement
 
-Un chemin de dépannage documenté était le suivant :
+Si YouTube Music ne se charge pas correctement, essayez d'activer **Version pour ordinateur (Desktop site)** dans le menu de l'application (disponible depuis la `v0.5.1`).
+
+Autres étapes de dépannage :
 
 1. Assurez-vous que `NouTube` est l'application par défaut pour `music.youtube.com`.
 2. Si l'application officielle YouTube Music est installée, supprimez d'abord sa gestion des liens par défaut.
 3. Si le problème persiste, essayez un user agent personnalisé via `Paramètres > Outils > User agent personnalisé`.
 
-Ce conseil provient directement du mainteneur dans le fil de discussion. C'est une solution de contournement, pas un correctif garanti pour chaque appareil.
-
 Source :
 
 - [Issue #150: Noutube Music Error Message, Not Loading.](https://github.com/nonbili/NouTube/issues/150)
-
-## Certaines publicités passent encore
-
-Il a été signalé que de courtes publicités YouTube Premium apparaissaient avant les vidéos. Le mainteneur a orienté les utilisateurs vers la `v0.4.9`, ce qui implique que des correctifs de blocage publicitaire ont été publiés dans des versions ultérieures. Si vous voyez des publicités :
-
-- mettez à jour vers la dernière version depuis F-Droid ou GitHub
-- si le problème persiste, ouvrez un nouveau ticket avec la version de l'application et une capture d'écran
-
-Source :
-
-- [Issue #117: Ad not blocked](https://github.com/nonbili/NouTube/issues/117)
 
 ## NouTube rouvre une file d'attente au lieu de la page d'accueil
 
