@@ -21,13 +21,7 @@ Källor:
 
 ## YouTube Music laddas inte korrekt
 
-Om YouTube Music inte laddas korrekt, försök att växla till **Skrivbordsplats** i appmenyn (tillgängligt sedan `v0.5.1`).
-
-Andra felsökningssteg:
-
-1. Se till att `NouTube` är standardappen för `music.youtube.com`.
-2. Om den officiella YouTube Music-appen är installerad, ta bort dess standardlänkhantering först.
-3. Om problemet fortsätter, prova en anpassad user agent från `Settings > Tools > Custom user agent`.
+Om YouTube Music inte laddas korrekt, försök att växla till **Skrivbordsplats** i appmenyn.
 
 Källa:
 

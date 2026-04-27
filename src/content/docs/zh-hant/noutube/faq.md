@@ -21,13 +21,7 @@ sidebar:
 
 ## YouTube Music 無法正確載入
 
-如果 YouTube Music 無法正確載入，請嘗試在應用程式選單中切換 **電腦版網站**（自 `v0.5.1` 起可用）。
-
-其他疑難排解步驟：
-
-1. 確保 `NouTube` 是 `music.youtube.com` 的預設應用程式。
-2. 如果安裝了官方 YouTube Music 應用程式，請先移除其預設的連結處理設定。
-3. 如果問題持續，請嘗試在 `Settings > Tools > Custom user agent` 中設定自定義使用者代理（User Agent）。
+如果 YouTube Music 無法正確載入，請嘗試在應用程式選單中切換 **電腦版網站**。
 
 來源：
 

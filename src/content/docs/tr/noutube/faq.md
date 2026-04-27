@@ -21,13 +21,7 @@ Kaynaklar:
 
 ## YouTube Music doğru şekilde yüklenmiyor
 
-YouTube Music doğru şekilde yüklenmiyorsa, uygulama menüsünden **Masaüstü sitesi** seçeneğini açıp kapatmayı deneyin (`v0.5.1`'den beri mevcuttur).
-
-Diğer sorun giderme adımları:
-
-1. `NouTube`'un `music.youtube.com` için varsayılan uygulama olduğundan emin olun.
-2. Resmi YouTube Music uygulaması yüklüyse, önce varsayılan bağlantı işlemesini kaldırın.
-3. Sorun devam ederse, `Settings > Tools > Custom user agent` kısmından özel bir kullanıcı aracısı deneyin.
+YouTube Music doğru şekilde yüklenmiyorsa, uygulama menüsünden **Masaüstü sitesi** seçeneğini açıp kapatmayı deneyin.
 
 Kaynak:
 

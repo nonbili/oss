@@ -21,13 +21,7 @@ Fonti:
 
 ## YouTube Music non si carica correttamente
 
-Se YouTube Music non si carica correttamente, prova ad attivare **Sito desktop (Desktop site)** nel menu dell'applicazione (disponibile dalla `v0.5.1`).
-
-Altri passaggi di risoluzione dei problemi:
-
-1. Assicurati che `NouTube` sia l'app predefinita per `music.youtube.com`.
-2. Se l'app ufficiale di YouTube Music è installata, rimuovi prima la sua gestione dei link predefinita.
-3. Se il problema persiste, prova un user agent personalizzato da `Impostazioni > Strumenti > User agent personalizzato`.
+Se YouTube Music non si carica correttamente, prova ad attivare **Sito desktop (Desktop site)** nel menu dell'applicazione.
 
 Fonte:
 

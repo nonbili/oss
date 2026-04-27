@@ -21,13 +21,7 @@ Ta metoda omija sprawdzanie bezpiecznej przeglądarki przez Google i jest obecni
 
 ## YouTube Music nie ładuje się poprawnie
 
-Jeśli YouTube Music nie ładuje się poprawnie, spróbuj przełączyć opcję **Wersja na komputer (Desktop site)** w menu aplikacji (dostępne od wersji `v0.5.1`).
-
-Inne kroki rozwiązywania problemów:
-
-1. Upewnienie się, że `NouTube` jest domyślną aplikacją dla `music.youtube.com`.
-2. Jeśli oficjalna aplikacja YouTube Music jest zainstalowana, najpierw usuń jej domyślne przypisanie linków.
-3. Jeśli problem nadal występuje, spróbuj ustawić niestandardowy user agent w `Settings > Tools > Custom user agent`.
+Jeśli YouTube Music nie ładuje się poprawnie, spróbuj przełączyć opcję **Wersja na komputer (Desktop site)** w menu aplikacji.
 
 Źródło:
 

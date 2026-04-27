@@ -21,13 +21,7 @@ Fontes:
 
 ## O YouTube Music não está carregando corretamente
 
-Se o YouTube Music não estiver carregando corretamente, tente alternar para **Site para computador** no menu do aplicativo (disponível desde a `v0.5.1`).
-
-Outras etapas de solução de problemas:
-
-1. Certifique-se de que o `NouTube` seja o aplicativo padrão para `music.youtube.com`.
-2. Se o aplicativo oficial do YouTube Music estiver instalado, remova primeiro o tratamento de link padrão dele.
-3. Se o problema continuar, tente um user agent personalizado em `Configurações > Ferramentas > User agent personalizado`.
+Se o YouTube Music não estiver carregando corretamente, tente alternar para **Site para computador** no menu do aplicativo.
 
 Fonte:
 

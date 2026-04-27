@@ -21,13 +21,7 @@ Sumber:
 
 ## YouTube Music tidak memuat dengan benar
 
-Jika YouTube Music tidak memuat dengan benar, coba aktifkan **Situs desktop (Desktop site)** di menu aplikasi (tersedia sejak `v0.5.1`).
-
-Langkah pemecahan masalah lainnya:
-
-1. Pastikan `NouTube` adalah aplikasi default untuk `music.youtube.com`.
-2. Jika aplikasi resmi YouTube Music terinstal, hapus penanganan tautan default-nya terlebih dahulu.
-3. Jika masalah berlanjut, coba user agent kustom dari `Settings > Tools > Custom user agent`.
+Jika YouTube Music tidak memuat dengan benar, coba aktifkan **Situs desktop (Desktop site)** di menu aplikasi.
 
 Sumber:
 

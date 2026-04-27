@@ -21,13 +21,7 @@ sidebar:
 
 ## YouTube Music 无法正确加载
 
-如果 YouTube Music 无法正确加载，请尝试在应用菜单中切换 **桌面网站**（自 `v0.5.1` 起可用）。
-
-其他故障排除步骤：
-
-1. 确保 `NouTube` 是 `music.youtube.com` 的默认应用。
-2. 如果安装了官方 YouTube Music 应用，请先移除其默认链接处理。
-3. 如果问题仍然存在，请尝试通过 `设置 > 工具 > 自定义用户代理` (Settings > Tools > Custom user agent) 使用自定义用户代理。
+如果 YouTube Music 无法正确加载，请尝试在应用菜单中切换 **桌面网站**。
 
 来源：
 

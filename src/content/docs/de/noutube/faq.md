@@ -21,13 +21,7 @@ Quellen:
 
 ## YouTube Music wird nicht korrekt geladen
 
-Wenn YouTube Music nicht korrekt geladen wird, versuchen Sie, **Desktop-Website (Desktop site)** im Anwendungsmenü zu aktivieren (verfügbar seit `v0.5.1`).
-
-Andere Schritte zur Fehlerbehebung:
-
-1. Sicherstellen, dass `NouTube` die Standard-App für `music.youtube.com` ist.
-2. Falls die offizielle YouTube Music-App installiert ist, zuerst deren Standard-Link-Handling entfernen.
-3. Wenn das Problem weiterhin besteht, versuchen Sie einen benutzerdefinierten User-Agent unter `Einstellungen > Tools > Benutzerdefinierter User-Agent`.
+Wenn YouTube Music nicht korrekt geladen wird, versuchen Sie, **Desktop-Website (Desktop site)** im Anwendungsmenü zu aktivieren.
 
 Quelle:
 

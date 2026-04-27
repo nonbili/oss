@@ -21,13 +21,7 @@ Sources:
 
 ## YouTube Music is not loading correctly
 
-If YouTube Music is not loading correctly, try toggling **Desktop site** in the application menu (available since `v0.5.1`).
-
-Other troubleshooting steps:
-
-1. Make sure `NouTube` is the default app for `music.youtube.com`.
-2. If the official YouTube Music app is installed, remove its default link handling first.
-3. If the problem continues, try a custom user agent from `Settings > Tools > Custom user agent`.
+If YouTube Music is not loading correctly, try toggling **Desktop site** in the application menu.
 
 Source:
 
