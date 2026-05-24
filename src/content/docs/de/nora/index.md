@@ -6,7 +6,7 @@ sidebar:
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/nora.png" alt="Nora logo" />
-  <p class="product-overview-header__meta">Android, iOS, and Desktop</p>
+  <p class="product-overview-header__meta">Android, iOS, und Desktop</p>
 </div>
 
 Nora ist ein Android, iOS und Desktop Browser optimiert für soziale Netzwerkdienste.
