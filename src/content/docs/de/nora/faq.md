@@ -69,6 +69,6 @@ Quelle:
 
 ## Wo soll ich Bugs melden oder Features anfragen?
 
-Nutzen Sie das GitHub-Repo:
+Nutzen Sie die GitHub-Repo:
 
 - [nonbili/Nora Issues](https://github.com/nonbili/Nora/issues)

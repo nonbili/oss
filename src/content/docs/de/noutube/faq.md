@@ -37,6 +37,6 @@ Quelle:
 
 ## Wo soll ich Bugs melden oder Features anfragen?
 
-Nutzen Sie das GitHub-Repo:
+Nutzen Sie die GitHub-Repo:
 
 - [nonbili/NouTube Issues](https://github.com/nonbili/NouTube/issues)

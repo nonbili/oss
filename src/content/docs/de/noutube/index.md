@@ -1,6 +1,6 @@
 ---
 title: NouTube
-description: NouTube-Ueberblick
+description: NouTube-Überblick
 sidebar:
   order: 1
 ---
@@ -9,9 +9,9 @@ sidebar:
   <p class="product-overview-header__meta">Android und Desktop</p>
 </div>
 
-NouTube ist eine Android- und Desktop-App fuer YouTube und YouTube Music.
+NouTube ist eine Android- und Desktop-App für YouTube und YouTube Music.
 
-Sie behaelt die bekannten Web-Oberflaechen bei und fuegt Werbeblockierung, Wiedergabesteuerung, Downloads, RSS-Feeds und lokale Bibliothekswerkzeuge hinzu.
+Sie behält die bekannten Web-Oberflächen bei und fügt Werbeblockierung, Wiedergabesteuerung, Downloads, RSS-Feeds und lokale Bibliothekswerkzeuge hinzu.
 
 ## Wichtige Funktionen
 
@@ -22,8 +22,8 @@ Sie behaelt die bekannten Web-Oberflaechen bei und fuegt Werbeblockierung, Wiede
 
 ## Erste Schritte
 
-1. YouTube oder YouTube Music in der App oeffnen
-2. Hintergrundwiedergabe und normale Wiedergabe pruefen
+1. YouTube oder YouTube Music in der App öffnen
+2. Hintergrundwiedergabe und normale Wiedergabe prüfen
 3. Bibliothek, Verlauf, Feeds und Downloads einrichten
 
 ## Mehr
@@ -32,4 +32,4 @@ Releases, Issues und Projekt-Updates:
 
 - [NouTube](https://github.com/nonbili/NouTube)
 
-Downloads und Paketlinks gibt es auf [Install](/de/noutube/install/).
+Downloads und Paketlinks befinden sich unter der [Installation](/de/noutube/install/).
