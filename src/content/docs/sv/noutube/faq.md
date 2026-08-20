@@ -10,8 +10,8 @@ Denna sida sammanfattar återkommande användarfrågor från det offentliga GitH
 
 Om skrivbordsappen inte visar en synlig `Logga in`-knapp, försök att öppna menyn `Dina data i YouTube` först. Om inloggningssidan öppnas men du får ett felmeddelande om att "webbläsaren eller appen kanske inte är säker", använd funktionen **Inject cookie**:
 
-1. Använd ett webbläsartillägg (som `getcookies.txt`) för att exportera dina YouTube-cookies.
-2. Importera cookies till NouTube med knappen **Inject cookie**.
+1. Använd ett webbläsartillägg (som `getcookies.txt`) i Chrome eller en Chromium-baserad webbläsare för att exportera dina YouTube-cookies.
+2. Importera cookies till NouTube med **Settings > Tools > Inject cookie**.
 
 Denna metod kringgår Googles säkerhetskontroll av webbläsaren och är för närvarande den mest tillförlitliga lösningen för inloggningsproblem på skrivbordet.
 

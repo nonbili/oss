@@ -10,8 +10,8 @@ sidebar:
 
 如果桌面版應用程式未顯示可見的「登入」按鈕，請嘗試先開啟「您在 YouTube 中的資料」選單。如果登入頁面已開啟，但您收到「瀏覽器或應用程式可能不安全」錯誤，請使用 **Inject cookie** 功能：
 
-1. 使用瀏覽器擴充功能（如 `getcookies.txt`）匯出您的 YouTube cookie。
-2. 使用 **Inject cookie** 按鈕將 cookie 匯入 NouTube。
+1. 在 Chrome 或基於 Chromium 的瀏覽器中使用瀏覽器擴充功能（如 `getcookies.txt`）匯出您的 YouTube cookie。
+2. 使用 **Settings > Tools > Inject cookie** 將 cookie 匯入 NouTube。
 
 此方法繞過了 Google 的安全瀏覽器檢查，是目前解決桌面版登入問題最可靠的方法。
 

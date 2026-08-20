@@ -10,8 +10,8 @@ Esta página resume las preguntas recurrentes de los usuarios del rastreador pú
 
 Si la aplicación de escritorio no muestra un botón de `Iniciar sesión` visible, intenta abrir primero el menú `Tus datos en YouTube`. Si se abre la página de inicio de sesión pero recibes el error "es posible que el navegador o la aplicación no sean seguros", utiliza la función **Inyectar cookie (Inject cookie)**:
 
-1. Utiliza una extensión del navegador (como `getcookies.txt`) para exportar tus cookies de YouTube.
-2. Importa las cookies a NouTube usando el botón **Inyectar cookie (Inject cookie)**.
+1. Utiliza una extensión de navegador (como `getcookies.txt`) en Chrome o en un navegador basado en Chromium para exportar tus cookies de YouTube.
+2. Importa las cookies a NouTube usando **Settings > Tools > Inject cookie**.
 
 Este método omite la comprobación de navegador seguro de Google y es actualmente la solución más fiable para los problemas de inicio de sesión en escritorio.
 

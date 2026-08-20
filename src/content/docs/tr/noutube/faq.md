@@ -10,8 +10,8 @@ Bu sayfa, genel GitHub sorun takipçisinden gelen ve tekrar eden kullanıcı sor
 
 Masaüstü uygulamasında görünür bir `Oturum aç` düğmesi yoksa, önce `YouTube'daki verileriniz` menüsünü açmayı deneyin. Oturum açma sayfası açılıyor ancak "tarayıcı veya uygulama güvenli olmayabilir" hatası alıyorsanız, **Inject cookie** özelliğini kullanın:
 
-1. YouTube çerezlerinizi dışa aktarmak için bir tarayıcı uzantısı (`getcookies.txt` gibi) kullanın.
-2. **Inject cookie** düğmesini kullanarak çerezleri NouTube'a aktarın.
+1. YouTube çerezlerinizi dışa aktarmak için Chrome veya Chromium tabanlı bir tarayıcıda bir tarayıcı uzantısı (`getcookies.txt` gibi) kullanın.
+2. **Settings > Tools > Inject cookie** kullanarak çerezleri NouTube'a aktarın.
 
 Bu yöntem Google'ın güvenli tarayıcı kontrolünü atlar ve şu anda masaüstü giriş sorunları için en güvenilir çözümdür.
 

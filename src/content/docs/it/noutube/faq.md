@@ -10,8 +10,8 @@ Questa pagina riassume le domande ricorrenti degli utenti tratte dal tracker pub
 
 Se l'app desktop non mostra un pulsante `Accedi` visibile, prova prima ad aprire il menu `I tuoi dati su YouTube`. Se la pagina di accesso si apre ma ricevi l'errore "il browser o l'app potrebbero non essere sicuri", utilizza la funzione **Inserisci cookie (Inject cookie)**:
 
-1. Usa un'estensione del browser (come `getcookies.txt`) per esportare i tuoi cookie di YouTube.
-2. Importa i cookie in NouTube utilizzando il pulsante **Inserisci cookie (Inject cookie)**.
+1. Usa un'estensione del browser (come `getcookies.txt`) in Chrome o in un browser basato su Chromium per esportare i tuoi cookie di YouTube.
+2. Importa i cookie in NouTube utilizzando **Settings > Tools > Inject cookie**.
 
 Questo metodo bypassa il controllo del browser sicuro di Google ed è attualmente la soluzione più affidabile per i problemi di accesso su desktop.
 

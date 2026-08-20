@@ -10,8 +10,8 @@ Cette page résume les questions récurrentes des utilisateurs provenant du suiv
 
 Si l'application de bureau n'affiche pas de bouton `Se connecter` visible, essayez d'abord d'ouvrir le menu `Vos données dans YouTube`. Si la page de connexion s'ouvre mais que vous recevez une erreur "le navigateur ou l'application n'est peut-être pas sécurisé", utilisez la fonction **Injecter un cookie (Inject cookie)** :
 
-1. Utilisez une extension de navigateur (comme `getcookies.txt`) pour exporter vos cookies YouTube.
-2. Importez les cookies dans NouTube en utilisant le bouton **Injecter un cookie (Inject cookie)**.
+1. Utilisez une extension de navigateur (comme `getcookies.txt`) dans Chrome ou un navigateur basé sur Chromium pour exporter vos cookies YouTube.
+2. Importez les cookies dans NouTube en utilisant **Settings > Tools > Inject cookie**.
 
 Cette méthode contourne la vérification du navigateur sécurisé de Google et constitue actuellement le correctif le plus fiable pour les problèmes de connexion sur bureau.
 

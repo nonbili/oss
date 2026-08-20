@@ -10,8 +10,8 @@ Esta página resume as perguntas recorrentes dos usuários do rastreador de prob
 
 Se o aplicativo desktop não mostrar um botão `Entrar` visível, tente abrir o menu `Seus dados no YouTube` primeiro. Se a página de login abrir, mas você receber um erro de "navegador ou aplicativo pode não ser seguro", use o recurso **Injetar cookie**:
 
-1. Use uma extensão de navegador (como `getcookies.txt`) para exportar seus cookies do YouTube.
-2. Importe os cookies para o NouTube usando o botão **Injetar cookie**.
+1. Use uma extensão de navegador (como `getcookies.txt`) no Chrome ou em um navegador baseado em Chromium para exportar seus cookies do YouTube.
+2. Importe os cookies para o NouTube usando **Settings > Tools > Inject cookie**.
 
 Este método ignora a verificação de navegador seguro do Google e é atualmente a correção mais confiável para problemas de login no desktop.
 

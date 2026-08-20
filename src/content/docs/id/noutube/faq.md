@@ -10,8 +10,8 @@ Halaman ini merangkum pertanyaan pengguna yang berulang dari pelacak issue GitHu
 
 Jika aplikasi desktop tidak menampilkan tombol `Masuk` (Sign in) yang terlihat, coba buka menu `Data Anda di YouTube` terlebih dahulu. Jika halaman masuk terbuka tetapi Anda menerima kesalahan "browser atau aplikasi mungkin tidak aman", gunakan fitur **Suntikkan cookie (Inject cookie)**:
 
-1. Gunakan ekstensi browser (seperti `getcookies.txt`) untuk mengekspor cookie YouTube Anda.
-2. Impor cookie ke NouTube menggunakan tombol **Suntikkan cookie (Inject cookie)**.
+1. Gunakan ekstensi browser (seperti `getcookies.txt`) di Chrome atau browser berbasis Chromium untuk mengekspor cookie YouTube Anda.
+2. Impor cookie ke NouTube menggunakan **Settings > Tools > Inject cookie**.
 
 Metode ini melewati pemeriksaan browser aman Google dan saat ini merupakan perbaikan paling andal untuk masalah masuk desktop.
 

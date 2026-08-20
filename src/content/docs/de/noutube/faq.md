@@ -10,8 +10,8 @@ Diese Seite fasst wiederkehrende Benutzerfragen aus dem öffentlichen GitHub-Iss
 
 Wenn die Desktop-App keinen sichtbaren `Anmelden`-Button zeigt, versuchen Sie zuerst das Menü `Ihre Daten in YouTube` zu öffnen. Wenn sich die Anmeldeseite öffnet, Sie aber die Fehlermeldung "Browser oder App ist möglicherweise nicht sicher" erhalten, nutzen Sie die Funktion **Cookies injizieren (Inject cookie)**:
 
-1. Verwenden Sie eine Browser-Erweiterung (wie `getcookies.txt`), um Ihre YouTube-Cookies zu exportieren.
-2. Importieren Sie die Cookies in NouTube über die Schaltfläche **Cookies injizieren (Inject cookie)**.
+1. Verwenden Sie eine Browser-Erweiterung (wie `getcookies.txt`) in Chrome oder einem Chromium-basierten Browser, um Ihre YouTube-Cookies zu exportieren.
+2. Importieren Sie die Cookies in NouTube über **Settings > Tools > Inject cookie**.
 
 Diese Methode umgeht die Sicherheitsprüfung von Google für Browser und ist derzeit die zuverlässigste Lösung für Anmeldeprobleme auf dem Desktop.
 
