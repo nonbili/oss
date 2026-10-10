@@ -1,5 +1,5 @@
 ---
-type ProductKey = 'noutube' | 'nora';
+type ProductKey = 'noutube' | 'nora' | 'nori';
 type Section = 'downloads' | 'changelog';
 type LocaleKey =
 	| 'ar'
@@ -127,6 +127,58 @@ const configs = {
 			},
 		],
 	},
+	nori: {
+		name: 'Nori',
+		mobileRepo: 'nonbili/Nori',
+		desktopRepo: 'nonbili/Nori',
+		mobileRedirectAssets: [
+			{ name: 'app-arm64-v8a-release.apk', label: 'Android APK (arm64-v8a)' },
+			{ name: 'app-armeabi-v7a-release.apk', label: 'Android APK (armeabi-v7a)' },
+			{ name: 'app-x86_64-release.apk', label: 'Android APK (x86_64)' },
+		],
+		mobileBadges: [
+			{
+				label: 'App Store',
+				url: 'https://apps.apple.com/us/app/nori-bookmark-manager/id6761264972',
+				img: 'https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white',
+				alt: 'Get it on App Store',
+			},
+			{
+				label: 'Google Play',
+				url: 'https://play.google.com/store/apps/details?id=jp.nonbili.nori',
+				img: 'https://img.shields.io/badge/Google_Play-01875f?style=for-the-badge&logo=google-play',
+				alt: 'Get it on Google Play',
+			},
+			{
+				label: 'GitHub Releases',
+				url: 'https://github.com/nonbili/Nori/releases/latest',
+				img: 'https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github',
+				alt: 'Get it on GitHub',
+			},
+		],
+		desktopBadges: [
+			{
+				label: 'GitHub Releases',
+				url: 'https://github.com/nonbili/Nori/releases',
+				img: 'https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github',
+				alt: 'Get it on GitHub',
+			},
+		],
+		extensionBadges: [
+			{
+				label: 'Firefox Add-ons',
+				url: 'https://addons.mozilla.org/addon/nori/',
+				img: 'https://img.shields.io/badge/Firefox_Add--ons-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white',
+				alt: 'Get it on Firefox Add-ons',
+			},
+			{
+				label: 'Chrome Web Store',
+				url: 'https://chromewebstore.google.com/detail/nori/ojgmnocnegcbhlmfoackgoocnjbfejpg',
+				img: 'https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white',
+				alt: 'Get it on Chrome Web Store',
+			},
+		],
+	},
 } as const;
 
 const messages = {
@@ -138,6 +190,7 @@ const messages = {
 		errorSuffix: ' instead.',
 		mobile: 'Mobile',
 		desktop: 'Desktop',
+		extension: 'Browser extension',
 		latestVersion: 'Latest version',
 		storeLinks: 'Store and release links',
 		githubAssets: 'Direct download assets',
@@ -158,6 +211,7 @@ const messages = {
 		errorSuffix: ' を利用してください。',
 		mobile: 'モバイル版',
 		desktop: 'デスクトップ版',
+		extension: 'ブラウザ拡張機能',
 		latestVersion: '最新バージョン',
 		storeLinks: 'ストア / リリースリンク',
 		githubAssets: '直接ダウンロード',
@@ -275,7 +329,7 @@ const config = configs[product];
 				},
 				{
 					label: message.macosX64,
-					url: assets.find((asset) => asset.name.endsWith('-x64.dmg'))?.browser_download_url,
+					url: assets.find((asset) => asset.name.endsWith('-x64.dmg') || asset.name.endsWith('-amd64.dmg'))?.browser_download_url,
 				},
 				{
 					label: message.macosArm64,
@@ -283,7 +337,7 @@ const config = configs[product];
 				},
 				{
 					label: message.windows,
-					url: assets.find((asset) => asset.name.endsWith('-setup.exe'))?.browser_download_url,
+					url: assets.find((asset) => asset.name.endsWith('-setup.exe') || asset.name.endsWith('-amd64.exe'))?.browser_download_url,
 				},
 			].filter((item) => item.url);
 		};
@@ -295,10 +349,21 @@ const config = configs[product];
 			}));
 
 		const renderDownloads = async () => {
-			const [mobileLatest, desktopLatest] = await Promise.all([
-				fetchJson(`https://api.github.com/repos/${config.mobileRepo}/releases/latest`),
-				fetchJson(`https://api.github.com/repos/${config.desktopRepo}/releases/latest`),
-			]);
+			let mobileLatest;
+			let desktopLatest;
+			let extensionLatest;
+
+			if (config.mobileRepo === config.desktopRepo) {
+				const releases = await fetchJson(`https://api.github.com/repos/${config.mobileRepo}/releases?per_page=30`);
+				desktopLatest = releases.find((r) => r.tag_name?.startsWith('desktop/')) || releases[0];
+				extensionLatest = releases.find((r) => r.tag_name?.startsWith('extension/'));
+				mobileLatest = releases.find((r) => !r.tag_name?.startsWith('desktop/') && !r.tag_name?.startsWith('extension/')) || releases[0];
+			} else {
+				[mobileLatest, desktopLatest] = await Promise.all([
+					fetchJson(`https://api.github.com/repos/${config.mobileRepo}/releases/latest`),
+					fetchJson(`https://api.github.com/repos/${config.desktopRepo}/releases/latest`),
+				]);
+			}
 
 			const mobileLinks = mobileRedirectAssets(config.mobileRepo);
 			const desktopLinks = [
@@ -350,6 +415,31 @@ const config = configs[product];
 								.join('')}
 						</ul>
 					</section>
+					${
+						config.extensionBadges
+							? `
+					<section class="release-card">
+						<div class="release-card__eyebrow">${escapeHtml(message.extension)}</div>
+						<h2 class="release-card__title">${escapeHtml(config.name)} ${escapeHtml(message.extension)}</h2>
+						${extensionLatest ? `<p class="release-card__meta">${escapeHtml(message.latestVersion)}: <strong>${escapeHtml(extensionLatest.tag_name)}</strong></p>` : ''}
+						${renderBadges(config.extensionBadges)}
+						${
+							extensionLatest
+								? `
+							<h3 class="release-card__section">${escapeHtml(message.githubAssets)}</h3>
+							<ul class="release-links">
+								<li><a href="${escapeHtml(extensionLatest.html_url)}">${escapeHtml(message.releasePage)}</a></li>
+								${(extensionLatest.assets || [])
+									.map((link) => `<li><a href="${escapeHtml(link.browser_download_url)}">${escapeHtml(link.name)}</a></li>`)
+									.join('')}
+							</ul>
+							`
+								: ''
+						}
+					</section>
+					`
+							: ''
+					}
 				</div>
 			`;
 		};
@@ -382,15 +472,27 @@ const config = configs[product];
 		`;
 
 		const renderChangelog = async () => {
-			const [mobileReleases, desktopReleases] = await Promise.all([
-				fetchJson(`https://api.github.com/repos/${config.mobileRepo}/releases?per_page=6`),
-				fetchJson(`https://api.github.com/repos/${config.desktopRepo}/releases?per_page=6`),
-			]);
+			let mobileReleases;
+			let desktopReleases;
+			let extensionReleases;
+
+			if (config.mobileRepo === config.desktopRepo) {
+				const all = await fetchJson(`https://api.github.com/repos/${config.mobileRepo}/releases?per_page=30`);
+				mobileReleases = all.filter((r) => !r.tag_name?.startsWith('desktop/') && !r.tag_name?.startsWith('extension/')).slice(0, 6);
+				desktopReleases = all.filter((r) => r.tag_name?.startsWith('desktop/')).slice(0, 6);
+				extensionReleases = all.filter((r) => r.tag_name?.startsWith('extension/')).slice(0, 6);
+			} else {
+				[mobileReleases, desktopReleases] = await Promise.all([
+					fetchJson(`https://api.github.com/repos/${config.mobileRepo}/releases?per_page=6`),
+					fetchJson(`https://api.github.com/repos/${config.desktopRepo}/releases?per_page=6`),
+				]);
+			}
 
 			root.innerHTML = `
 				<div class="release-stacks">
 					${renderReleaseGroup(`${config.name} ${message.mobile}`, mobileReleases)}
 					${renderReleaseGroup(`${config.name} ${message.desktop}`, desktopReleases)}
+					${extensionReleases && extensionReleases.length ? renderReleaseGroup(`${config.name} ${message.extension}`, extensionReleases) : ''}
 				</div>
 			`;
 		};
