@@ -6,14 +6,17 @@ sidebar:
 ---
 Diese Seite fasst wiederkehrende Benutzerfragen aus dem öffentlichen GitHub-Issue-Tracker zusammen.
 
-## Probleme bei der Desktop-Anmeldung
+## Probleme bei der Anmeldung
 
-Wenn die Desktop-App keinen sichtbaren `Anmelden`-Button zeigt, versuchen Sie zuerst das Menü `Ihre Daten in YouTube` zu öffnen. Wenn sich die Anmeldeseite öffnet, Sie aber die Fehlermeldung "Browser oder App ist möglicherweise nicht sicher" erhalten, nutzen Sie die Funktion **Cookies injizieren (Inject cookie)**:
+Google lehnt Anmeldungen aus Apps, die eine Webseite einbetten, häufig ab. Deshalb kann die Anmeldung in NouTube sowohl unter Android als auch auf dem Desktop fehlschlagen, meist mit der Fehlermeldung „Dieser Browser oder diese App ist möglicherweise nicht sicher“. Wenn die Desktop-App keinen sichtbaren `Anmelden`-Button anzeigt, öffne zuerst das Menü `Meine Daten auf YouTube`.
 
-1. Verwenden Sie eine Browser-Erweiterung (wie `getcookies.txt`) in Chrome oder einem Chromium-basierten Browser, um Ihre YouTube-Cookies zu exportieren.
-2. Importieren Sie die Cookies in NouTube über **Settings > Tools > Inject cookie**.
+Wenn die Anmeldung nicht klappt, verwende stattdessen die Funktion **Inject cookie**:
 
-Diese Methode umgeht die Sicherheitsprüfung von Google für Browser und ist derzeit die zuverlässigste Lösung für Anmeldeprobleme auf dem Desktop.
+1. Melde dich an einem Computer in Chrome oder einem anderen Chromium-basierten Browser bei YouTube an und exportiere deine YouTube-Cookies mit einer Browser-Erweiterung (z. B. `getcookies.txt`).
+2. Unter Android: Kopiere die exportierte Datei auf dein Gerät.
+3. Öffne in NouTube **Settings > Tools > Inject cookie**, importiere die Datei (oder füge ihren Inhalt ein) und speichere.
+
+Diese Methode umgeht die Sicherheitsprüfung von Google und ist derzeit die zuverlässigste Lösung für Anmeldeprobleme unter Android und auf dem Desktop.
 
 Quellen:
 

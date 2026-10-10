@@ -6,14 +6,17 @@ sidebar:
 ---
 Denna sida sammanfattar återkommande användarfrågor från det offentliga GitHub-ärendesystemet.
 
-## Inloggningsproblem på desktop
+## Inloggningsproblem
 
-Om skrivbordsappen inte visar en synlig `Logga in`-knapp, försök att öppna menyn `Dina data i YouTube` först. Om inloggningssidan öppnas men du får ett felmeddelande om att "webbläsaren eller appen kanske inte är säker", använd funktionen **Inject cookie**:
+Google nekar ofta inloggning från appar som bäddar in en webbsida, så inloggning i NouTube kan misslyckas både på Android och på datorn, oftast med felet "Den här webbläsaren eller appen kanske inte är säker". Om datorappen inte visar någon synlig `Logga in`-knapp kan du först prova att öppna menyn `Din data i YouTube`.
 
-1. Använd ett webbläsartillägg (som `getcookies.txt`) i Chrome eller en Chromium-baserad webbläsare för att exportera dina YouTube-cookies.
-2. Importera cookies till NouTube med **Settings > Tools > Inject cookie**.
+Om du inte kan logga in använder du funktionen **Inject cookie** i stället:
 
-Denna metod kringgår Googles säkerhetskontroll av webbläsaren och är för närvarande den mest tillförlitliga lösningen för inloggningsproblem på skrivbordet.
+1. Logga in på YouTube på en dator i Chrome eller en annan Chromium-baserad webbläsare och exportera sedan dina YouTube-cookies med ett webbläsartillägg (t.ex. `getcookies.txt`).
+2. På Android kopierar du den exporterade filen till din enhet.
+3. Öppna **Settings > Tools > Inject cookie** i NouTube, importera filen (eller klistra in dess innehåll) och spara.
+
+Den här metoden kringgår Googles kontroll av säker webbläsare och är för närvarande den mest pålitliga lösningen på inloggningsproblem både på Android och på datorn.
 
 Källor:
 

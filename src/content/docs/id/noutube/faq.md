@@ -6,14 +6,17 @@ sidebar:
 ---
 Halaman ini merangkum pertanyaan pengguna yang berulang dari pelacak issue GitHub publik.
 
-## Masalah masuk (login) desktop
+## Masalah login
 
-Jika aplikasi desktop tidak menampilkan tombol `Masuk` (Sign in) yang terlihat, coba buka menu `Data Anda di YouTube` terlebih dahulu. Jika halaman masuk terbuka tetapi Anda menerima kesalahan "browser atau aplikasi mungkin tidak aman", gunakan fitur **Suntikkan cookie (Inject cookie)**:
+Google sering menolak login dari aplikasi yang menyematkan halaman web, sehingga login di dalam NouTube bisa gagal baik di Android maupun desktop, biasanya dengan error "Browser atau aplikasi ini mungkin tidak aman". Di desktop, jika tidak ada tombol `Login` yang terlihat, coba buka menu `Data Anda di YouTube` terlebih dahulu.
 
-1. Gunakan ekstensi browser (seperti `getcookies.txt`) di Chrome atau browser berbasis Chromium untuk mengekspor cookie YouTube Anda.
-2. Impor cookie ke NouTube menggunakan **Settings > Tools > Inject cookie**.
+Jika tidak bisa login, gunakan fitur **Inject cookie** sebagai gantinya:
 
-Metode ini melewati pemeriksaan browser aman Google dan saat ini merupakan perbaikan paling andal untuk masalah masuk desktop.
+1. Di komputer, login ke YouTube di Chrome atau browser berbasis Chromium lainnya, lalu ekspor cookie YouTube Anda dengan ekstensi browser (seperti `getcookies.txt`).
+2. Di Android, salin file yang diekspor ke perangkat Anda.
+3. Di NouTube, buka **Settings > Tools > Inject cookie**, impor file tersebut (atau tempel isinya), lalu simpan.
+
+Metode ini melewati pemeriksaan browser aman Google dan saat ini merupakan solusi paling andal untuk masalah login, baik di Android maupun desktop.
 
 Sumber:
 

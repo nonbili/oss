@@ -6,14 +6,17 @@ sidebar:
 ---
 Ta strona podsumowuje powtarzające się pytania użytkowników z publicznego systemu śledzenia problemów na GitHubie.
 
-## Problemy z logowaniem na komputerze
+## Problemy z logowaniem
 
-Jeśli aplikacja desktopowa nie wyświetla widocznego przycisku `Zaloguj się`, spróbuj najpierw otworzyć menu `Twoje dane w YouTube`. Jeśli strona logowania się otworzy, ale otrzymasz błąd "przeglądarka lub aplikacja może nie być bezpieczna", użyj funkcji **Wstrzyknij ciasteczko (Inject cookie)**:
+Google często odrzuca logowanie z aplikacji osadzających stronę internetową, dlatego logowanie w NouTube może się nie udać zarówno na Androidzie, jak i na komputerze — zwykle z błędem „Ta przeglądarka lub aplikacja może nie być bezpieczna”. Jeśli w aplikacji na komputer nie widać przycisku `Zaloguj się`, spróbuj najpierw otworzyć menu `Twoje dane w YouTube`.
 
-1. Użyj rozszerzenia przeglądarki (np. `getcookies.txt`) w Chrome lub przeglądarce opartej na Chromium, aby wyeksportować swoje ciasteczka YouTube.
-2. Zaimportuj ciasteczka do NouTube za pomocą **Settings > Tools > Inject cookie**.
+Jeśli nie możesz się zalogować, skorzystaj z funkcji **Inject cookie**:
 
-Ta metoda omija sprawdzanie bezpiecznej przeglądarki przez Google i jest obecnie najbardziej niezawodnym rozwiązaniem problemów z logowaniem na komputerach.
+1. Na komputerze zaloguj się do YouTube w Chrome lub innej przeglądarce opartej na Chromium, a następnie wyeksportuj pliki cookie YouTube za pomocą rozszerzenia przeglądarki (np. `getcookies.txt`).
+2. Na Androidzie skopiuj wyeksportowany plik na swoje urządzenie.
+3. W NouTube otwórz **Settings > Tools > Inject cookie**, zaimportuj plik (lub wklej jego zawartość) i zapisz.
+
+Ta metoda omija kontrolę bezpieczeństwa przeglądarki Google i jest obecnie najbardziej niezawodnym rozwiązaniem problemów z logowaniem zarówno na Androidzie, jak i na komputerze.
 
 Źródła:
 

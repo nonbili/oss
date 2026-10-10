@@ -6,14 +6,17 @@ sidebar:
 ---
 This page summarizes recurring user questions from the public GitHub issue tracker.
 
-## Desktop sign-in/login problems
+## Sign-in problems
 
-If the desktop app does not show a visible `Sign in` button, try opening the `Your data in YouTube` menu first. If the sign-in page opens but you receive a "browser or app may not be secure" error, use the **Inject cookie** feature:
+Google often rejects sign-in from apps that embed a web page, so signing in inside NouTube can fail on both Android and desktop, usually with a "This browser or app may not be secure" error. On desktop, if there is no visible `Sign in` button, try opening the `Your data in YouTube` menu first.
 
-1. Use a browser extension (like `getcookies.txt`) to export your YouTube cookies from Chrome or a Chromium-based browser.
-2. Import the cookies into NouTube using **Settings > Tools > Inject cookie**.
+If you cannot sign in, use the **Inject cookie** feature instead:
 
-This method bypasses Google's secure browser check and is currently the most reliable fix for desktop login issues.
+1. On a computer, sign in to YouTube in Chrome or another Chromium-based browser, then export your YouTube cookies with a browser extension (like `getcookies.txt`).
+2. On Android, copy the exported file to your device.
+3. In NouTube, open **Settings > Tools > Inject cookie**, import the file (or paste its contents), and save.
+
+This bypasses Google's secure browser check and is currently the most reliable fix for sign-in problems on both Android and desktop.
 
 Sources:
 

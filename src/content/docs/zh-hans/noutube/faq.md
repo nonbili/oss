@@ -6,14 +6,17 @@ sidebar:
 ---
 本页面总结了来自公开 GitHub 问题追踪器的常见用户问题。
 
-## 桌面端登录问题
+## 登录问题
 
-如果桌面应用没有显示可见的“登录”按钮，请尝试先打开“你在 YouTube 中的数据”菜单。如果登录页面已打开，但你收到“浏览器或应用可能不安全”错误，请使用 **Inject cookie** 功能：
+Google 经常拒绝来自内嵌网页的应用的登录请求，因此在 NouTube 内登录在 Android 和桌面端都可能失败，通常会提示“此浏览器或应用可能不安全”。在桌面端，如果没有显示可见的“登录”按钮，请尝试先打开“你在 YouTube 中的数据”菜单。
 
-1. 在 Chrome 或基于 Chromium 的浏览器中使用浏览器扩展（如 `getcookies.txt`）导出你的 YouTube cookie。
-2. 使用 **Settings > Tools > Inject cookie** 将 cookie 导入 NouTube。
+如果无法登录，请改用 **Inject cookie** 功能：
 
-此方法绕过了 Google 的安全浏览器检查，是目前解决桌面端登录问题最可靠的方法。
+1. 在电脑上使用 Chrome 或基于 Chromium 的浏览器登录 YouTube，然后使用浏览器扩展（如 `getcookies.txt`）导出你的 YouTube cookie。
+2. 如果使用 Android，请将导出的文件复制到你的设备上。
+3. 在 NouTube 中打开 **Settings > Tools > Inject cookie**，导入该文件（或粘贴其内容）并保存。
+
+此方法绕过了 Google 的安全浏览器检查，是目前在 Android 和桌面端解决登录问题最可靠的方法。
 
 来源：
 

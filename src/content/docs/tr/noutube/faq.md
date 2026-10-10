@@ -6,14 +6,17 @@ sidebar:
 ---
 Bu sayfa, genel GitHub sorun takipçisinden gelen ve tekrar eden kullanıcı sorularını özetlemektedir.
 
-## Masaüstü giriş sorunları
+## Oturum açma sorunları
 
-Masaüstü uygulamasında görünür bir `Oturum aç` düğmesi yoksa, önce `YouTube'daki verileriniz` menüsünü açmayı deneyin. Oturum açma sayfası açılıyor ancak "tarayıcı veya uygulama güvenli olmayabilir" hatası alıyorsanız, **Inject cookie** özelliğini kullanın:
+Google, web sayfası gömen uygulamalardan yapılan oturum açma işlemlerini sıklıkla reddeder; bu yüzden NouTube içinde oturum açmak hem Android'de hem de masaüstünde başarısız olabilir ve genellikle "Bu tarayıcı veya uygulama güvenli olmayabilir" hatası görünür. Masaüstünde görünür bir `Oturum aç` düğmesi yoksa önce `YouTube'daki verileriniz` menüsünü açmayı deneyin.
 
-1. YouTube çerezlerinizi dışa aktarmak için Chrome veya Chromium tabanlı bir tarayıcıda bir tarayıcı uzantısı (`getcookies.txt` gibi) kullanın.
-2. **Settings > Tools > Inject cookie** kullanarak çerezleri NouTube'a aktarın.
+Oturum açamıyorsanız bunun yerine **Inject cookie** özelliğini kullanın:
 
-Bu yöntem Google'ın güvenli tarayıcı kontrolünü atlar ve şu anda masaüstü giriş sorunları için en güvenilir çözümdür.
+1. Bir bilgisayarda Chrome veya Chromium tabanlı başka bir tarayıcıda YouTube'da oturum açın, ardından bir tarayıcı uzantısı (`getcookies.txt` gibi) ile YouTube çerezlerinizi dışa aktarın.
+2. Android'de, dışa aktarılan dosyayı cihazınıza kopyalayın.
+3. NouTube'da **Settings > Tools > Inject cookie** bölümünü açın, dosyayı içe aktarın (veya içeriğini yapıştırın) ve kaydedin.
+
+Bu yöntem Google'ın güvenli tarayıcı denetimini atlar ve şu anda hem Android'de hem de masaüstünde oturum açma sorunları için en güvenilir çözümdür.
 
 Kaynaklar:
 

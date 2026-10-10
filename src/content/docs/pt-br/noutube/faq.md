@@ -6,14 +6,17 @@ sidebar:
 ---
 Esta página resume as perguntas recorrentes dos usuários do rastreador de problemas público do GitHub.
 
-## Problemas de login na versão desktop
+## Problemas de login
 
-Se o aplicativo desktop não mostrar um botão `Entrar` visível, tente abrir o menu `Seus dados no YouTube` primeiro. Se a página de login abrir, mas você receber um erro de "navegador ou aplicativo pode não ser seguro", use o recurso **Injetar cookie**:
+O Google costuma recusar o login em aplicativos que incorporam uma página da web, então entrar na conta dentro do NouTube pode falhar tanto no Android quanto no desktop, geralmente com o erro "Este navegador ou aplicativo pode não ser seguro". No desktop, se não houver um botão `Fazer login` visível, tente abrir primeiro o menu `Seus dados no YouTube`.
 
-1. Use uma extensão de navegador (como `getcookies.txt`) no Chrome ou em um navegador baseado em Chromium para exportar seus cookies do YouTube.
-2. Importe os cookies para o NouTube usando **Settings > Tools > Inject cookie**.
+Se não conseguir fazer login, use o recurso **Inject cookie**:
 
-Este método ignora a verificação de navegador seguro do Google e é atualmente a correção mais confiável para problemas de login no desktop.
+1. Em um computador, faça login no YouTube pelo Chrome ou outro navegador baseado em Chromium e exporte seus cookies do YouTube com uma extensão de navegador (como `getcookies.txt`).
+2. No Android, copie o arquivo exportado para o seu dispositivo.
+3. No NouTube, abra **Settings > Tools > Inject cookie**, importe o arquivo (ou cole o conteúdo dele) e salve.
+
+Esse método contorna a verificação de navegador seguro do Google e é atualmente a solução mais confiável para problemas de login, tanto no Android quanto no desktop.
 
 Fontes:
 

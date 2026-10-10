@@ -6,14 +6,17 @@ sidebar:
 ---
 Cette page résume les questions récurrentes des utilisateurs provenant du suivi public des tickets GitHub.
 
-## Problèmes de connexion sur bureau
+## Problèmes de connexion
 
-Si l'application de bureau n'affiche pas de bouton `Se connecter` visible, essayez d'abord d'ouvrir le menu `Vos données dans YouTube`. Si la page de connexion s'ouvre mais que vous recevez une erreur "le navigateur ou l'application n'est peut-être pas sécurisé", utilisez la fonction **Injecter un cookie (Inject cookie)** :
+Google refuse souvent la connexion depuis les applications qui intègrent une page web. La connexion dans NouTube peut donc échouer aussi bien sur Android que sur ordinateur, généralement avec l'erreur « Ce navigateur ou cette application ne sont peut-être pas sécurisés ». Sur ordinateur, si aucun bouton `Se connecter` n'est visible, essayez d'abord d'ouvrir le menu `Vos données dans YouTube`.
 
-1. Utilisez une extension de navigateur (comme `getcookies.txt`) dans Chrome ou un navigateur basé sur Chromium pour exporter vos cookies YouTube.
-2. Importez les cookies dans NouTube en utilisant **Settings > Tools > Inject cookie**.
+Si vous ne parvenez pas à vous connecter, utilisez plutôt la fonctionnalité **Inject cookie** :
 
-Cette méthode contourne la vérification du navigateur sécurisé de Google et constitue actuellement le correctif le plus fiable pour les problèmes de connexion sur bureau.
+1. Sur un ordinateur, connectez-vous à YouTube dans Chrome ou un autre navigateur basé sur Chromium, puis exportez vos cookies YouTube avec une extension de navigateur (comme `getcookies.txt`).
+2. Sur Android, copiez le fichier exporté sur votre appareil.
+3. Dans NouTube, ouvrez **Settings > Tools > Inject cookie**, importez le fichier (ou collez son contenu), puis enregistrez.
+
+Cette méthode contourne la vérification de navigateur sécurisé de Google et constitue actuellement la solution la plus fiable aux problèmes de connexion, sur Android comme sur ordinateur.
 
 Sources :
 

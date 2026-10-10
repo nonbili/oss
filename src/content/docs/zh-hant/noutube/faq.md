@@ -6,14 +6,17 @@ sidebar:
 ---
 本頁面總結了來自公開 GitHub Issue 追蹤器中經常出現的使用者問題。
 
-## 桌面版登入問題
+## 登入問題
 
-如果桌面版應用程式未顯示可見的「登入」按鈕，請嘗試先開啟「您在 YouTube 中的資料」選單。如果登入頁面已開啟，但您收到「瀏覽器或應用程式可能不安全」錯誤，請使用 **Inject cookie** 功能：
+Google 經常拒絕來自內嵌網頁的應用程式的登入請求，因此在 NouTube 內登入在 Android 和桌面版都可能失敗，通常會顯示「這個瀏覽器或應用程式可能不安全」。在桌面版，如果沒有顯示可見的「登入」按鈕，請先嘗試開啟「你在 YouTube 中的資料」選單。
 
-1. 在 Chrome 或基於 Chromium 的瀏覽器中使用瀏覽器擴充功能（如 `getcookies.txt`）匯出您的 YouTube cookie。
-2. 使用 **Settings > Tools > Inject cookie** 將 cookie 匯入 NouTube。
+如果無法登入，請改用 **Inject cookie** 功能：
 
-此方法繞過了 Google 的安全瀏覽器檢查，是目前解決桌面版登入問題最可靠的方法。
+1. 在電腦上使用 Chrome 或以 Chromium 為基礎的瀏覽器登入 YouTube，然後使用瀏覽器擴充功能（如 `getcookies.txt`）匯出你的 YouTube cookie。
+2. 如果使用 Android，請將匯出的檔案複製到你的裝置上。
+3. 在 NouTube 中開啟 **Settings > Tools > Inject cookie**，匯入該檔案（或貼上其內容）並儲存。
+
+此方法繞過了 Google 的安全瀏覽器檢查，是目前在 Android 和桌面版解決登入問題最可靠的方法。
 
 來源：
 

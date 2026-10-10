@@ -6,14 +6,17 @@ sidebar:
 ---
 Questa pagina riassume le domande ricorrenti degli utenti tratte dal tracker pubblico dei problemi di GitHub.
 
-## Problemi di accesso su desktop
+## Problemi di accesso
 
-Se l'app desktop non mostra un pulsante `Accedi` visibile, prova prima ad aprire il menu `I tuoi dati su YouTube`. Se la pagina di accesso si apre ma ricevi l'errore "il browser o l'app potrebbero non essere sicuri", utilizza la funzione **Inserisci cookie (Inject cookie)**:
+Google rifiuta spesso l'accesso dalle app che incorporano una pagina web, quindi l'accesso all'interno di NouTube può non riuscire sia su Android sia su desktop, di solito con l'errore "Questo browser o questa app potrebbero non essere sicuri". Su desktop, se non è visibile un pulsante `Accedi`, prova prima ad aprire il menu `I tuoi dati su YouTube`.
 
-1. Usa un'estensione del browser (come `getcookies.txt`) in Chrome o in un browser basato su Chromium per esportare i tuoi cookie di YouTube.
-2. Importa i cookie in NouTube utilizzando **Settings > Tools > Inject cookie**.
+Se non riesci ad accedere, usa invece la funzione **Inject cookie**:
 
-Questo metodo bypassa il controllo del browser sicuro di Google ed è attualmente la soluzione più affidabile per i problemi di accesso su desktop.
+1. Su un computer, accedi a YouTube con Chrome o un altro browser basato su Chromium, quindi esporta i tuoi cookie di YouTube con un'estensione del browser (come `getcookies.txt`).
+2. Su Android, copia il file esportato sul tuo dispositivo.
+3. In NouTube, apri **Settings > Tools > Inject cookie**, importa il file (o incollane il contenuto) e salva.
+
+Questo metodo aggira il controllo del browser sicuro di Google ed è attualmente la soluzione più affidabile per i problemi di accesso, sia su Android sia su desktop.
 
 Fonti:
 
