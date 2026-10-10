@@ -22,6 +22,17 @@ Google часто отклоняет вход из приложений со в�
 
 - [Issue #142: Can't login to Google on Windows app](https://github.com/nonbili/NouTube/issues/142)
 
+## Почему последнее обновление еще не доступно на F-Droid?
+
+График релизов на F-Droid не контролируется разработчиками NouTube. F-Droid собирает и публикует обновления независимо пакетами (batches), что обычно занимает несколько дней после публикации новой версии на GitHub.
+
+Если вам нужна последняя версия прямо сейчас, вы можете скачать APK со страницы [GitHub Releases](https://github.com/nonbili/NouTube/releases). Однако учтите, что сборки с GitHub подписаны другим ключом, отличным от F-Droid, поэтому перед установкой APK с GitHub необходимо удалить версию из F-Droid.
+
+Источники:
+
+- [Issue #16: Update request](https://github.com/nonbili/NouTube/issues/16)
+- [Issue #14: Bug: rotate to landscape resets app to home page](https://github.com/nonbili/NouTube/issues/14)
+
 ## YouTube Music загружается неправильно
 
 Если YouTube Music загружается неправильно, попробуйте переключить параметр **Десктопная версия** (Desktop site) в меню приложения.

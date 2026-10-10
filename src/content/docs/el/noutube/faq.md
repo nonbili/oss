@@ -22,6 +22,17 @@ sidebar:
 
 - [Issue #142: Can't login to Google on Windows app](https://github.com/nonbili/NouTube/issues/142)
 
+## Γιατί η πιο πρόσφατη ενημέρωση δεν είναι ακόμα διαθέσιμη στο F-Droid;
+
+Το χρονοδιάγραμμα κυκλοφορίας στο F-Droid δεν ελέγχεται από τους συντηρητές του NouTube. Το F-Droid δημιουργεί και δημοσιεύει ενημερώσεις ανεξάρτητα σε παρτίδες, κάτι που συνήθως διαρκεί μερικές ημέρες μετά την κυκλοφορία μιας νέας έκδοσης στο GitHub.
+
+Εάν θέλετε την πιο πρόσφατη έκδοση άμεσα, μπορείτε να κατεβάσετε το APK από τη σελίδα [GitHub Releases](https://github.com/nonbili/NouTube/releases). Ωστόσο, λάβετε υπόψη ότι οι εκδόσεις του GitHub χρησιμοποιούν διαφορετικό κλειδί υπογραφής από το F-Droid, επομένως πρέπει πρώτα να απεγκαταστήσετε την έκδοση του F-Droid πριν εγκαταστήσετε το APK από το GitHub.
+
+Πηγές:
+
+- [Issue #16: Update request](https://github.com/nonbili/NouTube/issues/16)
+- [Issue #14: Bug: rotate to landscape resets app to home page](https://github.com/nonbili/NouTube/issues/14)
+
 ## Το YouTube Music δεν φορτώνει σωστά
 
 Εάν το YouTube Music δεν φορτώνει σωστά, δοκιμάστε να ενεργοποιήσετε την επιλογή **Desktop site** στο μενού της εφαρμογής.

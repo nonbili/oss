@@ -22,6 +22,17 @@ sidebar:
 
 - [المشكلة رقم 142: لا يمكن تسجيل الدخول إلى Google في تطبيق Windows](https://github.com/nonbili/NouTube/issues/142)
 
+## لماذا لا يتوفر التحديث الأخير على F-Droid حتى الآن؟
+
+جدول الإصدارات على F-Droid لا يخضع لسيطرة مطوري NouTube. يقوم F-Droid ببناء التحديثات ونشرها بشكل مستقل على دفعات، وهو ما يستغرق عادةً عدة أيام بعد إصدار نسخة جديدة على GitHub.
+
+إذا كنت تريد أحدث إصدار على الفور، فيمكنك تنزيل ملف APK من صفحة [GitHub Releases](https://github.com/nonbili/NouTube/releases). ومع ذلك، يرجى ملاحظة أن إصدارات GitHub تستخدم مفتاح توقيع مختلفًا عن F-Droid، لذا يجب عليك إلغاء تثبيت إصدار F-Droid أولاً قبل تثبيت APK من GitHub.
+
+المصادر:
+
+- [المشكلة رقم 16: طلب التحديث](https://github.com/nonbili/NouTube/issues/16)
+- [المشكلة رقم 14: خلل: التدوير إلى الوضع الأفقي يعيد تعيين التطبيق إلى الصفحة الرئيسية](https://github.com/nonbili/NouTube/issues/14)
+
 ## لا يتم تحميل YouTube Music بشكل صحيح
 
 إذا لم يتم تحميل YouTube Music بشكل صحيح، فحاول تبديل **موقع سطح المكتب (Desktop site)** في قائمة التطبيق.

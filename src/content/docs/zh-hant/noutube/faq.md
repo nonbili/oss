@@ -22,6 +22,17 @@ Google 經常拒絕來自內嵌網頁的應用程式的登入請求，因此在 
 
 - [Issue #142: Can't login to Google on Windows app](https://github.com/nonbili/NouTube/issues/142)
 
+## 為什麼 F-Droid 上還沒有最新更新？
+
+F-Droid 上的發布時程並非由 NouTube 維護者控制。F-Droid 透過自己的批次處理週期獨立建置與發布更新，通常在 GitHub 發布新版本後需要數天時間才能在商店中顯示。
+
+如果您想立即取得最新版本，可以從 [GitHub Releases](https://github.com/nonbili/NouTube/releases) 頁面下載 APK。但請注意，GitHub 版本的簽署金鑰與 F-Droid 不同，因此在安裝 GitHub 的 APK 之前，必須先解除安裝 F-Droid 版本。
+
+來源：
+
+- [Issue #16: Update request](https://github.com/nonbili/NouTube/issues/16)
+- [Issue #14: Bug: rotate to landscape resets app to home page](https://github.com/nonbili/NouTube/issues/14)
+
 ## YouTube Music 無法正確載入
 
 如果 YouTube Music 無法正確載入，請嘗試在應用程式選單中切換 **電腦版網站**。

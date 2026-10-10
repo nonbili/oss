@@ -22,6 +22,17 @@ Ta metoda omija kontrolę bezpieczeństwa przeglądarki Google i jest obecnie na
 
 - [Issue #142: Can't login to Google on Windows app](https://github.com/nonbili/NouTube/issues/142)
 
+## Dlaczego najnowsza aktualizacja nie jest jeszcze dostępna w F-Droid?
+
+Harmonogram wydań w F-Droid nie jest kontrolowany przez twórców NouTube. F-Droid buduje i publikuje aktualizacje niezależnie w partiach, co zwykle zajmuje kilka dni po opublikowaniu nowej wersji w serwisie GitHub.
+
+Jeśli chcesz mieć najnowszą wersję od razu, możesz pobrać plik APK ze strony [GitHub Releases](https://github.com/nonbili/NouTube/releases). Pamiętaj jednak, że wersje z GitHuba używają innego klucza podpisywania niż F-Droid, więc przed zainstalowaniem pliku APK z GitHuba musisz najpierw odinstalować wersję z F-Droid.
+
+Źródła:
+
+- [Issue #16: Update request](https://github.com/nonbili/NouTube/issues/16)
+- [Issue #14: Bug: rotate to landscape resets app to home page](https://github.com/nonbili/NouTube/issues/14)
+
 ## YouTube Music nie ładuje się poprawnie
 
 Jeśli YouTube Music nie ładuje się poprawnie, spróbuj przełączyć opcję **Wersja na komputer (Desktop site)** w menu aplikacji.

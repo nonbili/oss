@@ -22,6 +22,17 @@ Google はウェブページを埋め込んだアプリからのログインを�
 
 - [Issue #142: Can't login to Google on Windows app](https://github.com/nonbili/NouTube/issues/142)
 
+## F-Droid で最新のアップデートがまだ利用できないのはなぜですか？
+
+F-Droid でのリリーススケジュールは NouTube の開発者が制御しているわけではありません。F-Droid は独自のバッチ処理によって個別にビルドおよび公開を行っているため、GitHub で新しいバージョンがリリースされてから反映されるまでに通常数日かかります。
+
+最新版をすぐに利用したい場合は、[GitHub Releases](https://github.com/nonbili/NouTube/releases) ページから APK をダウンロードできます。ただし、GitHub のビルドは F-Droid とは異なる署名鍵を使用しているため、GitHub の APK をインストールする前に F-Droid 版をアンインストールする必要があります。
+
+ソース：
+
+- [Issue #16: Update request](https://github.com/nonbili/NouTube/issues/16)
+- [Issue #14: Bug: rotate to landscape resets app to home page](https://github.com/nonbili/NouTube/issues/14)
+
 ## YouTube Music が正しく読み込まれません
 
 YouTube Music が正しく読み込まれない場合は、アプリケーションメニューの **デスクトップ用サイト (Desktop site)** を切り替えてみてください。
