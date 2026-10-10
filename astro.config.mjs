@@ -4,7 +4,10 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://docs.nonbili.jp',
+	site: 'https://oss.nonbili.jp',
+	server: {
+		host: true,
+	},
 	integrations: [
 		starlight({
 			title: 'Nonbili OSS',
@@ -102,7 +105,7 @@ export default defineConfig({
 						'zh-hans': 'NouTube',
 						'zh-hant': 'NouTube',
 					},
-					autogenerate: { directory: 'noutube' },
+					items: [{ autogenerate: { directory: 'noutube' } }],
 				},
 				{
 					label: 'Nora',
@@ -123,7 +126,7 @@ export default defineConfig({
 						'zh-hans': 'Nora',
 						'zh-hant': 'Nora',
 					},
-					autogenerate: { directory: 'nora' },
+					items: [{ autogenerate: { directory: 'nora' } }],
 				},
 			],
 		}),
