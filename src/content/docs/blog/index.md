@@ -9,10 +9,10 @@ Release notes, feature deep dives, and updates across [NouTube](/noutube/), [Nor
 
 ## Latest Posts
 
-### [Nora 0.9.0: Built-In Social Feed Reader, Custom Timelines, Media Gallery, and More](/blog/nora-0-9-0/)
+### [Nora 0.9.0: Your Social Feeds, in One Place](/blog/nora-0-9-0/)
 
 *October 22, 2026*
 
-Nora 0.9.0 brings a built-in feed reader to follow social accounts across X, Instagram, Threads, Bluesky, Mastodon, TikTok, Reddit, and Facebook in customizable chronological timelines—complete with a photo and video grid, OPML import/export, drag-and-drop tab reordering, and find in page.
+Follow social accounts across networks in your own chronological timelines. Nora 0.9.0 adds a built-in feed reader with custom timelines, a photo and video grid, and OPML import and export.
 
 [Read the full announcement →](/blog/nora-0-9-0/)

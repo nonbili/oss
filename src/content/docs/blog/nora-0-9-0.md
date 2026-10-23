@@ -1,6 +1,6 @@
 ---
-title: "Nora 0.9.0: Built-In Social Feed Reader, Custom Timelines, and Media Gallery"
-description: Nora 0.9.0 introduces a built-in feed reader for social accounts, custom timelines, a photo and video grid, OPML import/export, tab reordering, and find in page.
+title: "Nora 0.9.0: Your Social Feeds, in One Place"
+description: Follow social accounts in your own chronological timelines with Nora 0.9.0, then browse their photos and videos in a media grid.
 sidebar:
   label: Nora 0.9.0 Release
   order: 2
@@ -8,34 +8,13 @@ sidebar:
 
 *Published on October 22, 2026*
 
-**Nora 0.9.0** is now available on Android, iOS, and Desktop. This release introduces one of the biggest additions to Nora yet: a **built-in social feed reader** that lets you follow accounts and communities across major social networks in clean, chronological timelines—often without even logging in.
+**Nora 0.9.0** adds a built-in feed reader on Android, iOS, and desktop. Follow accounts across X, Instagram, Bluesky, Mastodon, and other supported networks, then organize their posts into your own chronological timelines. Many sources work without signing in.
 
-Alongside the new feed experience, 0.9.0 brings a dedicated **media grid and gallery**, **OPML import and export**, **drag-and-drop tab reordering**, **find in page**, and smarter cross-device sync.
+Browse everything together, separate your interests into different timelines, or switch to a grid of photos and videos.
 
----
+## Follow Accounts Across Social Networks
 
-## Follow Social Accounts in Your Own Timelines
-
-Algorithmic home feeds, sign-in walls, and scattered accounts make it harder than it should be to simply keep up with the people and communities you care about.
-
-With Nora 0.9.0, you can open a supported profile or community in any tab and select **Watch** from the menu—or paste profile links in bulk—to follow its latest posts inside Nora's native **Feed**:
-
-- **X (Twitter)** profiles
-- **Instagram** profiles
-- **Threads** profiles
-- **Bluesky** profiles
-- **Mastodon** profiles across any server
-- **TikTok** profiles
-- **Reddit** subreddits and user profiles (even as Reddit phases out RSS)
-- **Facebook** pages, profiles, and groups
-
-### Custom Timelines & Filtering
-
-Rather than dumping everything into a single stream, you can organize your watched sources into **custom timelines** with custom emoji icons:
-
-- Every timeline gets its own feed tab (marked with an RSS indicator badge) and can be **pinned directly to the New Tab page** for one-tap access.
-- Tap any post's avatar or author name—or use the filterable source picker at the top of the feed—to focus on a single source.
-- Quoted posts, repost attributions, and shared link cards render cleanly inline, and tapping a post opens the original page inside Nora whenever you want to read replies or interact.
+Open a supported profile or community in a Nora tab and select **Watch** from the menu. Its latest posts will appear in Nora's **Feed**. Tap a post to open the original page whenever you want to read replies or interact.
 
 <div class="screenshot-gallery">
   <figure class="screenshot-card">
@@ -72,55 +51,44 @@ Rather than dumping everything into a single stream, you can organize your watch
   </figure>
 </div>
 
----
+You can follow:
 
-## Photo & Video Grid, Gallery, and Local Media Storage
+- **X (Twitter)**, **Instagram**, **Threads**, **Bluesky**, and **TikTok** profiles
+- **Mastodon** profiles across servers
+- **Reddit** subreddits and user profiles
+- **Facebook** pages, profiles, and groups
 
-When you are following photographers, artists, or video creators, text posts aren't always what you're looking for.
+To add several sources at once, paste a list of profile links or import an OPML file. OPML folders become timelines, so you can bring your existing organization with you. The **Manage Sources** screen lets you search, filter, and sort the accounts you follow, and export them again.
 
-- **Media-Only Grid View**: Toggle any timeline (or the entire feed from the header) to **Only photos and videos** to browse visual updates in a responsive grid.
-- **Full-Screen Gallery**: Tap any image or video to open the gallery with swipe navigation across posts, pinch-to-zoom gestures, playback controls, and one-tap download to your device's `Downloads` folder.
-- **Local Caching & Storage Controls**: Feed posts are stored locally in SQLite (100 posts per source by default, configurable in settings). You can set a cap on local media storage, clear cached media at any time, and restrict media prefetching to Wi-Fi only.
+## Organize Your Own Timelines
 
----
+Keep friends, news, and hobbies in separate **custom timelines**, each with its own emoji icon and feed tab. Pin a timeline to the New Tab page for quick access, or keep all your sources together in one feed.
 
-## Privacy-First Account Controls & Notifications
+Within a timeline, tap an author's avatar or name to focus on their posts. You can also choose a source from the picker at the top of the feed.
 
-Because Nora already isolates accounts into separate browser profiles, the feed reader gives you full control over how sources are checked:
+Choose how often Nora checks for updates and which posts trigger notifications. Set defaults for all sources, adjust them for a timeline, or mute an individual source. If a network needs a login, you can choose which Nora profile to use for that network or turn signed-in checks off.
 
-- **No Login Required by Default**: Many sources can be checked without signing in at all.
-- **Per-Site Profile Selection**: When a site requires an account or provides more reliable updates when signed in, you can choose exactly which Nora profile's login to use for each social network—or turn account-authenticated checks off completely. Nora sends only the cookies belonging to your chosen profile.
-- **Hierarchical Notifications & Check Intervals**: Configure check intervals and post notifications globally for **All sources**, override them per **timeline**, or customize/mute individual **sources**. Clicking a feed notification opens the corresponding timeline directly in Nora. On Android, notifications work out of the box in the F-Droid build without proprietary push dependencies.
+Your watched sources and timelines are included in settings backups and optional cloud sync, so you can keep them across devices.
 
----
+## Browse Photos and Videos
 
-## Dedicated Source Management, OPML, and Cloud Sync
+Switch a timeline to **Only photos and videos** to browse its media in a grid. Open an image or video to swipe through the gallery, zoom in on photos, play videos, or download media to your device.
 
-Managing a growing list of followed accounts is straightforward with the new **Manage Sources** screen:
+Nora caches feed posts and media locally. You can limit media storage, clear the cache, and restrict media prefetching to Wi-Fi.
 
-- **Search & Sort**: Filter sources by name, handle, or platform, and sort by name, last post date, date added, or last synced time.
-- **OPML & Link List Import/Export**: Paste a list of profile URLs, import a `.txt` list, or import/export standard **OPML** files. When importing OPML, folders are automatically turned into Nora timelines.
-- **Backups & Conflict-Safe Sync**: Watched sources and timelines are included in local JSON settings backups as well as Nora's optional cloud sync. Cloud sync now syncs feed sources and timelines per row and merges settings, bookmarks, and user styles modified across multiple devices—while keeping automatic local merge backups you can restore at any time.
+## Other Improvements
 
----
+This release also adds:
 
-## Browser & Tab Quality-of-Life Improvements
+- **Tab reordering:** Touch, hold, and drag tabs in the mobile tab switcher.
+- **Find in page:** Search an open web page with live match counts and next/previous controls.
+- **Profile-aware links:** Links stay in the originating tab's profile, and you can long-press a tab to reopen it in another profile.
+- **Sync improvements:** Changes to settings, bookmarks, and user styles merge across devices, with local backups available to restore.
 
-Beyond the feed reader, Nora 0.9.0 includes several everyday browsing upgrades across mobile and desktop:
-
-- **Drag-and-Drop Tab Reordering**: Touch, hold, and drag tabs in the mobile tab switcher to arrange them in whatever order you prefer.
-- **Find in Page**: Search for text on any open web page with live match counts and next/previous navigation.
-- **Profile-Aware Tab & Link Handling**: Long-press any tab to reopen it in another profile, and links opened from a tab now stay in the originating tab's profile.
-- **Zoom & Accessibility Refinements**: Pinch-to-zoom gestures in the feed and gallery, feed text sizing that respects your default page zoom, and native sheet navigation with larger touch targets on iOS.
-- **Anonymous Mode Enhancements**: Instagram profiles opened in the Anonymous profile now load using the desktop site layout so posts and reels keep loading smoothly as you scroll without an account.
-- **Desktop Feed Support**: The new feed reader, media caching, and background source fetching are fully supported on Nora Desktop across Linux, macOS, and Windows.
-
----
+See the [changelog](/nora/changelog/) for the full release details.
 
 ## Get Nora 0.9.0
 
-You can download or update to Nora 0.9.0 today:
+[Install or update Nora](/nora/install/) on Android, iOS, Linux, macOS, or Windows.
 
-- **Installation & Downloads**: [Install Nora](/nora/install/) (Google Play, App Store, F-Droid, GitHub APK, and Desktop packages)
-- **Documentation**: [Nora Overview](/nora/) & [Changelog](/nora/changelog/)
-- **Source Code & Release Notes**: [nonbili/Nora on GitHub](https://github.com/nonbili/Nora/releases/tag/v0.9.0)
+You can also explore the [Nora documentation](/nora/) or read the [release notes on GitHub](https://github.com/nonbili/Nora/releases/tag/v0.9.0).
