@@ -98,6 +98,127 @@
 	width: 100%;
 	height: auto;
 	border-radius: 1rem;
+	cursor: zoom-in;
+	transition: transform 0.18s ease;
+}
+
+.screenshot-frame img:hover {
+	transform: scale(1.015);
+}
+
+dialog.image-lightbox {
+	margin: auto;
+	padding: 0;
+	border: none;
+	background: transparent;
+	max-width: min(94vw, 72rem);
+	max-height: 92vh;
+	overflow: visible;
+}
+
+dialog.image-lightbox::backdrop {
+	background-color: rgba(0, 0, 0, 0.82);
+	backdrop-filter: blur(6px);
+}
+
+.image-lightbox__content {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 0.65rem;
+	padding: 0.5rem;
+}
+
+.image-lightbox__img {
+	display: block;
+	max-width: min(92vw, 68rem);
+	max-height: 84vh;
+	width: auto;
+	height: auto;
+	object-fit: contain;
+	border-radius: 1.1rem;
+	box-shadow: 0 24px 72px rgba(0, 0, 0, 0.55);
+	cursor: zoom-out;
+}
+
+.image-lightbox__caption {
+	margin: 0;
+	color: #f4f4f5;
+	font-size: 0.95rem;
+	font-weight: 600;
+	text-align: center;
+}
+
+.image-lightbox__close {
+	position: fixed;
+	top: 1.25rem;
+	right: 1.25rem;
+	width: 2.5rem;
+	height: 2.5rem;
+	padding: 0;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 999px;
+	background: rgba(24, 24, 27, 0.8);
+	color: #ffffff;
+	cursor: pointer;
+	z-index: 2;
+}
+
+.image-lightbox__close:hover,
+.image-lightbox__nav:hover {
+	background: rgba(39, 39, 42, 0.95);
+}
+
+.image-lightbox__nav {
+	position: fixed;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 2.75rem;
+	height: 2.75rem;
+	padding: 0;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 999px;
+	background: rgba(24, 24, 27, 0.8);
+	color: #ffffff;
+	cursor: pointer;
+	user-select: none;
+	z-index: 2;
+}
+
+.image-lightbox__close svg,
+.image-lightbox__nav svg {
+	display: block;
+	flex-shrink: 0;
+}
+
+.image-lightbox__nav[hidden] {
+	display: none;
+}
+
+.image-lightbox__nav--prev {
+	left: 1.25rem;
+}
+
+.image-lightbox__nav--next {
+	right: 1.25rem;
+}
+
+@media (max-width: 40rem) {
+	.image-lightbox__nav--prev {
+		left: 0.5rem;
+	}
+
+	.image-lightbox__nav--next {
+		right: 0.5rem;
+	}
 }
 
 .screenshot-card--desktop {
