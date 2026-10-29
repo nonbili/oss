@@ -9,11 +9,11 @@ Release notes, feature deep dives, and updates across [NouTube](/noutube/), [Nor
 
 ## Latest Posts
 
-### [Nora 0.9.2: Alternative Feed Sources, Timeline Zoom, and Download Controls](/blog/nora-0-9-2/)
+### [Nora 0.9.2: More Ways to Follow Your Feeds](/blog/nora-0-9-2/)
 
 *October 29, 2026*
 
-Read Instagram feeds from imginn and X feeds from Nitter instances, zoom into timelines and gallery media, control feed video playback speed, and choose where to save downloads on Android.
+Keep Instagram and X feeds moving with optional alternative sources, zoom into timelines and gallery media, adjust video playback speed, and choose where to save downloads on Android.
 
 [Read the full announcement →](/blog/nora-0-9-2/)
 
