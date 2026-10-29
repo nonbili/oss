@@ -3,7 +3,7 @@ title: "Nora 0.9.0: Your Social Feeds, in One Place"
 description: Follow social accounts in your own chronological timelines with Nora 0.9.0, then browse their photos and videos in a media grid.
 sidebar:
   label: Nora 0.9.0 Release
-  order: 2
+  order: 3
 ---
 
 *Published on October 22, 2026*
