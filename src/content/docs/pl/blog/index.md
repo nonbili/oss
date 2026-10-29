@@ -9,6 +9,14 @@ Informacje o wydaniach, omówienia funkcji i aktualizacje projektów [NouTube](/
 
 ## Najnowsze wpisy
 
+### [Nora 0.9.2: Więcej sposobów na śledzenie kanałów](/pl/blog/nora-0-9-2/)
+
+*29 października 2026 r.*
+
+Utrzymuj ciągłość aktualizacji z Instagrama i X dzięki opcjonalnym alternatywnym źródłom, powiększaj osie czasu i multimedia w galerii, reguluj prędkość odtwarzania wideo oraz wybieraj miejsce zapisu pobranych plików na Androidzie.
+
+[Przeczytaj całe ogłoszenie →](/pl/blog/nora-0-9-2/)
+
 ### [Nora 0.9.0: Twoje kanały społecznościowe w jednym miejscu](/pl/blog/nora-0-9-0/)
 
 *22 października 2026 r.*

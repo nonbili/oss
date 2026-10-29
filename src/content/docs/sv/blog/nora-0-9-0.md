@@ -3,7 +3,7 @@ title: "Nora 0.9.0: Dina sociala flöden på ett ställe"
 description: Följ sociala konton i dina egna kronologiska tidslinjer med Nora 0.9.0 och bläddra bland foton och videor i ett medieraster.
 sidebar:
   label: Nora 0.9.0-lansering
-  order: 2
+  order: 3
 ---
 
 *Publicerad den 22 oktober 2026*

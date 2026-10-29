@@ -3,7 +3,7 @@ title: "Nora 0.9.0：社交动态，汇聚一处"
 description: 在 Nora 0.9.0 中以时间线关注社交账号，并在媒体网格中浏览照片与视频。
 sidebar:
   label: Nora 0.9.0 发布
-  order: 2
+  order: 3
 ---
 
 *2026年10月22日发布*

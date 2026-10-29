@@ -9,6 +9,14 @@ Release-Hinweise, Einblicke in Features und Updates zu [NouTube](/de/noutube/), 
 
 ## Neueste Beiträge
 
+### [Nora 0.9.2: Mehr Möglichkeiten, Ihren Feeds zu folgen](/de/blog/nora-0-9-2/)
+
+*29. Oktober 2026*
+
+Halten Sie Instagram- und X-Feeds mit optionalen alternativen Quellen am Laufen, zoomen Sie in Timelines und Galeriemedien hinein, passen Sie die Videowiedergabegeschwindigkeit an und wählen Sie unter Android den Speicherort für Downloads aus.
+
+[Vollständige Ankündigung lesen →](/de/blog/nora-0-9-2/)
+
 ### [Nora 0.9.0: Ihre Social-Feeds an einem Ort](/de/blog/nora-0-9-0/)
 
 *22. Oktober 2026*

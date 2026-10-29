@@ -3,7 +3,7 @@ title: "Nora 0.9.0 : vos flux sociaux, réunis en un seul endroit"
 description: Suivez vos comptes sociaux dans des fils chronologiques personnalisés avec Nora 0.9.0, puis parcourez leurs photos et vidéos dans une grille multimédia.
 sidebar:
   label: Sortie de Nora 0.9.0
-  order: 2
+  order: 3
 ---
 
 *Publié le 22 octobre 2026*

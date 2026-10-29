@@ -9,6 +9,14 @@ sidebar:
 
 ## Son Gönderiler
 
+### [Nora 0.9.2: Akışlarınızı Takip Etmenin Daha Fazla Yolu](/tr/blog/nora-0-9-2/)
+
+*29 Ekim 2026*
+
+İsteğe bağlı alternatif kaynaklarla Instagram ve X akışlarınızı kesintisiz tutun, zaman akışlarını ve galeri medyalarını yakınlaştırın, video oynatma hızını ayarlayın ve Android'de indirmelerin nereye kaydedileceğini seçin.
+
+[Duyurunun tamamını oku →](/tr/blog/nora-0-9-2/)
+
 ### [Nora 0.9.0: Sosyal Akışlarınız Tek Bir Yerde](/tr/blog/nora-0-9-0/)
 
 *22 Ekim 2026*

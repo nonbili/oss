@@ -9,6 +9,14 @@ Catatan rilis, tinjauan mendalam fitur, dan pembaruan seputar [NouTube](/id/nout
 
 ## Postingan Terbaru
 
+### [Nora 0.9.2: Lebih Banyak Cara untuk Mengikuti Feed Anda](/id/blog/nora-0-9-2/)
+
+*29 Oktober 2026*
+
+Jaga agar feed Instagram dan X tetap berjalan dengan sumber alternatif opsional, perbesar tampilan linimasa dan media galeri, sesuaikan kecepatan pemutaran video, dan pilih lokasi penyimpanan unduhan di Android.
+
+[Baca pengumuman lengkapnya →](/id/blog/nora-0-9-2/)
+
 ### [Nora 0.9.0: Feed Sosial Anda, di Satu Tempat](/id/blog/nora-0-9-0/)
 
 *22 Oktober 2026*

@@ -9,6 +9,14 @@ Notas de la versión, explicaciones detalladas de funciones y actualizaciones de
 
 ## Últimas publicaciones
 
+### [Nora 0.9.2: Más formas de seguir tus feeds](/es/blog/nora-0-9-2/)
+
+*29 de octubre de 2026*
+
+Mantén tus feeds de Instagram y X al día con fuentes alternativas opcionales, amplía cronologías y archivos multimedia de la galería, ajusta la velocidad de reproducción de vídeo y elige dónde guardar las descargas en Android.
+
+[Leer el anuncio completo →](/es/blog/nora-0-9-2/)
+
 ### [Nora 0.9.0: Tus feeds sociales en un solo lugar](/es/blog/nora-0-9-0/)
 
 *22 de octubre de 2026*

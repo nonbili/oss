@@ -3,7 +3,7 @@ title: "Nora 0.9.0：社群動態，匯聚一處"
 description: 在 Nora 0.9.0 中以時間軸追蹤社群帳號，並在媒體網格中瀏覽相片與影片。
 sidebar:
   label: Nora 0.9.0 發布
-  order: 2
+  order: 3
 ---
 
 *2026年10月22日發布*

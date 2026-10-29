@@ -3,7 +3,7 @@ title: "Nora 0.9.0: Tus feeds sociales en un solo lugar"
 description: Sigue cuentas de redes sociales en tus propias cronologías con Nora 0.9.0 y explora sus fotos y vídeos en una cuadrícula multimedia.
 sidebar:
   label: Lanzamiento de Nora 0.9.0
-  order: 2
+  order: 3
 ---
 
 *Publicado el 22 de octubre de 2026*

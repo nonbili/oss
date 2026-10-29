@@ -3,7 +3,7 @@ title: "Nora 0.9.0: Sosyal Akışlarınız Tek Bir Yerde"
 description: Nora 0.9.0 ile sosyal hesapları kendi kronolojik zaman akışlarınızda takip edin, fotoğraf ve videoları medya ızgarasında keşfedin.
 sidebar:
   label: Nora 0.9.0 Sürümü
-  order: 2
+  order: 3
 ---
 
 *22 Ekim 2026'da yayımlandı*
