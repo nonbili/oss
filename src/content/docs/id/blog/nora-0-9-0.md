@@ -3,7 +3,7 @@ title: "Nora 0.9.0: Feed Sosial Anda, di Satu Tempat"
 description: Ikuti akun sosial dalam linimasa kronologis Anda sendiri dengan Nora 0.9.0, lalu jelajahi foto dan video mereka dalam kisi media.
 sidebar:
   label: Rilis Nora 0.9.0
-  order: 2
+  order: 3
 ---
 
 *Diterbitkan pada 22 Oktober 2026*

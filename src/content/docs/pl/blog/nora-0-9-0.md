@@ -3,7 +3,7 @@ title: "Nora 0.9.0: Twoje kanały społecznościowe w jednym miejscu"
 description: Śledź konta społecznościowe na własnych osiach czasu z Norą 0.9.0 i przeglądaj zdjęcia oraz filmy w siatce multimediów.
 sidebar:
   label: Wydanie Nora 0.9.0
-  order: 2
+  order: 3
 ---
 
 *Opublikowano 22 października 2026 r.*

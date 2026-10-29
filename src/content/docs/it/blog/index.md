@@ -9,6 +9,14 @@ Note di rilascio, approfondimenti sulle funzionalità e aggiornamenti su [NouTub
 
 ## Ultimi articoli
 
+### [Nora 0.9.2: Più modi per seguire i tuoi feed](/it/blog/nora-0-9-2/)
+
+*29 ottobre 2026*
+
+Mantieni attivi i feed di Instagram e X con fonti alternative opzionali, ingrandisci timeline e contenuti della galleria, regola la velocità di riproduzione dei video e scegli dove salvare i download su Android.
+
+[Leggi l'annuncio completo →](/it/blog/nora-0-9-2/)
+
 ### [Nora 0.9.0: I tuoi feed social in un unico posto](/it/blog/nora-0-9-0/)
 
 *22 ottobre 2026*

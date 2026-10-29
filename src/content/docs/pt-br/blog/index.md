@@ -9,6 +9,14 @@ Notas de lançamento, detalhes de recursos e atualizações sobre o [NouTube](/p
 
 ## Últimas publicações
 
+### [Nora 0.9.2: Mais formas de acompanhar seus feeds](/pt-br/blog/nora-0-9-2/)
+
+*29 de outubro de 2026*
+
+Mantenha os feeds do Instagram e do X atualizados com fontes alternativas opcionais, dê zoom nas linhas do tempo e mídias da galeria, ajuste a velocidade de reprodução de vídeos e escolha onde salvar os downloads no Android.
+
+[Leia o anúncio completo →](/pt-br/blog/nora-0-9-2/)
+
 ### [Nora 0.9.0: Seus feeds sociais em um só lugar](/pt-br/blog/nora-0-9-0/)
 
 *22 de outubro de 2026*
