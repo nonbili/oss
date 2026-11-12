@@ -1,0 +1,48 @@
+{
+	"description": "Aplikacje open-source i dokumentacja od nonbili.",
+	"tagline": "Otwartoźródłowe aplikacje do codziennego użytku, na telefonie i komputerze.",
+	"apps": "Projekty",
+	"docs": "Otwórz dokumentację",
+	"install": "Zainstaluj",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, desktop i rozszerzenie",
+			"summary": "YouTube i YouTube Music w jednej aplikacji, z odtwarzaniem w tle, pobieraniem, kanałami RSS i lokalnymi narzędziami biblioteki.",
+			"points": [
+				"Odtwarzanie bez reklam z muzyką i wideo w jednym kliencie",
+				"Najnowsze linki do pobrania APK i wersji desktopowej",
+				"Poradniki, zrzuty ekranu, FAQ i lista zmian (changelog)"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS i desktop",
+			"summary": "Przeglądarka SNS z oddzielnymi kontami, listami blokowania, pobieraniem i dostosowywaniem CSS w obsługiwanych serwisach społecznościowych.",
+			"points": [
+				"Jedna powłoka przeglądarki dla wielu sieci społecznościowych",
+				"Najnowsze linki do sklepów, APK i pobierania na desktop",
+				"Poradniki, zrzuty ekranu, FAQ i lista zmian (changelog)"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, desktop i rozszerzenie",
+			"summary": "Menedżer i program uruchamiający zakładki z wieloma listami, integracją z przeglądarką systemową, kartami podglądu i synchronizacją.",
+			"points": [
+				"Organizowanie zakładek w listy i otwieranie w przeglądarce systemowej",
+				"Najnowsze linki do sklepów, APK, pobierania na desktop i rozszerzeń",
+				"Poradniki, zrzuty ekranu, FAQ i lista zmian (changelog)"
+			]
+		}
+	},
+	"others": {
+		"label": "Inne",
+		"meron": "Poczta z widokami czatu i kanban",
+		"tmiix": "Menedżer sesji Tmux/SSH i snippetów",
+		"jamu": "Pomoc w nauce japońskiego z kaną i quizami"
+	},
+	"sourceNote": "Kod źródłowy, wydania i śledzenie problemów dla wszystkich projektów znajdują się w [organizacji GitHub nonbili](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Najnowsze wpisy",
+		"readMore": "Przeczytaj pełne ogłoszenie"
+	}
+}

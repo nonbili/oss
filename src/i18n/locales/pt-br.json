@@ -1,0 +1,48 @@
+{
+	"description": "Apps de código aberto e documentação da nonbili.",
+	"tagline": "Aplicativos de código aberto para o dia a dia, no celular e no desktop.",
+	"apps": "Projetos",
+	"docs": "Abrir docs",
+	"install": "Instalar",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, desktop e extensão",
+			"summary": "YouTube e YouTube Music em um único app, com reprodução em segundo plano, downloads, feeds e ferramentas de biblioteca local.",
+			"points": [
+				"Reprodução sem anúncios com música e vídeo em um único cliente",
+				"Links de download para o APK mais recente e desktop",
+				"Guias, capturas de tela, FAQ e changelog"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS e desktop",
+			"summary": "Navegador de redes sociais com contas separadas, listas de bloqueio, downloads e customização de CSS nos sites sociais suportados.",
+			"points": [
+				"Um shell de navegador para múltiplas redes sociais",
+				"Links das lojas, APKs e downloads para desktop mais recentes",
+				"Guias, capturas de tela, FAQ e changelog"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, desktop e extensão",
+			"summary": "Gerenciador e inicializador de favoritos com várias listas, integração com o navegador do sistema, cartões de prévia e sincronização.",
+			"points": [
+				"Organize favoritos em listas e abra no navegador do sistema",
+				"Links das lojas, APKs, downloads para desktop e extensões mais recentes",
+				"Guias, capturas de tela, FAQ e changelog"
+			]
+		}
+	},
+	"others": {
+		"label": "Outros",
+		"meron": "E-mail com visualizações de chat e kanban",
+		"tmiix": "Gerenciador de sessões Tmux/SSH e snippets",
+		"jamu": "Auxiliar de estudo de japonês com kana e quizzes"
+	},
+	"sourceNote": "Para código-fonte, releases e rastreamento de problemas nos projetos, use a [organização nonbili no GitHub](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Últimas publicações",
+		"readMore": "Leia o anúncio completo"
+	}
+}

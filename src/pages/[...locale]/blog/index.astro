@@ -1,0 +1,71 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { render } from 'astro:content';
+import PostMeta from '../../../components/PostMeta.astro';
+import SiteFooter from '../../../components/SiteFooter.astro';
+import { getBlogIntro, getPosts, getUI, localeKeys, localizePath, type Locale } from '../../../lib/site';
+
+export function getStaticPaths() {
+	return localeKeys.map((locale) => ({ params: { locale }, props: { locale } }));
+}
+
+const { locale } = Astro.props as { locale: Locale };
+const ui = getUI(locale);
+const intro = await getBlogIntro(locale);
+const { Content } = await render(intro);
+const [latest, ...older] = await getPosts(locale);
+const rss = localizePath(locale, '/blog/rss.xml');
+---
+
+<StarlightPage
+	frontmatter={{
+		title: intro.data.title,
+		description: intro.data.description,
+		template: 'splash',
+		bare: true,
+		head: [
+			{
+				tag: 'link',
+				attrs: { rel: 'alternate', type: 'application/rss+xml', title: intro.data.title, href: rss },
+			},
+		],
+	}}
+>
+	<div class="nb-blog">
+		<header class="nb-blog__header">
+			<h1 id="_top">{intro.data.title}</h1>
+			<div class="nb-blog__intro"><Content /></div>
+		</header>
+
+		<div class="not-content">
+			{
+				latest && (
+					<article class="nb-featured">
+						<PostMeta date={latest.date} product={latest.product} locale={locale} />
+						<h2>
+							<a href={latest.href}>{latest.title}</a>
+						</h2>
+						<p>{latest.description}</p>
+						<a class="nb-arrow nb-more" href={latest.href} aria-hidden="true" tabindex="-1">
+							{ui.blog.readMore}
+						</a>
+					</article>
+				)
+			}
+			<ol class="nb-posts">
+				{
+					older.map((post) => (
+						<li class="nb-post-row">
+							<PostMeta date={post.date} product={post.product} locale={locale} />
+							<h2>
+								<a href={post.href}>{post.title}</a>
+							</h2>
+							<p>{post.description}</p>
+						</li>
+					))
+				}
+			</ol>
+		</div>
+	</div>
+	<SiteFooter locale={locale} />
+</StarlightPage>

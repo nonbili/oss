@@ -2,106 +2,12 @@
 title: Nonbili OSS
 description: App open-source e documentazione da nonbili.
 template: splash
+bare: true
 head:
   - tag: title
     content: Nonbili OSS
-hero:
-  tagline: App open-source da nonbili, focalizzate su wrapper web pratici con comportamenti nativi utili.
-  actions:
-    - text: NouTube
-      link: /it/noutube/
-      icon: right-arrow
-    - text: Nora
-      link: /it/nora/
-      icon: right-arrow
-    - text: Nori
-      link: /it/nori/
-      icon: right-arrow
-    - text: Altri
-      link: /it/others/
-      icon: right-arrow
-    - text: Blog
-      link: /it/blog/
-      icon: right-arrow
-    - text: GitHub
-      link: https://github.com/nonbili
-      icon: external
 ---
 
-## Progetti
+import Home from '../../../components/Home.astro';
 
-<div class="home-products">
-	<section class="home-product">
-		<div class="home-product__top">
-			<img class="home-product__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
-			<div>
-				<h2 class="home-product__title">NouTube</h2>
-				<p class="home-product__meta">Android e desktop</p>
-			</div>
-		</div>
-		<p class="home-product__body">
-			YouTube e YouTube Music in un'unica app, con riproduzione in background, download, feed e strumenti per la gestione della libreria locale.
-		</p>
-		<ul class="home-product__list">
-			<li>Riproduzione senza pubblicità con musica e video in un unico client</li>
-			<li>Link per il download degli ultimi APK e versioni desktop</li>
-			<li>Guide, screenshot, FAQ e changelog</li>
-		</ul>
-		<div class="home-product__actions">
-			<a href="/it/noutube/">Apri doc</a>
-			<a href="/it/noutube/install/">Installa</a>
-		</div>
-	</section>
-	<section class="home-product">
-		<div class="home-product__top">
-			<img class="home-product__logo" src="/app-logos/nora.png" alt="Nora logo" />
-			<div>
-				<h2 class="home-product__title">Nora</h2>
-				<p class="home-product__meta">Android, iOS e desktop</p>
-			</div>
-		</div>
-		<p class="home-product__body">
-			Browser SNS con account separati, liste di blocco, download e personalizzazione CSS sui siti social supportati.
-		</p>
-		<ul class="home-product__list">
-			<li>Un'unica shell browser per più social network</li>
-			<li>Ultimi link agli store, APK e download desktop</li>
-			<li>Guide, screenshot, FAQ e changelog</li>
-		</ul>
-		<div class="home-product__actions">
-			<a href="/it/nora/">Apri doc</a>
-			<a href="/it/nora/install/">Installa</a>
-		</div>
-	</section>
-	<section class="home-product">
-		<div class="home-product__top">
-			<img class="home-product__logo" src="/app-logos/nori.png" alt="Nori logo" />
-			<div>
-				<h2 class="home-product__title">Nori</h2>
-				<p class="home-product__meta">Android, iOS, desktop ed estensione</p>
-			</div>
-		</div>
-		<p class="home-product__body">
-			Gestore e avviatore di segnalibri con liste multiple, integrazione con il browser di sistema, schede di anteprima e sincronizzazione.
-		</p>
-		<ul class="home-product__list">
-			<li>Organizza i segnalibri in liste e aprilo nel browser di sistema</li>
-			<li>Ultimi link agli store, APK, download desktop ed estensioni</li>
-			<li>Guide, screenshot, FAQ e changelog</li>
-		</ul>
-		<div class="home-product__actions">
-			<a href="/it/nori/">Apri doc</a>
-			<a href="/it/nori/install/">Installa</a>
-		</div>
-	</section>
-</div>
-
-## Cosa Troverai Qui
-
-- Guida all'installazione e al primo avvio
-- Panoramica delle funzionalità principali
-- Gallerie di screenshot
-- Note specifiche per desktop
-- Personalizzazione, FAQ e risoluzione dei problemi
-
-Per il codice sorgente, i rilasci e il tracciamento dei problemi nei progetti, utilizza l'[organizzazione GitHub nonbili](https://github.com/nonbili).
+<Home />

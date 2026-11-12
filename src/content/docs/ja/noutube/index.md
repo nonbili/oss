@@ -6,7 +6,7 @@ sidebar:
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
-  <p class="product-overview-header__meta">Android / デスクトップ</p>
+  <p class="product-overview-header__meta">Android / iOS / デスクトップ / 拡張機能</p>
 </div>
 
 NouTube は YouTube と YouTube Music 向けの Android / デスクトップアプリです。

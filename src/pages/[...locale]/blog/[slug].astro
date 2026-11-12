@@ -1,0 +1,91 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { render } from 'astro:content';
+import PostMeta from '../../../components/PostMeta.astro';
+import SiteFooter from '../../../components/SiteFooter.astro';
+import { getPosts, getUI, localeKeys, localizePath, type BlogPost, type Locale } from '../../../lib/site';
+
+export async function getStaticPaths() {
+	const paths = [];
+	for (const locale of localeKeys) {
+		const posts = await getPosts(locale);
+		posts.forEach((post, index) => {
+			paths.push({
+				params: { locale, slug: post.slug },
+				// Posts are sorted newest first.
+				props: { locale, post, newer: posts[index - 1], older: posts[index + 1] },
+			});
+		});
+	}
+	return paths;
+}
+
+interface Props {
+	locale: Locale;
+	post: BlogPost;
+	newer?: BlogPost;
+	older?: BlogPost;
+}
+const { locale, post, newer, older } = Astro.props as Props;
+const ui = getUI(locale);
+const { Content } = await render(post.entry);
+const blogHref = localizePath(locale, '/blog/');
+const editUrl = `https://github.com/nonbili/oss/edit/main/src/content/blog/${post.entry.id}.md`;
+---
+
+<StarlightPage
+	frontmatter={{
+		title: post.title,
+		description: post.description,
+		template: 'splash',
+		bare: true,
+		head: [
+			{ tag: 'meta', attrs: { property: 'og:type', content: 'article' } },
+			{ tag: 'meta', attrs: { property: 'article:published_time', content: post.date.toISOString() } },
+			{
+				tag: 'link',
+				attrs: {
+					rel: 'alternate',
+					type: 'application/rss+xml',
+					title: ui.blog.label,
+					href: localizePath(locale, '/blog/rss.xml'),
+				},
+			},
+		],
+	}}
+	isFallback={post.isFallback}
+>
+	<article class="nb-article">
+		<header class="nb-article__header not-content">
+			<a class="nb-back" href={blogHref}>{ui.blog.label}</a>
+			<PostMeta date={post.date} product={post.product} locale={locale} />
+			<h1 id="_top">{post.title}</h1>
+			<p class="nb-article__lede">{post.description}</p>
+		</header>
+
+		<div class="nb-article__body"><Content /></div>
+
+		{
+			(newer || older) && (
+				<nav class="nb-article__nav not-content" aria-label={ui.blog.label}>
+					{older ? (
+						<a href={older.href} rel="prev">
+							<span>{Astro.locals.t('page.previousLink')}</span>
+							<strong>{older.title}</strong>
+						</a>
+					) : (
+						<span />
+					)}
+					{newer && (
+						<a href={newer.href} rel="next">
+							<span>{Astro.locals.t('page.nextLink')}</span>
+							<strong>{newer.title}</strong>
+						</a>
+					)}
+				</nav>
+			)
+		}
+		<a class="nb-edit not-content" href={editUrl}>{Astro.locals.t('page.editLink')}</a>
+	</article>
+	<SiteFooter locale={locale} />
+</StarlightPage>

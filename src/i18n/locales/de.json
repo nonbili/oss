@@ -1,0 +1,48 @@
+{
+	"description": "Open-Source-Apps und Dokumentation von nonbili.",
+	"tagline": "Open-Source-Apps für den Alltag, auf Mobilgeräten und Desktop.",
+	"apps": "Projekte",
+	"docs": "Dokumentation öffnen",
+	"install": "Installieren",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, Desktop und Browser-Erweiterung",
+			"summary": "YouTube und YouTube Music in einer App, mit Hintergrundwiedergabe, Downloads, Feeds und lokalen Bibliotheks-Tools.",
+			"points": [
+				"Werbefreie Wiedergabe mit Musik und Video in einem Client",
+				"Aktuelle APK- und Desktop-Download-Links",
+				"Anleitungen, Screenshots, FAQ und Änderungsprotokoll"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS und Desktop",
+			"summary": "Social-Media-Browser mit getrennten Konten, Sperrlisten, Downloads und CSS-Anpassung für unterstützte soziale Netzwerke.",
+			"points": [
+				"Eine Browser-Shell für mehrere soziale Netzwerke",
+				"Aktuelle Store-Links, APKs und Desktop-Downloads",
+				"Anleitungen, Screenshots, FAQ und Änderungsprotokoll"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, Desktop und Browser-Erweiterung",
+			"summary": "Lesezeichen-Manager und Starter mit mehreren Listen, Systembrowser-Integration, Vorschaukarten und Synchronisation.",
+			"points": [
+				"Lesezeichen in Listen organisieren und im Systembrowser öffnen",
+				"Aktuelle Store-Links, APKs, Desktop-Downloads und Erweiterungen",
+				"Anleitungen, Screenshots, FAQ und Änderungsprotokoll"
+			]
+		}
+	},
+	"others": {
+		"label": "Andere",
+		"meron": "E-Mail mit Chat- und Kanban-Ansichten",
+		"tmiix": "Manager für Tmux/SSH-Sitzungen und Snippets",
+		"jamu": "Japanisch-Lernhilfe mit Kana und Quiz"
+	},
+	"sourceNote": "Für Quellcode, Releases und Issue-Tracking über Projekte hinweg nutzen Sie die [nonbili GitHub Organisation](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Neueste Beiträge",
+		"readMore": "Vollständige Ankündigung lesen"
+	}
+}

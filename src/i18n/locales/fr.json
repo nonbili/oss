@@ -1,0 +1,48 @@
+{
+	"description": "Applications open-source et documentation de nonbili.",
+	"tagline": "Des applications open source pour le quotidien, sur mobile et ordinateur.",
+	"apps": "Projets",
+	"docs": "Ouvrir la documentation",
+	"install": "Installer",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, bureau et extension",
+			"summary": "YouTube et YouTube Music dans une seule application, avec lecture en arrière-plan, téléchargements, flux et outils de bibliothèque locale.",
+			"points": [
+				"Lecture sans publicité avec musique et vidéo dans un seul client",
+				"Derniers liens de téléchargement APK et bureau",
+				"Guides, captures d'écran, FAQ et journal des modifications"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS et bureau",
+			"summary": "Navigateur de réseaux sociaux avec comptes séparés, listes de blocage, téléchargements et personnalisation CSS sur les sites sociaux pris en charge.",
+			"points": [
+				"Une interface de navigateur pour plusieurs réseaux sociaux",
+				"Derniers liens vers les stores, APK et téléchargements bureau",
+				"Guides, captures d'écran, FAQ et journal des modifications"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, bureau et extension",
+			"summary": "Gestionnaire et lanceur de favoris avec plusieurs listes, intégration du navigateur système, cartes d'aperçu et synchronisation.",
+			"points": [
+				"Organiser les favoris en listes et les ouvrir dans le navigateur du système",
+				"Derniers liens vers les stores, APK, téléchargements bureau et extensions",
+				"Guides, captures d'écran, FAQ et journal des modifications"
+			]
+		}
+	},
+	"others": {
+		"label": "Autres",
+		"meron": "E-mail avec vues discussion et kanban",
+		"tmiix": "Gestionnaire de sessions Tmux/SSH et de snippets",
+		"jamu": "Aide à l'apprentissage du japonais avec kana et quiz"
+	},
+	"sourceNote": "Pour le code source, les versions et le suivi des problèmes sur les projets, utilisez l' [organisation GitHub nonbili](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Derniers articles",
+		"readMore": "Lire l'annonce complète"
+	}
+}

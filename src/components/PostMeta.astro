@@ -1,0 +1,22 @@
+---
+import { formatDate, products, type Locale, type ProductKey } from '../lib/site';
+
+interface Props {
+	date: Date;
+	product?: ProductKey;
+	locale: Locale;
+}
+const { date, product, locale } = Astro.props;
+---
+
+<p class="nb-meta">
+	{
+		product && (
+			<span class="nb-chip" translate="no">
+				<img src={products[product].logo} alt="" width="16" height="16" />
+				{products[product].name}
+			</span>
+		)
+	}
+	<time datetime={date.toISOString().slice(0, 10)}>{formatDate(date, locale)}</time>
+</p>

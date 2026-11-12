@@ -1,0 +1,160 @@
+---
+// Starlight's header plus a small site nav (apps + blog).
+import config from 'virtual:starlight/user-config';
+import LanguageSelect from 'virtual:starlight/components/LanguageSelect';
+import Search from 'virtual:starlight/components/Search';
+import SiteTitle from 'virtual:starlight/components/SiteTitle';
+import SocialIcons from 'virtual:starlight/components/SocialIcons';
+import ThemeSelect from 'virtual:starlight/components/ThemeSelect';
+import { getUI, localizePath, productKeys, products } from '../../lib/site';
+
+const shouldRenderSearch =
+	config.pagefind || config.components.Search !== '@astrojs/starlight/components/Search.astro';
+
+const { locale, hasSidebar } = Astro.locals.starlightRoute;
+const ui = getUI(locale);
+const section = Astro.url.pathname.replace(localizePath(locale, '/'), '/').split('/')[1];
+const links = [
+	...productKeys.map((key) => ({ key, label: products[key].name, href: localizePath(locale, `/${key}/`), app: true })),
+	{ key: 'blog', label: ui.blog.label, href: localizePath(locale, '/blog/'), app: false },
+];
+---
+
+<div class="header">
+	<div class="title-wrapper sl-flex">
+		<SiteTitle />
+	</div>
+	<div class="sl-flex print:hidden">
+		{shouldRenderSearch && <Search />}
+	</div>
+	<div class="right-group print:hidden">
+		<nav class="site-nav" class:list={{ 'site-nav--always': !hasSidebar }} aria-label="Site">
+			{
+				links.map((link) => (
+					<a
+						href={link.href}
+						class:list={{ 'site-nav__app': link.app }}
+						aria-current={section === link.key ? 'true' : undefined}
+						translate={link.app ? 'no' : undefined}
+					>
+						{link.label}
+					</a>
+				))
+			}
+		</nav>
+		<div class="desktop-only social-icons">
+			<SocialIcons />
+		</div>
+		<div class="desktop-only"><ThemeSelect /></div>
+		<div class="desktop-only"><LanguageSelect /></div>
+	</div>
+</div>
+
+<style>
+	.header {
+		display: flex;
+		gap: var(--sl-nav-gap);
+		justify-content: space-between;
+		align-items: center;
+		height: 100%;
+	}
+
+	.title-wrapper {
+		overflow: clip;
+		padding: 0.25rem;
+		margin: -0.25rem;
+		min-width: 0;
+	}
+
+	.right-group,
+	.social-icons {
+		display: flex;
+		gap: 1rem;
+		align-items: center;
+	}
+
+	.desktop-only {
+		display: none;
+	}
+
+	/* On pages with a sidebar the mobile menu carries the nav, so the header stays compact. */
+	.site-nav {
+		display: none;
+		align-items: center;
+		gap: 0.25rem;
+	}
+	.site-nav--always {
+		display: flex;
+	}
+	.site-nav__app {
+		display: none;
+	}
+	.site-nav a {
+		padding: 0.3rem 0.65rem;
+		border-radius: 999px;
+		color: var(--sl-color-gray-2);
+		font-size: var(--sl-text-sm);
+		font-weight: 500;
+		text-decoration: none;
+		white-space: nowrap;
+	}
+	.site-nav a:hover {
+		color: var(--sl-color-white);
+		background: var(--sl-color-gray-6);
+	}
+	.site-nav a[aria-current] {
+		color: var(--sl-color-white);
+		background: var(--sl-color-gray-6);
+	}
+
+	@media (min-width: 50rem) {
+		.desktop-only,
+		.social-icons {
+			display: flex;
+		}
+		.site-nav {
+			display: flex;
+		}
+		.social-icons::before {
+			content: '';
+			height: 1.5rem;
+			margin-inline-end: 0.25rem;
+			border-inline-start: 1px solid var(--sl-color-gray-5);
+		}
+		.social-icons::after {
+			content: '';
+			height: 1.5rem;
+			border-inline-end: 1px solid var(--sl-color-gray-5);
+		}
+
+		/* Same column maths as Starlight's default header: the search box lines up with the content column. */
+		:global(:root[data-has-sidebar]) {
+			--__sidebar-pad: calc(2 * var(--sl-nav-pad-x));
+		}
+		:global(:root:not([data-has-toc])) {
+			--__toc-width: 0rem;
+		}
+		.header {
+			--__sidebar-width: max(0rem, var(--sl-content-inline-start, 0rem) - var(--sl-nav-pad-x));
+			--__main-column-fr: calc(
+				(
+						100% + var(--__sidebar-pad, 0rem) - var(--__toc-width, var(--sl-sidebar-width)) -
+							(2 * var(--__toc-width, var(--sl-nav-pad-x))) - var(--sl-content-inline-start, 0rem) -
+							var(--sl-content-width)
+					) / 2
+			);
+			display: grid;
+			grid-template-columns:
+				minmax(calc(var(--__sidebar-width) + max(0rem, var(--__main-column-fr) - var(--sl-nav-gap))), auto)
+				1fr
+				auto;
+			align-content: center;
+		}
+	}
+
+	@media (min-width: 72rem) {
+		.site-nav__app {
+			display: block;
+		}
+	}
+</style>

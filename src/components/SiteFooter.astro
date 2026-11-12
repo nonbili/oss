@@ -1,0 +1,27 @@
+---
+// Footer for pages without the docs sidebar (home, blog). On small screens it also
+// carries the theme and language pickers, which the header only shows on wide ones.
+import LanguageSelect from 'virtual:starlight/components/LanguageSelect';
+import ThemeSelect from 'virtual:starlight/components/ThemeSelect';
+import { getUI, localizePath, productKeys, products, type Locale } from '../lib/site';
+
+interface Props {
+	locale: Locale;
+}
+const { locale } = Astro.props;
+const ui = getUI(locale);
+---
+
+<footer class="nb-footer not-content">
+	<nav class="nb-footer__links" aria-label="Footer">
+		{productKeys.map((key) => <a href={localizePath(locale, `/${key}/`)} translate="no">{products[key].name}</a>)}
+		<a href={localizePath(locale, '/others/')}>{ui.others.label}</a>
+		<a href={localizePath(locale, '/blog/')}>{ui.blog.label}</a>
+		<a href={localizePath(locale, '/blog/rss.xml')}>RSS</a>
+		<a href="https://github.com/nonbili">GitHub</a>
+	</nav>
+	<div class="nb-footer__prefs">
+		<ThemeSelect />
+		<LanguageSelect />
+	</div>
+</footer>

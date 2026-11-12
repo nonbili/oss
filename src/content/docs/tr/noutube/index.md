@@ -6,7 +6,7 @@ sidebar:
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
-  <p class="product-overview-header__meta">Android ve masaüstü</p>
+  <p class="product-overview-header__meta">Android, iOS, masaüstü ve uzantı</p>
 </div>
 
 NouTube; YouTube ve YouTube Music için bir Android ve masaüstü uygulamasıdır.

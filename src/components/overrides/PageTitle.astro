@@ -1,0 +1,52 @@
+---
+// Docs pages get a small product crumb above the title. "Bare" pages (home, blog)
+// render their own header, so the default title block is skipped for them.
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+import { localizePath, products, type ProductKey } from '../../lib/site';
+
+const { entry, id, locale } = Astro.locals.starlightRoute;
+const bare = entry.data.bare === true;
+
+const segments = id.split('/').filter(Boolean);
+if (locale && segments[0] === locale) segments.shift();
+const product = segments.length > 1 && segments[0] in products ? (segments[0] as ProductKey) : undefined;
+---
+
+{
+	bare ? (
+		<span class="nb-bare" hidden />
+	) : (
+		<>
+			{product && (
+				<a class="nb-crumb" href={localizePath(locale, `/${product}/`)} translate="no">
+					<img src={products[product].logo} alt="" width="20" height="20" />
+					{products[product].name}
+				</a>
+			)}
+			<Default />
+		</>
+	)
+}
+
+<style>
+	.nb-crumb {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5rem;
+		color: var(--sl-color-gray-3);
+		font-size: var(--sl-text-sm);
+		font-weight: 600;
+		text-decoration: none;
+	}
+	.nb-crumb:hover {
+		color: var(--sl-color-text-accent);
+	}
+	.nb-crumb img {
+		width: 1.25rem;
+		height: 1.25rem;
+		border-radius: 0.35rem;
+	}
+	.nb-crumb + :global(h1) {
+		margin-top: 0.5rem;
+	}
+</style>
