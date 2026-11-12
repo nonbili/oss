@@ -1,0 +1,48 @@
+{
+	"description": "nonbili'den açık kaynaklı uygulamalar ve dokümantasyon.",
+	"tagline": "Günlük kullanım için açık kaynaklı uygulamalar, mobilde ve masaüstünde.",
+	"apps": "Projeler",
+	"docs": "Dokümantasyonu aç",
+	"install": "Yükle",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, masaüstü ve uzantı",
+			"summary": "Arka planda oynatma, indirmeler, feed'ler ve yerel kitaplık araçlarıyla YouTube ve YouTube Music tek bir uygulamada.",
+			"points": [
+				"Tek bir istemcide müzik ve video ile reklamsız oynatma",
+				"En son APK ve masaüstü indirme bağlantıları",
+				"Kılavuzlar, ekran görüntüleri, SSS ve sürüm notları"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS ve masaüstü",
+			"summary": "Desteklenen sosyal sitelerde ayrı hesaplar, engelleme listeleri, indirmeler ve CSS özelleştirmesi sunan SNS tarayıcısı.",
+			"points": [
+				"Birden fazla sosyal ağ için tek bir tarayıcı kabuğu",
+				"En son mağaza bağlantıları, APK'lar ve masaüstü indirmeleri",
+				"Kılavuzlar, ekran görüntüleri, SSS ve sürüm notları"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, masaüstü ve uzantı",
+			"summary": "Birden fazla liste, sistem tarayıcısı entegrasyonu, önizleme kartları ve senkronizasyon özelliklerine sahip yer imi yöneticisi ve başlatıcı.",
+			"points": [
+				"Yer imlerini listeler halinde düzenleyin ve sistem tarayıcısında açın",
+				"En son mağaza bağlantıları, APK'lar, masaüstü indirmeleri ve uzantılar",
+				"Kılavuzlar, ekran görüntüleri, SSS ve sürüm notları"
+			]
+		}
+	},
+	"others": {
+		"label": "Diğerleri",
+		"meron": "Sohbet ve kanban görünümlü e-posta",
+		"tmiix": "Tmux/SSH oturum ve kod parçacığı yöneticisi",
+		"jamu": "Kana ve testlerle Japonca çalışma yardımcısı"
+	},
+	"sourceNote": "Kaynak kodu, sürümler ve projeler arası sorun takibi için [nonbili GitHub organizasyonunu](https://github.com/nonbili) kullanın.",
+	"blog": {
+		"label": "Blog",
+		"latest": "Son Gönderiler",
+		"readMore": "Duyurunun tamamını oku"
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"description": "Öppen källkod-appar och dokumentation från nonbili.",
+	"tagline": "Appar med öppen källkod för vardagen, på mobil och dator.",
+	"apps": "Projekt",
+	"docs": "Öppna docs",
+	"install": "Installera",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, desktop och tillägg",
+			"summary": "YouTube och YouTube Music i en app, med bakgrundsuppspelning, nedladdningar, flöden och lokala biblioteksverktyg.",
+			"points": [
+				"Annonsfri uppspelning med musik och video i en klient",
+				"Senaste APK och desktop nedladdningslänkar",
+				"Guider, skärmdumpar, FAQ och ändringslogg"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS och desktop",
+			"summary": "SNS-webbläsare med separata konton, blockeringslistor, nedladdningar och CSS-anpassning på sociala webbplatser som stöds.",
+			"points": [
+				"Ett webbläsarskal för flera sociala nätverk",
+				"Senaste butikslänkar, APK:er och desktop-nedladdningar",
+				"Guider, skärmdumpar, FAQ och ändringslogg"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, desktop och tillägg",
+			"summary": "Bokmärkeshanterare och startverktyg med flera listor, integrering med systemwebbläsaren, förhandsvisningskort och synkronisering.",
+			"points": [
+				"Organisera bokmärken i listor och öppna i systemwebbläsaren",
+				"Senaste butikslänkar, APK:er, desktop-nedladdningar och tillägg",
+				"Guider, skärmdumpar, FAQ och ändringslogg"
+			]
+		}
+	},
+	"others": {
+		"label": "Övrigt",
+		"meron": "E-post med chatt- och kanbanvyer",
+		"tmiix": "Hanterare för Tmux/SSH-sessioner och kodsnuttar",
+		"jamu": "Studiehjälp för japanska med kana och quiz"
+	},
+	"sourceNote": "För källkod, releaser och ärendehantering för alla projekt, använd [nonbili GitHub-organisationen](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blogg",
+		"latest": "Senaste inläggen",
+		"readMore": "Läs hela tillkännagivandet"
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"description": "来自 nonbili 的开源应用和文档",
+	"tagline": "适合日常使用的开源应用，支持移动端和桌面端。",
+	"apps": "项目",
+	"docs": "打开文档",
+	"install": "安装",
+	"products": {
+		"noutube": {
+			"platforms": "Android / iOS / 桌面版 / 扩展",
+			"summary": "将 YouTube 和 YouTube Music 合二为一，提供后台播放、下载、订阅源和本地库管理功能。",
+			"points": [
+				"在一个客户端中无广告播放视频和音乐",
+				"最新的 APK 和桌面版下载链接",
+				"指南、屏幕截图、常见问题解答和更新日志"
+			]
+		},
+		"nora": {
+			"platforms": "Android / iOS / 桌面版",
+			"summary": "支持多账号、阻止列表、下载和 CSS 自定义的 SNS 浏览器，适用于多个社交网站。",
+			"points": [
+				"适用于多个社交网络的统一浏览器壳",
+				"最新的商店链接、APK 和桌面版下载",
+				"指南、屏幕截图、常见问题解答和更新日志"
+			]
+		},
+		"nori": {
+			"platforms": "Android / iOS / 桌面版 / 扩展",
+			"summary": "书签管理器和启动器，支持多列表、系统浏览器集成、预览卡片和同步功能。",
+			"points": [
+				"将书签整理到多个列表中并在系统浏览器中启动",
+				"最新的商店链接、APK、桌面版下载和浏览器扩展",
+				"指南、屏幕截图、常见问题解答和更新日志"
+			]
+		}
+	},
+	"others": {
+		"label": "其他",
+		"meron": "带聊天和看板视图的邮件应用",
+		"tmiix": "Tmux/SSH 会话与代码片段管理器",
+		"jamu": "包含假名和测验的日语学习助手"
+	},
+	"sourceNote": "源代码、发布版本和 Issue 请访问 [nonbili GitHub organization](https://github.com/nonbili)。",
+	"blog": {
+		"label": "博客",
+		"latest": "最新文章",
+		"readMore": "阅读完整公告"
+	}
+}

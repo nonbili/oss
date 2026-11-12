@@ -6,7 +6,7 @@ sidebar:
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
-  <p class="product-overview-header__meta">Android وسطح المكتب</p>
+  <p class="product-overview-header__meta">Android و iOS وسطح المكتب والامتداد</p>
 </div>
 
 NouTube هو تطبيق لـ Android وسطح المكتب لـ YouTube و YouTube Music.

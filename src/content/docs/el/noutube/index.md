@@ -6,7 +6,7 @@ sidebar:
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
-  <p class="product-overview-header__meta">Android και desktop</p>
+  <p class="product-overview-header__meta">Android, iOS, desktop και επέκταση</p>
 </div>
 
 Το NouTube είναι μια εφαρμογή για Android και desktop για το YouTube και το YouTube Music.

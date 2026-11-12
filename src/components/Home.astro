@@ -1,0 +1,109 @@
+---
+import { Icon } from '@astrojs/starlight/components';
+import { Image } from 'astro:assets';
+import otter from '../assets/nonbili.png';
+import PostMeta from './PostMeta.astro';
+import SiteFooter from './SiteFooter.astro';
+import { getPosts, getUI, inlineLinks, localizePath, otherProducts, productKeys, products } from '../lib/site';
+
+const { locale } = Astro.locals.starlightRoute;
+const ui = getUI(locale);
+const posts = (await getPosts(locale)).slice(0, 3);
+const href = (path: string) => localizePath(locale, path);
+---
+
+<div class="nb-home not-content">
+	<header class="nb-hero">
+		<Image class="nb-hero__mark" src={otter} alt="" width={192} height={192} loading="eager" />
+		<h1 id="_top" translate="no">Nonbili OSS</h1>
+		<p class="nb-hero__tagline">{ui.tagline}</p>
+		<div class="nb-actions">
+			<a class="nb-button nb-button--primary" href="https://github.com/nonbili">
+				<Icon name="github" />
+				GitHub
+			</a>
+			<a class="nb-button" href={href('/blog/')}>
+				<span class="nb-arrow">{ui.blog.label}</span>
+			</a>
+		</div>
+	</header>
+
+	<section class="nb-section" aria-labelledby="nb-apps">
+		<h2 id="nb-apps" class="nb-section__title">{ui.apps}</h2>
+		<div class="nb-apps">
+			{
+				productKeys.map((key) => (
+					<article class="nb-app">
+						<div class="nb-app__head">
+							<img src={products[key].logo} alt="" width="56" height="56" loading="lazy" />
+							<div>
+								<h3 translate="no">
+									<a href={href(`/${key}/`)}>{products[key].name}</a>
+								</h3>
+								<p class="nb-app__platforms">{ui.products[key].platforms}</p>
+							</div>
+						</div>
+						<p class="nb-app__summary">{ui.products[key].summary}</p>
+						<ul class="nb-app__points">
+							{ui.products[key].points.map((point) => (
+								<li>{point}</li>
+							))}
+						</ul>
+						<div class="nb-actions">
+							<a class="nb-button nb-button--primary" href={href(`/${key}/install/`)}>
+								{ui.install}
+							</a>
+							<a class="nb-button" href={href(`/${key}/`)}>
+								{ui.docs}
+							</a>
+						</div>
+					</article>
+				))
+			}
+		</div>
+	</section>
+
+	<section class="nb-section" aria-labelledby="nb-others">
+		<div class="nb-section__head">
+			<h2 id="nb-others" class="nb-section__title">{ui.others.label}</h2>
+			<a class="nb-arrow nb-more" href={href('/others/')}>{ui.docs}</a>
+		</div>
+		<div class="nb-others">
+			{
+				otherProducts.map((other) => (
+					<a class="nb-other" href={href(`/others/${other.key}/`)}>
+						<img src={other.logo} alt="" width="40" height="40" loading="lazy" />
+						<span>
+							<strong translate="no">{other.name}</strong>
+							<span>{ui.others[other.key]}</span>
+						</span>
+					</a>
+				))
+			}
+		</div>
+	</section>
+
+	<section class="nb-section" aria-labelledby="nb-latest">
+		<div class="nb-section__head">
+			<h2 id="nb-latest" class="nb-section__title">{ui.blog.latest}</h2>
+			<a class="nb-arrow nb-more" href={href('/blog/')}>{ui.blog.label}</a>
+		</div>
+		<ol class="nb-posts">
+			{
+				posts.map((post) => (
+					<li class="nb-post-row">
+						<PostMeta date={post.date} product={post.product} locale={locale} />
+						<h3>
+							<a href={post.href}>{post.title}</a>
+						</h3>
+						<p>{post.description}</p>
+					</li>
+				))
+			}
+		</ol>
+	</section>
+
+	<p class="nb-note" set:html={inlineLinks(ui.sourceNote)} />
+</div>
+
+<SiteFooter locale={locale} />

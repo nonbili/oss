@@ -6,7 +6,7 @@ sidebar:
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
-  <p class="product-overview-header__meta">Android dan desktop</p>
+  <p class="product-overview-header__meta">Android, iOS, desktop, dan ekstensi</p>
 </div>
 
 NouTube adalah aplikasi Android dan desktop untuk YouTube dan YouTube Music.

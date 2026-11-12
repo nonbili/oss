@@ -1,0 +1,48 @@
+{
+	"description": "來自 nonbili 的開源應用程式與文件。",
+	"tagline": "適合日常使用的開源應用程式，支援行動裝置與桌面。",
+	"apps": "專案",
+	"docs": "開啟文件",
+	"install": "安裝",
+	"products": {
+		"noutube": {
+			"platforms": "Android、iOS、桌面版與擴充功能",
+			"summary": "將 YouTube 與 YouTube Music 整合在一個應用程式中，具有背景播放、下載、動態消息與本地媒體庫工具。",
+			"points": [
+				"在單一客戶端中享受無廣告播放，包含音樂與影片",
+				"最新的 APK 與桌面版下載連結",
+				"指南、螢幕截圖、常見問題（FAQ）與更新日誌"
+			]
+		},
+		"nora": {
+			"platforms": "Android、iOS 與桌面版",
+			"summary": "支援獨立帳號、黑名單、下載以及跨社群網站 CSS 自定義的社群媒體瀏覽器。",
+			"points": [
+				"一個瀏覽器外殼即可存取多個社群網路",
+				"最新的商店連結、APK 與桌面版下載",
+				"指南、螢幕截圖、常見問題（FAQ）與更新日誌"
+			]
+		},
+		"nori": {
+			"platforms": "Android、iOS、桌面版與擴充功能",
+			"summary": "書籤管理器和啟動器，支援多列表、系統瀏覽器整合、預覽卡片與同步功能。",
+			"points": [
+				"將書籤整理到多個列表中並在系統瀏覽器中啟動",
+				"最新的商店連結、APK、桌面版下載與瀏覽器擴充功能",
+				"指南、螢幕截圖、常見問題（FAQ）與更新日誌"
+			]
+		}
+	},
+	"others": {
+		"label": "其他",
+		"meron": "具備聊天與看板檢視的郵件應用程式",
+		"tmiix": "Tmux/SSH 工作階段與程式碼片段管理器",
+		"jamu": "包含假名與測驗的日語學習幫手"
+	},
+	"sourceNote": "有關各專案的原始碼、發行版本與問題追蹤，請參閱 [nonbili GitHub 組織](https://github.com/nonbili)。",
+	"blog": {
+		"label": "部落格",
+		"latest": "最新文章",
+		"readMore": "閱讀完整公告"
+	}
+}

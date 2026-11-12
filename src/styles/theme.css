@@ -1,0 +1,226 @@
+/*
+ * Nonbili theme for Starlight.
+ * Calm slate neutrals with the sea blue of the otter mark as the single accent.
+ */
+
+:root,
+::backdrop {
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #e9edf2;
+	--sl-color-gray-2: #bcc5d0;
+	--sl-color-gray-3: #8a95a4;
+	--sl-color-gray-4: #556070;
+	--sl-color-gray-5: #2f3845;
+	--sl-color-gray-6: #1c232d;
+	--sl-color-black: #11161d;
+
+	--sl-color-accent-low: #0f2f49;
+	--sl-color-accent: #1f8fdc;
+	--sl-color-accent-high: #a9d8fb;
+
+	--sl-color-bg-nav: var(--sl-color-black);
+	--sl-color-bg-sidebar: var(--sl-color-black);
+	--sl-color-hairline-shade: var(--sl-color-gray-6);
+
+	--sl-text-h1: 2rem;
+	--sl-text-h2: 1.5rem;
+	--sl-text-h3: 1.25rem;
+	--sl-text-h4: 1.0625rem;
+	--sl-text-h5: 1rem;
+	--sl-line-height: 1.7;
+	--sl-nav-height: 3.5rem;
+	--sl-sidebar-width: 17.5rem;
+
+	--nb-radius: 0.875rem;
+	--nb-radius-sm: 0.5rem;
+	--nb-surface: var(--sl-color-gray-6);
+	--nb-border: var(--sl-color-gray-5);
+	--nb-button-bg: var(--sl-color-accent-high);
+	--nb-button-fg: var(--sl-color-black);
+}
+
+:root[data-theme='light'],
+[data-theme='light'] ::backdrop {
+	--sl-color-white: #11161d;
+	--sl-color-gray-1: #1c232d;
+	--sl-color-gray-2: #2f3845;
+	--sl-color-gray-3: #556070;
+	--sl-color-gray-4: #8a95a4;
+	--sl-color-gray-5: #c3cbd5;
+	--sl-color-gray-6: #e8ecf1;
+	--sl-color-gray-7: #f4f6f9;
+	--sl-color-black: #ffffff;
+
+	--sl-color-accent-low: #dceefc;
+	--sl-color-accent: #0a6fbd;
+	--sl-color-accent-high: #0a4a7d;
+
+	--sl-color-bg-nav: var(--sl-color-black);
+	--sl-color-bg-sidebar: var(--sl-color-black);
+	--sl-color-hairline-shade: var(--sl-color-gray-6);
+
+	--nb-surface: var(--sl-color-black);
+	--nb-border: var(--sl-color-gray-6);
+	--nb-button-bg: var(--sl-color-accent);
+	--nb-button-fg: #ffffff;
+}
+
+@media (min-width: 50em) {
+	:root {
+		--sl-nav-height: 3.75rem;
+		--sl-text-h1: 2.375rem;
+		--sl-text-h2: 1.625rem;
+		--sl-text-h3: 1.3125rem;
+		--sl-text-h4: 1.125rem;
+	}
+}
+
+/* ---------- Header ---------- */
+
+.page > .header {
+	background-color: color-mix(in srgb, var(--sl-color-bg-nav) 84%, transparent);
+	backdrop-filter: saturate(1.4) blur(14px);
+	-webkit-backdrop-filter: saturate(1.4) blur(14px);
+}
+
+.site-title {
+	gap: 0.625rem;
+	color: var(--sl-color-white);
+	font-size: var(--sl-text-base);
+	font-weight: 650;
+	letter-spacing: -0.01em;
+}
+
+.site-title img {
+	height: 1.75rem;
+	border-radius: 0.5rem;
+}
+
+/* ---------- Sidebar ---------- */
+
+.sidebar-content .top-level > li > details > summary .large,
+.sidebar-content .top-level > li > a.large {
+	font-size: var(--sl-text-sm);
+	font-weight: 650;
+	color: var(--sl-color-white);
+}
+
+.sidebar-content a {
+	border-radius: var(--nb-radius-sm);
+}
+
+.sidebar-content a[aria-current='page'],
+.sidebar-content a[aria-current='page']:hover,
+.sidebar-content a[aria-current='page']:focus {
+	color: var(--sl-color-text-accent);
+	background-color: var(--sl-color-accent-low);
+}
+
+[data-theme='light'] .sidebar-content a[aria-current='page'] {
+	color: var(--sl-color-accent-high);
+}
+
+@media (min-width: 50rem) {
+	/* Shown in the header on wide screens. */
+	.sidebar-content li:has(> a.nb-mobile-only) {
+		display: none;
+	}
+}
+
+/* ---------- Content ---------- */
+
+/* Title and body read as one column instead of two ruled panels. */
+.content-panel + .content-panel {
+	border-top: 0;
+	padding-top: 0;
+}
+
+.content-panel:has(.nb-bare) {
+	display: none;
+}
+
+.content-panel h1 {
+	letter-spacing: -0.022em;
+	font-weight: 700;
+}
+
+.sl-markdown-content :is(h2, h3, h4) {
+	letter-spacing: -0.012em;
+}
+
+.sl-markdown-content h2:not(:where(.not-content *)) {
+	margin-top: 2.5rem;
+}
+
+.sl-markdown-content a:not(:where(.not-content *)) {
+	text-decoration-thickness: 1px;
+	text-underline-offset: 0.2em;
+	text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+}
+
+.sl-markdown-content a:hover:not(:where(.not-content *)) {
+	text-decoration-color: currentColor;
+}
+
+.sl-markdown-content code:not(:where(.not-content *, pre *)) {
+	border-radius: 0.35rem;
+	padding: 0.15rem 0.35rem;
+}
+
+.sl-markdown-content hr:not(:where(.not-content *)) {
+	border: 0;
+	border-top: 1px solid var(--sl-color-hairline-light);
+	margin-block: 2.5rem;
+}
+
+.expressive-code .frame {
+	--ec-brdRad: var(--nb-radius-sm);
+}
+
+.starlight-aside {
+	border-radius: var(--nb-radius-sm);
+}
+
+/* Prev / next cards */
+.pagination-links a {
+	border-radius: var(--nb-radius);
+	border-color: var(--nb-border);
+	box-shadow: none;
+}
+
+.pagination-links a .link-title {
+	font-size: var(--sl-text-lg);
+}
+
+.pagination-links a:hover {
+	border-color: var(--sl-color-accent);
+}
+
+/* ---------- Shared pieces ---------- */
+
+.nb-arrow::after {
+	content: '→';
+	display: inline-block;
+	margin-inline-start: 0.35em;
+	transition: transform 0.15s ease;
+}
+
+[dir='rtl'] .nb-arrow::after {
+	content: '←';
+}
+
+a.nb-arrow:hover::after,
+a:hover > .nb-arrow::after {
+	transform: translateX(0.15em);
+}
+
+[dir='rtl'] a.nb-arrow:hover::after,
+[dir='rtl'] a:hover > .nb-arrow::after {
+	transform: translateX(-0.15em);
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.nb-arrow::after {
+		transition: none;
+	}
+}

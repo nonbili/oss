@@ -1,0 +1,48 @@
+{
+	"description": "Open-source apps and documentation from nonbili.",
+	"tagline": "Open-source apps for everyday use, on mobile and desktop.",
+	"apps": "Projects",
+	"docs": "Open docs",
+	"install": "Install",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, desktop, and extension",
+			"summary": "YouTube and YouTube Music in one app, with background playback, downloads, feeds, and local library tools.",
+			"points": [
+				"Ad-free playback with music and video in one client",
+				"Latest APK and desktop download links",
+				"Guides, screenshots, FAQ, and changelog"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS, and desktop",
+			"summary": "SNS browser with separate accounts, blocklists, downloads, and CSS customization across supported social sites.",
+			"points": [
+				"One browser shell for multiple social networks",
+				"Latest store links, APKs, and desktop downloads",
+				"Guides, screenshots, FAQ, and changelog"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, desktop, and extension",
+			"summary": "Bookmark manager and launcher with multiple lists, system browser integration, preview cards, and sync.",
+			"points": [
+				"Organize bookmarks into lists and launch in system browser",
+				"Latest store links, APKs, desktop downloads, and extensions",
+				"Guides, screenshots, FAQ, and changelog"
+			]
+		}
+	},
+	"others": {
+		"label": "Others",
+		"meron": "Email with chat & kanban views",
+		"tmiix": "Tmux/SSH session and snippet manager",
+		"jamu": "Japanese study helper with kana and quizzes"
+	},
+	"sourceNote": "For source code, releases, and issue tracking across projects, use the [nonbili GitHub organization](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Latest Posts",
+		"readMore": "Read the full announcement"
+	}
+}

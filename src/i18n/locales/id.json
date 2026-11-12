@@ -1,0 +1,48 @@
+{
+	"description": "Aplikasi open-source dan dokumentasi dari nonbili.",
+	"tagline": "Aplikasi sumber terbuka untuk penggunaan sehari-hari, di ponsel dan desktop.",
+	"apps": "Proyek",
+	"docs": "Buka dokumentasi",
+	"install": "Instal",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, desktop, dan ekstensi",
+			"summary": "YouTube dan YouTube Music dalam satu aplikasi, dengan pemutaran latar belakang, unduhan, feed, dan alat pustaka lokal.",
+			"points": [
+				"Pemutaran bebas iklan dengan musik dan video dalam satu klien",
+				"Tautan unduhan APK terbaru dan desktop",
+				"Panduan, screenshot, FAQ, dan changelog"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS, dan desktop",
+			"summary": "Browser SNS dengan akun terpisah, blocklist, unduhan, dan kustomisasi CSS di berbagai situs sosial yang didukung.",
+			"points": [
+				"Satu shell browser untuk beberapa jejaring sosial",
+				"Tautan store terbaru, APK, dan unduhan desktop",
+				"Panduan, screenshot, FAQ, dan changelog"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, desktop, dan ekstensi",
+			"summary": "Pengelola dan peluncur markah dengan beberapa daftar, integrasi browser sistem, kartu pratinjau, dan sinkronisasi.",
+			"points": [
+				"Atur markah ke dalam beberapa daftar dan buka di browser sistem",
+				"Tautan store terbaru, APK, unduhan desktop, dan ekstensi",
+				"Panduan, screenshot, FAQ, dan changelog"
+			]
+		}
+	},
+	"others": {
+		"label": "Lainnya",
+		"meron": "Email dengan tampilan obrolan & kanban",
+		"tmiix": "Pengelola sesi Tmux/SSH dan snippet",
+		"jamu": "Alat bantu belajar bahasa Jepang dengan kana dan kuis"
+	},
+	"sourceNote": "Untuk kode sumber, rilis, dan pelacakan issue di seluruh proyek, gunakan [organisasi GitHub nonbili](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Postingan Terbaru",
+		"readMore": "Baca pengumuman lengkap"
+	}
+}

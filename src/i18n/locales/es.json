@@ -1,0 +1,48 @@
+{
+	"description": "Aplicaciones de código abierto y documentación de nonbili.",
+	"tagline": "Aplicaciones de código abierto para el día a día, en móvil y escritorio.",
+	"apps": "Proyectos",
+	"docs": "Abrir documentación",
+	"install": "Instalar",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, escritorio y extensión",
+			"summary": "YouTube y YouTube Music en una sola aplicación, con reproducción en segundo plano, descargas, feeds y herramientas de biblioteca local.",
+			"points": [
+				"Reproducción sin anuncios con música y vídeo en un solo cliente",
+				"Últimos enlaces de descarga de APK y escritorio",
+				"Guías, capturas de pantalla, preguntas frecuentes y registro de cambios"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS y escritorio",
+			"summary": "Navegador de redes sociales con cuentas separadas, listas de bloqueo, descargas y personalización CSS en los sitios sociales compatibles.",
+			"points": [
+				"Una interfaz de navegador para múltiples redes sociales",
+				"Últimos enlaces a tiendas, APK y descargas de escritorio",
+				"Guías, capturas de pantalla, preguntas frecuentes y registro de cambios"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, escritorio y extensión",
+			"summary": "Gestor y lanzador de marcadores con múltiples listas, integración con el navegador del sistema, tarjetas de vista previa y sincronización.",
+			"points": [
+				"Organiza marcadores en listas y ábrelos en el navegador del sistema",
+				"Últimos enlaces a tiendas, APK, descargas de escritorio y extensiones",
+				"Guías, capturas de pantalla, preguntas frecuentes y registro de cambios"
+			]
+		}
+	},
+	"others": {
+		"label": "Otros",
+		"meron": "Correo con vistas de chat y kanban",
+		"tmiix": "Gestor de sesiones Tmux/SSH y snippets",
+		"jamu": "Ayuda para estudiar japonés con kana y cuestionarios"
+	},
+	"sourceNote": "Para el código fuente, las versiones y el seguimiento de problemas en los proyectos, utiliza la [organización de GitHub de nonbili](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Últimas publicaciones",
+		"readMore": "Leer el anuncio completo"
+	}
+}

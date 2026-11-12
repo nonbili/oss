@@ -6,7 +6,7 @@ sidebar:
 ---
 <div class="product-overview-header">
   <img class="product-overview-header__logo" src="/app-logos/noutube.png" alt="NouTube logo" />
-  <p class="product-overview-header__meta">Android 與桌面版</p>
+  <p class="product-overview-header__meta">Android、iOS、桌面版與擴充功能</p>
 </div>
 
 NouTube 是一款適用於 Android 與桌面版的 YouTube 與 YouTube Music 應用程式。

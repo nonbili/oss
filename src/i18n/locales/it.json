@@ -1,0 +1,48 @@
+{
+	"description": "App open-source e documentazione da nonbili.",
+	"tagline": "App open source per l'uso quotidiano, su mobile e desktop.",
+	"apps": "Progetti",
+	"docs": "Apri doc",
+	"install": "Installa",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, desktop ed estensione",
+			"summary": "YouTube e YouTube Music in un'unica app, con riproduzione in background, download, feed e strumenti per la gestione della libreria locale.",
+			"points": [
+				"Riproduzione senza pubblicità con musica e video in un unico client",
+				"Link per il download degli ultimi APK e versioni desktop",
+				"Guide, screenshot, FAQ e changelog"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS e desktop",
+			"summary": "Browser SNS con account separati, liste di blocco, download e personalizzazione CSS sui siti social supportati.",
+			"points": [
+				"Un'unica shell browser per più social network",
+				"Ultimi link agli store, APK e download desktop",
+				"Guide, screenshot, FAQ e changelog"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, desktop ed estensione",
+			"summary": "Gestore e avviatore di segnalibri con liste multiple, integrazione con il browser di sistema, schede di anteprima e sincronizzazione.",
+			"points": [
+				"Organizza i segnalibri in liste e aprilo nel browser di sistema",
+				"Ultimi link agli store, APK, download desktop ed estensioni",
+				"Guide, screenshot, FAQ e changelog"
+			]
+		}
+	},
+	"others": {
+		"label": "Altri",
+		"meron": "Email con viste chat e kanban",
+		"tmiix": "Gestore di sessioni Tmux/SSH e snippet",
+		"jamu": "Aiuto per lo studio del giapponese con kana e quiz"
+	},
+	"sourceNote": "Per il codice sorgente, i rilasci e il tracciamento dei problemi nei progetti, utilizza l'[organizzazione GitHub nonbili](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Ultimi articoli",
+		"readMore": "Leggi l'annuncio completo"
+	}
+}
