@@ -3,7 +3,7 @@ title: "Nora 0.9.2: Más formas de seguir tus feeds"
 description: Lee feeds de Instagram desde imginn y feeds de X desde instancias de Nitter, amplía cronologías y archivos multimedia de la galería, y elige dónde guardar las descargas en Android.
 sidebar:
   label: Lanzamiento de Nora 0.9.2
-  order: 2
+  order: 6
 ---
 
 *Publicado el 29 de octubre de 2026*

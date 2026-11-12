@@ -3,7 +3,7 @@ title: "Nora 0.9.2: フィードをフォローする方法がさらに充実"
 description: imginn からの Instagram フィード取得や Nitter インスタンスからの X フィード取得、タイムラインとギャラリーメディアのズーム、Android でのダウンロード保存先の選択に対応しました。
 sidebar:
   label: Nora 0.9.2 リリース
-  order: 2
+  order: 6
 ---
 
 *2026年10月29日公開*

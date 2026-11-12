@@ -3,7 +3,7 @@ title: "Nora 0.9.2: Mehr Möglichkeiten, Ihren Feeds zu folgen"
 description: Lesen Sie Instagram-Feeds über imginn und X-Feeds über Nitter-Instanzen, zoomen Sie in Timelines und Galeriemedien und wählen Sie unter Android aus, wo Downloads gespeichert werden.
 sidebar:
   label: Nora 0.9.2 Veröffentlichung
-  order: 2
+  order: 6
 ---
 
 *Veröffentlicht am 29. Oktober 2026*

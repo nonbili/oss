@@ -3,7 +3,7 @@ title: "Nora 0.9.2：更多方式，畅追动态"
 description: 支持通过 imginn 读取 Instagram 动态、通过 Nitter 实例读取 X 动态，缩放时间线与画廊媒体，并在 Android 上选择下载保存位置。
 sidebar:
   label: Nora 0.9.2 发布
-  order: 2
+  order: 6
 ---
 
 *2026年10月29日发布*

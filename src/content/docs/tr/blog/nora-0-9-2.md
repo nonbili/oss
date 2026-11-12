@@ -3,7 +3,7 @@ title: "Nora 0.9.2: Akışlarınızı Takip Etmenin Daha Fazla Yolu"
 description: Instagram akışlarını imginn üzerinden ve X akışlarını Nitter örneklerinden okuyun, zaman akışlarını ve galeri medyalarını yakınlaştırın ve Android'de indirmelerin nereye kaydedileceğini seçin.
 sidebar:
   label: Nora 0.9.2 Sürümü
-  order: 2
+  order: 6
 ---
 
 *29 Ekim 2026'da yayımlandı*
