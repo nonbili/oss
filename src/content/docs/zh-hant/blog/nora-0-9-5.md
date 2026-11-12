@@ -1,0 +1,50 @@
+---
+title: "Nora 0.9.5：代理伺服器登入與更清爽的 X"
+description: 在 Android 及 iOS 17 或更新版本上登入代理伺服器，自由選擇在 X 上隱藏的內容，預設以「最新」排序搜尋，並維持 Facebook 一般貼文正常顯示。
+sidebar:
+  label: Nora 0.9.5 發布
+  order: 3
+---
+
+*2026年11月6日發布*
+
+行動端 **Nora 0.9.5** 在行動裝置上新增了代理伺服器使用者名稱與密碼欄位，並針對 X 上的顯示內容提供更多控制選項。同時還改善了 Facebook 廣告篩選與瀏覽器 Cookie 匯入。
+
+## 在行動端登入代理伺服器
+
+開啟 **設定 → 瀏覽 → 代理伺服器** 即可選擇 HTTP 或 SOCKS，輸入主機與連接埠，並填寫使用者名稱與密碼。**Android** 與 **iOS 17 或更新版本** 皆支援驗證代理伺服器，可同時用於網頁瀏覽與動態請求。
+
+憑證保留在裝置本機上，不包含在備份與同步中。在 iOS 16 上，代理支援仍僅限於動態請求的未驗證 HTTP 代理伺服器。
+
+## 選擇在 X 上隱藏的內容
+
+在 **設定 → 服務 → X** 下，您現在可以選擇隱藏：
+
+- **Grok UI**：移除 Grok 介面元素。
+- **推薦內容**：包括「推薦跟隨」、趨勢與「探索更多」。
+- **互動次數**：減少時間軸上爭奪注意力的各種互動數字。
+
+這些設定皆為選用。同一設定頁面亦提供 **預設以「最新」搜尋**，讓搜尋結果以近期貼文開啟，而非熱門推文。如果您需要不同的檢視方式，仍可隨時在 X 上切換搜尋分頁。
+
+<div class="screenshot-gallery" style="max-width: 24rem;">
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">Android 版 Nora 的 X 控制選項：選擇要隱藏的介面元素，以及搜尋時是否預設開啟「最新」。</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/nora-0-9-5/x-settings.png" alt="Pixel 手機上的 Nora X 設定畫面，展示可選的 Grok、推薦內容、互動次數與最新搜尋設定" width="1080" height="2220" loading="lazy" />
+    </div>
+  </figure>
+</div>
+
+## 維持 Facebook 一般貼文正常顯示
+
+Facebook 廣告篩選現在會直接檢查贊助標籤本身。僅僅提及「Ad」或「廣告」的一般貼文不再容易被誤判隱藏。
+
+## 更穩定的 Cookie 匯入
+
+匯入瀏覽器 Cookie 時，現在會完整保留以 `__Host-` 與 `__Secure-` 開頭的名稱。保留這些前置字元有助於網站正確識別已匯入的登入階段。
+
+完整變更清單請參閱 [GitHub 上的版本資訊](https://github.com/nonbili/Nora/releases/tag/v0.9.5)。
+
+## 取得 Nora
+
+[安裝或更新 Nora](/zh-hant/nora/install/)，或瀏覽 [Nora 說明文件](/zh-hant/nora/)以了解更多資訊。
