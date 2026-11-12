@@ -3,7 +3,7 @@ title: "Nora 0.9.2: طرق أكثر لمتابعة خلاصاتك"
 description: اقرأ خلاصات Instagram من imginn وخلاصات X من خوادم Nitter، وقم بتكبير الخطوط الزمنية ووسائط المعرض، واختر مكان حفظ التنزيلات على Android.
 sidebar:
   label: إصدار Nora 0.9.2
-  order: 2
+  order: 6
 ---
 
 *نُشر في 29 أكتوبر 2026*

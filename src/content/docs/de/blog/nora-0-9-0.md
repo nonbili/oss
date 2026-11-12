@@ -3,7 +3,7 @@ title: "Nora 0.9.0: Ihre Social-Feeds an einem Ort"
 description: Folgen Sie Social-Media-Konten in eigenen chronologischen Timelines mit Nora 0.9.0 und durchstöbern Sie Fotos und Videos in einem Medienraster.
 sidebar:
   label: Nora 0.9.0 Veröffentlichung
-  order: 3
+  order: 7
 ---
 
 *Veröffentlicht am 22. Oktober 2026*

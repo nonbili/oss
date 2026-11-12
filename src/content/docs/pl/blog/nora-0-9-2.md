@@ -3,7 +3,7 @@ title: "Nora 0.9.2: Więcej sposobów na śledzenie kanałów"
 description: Czytaj kanały Instagrama z imginn oraz kanały X z instancji Nittera, powiększaj osie czasu i multimedia w galerii oraz wybieraj miejsce zapisu pobranych plików na Androidzie.
 sidebar:
   label: Wydanie Nora 0.9.2
-  order: 2
+  order: 6
 ---
 
 *Opublikowano 29 października 2026 r.*

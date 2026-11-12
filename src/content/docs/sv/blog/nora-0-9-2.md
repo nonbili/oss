@@ -3,7 +3,7 @@ title: "Nora 0.9.2: Fler sätt att följa dina flöden"
 description: Läs Instagram-flöden från imginn och X-flöden från Nitter-instanser, zooma in i tidslinjer och gallerimedia och välj var nedladdningar ska sparas på Android.
 sidebar:
   label: Nora 0.9.2-lansering
-  order: 2
+  order: 6
 ---
 
 *Publicerad den 29 oktober 2026*

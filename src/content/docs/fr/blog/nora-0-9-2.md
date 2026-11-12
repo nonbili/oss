@@ -3,7 +3,7 @@ title: "Nora 0.9.2 : plus de façons de suivre vos flux"
 description: Lisez les flux Instagram depuis imginn et les flux X depuis des instances Nitter, zoomez dans les fils et la galerie multimédia, et choisissez où enregistrer les téléchargements sur Android.
 sidebar:
   label: Sortie de Nora 0.9.2
-  order: 2
+  order: 6
 ---
 
 *Publié le 29 octobre 2026*

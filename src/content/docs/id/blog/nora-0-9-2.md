@@ -3,7 +3,7 @@ title: "Nora 0.9.2: Lebih Banyak Cara untuk Mengikuti Feed Anda"
 description: Baca feed Instagram dari imginn dan feed X dari instance Nitter, perbesar linimasa dan media galeri, serta pilih lokasi penyimpanan unduhan di Android.
 sidebar:
   label: Rilis Nora 0.9.2
-  order: 2
+  order: 6
 ---
 
 *Diterbitkan pada 29 Oktober 2026*
