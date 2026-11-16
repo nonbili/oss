@@ -1,0 +1,66 @@
+---
+title: "NouTube 0.7.10：更快的视频起播、自定义下载文件夹与社区帖子"
+description: 缩短等待视频开始播放的时间，在 Android 上选择下载保存位置，并将已保存频道的社区帖子带入你的动态中。
+date: 2026-11-16
+product: noutube
+---
+
+**Android 版 NouTube 0.7.10** 缩短了视频开始播放前的等待时间。本文还介绍了 **0.7.9** 的新增功能：在 Android 上选择下载文件夹，以及在动态阅读器中查看已保存频道的社区帖子。
+
+## 缩短播放前的等待时间
+
+NouTube 现在会在收到视频页面响应时边接收边处理，无需等待整个响应完成即可开始播放。在**启用广告拦截**的情况下，它还会请求无片头广告的播放，进一步减少起播延迟。
+
+**桌面端**的相关改进也让视频页面能够更快开始加载。这些改动无需开启任何新设置即可生效。
+
+## 在 Android 上选择下载文件夹
+
+想把下载的视频存放在专用文件夹中吗？在 **Android** 上，你现在可以选择它们的保存位置。
+
+在下载对话框中，点击**文件夹**下的**浏览**，然后在 Android 文件夹选择器中选择一个文件夹。如需恢复默认位置，请点击**使用 Downloads 文件夹**。
+
+<div class="screenshot-gallery" style="max-width: 24rem;">
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">将视频保存到专用文件夹，或切回 Downloads。</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/noutube-0-7-10/download-folder.png" alt="NouTube 的 Android 下载对话框，显示选中的文件夹 Download/NouTube、浏览和使用 Downloads 文件夹" width="1080" height="2400" loading="lazy" />
+    </div>
+  </figure>
+</div>
+
+## 在动态阅读器中查看社区帖子
+
+你保存的频道可能会在视频更新之间分享动态。**频道动态**现在可以将它们的社区帖子与视频一起显示，让你在一个地方同时阅读。
+
+要试用此功能，请打开**设置 → 外观**，然后开启位于**频道动态**正下方的**在动态中显示社区帖子**。该选项**默认关闭**：包含帖子意味着需要检查每个已保存频道的“帖子”标签页，这会在刷新动态时消耗更多流量。
+
+<div class="screenshot-gallery">
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">在外观设置中启用社区帖子。</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/noutube-0-7-10/community-posts-setting.png" alt="Android 版 NouTube 的外观设置，已开启频道动态和在动态中显示社区帖子" width="1080" height="2400" loading="lazy" />
+    </div>
+  </figure>
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">社区帖子会与已保存频道的视频一起显示。</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/noutube-0-7-10/community-post-in-feed.png" alt="NouTube 动态显示带有文字和图片的 Veritasium 社区帖子以及上传的视频" width="1080" height="2400" loading="lazy" />
+    </div>
+  </figure>
+</div>
+
+## 细节修复
+
+此次更新还让一些日常交互更加顺畅：
+
+- **Android 横屏布局：** 应用视图和翻译卡片会避开系统导航栏。
+- **Android 链接菜单：** 长按视频链接弹出的菜单现在会显示正确的视频标题和操作图标。
+- **桌面端书签：** 从缩略图收藏视频时会保存正确的标题。
+
+此外还更新了波兰语、法语、加利西亚语、意大利语、葡萄牙语（巴西）和俄语的翻译。
+
+完整更改列表请参见 [GitHub 上的发布说明](https://github.com/nonbili/NouTube/releases/tag/v0.7.10)。
+
+## 获取 NouTube
+
+[安装或更新 NouTube](/zh-hans/noutube/install/)，或查阅 [NouTube 文档](/zh-hans/noutube/)了解更多信息。
