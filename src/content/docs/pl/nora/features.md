@@ -15,6 +15,8 @@ Jest to główna funkcja strukturalna, która sprawia, że Nora jest użyteczna 
 - Brak reklam
 - Obsługa list blokowania EasyList i EasyPrivacy
 - Czyszczenie parametrów śledzenia z adresów URL
+- Tryb anonimowy: ukrywanie komunikatów o logowaniu i otwieraniu w aplikacji na Facebooku, Instagramie, Threads, Tumblr i X oraz przewijanie postów i rolek (Reels) na profilu Instagrama bez konta
+- Wyszukiwanie publicznych postów bez logowania (przez DuckDuckGo)
 
 ## Media i Czytanie
 

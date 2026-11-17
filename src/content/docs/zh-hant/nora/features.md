@@ -15,6 +15,8 @@ sidebar:
 - 無廣告
 - 支援 EasyList 與 EasyPrivacy 阻擋清單
 - 清理追蹤 URL 查詢參數
+- 匿名模式：隱藏 Facebook、Instagram、Threads、Tumblr 與 X 上的登入及「在應用程式中開啟」提示，無需帳號即可瀏覽 Instagram 個人檔案的貼文與 Reels
+- 無需登入即可搜尋公開貼文（透過 DuckDuckGo）
 
 ## 媒體與閱讀
 

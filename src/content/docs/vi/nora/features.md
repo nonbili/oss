@@ -15,6 +15,8 @@ sidebar:
 - Không quảng cáo
 - Hỗ trợ danh sách chặn EasyList và EasyPrivacy
 - Dọn dẹp tham số truy vấn URL theo dõi
+- Chế độ ẩn danh: ẩn lời nhắc đăng nhập và mở trong ứng dụng trên Facebook, Instagram, Threads, Tumblr và X, đồng thời cuộn xem bài viết và reels trên trang cá nhân Instagram mà không cần tài khoản
+- Tìm kiếm bài viết công khai không cần đăng nhập (qua DuckDuckGo)
 
 ## Phương tiện và đọc nội dung
 

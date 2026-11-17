@@ -15,6 +15,8 @@ Ini adalah fitur struktural utama yang membuat Nora berguna bagi orang yang memb
 - Tanpa iklan
 - Dukungan blocklist EasyList dan EasyPrivacy
 - Pembersihan parameter kueri URL pelacakan
+- Mode anonim: sembunyikan ajakan masuk dan buka-di-aplikasi di Facebook, Instagram, Threads, Tumblr, dan X, serta gulir postingan dan reel profil Instagram tanpa akun
+- Cari postingan publik tanpa masuk (melalui DuckDuckGo)
 
 ## Media dan Membaca
 

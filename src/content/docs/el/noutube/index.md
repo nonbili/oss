@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, desktop και επέκταση</p>
 </div>
 
-Το NouTube είναι μια εφαρμογή για Android και desktop για το YouTube και το YouTube Music.
+Το NouTube είναι μια εφαρμογή για Android, iOS, desktop και επέκταση προγράμματος περιήγησης για το YouTube και το YouTube Music.
 
 Περιβάλλει τις web εφαρμογές του YouTube και του YouTube Music για κινητά και προσθέτει native συμπεριφορά από πάνω, συμπεριλαμβανομένου του αποκλεισμού διαφημίσεων, hooks ελέγχου αναπαραγωγής, υποστήριξης λήψης, RSS feeds και διαχείρισης βιβλιοθήκης φιλικής προς τη χρήση εκτός σύνδεσης.
 
@@ -26,8 +26,10 @@ sidebar:
 
 ## Πλατφόρμες
 
-- Android
-- Desktop
+- **Android**: Διαθέσιμο στο F-Droid και ως απευθείας εκδόσεις APK στο GitHub.
+- **iOS**: Διαθέσιμο μέσω της έκδοσης beta στο TestFlight.
+- **Desktop**: Εγγενή προγράμματα εγκατάστασης για Linux, macOS και Windows.
+- **Επέκταση προγράμματος περιήγησης**: Επέκταση Manifest V3 για Mozilla Firefox και Google Chrome.
 
 Η έκδοση desktop ακολουθεί το ίδιο μοντέλο προϊόντος με την εφαρμογή για κινητά, με native προγράμματα εγκατάστασης για μεγαλύτερες οθόνες.
 

@@ -15,6 +15,8 @@ See on peamine struktuurne omadus, mis muudab Nora kasulikuks inimestele, kes va
 - Reklaamivaba
 - EasyListi ja EasyPrivacy blokeerimisloendite tugi
 - Jälgivate URL-i päringuparameetrite puhastamine
+- Anonüümne režiim: peida sisselogimise ja rakenduses avamise viibad Facebookis, Instagramis, Threadsis, Tumblris ja X-is ning keri Instagrami profiili postitusi ja reelse ilma kontota
+- Otsi avalikke postitusi sisse logimata (DuckDuckGo kaudu)
 
 ## Meedia ja lugemine
 

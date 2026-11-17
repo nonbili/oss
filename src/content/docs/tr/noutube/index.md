@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, masaüstü ve uzantı</p>
 </div>
 
-NouTube; YouTube ve YouTube Music için bir Android ve masaüstü uygulamasıdır.
+NouTube; YouTube ve YouTube Music için bir Android, iOS, masaüstü ve tarayıcı uzantısı uygulamasıdır.
 
 Mobil YouTube ve YouTube Music web uygulamalarını bir kabuk içine alır ve reklam engelleme, oynatma kontrol kancaları, indirme desteği, RSS feed'leri ve çevrimdışı dostu kitaplık yönetimi gibi yerel davranışları üzerine ekler.
 
@@ -26,8 +26,10 @@ Mobil YouTube ve YouTube Music web uygulamalarını bir kabuk içine alır ve re
 
 ## Platformlar
 
-- Android
-- Masaüstü
+- **Android**: F-Droid ve doğrudan GitHub APK sürümleri üzerinden kullanılabilir.
+- **iOS**: TestFlight beta aracılığıyla kullanılabilir.
+- **Masaüstü**: Linux, macOS ve Windows için yerel yükleyiciler.
+- **Tarayıcı Uzantısı**: Mozilla Firefox ve Google Chrome için Manifest V3 uzantısı.
 
 Masaüstü derlemesi, daha büyük ekranlar için yerel yükleyicilerle mobil uygulama ile aynı ürün modelini izler.
 

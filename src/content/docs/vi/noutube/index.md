@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, máy tính và tiện ích mở rộng</p>
 </div>
 
-NouTube là ứng dụng trên Android và máy tính dành cho YouTube và YouTube Music.
+NouTube là ứng dụng trên Android, iOS, máy tính và tiện ích mở rộng trình duyệt dành cho YouTube và YouTube Music.
 
 Ứng dụng bọc các ứng dụng web di động của YouTube và YouTube Music, đồng thời xếp lớp các hành vi gốc lên trên, bao gồm chặn quảng cáo, hook điều khiển phát lại, hỗ trợ tải xuống, bảng tin RSS và quản lý thư viện thân thiện ngoại tuyến.
 
@@ -26,8 +26,10 @@ NouTube là ứng dụng trên Android và máy tính dành cho YouTube và YouT
 
 ## Nền tảng
 
-- Android
-- Máy tính
+- **Android**: Có sẵn trên F-Droid và các bản phát hành APK trực tiếp trên GitHub.
+- **iOS**: Có sẵn qua bản beta TestFlight.
+- **Máy tính**: Trình cài đặt gốc cho Linux, macOS và Windows.
+- **Tiện ích mở rộng trình duyệt**: Tiện ích mở rộng Manifest V3 cho Mozilla Firefox và Google Chrome.
 
 Bản dựng cho máy tính tuân theo cùng mô hình sản phẩm như ứng dụng di động, với trình cài đặt gốc cho màn hình lớn hơn.
 

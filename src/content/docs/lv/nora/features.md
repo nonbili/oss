@@ -15,6 +15,8 @@ sidebar:
 - Bez reklāmām
 - EasyList un EasyPrivacy bloķēšanas sarakstu atbalsts
 - Izsekošanas URL vaicājuma parametru tīrīšana
+- Anonīmais režīms: paslēpiet pierakstīšanās un atvēršanas lietotnē uzvednes vietnēs Facebook, Instagram, Threads, Tumblr un X, kā arī ritiniet Instagram profila ierakstus un rullīšus (Reels) bez konta
+- Meklējiet publiskos ierakstus bez pierakstīšanās (izmantojot DuckDuckGo)
 
 ## Multivide un lasīšana
 

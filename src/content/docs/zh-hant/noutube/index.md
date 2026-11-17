@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android、iOS、桌面版與擴充功能</p>
 </div>
 
-NouTube 是一款適用於 Android 與桌面版的 YouTube 與 YouTube Music 應用程式。
+NouTube 是一款適用於 Android、iOS、桌面版與瀏覽器擴充功能的 YouTube 與 YouTube Music 應用程式。
 
 它封裝了 YouTube 與 YouTube Music 的行動版網頁應用程式，並在其上層疊了原生行為，包括廣告阻擋、播放控制掛鉤、下載支援、RSS 訂閱以及離線友善的媒體庫管理。
 
@@ -26,8 +26,10 @@ NouTube 是一款適用於 Android 與桌面版的 YouTube 與 YouTube Music 應
 
 ## 平台
 
-- Android
-- 桌面版
+- **Android**：可在 F-Droid 下載或直接取得 GitHub APK 發行版本。
+- **iOS**：可透過 TestFlight 測試版使用。
+- **桌面版**：適用於 Linux、macOS 與 Windows 的原生安裝程式。
+- **瀏覽器擴充功能**：適用於 Mozilla Firefox 與 Google Chrome 的 Manifest V3 擴充功能。
 
 桌面版本遵循與行動版相同的產品模式，具備適用於大螢幕的原生安裝程式。
 

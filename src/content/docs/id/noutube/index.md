@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, desktop, dan ekstensi</p>
 </div>
 
-NouTube adalah aplikasi Android dan desktop untuk YouTube dan YouTube Music.
+NouTube adalah aplikasi Android, iOS, desktop, dan ekstensi browser untuk YouTube dan YouTube Music.
 
 Aplikasi ini membungkus aplikasi web seluler YouTube dan YouTube Music dan melapisi perilaku native di atasnya, termasuk pemblokiran iklan, hook kontrol pemutaran, dukungan unduhan, RSS feed, dan manajemen pustaka yang ramah luring.
 
@@ -26,8 +26,10 @@ Aplikasi ini membungkus aplikasi web seluler YouTube dan YouTube Music dan melap
 
 ## Platform
 
-- Android
-- Desktop
+- **Android**: Tersedia di F-Droid dan rilis APK langsung di GitHub.
+- **iOS**: Tersedia melalui beta TestFlight.
+- **Desktop**: Installer native untuk Linux, macOS, dan Windows.
+- **Ekstensi Browser**: Ekstensi Manifest V3 untuk Mozilla Firefox dan Google Chrome.
 
 Build desktop mengikuti model produk yang sama dengan aplikasi seluler, dengan installer native untuk layar yang lebih besar.
 

@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, töölaud ja laiendus</p>
 </div>
 
-NouTube on Androidi ja töölaua rakendus YouTube'i ja YouTube Musicu jaoks.
+NouTube on Androidi, iOS-i, töölaua ja brauserilaienduse rakendus YouTube'i ja YouTube Musicu jaoks.
 
 See mähib mobiilsed YouTube'i ja YouTube Musicu veebirakendused endasse ning lisab peale natiivse käitumise, sealhulgas reklaamide blokeerimise, esituse juhtimise konksud, allalaadimistoe, RSS-vood ja võrguühenduseta sõbraliku teegihalduse.
 
@@ -26,8 +26,10 @@ See mähib mobiilsed YouTube'i ja YouTube Musicu veebirakendused endasse ning li
 
 ## Platvormid
 
-- Android
-- Töölaud
+- **Android**: saadaval F-Droidis ja otseste GitHubi APK-väljalasetena.
+- **iOS**: saadaval TestFlighti beetaversiooni kaudu.
+- **Töölaud**: natiivsed paigaldajad Linuxile, macOS-ile ja Windowsile.
+- **Brauserilaiendus**: Manifest V3 laiendus Mozilla Firefoxile ja Google Chrome'ile.
 
 Töölauaversioon järgib sama tootemudelit nagu mobiilirakendus koos natiivsete paigaldajatega suuremate ekraanide jaoks.
 

@@ -15,6 +15,8 @@ Dies ist das strukturelle Hauptmerkmal, das Nora für Personen nützlich macht, 
 - Keine Werbung
 - Unterstützung für EasyList- und EasyPrivacy-Sperrlisten
 - Bereinigung von Tracking-URL-Query-Parametern
+- Anonymer Modus: Anmelde- und „In App öffnen“-Aufforderungen auf Facebook, Instagram, Threads, Tumblr und X ausblenden sowie Beiträge und Reels eines Instagram-Profils ohne Konto durchblättern
+- Öffentliche Beiträge ohne Anmeldung durchsuchen (über DuckDuckGo)
 
 ## Medien und Lesen
 
