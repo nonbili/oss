@@ -1,0 +1,48 @@
+{
+	"description": "Opensource-apps en documentatie van nonbili.",
+	"tagline": "Opensource-apps voor dagelijks gebruik, op mobiel en desktop.",
+	"apps": "Projecten",
+	"docs": "Documentatie openen",
+	"install": "Installeren",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, desktop en extensie",
+			"summary": "YouTube en YouTube Music in één app, met afspelen op de achtergrond, downloads, feeds en lokale bibliotheektools.",
+			"points": [
+				"Reclamevrij afspelen met muziek en video in één client",
+				"Nieuwste APK- en desktopdownloadlinks",
+				"Handleidingen, screenshots, FAQ en changelog"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS en desktop",
+			"summary": "SNS-browser met gescheiden accounts, blokkeerlijsten, downloads en CSS-aanpassing voor ondersteunde sociale sites.",
+			"points": [
+				"Eén browsershell voor meerdere sociale netwerken",
+				"Nieuwste winkellinks, APK's en desktopdownloads",
+				"Handleidingen, screenshots, FAQ en changelog"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, desktop en extensie",
+			"summary": "Bladwijzerbeheerder en launcher met meerdere lijsten, systeembrowserintegratie, voorbeeldkaarten en synchronisatie.",
+			"points": [
+				"Organiseer bladwijzers in lijsten en open ze in de systeembrowser",
+				"Nieuwste winkellinks, APK's, desktopdownloads en extensies",
+				"Handleidingen, screenshots, FAQ en changelog"
+			]
+		}
+	},
+	"others": {
+		"label": "Overige",
+		"meron": "E-mail met chat- & kanbanweergaven",
+		"tmiix": "Tmux/SSH-sessie- en snippetbeheerder",
+		"jamu": "Japanse studiehulp met kana en quizzen"
+	},
+	"sourceNote": "Voor broncode, releases en het melden van problemen bij projecten kun je terecht bij de [nonbili GitHub-organisatie](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Nieuwste berichten",
+		"readMore": "Lees de volledige aankondiging"
+	}
+}

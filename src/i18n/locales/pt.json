@@ -1,0 +1,48 @@
+{
+	"description": "Aplicações de código aberto e documentação da nonbili.",
+	"tagline": "Aplicações de código aberto para o dia a dia, no telemóvel e no computador.",
+	"apps": "Projetos",
+	"docs": "Abrir documentação",
+	"install": "Instalar",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, computador e extensão",
+			"summary": "YouTube e YouTube Music numa única aplicação, com reprodução em segundo plano, transferências, feeds e ferramentas de biblioteca local.",
+			"points": [
+				"Reprodução sem anúncios com música e vídeo num único cliente",
+				"Ligações de transferência mais recentes para APK e computador",
+				"Guias, capturas de ecrã, FAQ e registo de alterações"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS e computador",
+			"summary": "Navegador de redes sociais com contas separadas, listas de bloqueio, transferências e personalização de CSS nos sites sociais suportados.",
+			"points": [
+				"Um único navegador para várias redes sociais",
+				"Ligações mais recentes das lojas, APKs e transferências para computador",
+				"Guias, capturas de ecrã, FAQ e registo de alterações"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, computador e extensão",
+			"summary": "Gestor e iniciador de marcadores com várias listas, integração com o navegador do sistema, cartões de pré-visualização e sincronização.",
+			"points": [
+				"Organize marcadores em listas e abra no navegador do sistema",
+				"Ligações mais recentes das lojas, APKs, transferências para computador e extensões",
+				"Guias, capturas de ecrã, FAQ e registo de alterações"
+			]
+		}
+	},
+	"others": {
+		"label": "Outros",
+		"meron": "E-mail com vistas de chat e kanban",
+		"tmiix": "Gestor de sessões Tmux/SSH e fragmentos",
+		"jamu": "Auxiliar de estudo de japonês com kana e questionários"
+	},
+	"sourceNote": "Para código-fonte, lançamentos e acompanhamento de problemas nos projetos, utilize a [organização nonbili no GitHub](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blogue",
+		"latest": "Últimas publicações",
+		"readMore": "Ler o anúncio completo"
+	}
+}

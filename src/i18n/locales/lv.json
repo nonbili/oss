@@ -1,0 +1,48 @@
+{
+	"description": "Atvērtā pirmkoda lietotnes un dokumentācija no nonbili.",
+	"tagline": "Atvērtā pirmkoda lietotnes ikdienas lietošanai mobilajās ierīcēs un datorā.",
+	"apps": "Projekti",
+	"docs": "Atvērt dokumentāciju",
+	"install": "Instalēt",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, dators un paplašinājums",
+			"summary": "YouTube un YouTube Music vienā lietotnē ar atskaņošanu fonā, lejupielādēm, plūsmām un vietējās bibliotēkas rīkiem.",
+			"points": [
+				"Atskaņošana bez reklāmām ar mūziku un video vienā klientā",
+				"Jaunākās APK un datora versijas lejupielādes saites",
+				"Ceļveži, ekrānuzņēmumi, BUJ un izmaiņu žurnāls"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS un dators",
+			"summary": "Sociālo tīklu pārlūks ar atsevišķiem kontiem, bloķēšanas sarakstiem, lejupielādēm un CSS pielāgošanu atbalstītajās vietnēs.",
+			"points": [
+				"Viens pārlūks vairākiem sociālajiem tīkliem",
+				"Jaunākās veikalu saites, APK un datora versijas lejupielādes",
+				"Ceļveži, ekrānuzņēmumi, BUJ un izmaiņu žurnāls"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, dators un paplašinājums",
+			"summary": "Grāmatzīmju pārvaldnieks un palaidējs ar vairākiem sarakstiem, sistēmas pārlūka integrāciju, priekšskatījuma kartītēm un sinhronizāciju.",
+			"points": [
+				"Sakārtojiet grāmatzīmes sarakstos un atveriet sistēmas pārlūkā",
+				"Jaunākās veikalu saites, APK, datora versijas lejupielādes un paplašinājumi",
+				"Ceļveži, ekrānuzņēmumi, BUJ un izmaiņu žurnāls"
+			]
+		}
+	},
+	"others": {
+		"label": "Citi",
+		"meron": "E-pasts ar tērzēšanas un kanban skatiem",
+		"tmiix": "Tmux/SSH sesiju un fragmentu pārvaldnieks",
+		"jamu": "Japāņu valodas mācību palīgs ar kanu un viktorīnām"
+	},
+	"sourceNote": "Lai skatītu visu projektu pirmkodu, laidienus un problēmu izsekošanu, apmeklējiet [nonbili GitHub organizāciju](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blogs",
+		"latest": "Jaunākie ieraksti",
+		"readMore": "Lasīt pilnu paziņojumu"
+	}
+}
