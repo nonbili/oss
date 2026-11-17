@@ -15,6 +15,8 @@ Bu, kişisel, iş, içerik oluşturucu veya geçici hesaplar arasında temiz bir
 - Reklam yok
 - EasyList ve EasyPrivacy engelleme listesi desteği
 - İzleme URL sorgu parametresi temizliği
+- Anonim mod: Facebook, Instagram, Threads, Tumblr ve X'te oturum açma ve uygulamada açma istemlerini gizler ve hesap olmadan bir Instagram profilinin gönderileri ile reels'lerini kaydırmanızı sağlar
+- Oturum açmadan herkese açık gönderileri arama (DuckDuckGo üzerinden)
 
 ## Medya ve Okuma
 

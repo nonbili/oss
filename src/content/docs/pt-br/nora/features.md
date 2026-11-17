@@ -15,6 +15,8 @@ Este é o principal recurso estrutural que torna o Nora útil para pessoas que p
 - Sem anúncios
 - Suporte a listas de bloqueio EasyList e EasyPrivacy
 - Limpeza de parâmetros de consulta de URL de rastreamento
+- Modo anônimo: oculta avisos para entrar na conta ou abrir no aplicativo no Facebook, Instagram, Threads, Tumblr e X, e permite rolar publicações e reels de um perfil do Instagram sem conta
+- Pesquisar publicações públicas sem fazer login (via DuckDuckGo)
 
 ## Mídia e Leitura
 

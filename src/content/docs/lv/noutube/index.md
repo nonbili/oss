@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, dators un paplašinājums</p>
 </div>
 
-NouTube ir Android un datora lietotne pakalpojumiem YouTube un YouTube Music.
+NouTube ir Android, iOS, datora un pārlūka paplašinājuma lietotne pakalpojumiem YouTube un YouTube Music.
 
 Tā ietver mobilās YouTube un YouTube Music tīmekļa lietotnes un pievieno natīvas iespējas, tostarp reklāmu bloķēšanu, atskaņošanas vadības āķus, lejupielāžu atbalstu, RSS plūsmas un bezsaistei draudzīgu bibliotēkas pārvaldību.
 
@@ -26,8 +26,10 @@ Tā ietver mobilās YouTube un YouTube Music tīmekļa lietotnes un pievieno nat
 
 ## Platformas
 
-- Android
-- Dators
+- **Android**: Pieejama F-Droid un tiešajos GitHub APK laidienos.
+- **iOS**: Pieejama TestFlight beta versijā.
+- **Dators**: Natīvie instalētāji operētājsistēmām Linux, macOS un Windows.
+- **Pārlūka paplašinājums**: Manifest V3 paplašinājums pārlūkiem Mozilla Firefox un Google Chrome.
 
 Datora versija seko tam pašam produkta modelim kā mobilā lietotne, ar natīviem instalētājiem lielākiem ekrāniem.
 

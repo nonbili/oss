@@ -15,6 +15,8 @@ Esta es la principal característica estructural que hace que Nora sea útil par
 - Sin anuncios
 - Soporte para listas de bloqueo EasyList y EasyPrivacy
 - Limpieza de parámetros de consulta de URL de seguimiento
+- Modo anónimo: oculta los avisos para iniciar sesión y abrir en la aplicación en Facebook, Instagram, Threads, Tumblr y X, y permite desplazarse por las publicaciones y reels de un perfil de Instagram sin una cuenta
+- Busca publicaciones públicas sin iniciar sesión (a través de DuckDuckGo)
 
 ## Medios y lectura
 

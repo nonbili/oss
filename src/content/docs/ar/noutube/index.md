@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android و iOS وسطح المكتب والامتداد</p>
 </div>
 
-NouTube هو تطبيق لـ Android وسطح المكتب لـ YouTube و YouTube Music.
+NouTube هو تطبيق لـ Android و iOS وسطح المكتب وامتداد متصفح لـ YouTube و YouTube Music.
 
 يقوم بتغليف تطبيقات الويب الخاصة بـ YouTube و YouTube Music للهاتف المحمول ويضيف سلوكًا أصليًا فوقها، بما في ذلك حظر الإعلانات، وخطافات التحكم في التشغيل، ودعم التنزيل، وخلاصات RSS، وإدارة المكتبة الصديقة للعمل بدون اتصال.
 
@@ -26,8 +26,10 @@ NouTube هو تطبيق لـ Android وسطح المكتب لـ YouTube و YouTu
 
 ## المنصات
 
-- Android
-- سطح المكتب
+- **Android**: متوفر على F-Droid وإصدارات APK المباشرة على GitHub.
+- **iOS**: متوفر عبر النسخة التجريبية على TestFlight.
+- **سطح المكتب**: أدوات تثبيت أصلية لأنظمة Linux و macOS و Windows.
+- **امتداد المتصفح**: امتداد Manifest V3 لمتصفحي Mozilla Firefox و Google Chrome.
 
 يتبع إصدار سطح المكتب نفس نموذج المنتج مثل تطبيق الهاتف المحمول، مع أدوات تثبيت أصلية للشاشات الأكبر.
 

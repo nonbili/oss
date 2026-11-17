@@ -15,6 +15,8 @@ Detta är den huvudsakliga strukturella funktionen som gör Nora användbar för
 - Inga annonser
 - Stöd för blockeringslistorna EasyList och EasyPrivacy
 - Rensning av spårningsparametrar i URL:er
+- Anonymt läge: dölj uppmaningar om att logga in eller öppna i appen på Facebook, Instagram, Threads, Tumblr och X, och skrolla bland inlägg och reels på en Instagram-profil utan konto
+- Sök efter offentliga inlägg utan att logga in (via DuckDuckGo)
 
 ## Media Och Läsning
 

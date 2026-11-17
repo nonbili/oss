@@ -15,6 +15,8 @@ sidebar:
 - 広告なし
 - EasyList および EasyPrivacy ブロックリストのサポート
 - トラッキング URL クエリパラメータのクリーンアップ
+- 匿名モード: Facebook、Instagram、Threads、Tumblr、X でログインやアプリで開く案内を非表示にし、アカウントなしで Instagram プロフィールの投稿やリールを閲覧できます
+- ログインなしで公開投稿を検索（DuckDuckGo 経由）
 
 ## メディアと閲覧
 

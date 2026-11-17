@@ -15,6 +15,8 @@ This is the main structural feature that makes Nora useful for people who need c
 - No ads
 - EasyList and EasyPrivacy blocklist support
 - Tracking URL query parameter cleanup
+- Anonymous mode: hide sign-in and open-in-app prompts on Facebook, Instagram, Threads, Tumblr, and X, and scroll an Instagram profile's posts and reels without an account
+- Search public posts without signing in (via DuckDuckGo)
 
 ## Media And Reading
 

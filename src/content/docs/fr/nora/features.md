@@ -15,6 +15,8 @@ C'est la principale caractéristique structurelle qui rend Nora utile pour les p
 - Pas de publicité
 - Prise en charge des listes de blocage EasyList et EasyPrivacy
 - Nettoyage des paramètres de requête URL de suivi
+- Mode anonyme : masquez les invites de connexion et d'ouverture dans l'application sur Facebook, Instagram, Threads, Tumblr et X, et parcourez les publications et reels d'un profil Instagram sans compte
+- Recherchez des publications publiques sans vous connecter (via DuckDuckGo)
 
 ## Médias et Lecture
 

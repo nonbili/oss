@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, desktop och tillägg</p>
 </div>
 
-NouTube är en app för Android och desktop för YouTube och YouTube Music.
+NouTube är en app för Android, iOS, desktop och webbläsartillägg för YouTube och YouTube Music.
 
 Den wrappar YouTubes och YouTube Musics mobilwebbappar och lägger till native beteende ovanpå, inklusive annonsblockering, krokar för uppspelningskontroll, nedladdningsstöd, RSS-flöden och offline-vänlig bibliotekshantering.
 
@@ -26,8 +26,10 @@ Den wrappar YouTubes och YouTube Musics mobilwebbappar och lägger till native b
 
 ## Plattformar
 
-- Android
-- Desktop
+- **Android**: Tillgänglig på F-Droid och som direkta APK-releaser på GitHub.
+- **iOS**: Tillgänglig via TestFlight-beta.
+- **Desktop**: Native installerare för Linux, macOS och Windows.
+- **Webbläsartillägg**: Manifest V3-tillägg för Mozilla Firefox och Google Chrome.
 
 Desktop-bygget följer samma produktmodell som mobilappen, med native installerare för större skärmar.
 

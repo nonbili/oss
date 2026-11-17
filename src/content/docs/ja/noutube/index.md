@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android / iOS / デスクトップ / 拡張機能</p>
 </div>
 
-NouTube は YouTube と YouTube Music 向けの Android / デスクトップアプリです。
+NouTube は YouTube と YouTube Music 向けの Android / iOS / デスクトップ / ブラウザ拡張機能アプリです。
 
 モバイル版 YouTube と YouTube Music の Web アプリをベースに、広告ブロック、再生制御、ダウンロード、RSS フィード、ローカルライブラリ管理などの機能を追加します。
 
@@ -23,6 +23,15 @@ NouTube は YouTube と YouTube Music 向けの Android / デスクトップア�
 - YouTube チャンネルの RSS フィード
 - ライブチャット対応
 - カスタム CSS 対応
+
+## プラットフォーム
+
+- **Android**: F-Droid および GitHub リリースの APK で提供。
+- **iOS**: TestFlight ベータ版で提供。
+- **デスクトップ**: Linux、macOS、Windows 向けのネイティブインストーラー。
+- **ブラウザ拡張機能**: Mozilla Firefox および Google Chrome 向けの Manifest V3 拡張機能。
+
+デスクトップ版もモバイルアプリと同じ製品モデルに沿っており、大画面向けのネイティブインストーラーを提供しています。
 
 ## 最初にやること
 

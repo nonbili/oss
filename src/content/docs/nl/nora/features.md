@@ -15,6 +15,8 @@ Dit is de belangrijkste structurele functie die Nora nuttig maakt voor mensen di
 - Geen advertenties
 - Ondersteuning voor EasyList- en EasyPrivacy-blokkeerlijsten
 - Opschoning van tracking-queryparameters in URL's
+- Anonieme modus: verberg meldingen om in te loggen of de app te openen op Facebook, Instagram, Threads, Tumblr en X, en scrol door berichten en reels van een Instagram-profiel zonder account
+- Openbare berichten doorzoeken zonder in te loggen (via DuckDuckGo)
 
 ## Media en lezen
 

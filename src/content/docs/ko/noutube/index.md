@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, 데스크톱 및 확장 프로그램</p>
 </div>
 
-NouTube는 YouTube 및 YouTube Music을 위한 Android 및 데스크톱 앱입니다.
+NouTube는 YouTube 및 YouTube Music을 위한 Android, iOS, 데스크톱 및 브라우저 확장 프로그램 앱입니다.
 
 모바일 YouTube 및 YouTube Music 웹 앱을 감싸고, 그 위에 광고 차단, 재생 제어 훅, 다운로드 지원, RSS 피드, 오프라인 친화적 라이브러리 관리 같은 네이티브 동작을 더했습니다.
 
@@ -26,8 +26,10 @@ NouTube는 YouTube 및 YouTube Music을 위한 Android 및 데스크톱 앱입�
 
 ## 플랫폼
 
-- Android
-- 데스크톱
+- **Android**: F-Droid 및 GitHub 직접 APK 릴리스에서 제공됩니다.
+- **iOS**: TestFlight 베타를 통해 제공됩니다.
+- **데스크톱**: Linux, macOS 및 Windows용 네이티브 설치 프로그램.
+- **브라우저 확장 프로그램**: Mozilla Firefox 및 Google Chrome용 Manifest V3 확장 프로그램.
 
 데스크톱 빌드는 모바일 앱과 동일한 제품 모델을 따르며, 큰 화면을 위한 네이티브 설치 프로그램을 제공합니다.
 

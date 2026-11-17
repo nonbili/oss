@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, bureau et extension</p>
 </div>
 
-NouTube est une application Android et bureau pour YouTube et YouTube Music.
+NouTube est une application Android, iOS, bureau et extension de navigateur pour YouTube et YouTube Music.
 
 Elle conserve les interfaces web habituelles tout en ajoutant le blocage des publicites, le controle de lecture, les telechargements, les flux RSS et des outils de bibliotheque locale.
 
@@ -19,6 +19,15 @@ Elle conserve les interfaces web habituelles tout en ajoutant le blocage des pub
 - Lecture en arriere-plan
 - Video et musique dans une seule application
 - Telechargements et gestion des flux
+
+## Plateformes
+
+- **Android** : Disponible sur F-Droid et en téléchargement direct d'APK sur GitHub.
+- **iOS** : Disponible via la bêta TestFlight.
+- **Bureau** : Installateurs natifs pour Linux, macOS et Windows.
+- **Extension de navigateur** : Extension Manifest V3 pour Mozilla Firefox et Google Chrome.
+
+La version bureau suit le même modèle de produit que l'application mobile, avec des installateurs natifs pour les grands écrans.
 
 ## Premiers pas
 

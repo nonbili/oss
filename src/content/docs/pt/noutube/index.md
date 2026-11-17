@@ -9,7 +9,7 @@ sidebar:
   <p class="product-overview-header__meta">Android, iOS, computador e extensão</p>
 </div>
 
-O NouTube é uma aplicação para Android e computador para o YouTube e YouTube Music.
+O NouTube é uma aplicação para Android, iOS, computador e extensão de navegador para o YouTube e YouTube Music.
 
 Envolve as aplicações web móveis do YouTube e YouTube Music e adiciona comportamento nativo por cima, incluindo bloqueio de anúncios, ganchos de controlo de reprodução, suporte a transferências, feeds RSS e gestão de biblioteca amigável para uso offline.
 
@@ -26,8 +26,10 @@ Envolve as aplicações web móveis do YouTube e YouTube Music e adiciona compor
 
 ## Plataformas
 
-- Android
-- Computador
+- **Android**: Disponível no F-Droid e em lançamentos diretos de APK no GitHub.
+- **iOS**: Disponível através da versão beta no TestFlight.
+- **Computador**: Instaladores nativos para Linux, macOS e Windows.
+- **Extensão de navegador**: Extensão Manifest V3 para Mozilla Firefox e Google Chrome.
 
 A compilação para computador segue o mesmo modelo de produto que a aplicação móvel, com instaladores nativos para ecrãs maiores.
 

@@ -15,6 +15,8 @@ sidebar:
 - 광고 없음
 - EasyList 및 EasyPrivacy 차단 목록 지원
 - 추적 URL 쿼리 매개변수 정리
+- 익명 모드: Facebook, Instagram, Threads, Tumblr 및 X에서 로그인 및 앱에서 열기 안내를 숨기고, 계정 없이 Instagram 프로필의 게시물과 릴스를 스크롤하여 볼 수 있습니다
+- 로그인 없이 공개 게시물 검색 (DuckDuckGo 이용)
 
 ## 미디어 및 읽기
 
