@@ -1,0 +1,48 @@
+{
+	"description": "nonbili avatud lähtekoodiga rakendused ja dokumentatsioon.",
+	"tagline": "Avatud lähtekoodiga rakendused igapäevaseks kasutamiseks mobiilis ja töölaual.",
+	"apps": "Projektid",
+	"docs": "Ava dokumentatsioon",
+	"install": "Paigalda",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, töölaud ja laiendus",
+			"summary": "YouTube ja YouTube Music ühes rakenduses koos taustaesituse, allalaadimiste, voogude ja kohaliku teegi tööriistadega.",
+			"points": [
+				"Reklaamivaba esitus koos muusika ja videoga ühes kliendis",
+				"Uusimad APK ja töölauaversiooni allalaadimislingid",
+				"Juhendid, ekraanipildid, KKK ja muudatuste logi"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS ja töölaud",
+			"summary": "Sotsiaalvõrgustike brauser eraldi kontode, blokeerimisloendite, allalaadimiste ja CSS-kohandamisega toetatud saitidel.",
+			"points": [
+				"Üks brauserikest mitme sotsiaalvõrgustiku jaoks",
+				"Uusimad poelingid, APK-d ja töölauaversioonid",
+				"Juhendid, ekraanipildid, KKK ja muudatuste logi"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, töölaud ja laiendus",
+			"summary": "Järjehoidjate haldur ja käivitaja mitme loendi, süsteemibrauseri integratsiooni, eelvaatekaartide ja sünkroonimisega.",
+			"points": [
+				"Korralda järjehoidjad loenditesse ja ava süsteemibrauseris",
+				"Uusimad poelingid, APK-d, töölauaversioonid ja laiendused",
+				"Juhendid, ekraanipildid, KKK ja muudatuste logi"
+			]
+		}
+	},
+	"others": {
+		"label": "Muud",
+		"meron": "E-post vestlus- ja kanban-vaadetega",
+		"tmiix": "Tmux/SSH seansi- ja koodilõikude haldur",
+		"jamu": "Jaapani keele õpiabiline kana ja viktoriinidega"
+	},
+	"sourceNote": "Kõigi projektide lähtekoodi, väljalasete ja vigade jälgimise jaoks kasuta [nonbili GitHubi organisatsiooni](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blogi",
+		"latest": "Viimased postitused",
+		"readMore": "Loe täielikku teadaannet"
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"description": "Ứng dụng mã nguồn mở và tài liệu từ nonbili.",
+	"tagline": "Ứng dụng mã nguồn mở cho nhu cầu hằng ngày, trên di động và máy tính.",
+	"apps": "Dự án",
+	"docs": "Mở tài liệu",
+	"install": "Cài đặt",
+	"products": {
+		"noutube": {
+			"platforms": "Android, iOS, máy tính và tiện ích mở rộng",
+			"summary": "YouTube và YouTube Music trong một ứng dụng, hỗ trợ phát nền, tải xuống, bảng tin và công cụ thư viện cục bộ.",
+			"points": [
+				"Phát không quảng cáo với nhạc và video trong cùng một ứng dụng",
+				"Liên kết tải APK và phiên bản máy tính mới nhất",
+				"Hướng dẫn, ảnh chụp màn hình, câu hỏi thường gặp và nhật ký thay đổi"
+			]
+		},
+		"nora": {
+			"platforms": "Android, iOS và máy tính",
+			"summary": "Trình duyệt mạng xã hội với tài khoản tách biệt, danh sách chặn, tải xuống và tùy chỉnh CSS trên các trang mạng xã hội được hỗ trợ.",
+			"points": [
+				"Một trình duyệt cho nhiều mạng xã hội",
+				"Liên kết cửa hàng, APK và bản tải cho máy tính mới nhất",
+				"Hướng dẫn, ảnh chụp màn hình, câu hỏi thường gặp và nhật ký thay đổi"
+			]
+		},
+		"nori": {
+			"platforms": "Android, iOS, máy tính và tiện ích mở rộng",
+			"summary": "Trình quản lý và khởi chạy dấu trang với nhiều danh sách, tích hợp trình duyệt hệ thống, thẻ xem trước và đồng bộ hóa.",
+			"points": [
+				"Sắp xếp dấu trang theo danh sách và mở bằng trình duyệt hệ thống",
+				"Liên kết cửa hàng, APK, bản tải cho máy tính và tiện ích mở rộng mới nhất",
+				"Hướng dẫn, ảnh chụp màn hình, câu hỏi thường gặp và nhật ký thay đổi"
+			]
+		}
+	},
+	"others": {
+		"label": "Khác",
+		"meron": "Email với giao diện trò chuyện & kanban",
+		"tmiix": "Trình quản lý phiên Tmux/SSH và đoạn mã",
+		"jamu": "Công cụ hỗ trợ học tiếng Nhật với bảng chữ kana và bài kiểm tra"
+	},
+	"sourceNote": "Để xem mã nguồn, các bản phát hành và theo dõi lỗi của các dự án, hãy truy cập [tổ chức nonbili trên GitHub](https://github.com/nonbili).",
+	"blog": {
+		"label": "Blog",
+		"latest": "Bài viết mới nhất",
+		"readMore": "Đọc thông báo đầy đủ"
+	}
+}
