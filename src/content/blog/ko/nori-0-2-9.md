@@ -1,0 +1,73 @@
+---
+title: "Nori 0.2.9: 소셜 게시물 저장, 이미지 카드 공유, 목록별 정렬"
+description: 오프라인 읽기를 위해 소셜 게시물의 읽기 쉬운 사본을 보관하고, 북마크를 이미지 카드로 변환하며, 목록마다 다른 정렬 순서를 선택하세요.
+date: 2026-11-18
+product: nori
+---
+
+북마크는 주소를 저장합니다. **모바일용 Nori 0.2.9**에서는 소셜 게시물의 읽기 쉬운 사본도 함께 보관할 수 있습니다. 또한 이번 릴리스에서는 북마크를 이미지 카드로 공유하고 각 목록의 정렬 방식을 선택할 수 있습니다.
+
+## 게시물 사본 보관하기
+
+지원되는 소셜 게시물을 북마크하면 Nori가 오프라인 읽기를 위해 해당 콘텐츠를 자동으로 저장하려고 시도합니다. 한 번 저장되면 인터넷에 연결되어 있지 않거나 원본 게시물이 사라져도 사본을 계속 볼 수 있습니다.
+
+지원 서비스에는 **X, Instagram, Threads, TikTok, Facebook, Bluesky, Reddit, Mastodon**이 포함됩니다. 서비스에서 제공하는 정보에 따라 저장된 사본에는 작성자, 게시물 텍스트, 첨부 이미지, 인용 또는 관련 게시물이 포함됩니다. 게시물 텍스트를 복사할 수도 있습니다.
+
+**동영상과 오디오는 오프라인에서 재생 가능한 다운로드가 아니라 미리보기 썸네일로 저장됩니다.**
+
+일부 사이트는 로그인이 필요하거나 자동 가져오기를 차단합니다. 게시물이 저장되지 않으면 **페이지에서 게시물 저장**을 선택하고, 사이트에서 요청하면 로그인한 다음 Nori가 게시물을 찾으면 **저장**을 탭하세요.
+
+북마크 편집기에서 **저장된 게시물**은 저장된 사본의 날짜를 표시합니다. 다시 가져오려면 **새로 고침**을 사용하세요. 사이트에서 반환하는 콘텐츠가 줄어든 경우에도 Nori는 기존 사본을 유지합니다.
+
+자동 저장은 기본적으로 켜져 있습니다. **설정 → 일반 → 소셜 게시물 오프라인 저장**에서 끌 수 있습니다. **Nori Sync**를 사용하면 저장된 게시물과 이미지가 기기 간에 동기화됩니다.
+
+<div class="screenshot-gallery" style="max-width: 24rem;">
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">저장된 Bluesky 게시물은 휴대폰이 비행기 모드일 때도 이미지와 함께 읽을 수 있습니다.</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="비행기 모드가 켜진 상태에서 작성자, 텍스트, 첨부 이미지가 포함된 저장된 Bluesky 게시물을 표시하는 Nori" width="1080" height="2400" loading="lazy" />
+    </div>
+  </figure>
+</div>
+
+## 링크 그 이상을 공유하세요
+
+전달하고 싶은 내용을 찾으셨나요? 북마크의 작업 메뉴를 열고 **이미지로 공유**를 선택하세요. Nori가 웹페이지 북마크나 저장된 소셜 게시물을 보내기 전에 미리 볼 수 있는 이미지 카드로 변환합니다.
+
+**밝은 배경 또는 어두운 배경**을 선택하고 북마크의 **메모**와 **태그**가 있는 경우 포함할지 결정하세요. 메모는 처음에 숨겨져 있으므로 나만 보려고 적은 내용을 공유할지 직접 선택할 수 있습니다.
+
+**공유**를 탭하여 기기의 공유 시트로 카드를 보내거나, 다운로드 버튼을 탭하여 **이미지 저장**으로 사진 라이브러리에 저장하세요.
+
+<div class="screenshot-gallery" style="max-width: 24rem;">
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">카드를 미리 보고 포함할 항목을 선택한 다음 이미지를 공유하거나 저장하세요.</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="밝은 테마와 어두운 테마, 메모 및 태그 컨트롤, 다운로드 버튼, 공유 버튼이 표시된 이미지로 공유 미리보기" width="1080" height="2400" loading="lazy" />
+    </div>
+  </figure>
+</div>
+
+## 각 목록에 고유한 순서 지정하기
+
+읽기 대기열은 읽고 싶은 순서대로 유지하고, 다른 목록에서는 새로 추가한 항목을 맨 위에 두고, 참고 자료 모음은 이름순으로 정렬하세요.
+
+**목록 편집**을 열거나 **새 목록**을 만들고 **북마크 순서**를 선택하세요:
+
+- **수동(드래그하여 재정렬)**: 직접 배열하는 순서입니다.
+- **최신순** 또는 **오래된순**: 북마크가 추가된 시점을 기준으로 정렬합니다.
+- **이름 A–Z** 또는 **이름 Z–A**: 이름순으로 정렬합니다.
+
+선택한 순서는 해당 목록에만 적용되므로 다른 목록은 각자의 순서를 그대로 유지할 수 있습니다. 같은 편집기에서 목록 이름도 바꿀 수 있습니다.
+
+<div class="screenshot-gallery" style="max-width: 24rem;">
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">Reading queue 목록의 북마크 순서를 선택하세요.</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="다섯 가지 북마크 순서 옵션이 모두 표시된 Reading queue 목록 편집 화면" width="1080" height="2400" loading="lazy" />
+    </div>
+  </figure>
+</div>
+
+이번 릴리스에서는 iOS의 **모든 북마크** 서랍 스크롤을 개선하고 동기화 문제도 수정했습니다. 자세한 내용은 [전체 릴리스 노트](https://github.com/nonbili/Nori/releases/tag/v0.2.9)를 확인하세요.
+
+[Nori를 설치하거나 업데이트](/ko/nori/install/)하거나 [Nori 문서](/ko/nori/)를 살펴보세요.
