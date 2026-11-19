@@ -1,0 +1,65 @@
+---
+title: "Nora 0.9.7: ダウンロード先フォルダの選択とメニューのカスタマイズ"
+description: Android でのダウンロード保存先の選択、3点メニューのよく使わない項目の非表示化に加え、WhatsApp Web・Facebook Marketplace・タブ操作の修正を行いました。
+date: 2026-11-19
+product: nora
+---
+
+**モバイル版 Nora 0.9.7** では、Android のダウンロード先を任意のフォルダに設定し、ブラウザの3点メニューを使う操作だけに絞り込めるようになりました。また、このリリースでは WhatsApp Web と Facebook Marketplace が自動的にデスクトップモードで開くようになっています。
+
+## ダウンロードの保存先を選ぶ
+
+Android で **設定 → プリファレンス → ダウンロード → ダウンロードの保存先** を開き、ブラウザのダウンロード先を設定します。
+
+- **ダウンロード** は Android 標準の Downloads フォルダを使用します。
+- **毎回確認する** を選ぶと、ダウンロードごとに保存先を指定できます。
+- **フォルダを選択…** を選ぶと、今後のダウンロードが指定したフォルダに保存されます。
+
+フォルダを選択した場合、Android 10 以降ではフィードから保存したメディアにも同じフォルダが使われます。また、このリリースでは一部のサイトがブラウザ上で生成したファイルに使用する `data:` リンクからのダウンロードも修正しています。
+
+<div class="screenshot-gallery" style="max-width: 24rem;">
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">今後のダウンロード先として Nora Downloads が選択されています。</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Nora Downloads が選択され、ダウンロード、毎回確認する、フォルダを選択のオプションが表示されている Android のダウンロード設定" width="1080" height="2220" loading="lazy" />
+    </div>
+  </figure>
+</div>
+
+## 3点メニューをカスタマイズする
+
+**設定 → 外観 → ツールバー → 3点メニューをカスタマイズ** を開き、あまり使わない操作をオフにします。たとえば **ページ内検索** と **共有** を残し、レイアウトをほとんど切り替えない場合は **PC版サイト** を非表示にできます。残した操作は、現在のタブで利用可能なときに表示されます。
+
+**設定** はメニューに残り、**メニューを初期状態に戻す** をタップすると変更を一括でリセットできます。
+
+<div class="screenshot-gallery">
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">ページ内検索をオンにしたまま、PC版サイトをオフにします。</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="ページ内検索がオン、PC版サイトがオフになっている「3点メニューをカスタマイズ」の展開設定画面" width="1080" height="2220" loading="lazy" />
+    </div>
+  </figure>
+  <figure class="screenshot-card">
+    <figcaption class="screenshot-card__body">ブラウザメニューにページ内検索、共有、設定だけが残ります。</figcaption>
+    <div class="screenshot-frame">
+      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="PC版サイトが非表示になり、ページ内検索、共有、設定が表示されているカスタマイズ後のブラウザメニュー" width="1080" height="2220" loading="lazy" />
+    </div>
+  </figure>
+</div>
+
+## WhatsApp Web と Facebook Marketplace がデスクトップモードで開く
+
+**WhatsApp Web** では、ピッカーを閉じずにオンスクリーンキーボードを開けるようになりました。**Facebook Marketplace** はデスクトップ版サイトを使用するため、出品ページから出品者へメッセージを送れます。
+
+## ブラウジングとフィードの修正
+
+- Facebook の広告ブロックが、ラベルが遅れて表示されるスポンサー投稿も捕捉できるようになりました。Facebook のリアクションボタンを長押ししても、ブラウザのコンテキストメニューが邪魔をしなくなります。
+- Reddit のゲームフィルターで通常の投稿が引き続き表示されるようになりました。
+- タブスイッチャーを開いたときにアクティブなタブが表示範囲に入るようになりました。新しいタブでは入力したアドレスが最初の **移動** タップで開き、外部から開いたリンクでも他のタブが維持されます。
+- メディアビューアー内でジェスチャー操作しているときに、引っ張って更新が誤って反応しなくなりました。
+
+変更点の全一覧は [GitHub のリリースノート](https://github.com/nonbili/Nora/releases/tag/v0.9.7) をご覧ください。
+
+## Nora を入手
+
+[Nora をインストールまたは更新](/ja/nora/install/)するか、[Nora のドキュメント](/ja/nora/)で詳細をご確認ください。
