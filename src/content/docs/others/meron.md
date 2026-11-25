@@ -1,6 +1,6 @@
 ---
 title: Meron
-description: Fast and secure email app with chat and kanban views.
+description: The one-in-a-melon open source and cross-platform email client, with chat and kanban views.
 sidebar:
   order: 2
 ---
@@ -10,7 +10,7 @@ sidebar:
   <p class="product-overview-header__meta">Desktop (Linux, macOS, Windows) and Mobile (Android, iOS)</p>
 </div>
 
-Meron is a fast, modern email application that reimagines email management with chat threads and visual kanban boards.
+Meron is the one-in-a-melon open source and cross-platform email client. It reimagines email management with chat threads and visual kanban boards.
 
 - **Website**: [https://meron.im/](https://meron.im/)
 - **Source Code**: [nonbili/meron](https://github.com/nonbili/meron)

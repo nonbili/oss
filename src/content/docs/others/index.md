@@ -9,7 +9,7 @@ In addition to NouTube, Nora, and Nori, nonbili builds several other open-source
 
 ## Meron
 
-A fast and secure email client designed for desktop and mobile, with chat-style conversations and kanban organization.
+The one-in-a-melon open source and cross-platform email client, with chat-style conversations and kanban organization on desktop and mobile.
 
 - **Website**: [https://meron.im/](https://meron.im/)
 - **Repository**: [nonbili/meron](https://github.com/nonbili/meron)
