@@ -21,14 +21,7 @@ En el editor de marcadores, **Publicación guardada** muestra la fecha de tu cop
 
 El guardado automático está activado de forma predeterminada. Puedes desactivarlo en **Ajustes → General → Guardar publicaciones sociales sin conexión**. Si usas **Nori Sync**, las publicaciones guardadas y sus imágenes se sincronizan entre tus dispositivos.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Una publicación guardada de Bluesky sigue siendo legible con su imagen mientras el teléfono está en modo avión.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori mostrando una publicación guardada de Bluesky con autor, texto e imagen adjunta, con el modo avión activado" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori mostrando una publicación guardada de Bluesky con autor, texto e imagen adjunta, con el modo avión activado](/blog/nori-0-2-9/saved-social-post.webp "Una publicación guardada de Bluesky sigue siendo legible con su imagen mientras el teléfono está en modo avión.")
 
 ## Comparte algo más que un enlace
 
@@ -38,14 +31,7 @@ Elige un fondo **claro u oscuro** y decide si quieres incluir la **Nota** y las 
 
 Pulsa **Compartir** para enviar la tarjeta mediante la hoja de compartir de tu dispositivo, o pulsa el botón de descarga para **Guardar imagen** en tu fototeca.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Previsualiza la tarjeta, elige qué incluir y luego comparte o guarda la imagen.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Vista previa de Compartir como imagen con temas claro y oscuro, controles de Nota y Etiquetas, botón de descarga y botón Compartir" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Vista previa de Compartir como imagen con temas claro y oscuro, controles de Nota y Etiquetas, botón de descarga y botón Compartir](/blog/nori-0-2-9/share-as-image.webp "Previsualiza la tarjeta, elige qué incluir y luego comparte o guarda la imagen.")
 
 ## Dale a cada lista su propio orden
 
@@ -59,14 +45,7 @@ Abre **Editar lista**, o crea una **Nueva lista**, y elige **Orden de marcadores
 
 La elección pertenece a esa lista, de modo que tus demás listas pueden mantener su propio orden. También puedes cambiar el nombre de la lista en el mismo editor.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Elige un orden de marcadores para la lista Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Editar lista para Reading queue con las cinco opciones de Orden de marcadores visibles" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Editar lista para Reading queue con las cinco opciones de Orden de marcadores visibles](/blog/nori-0-2-9/list-bookmark-order.webp "Elige un orden de marcadores para la lista Reading queue.")
 
 Esta versión también mejora el desplazamiento en el cajón **Todos los marcadores** en iOS y corrige un problema de sincronización. Consulta las [notas completas de la versión](https://github.com/nonbili/Nori/releases/tag/v0.2.9) para más detalles.
 

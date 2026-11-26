@@ -22,14 +22,7 @@ product: nora
 
 독립 실행형 창에서 계속 읽다가 탭으로 자세히 살펴보고 싶은 링크만 Nora로 보낼 수 있습니다.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Android 홈 화면 바로가기에서 이미지를 길게 누르면 Nora의 이미지 작업 메뉴가 열립니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Save image, Open image in new tab, Copy image link 작업이 표시된 Nora의 독립 실행형 Android 바로가기" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Save image, Open image in new tab, Copy image link 작업이 표시된 Nora의 독립 실행형 Android 바로가기](/blog/nora-0-9-6/shortcut-image-menu.webp "Android 홈 화면 바로가기에서 이미지를 길게 누르면 Nora의 이미지 작업 메뉴가 열립니다.")
 
 ## 피드에서의 더 편한 읽기 경험
 

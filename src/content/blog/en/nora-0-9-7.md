@@ -17,14 +17,7 @@ On Android, open **Settings → Preferences → Downloads → Save downloads to*
 
 If you choose a folder, Nora also uses it for media you save from the feed on Android 10 and later. This release fixes downloads from `data:` links, which some sites use for files they generate in the browser.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads is selected as the destination for future downloads.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Android download settings with Nora Downloads selected and the Downloads, Ask every time, and Choose folder options visible" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android download settings with Nora Downloads selected and the Downloads, Ask every time, and Choose folder options visible](/blog/nora-0-9-7/download-destination.webp "Nora Downloads is selected as the destination for future downloads.")
 
 ## Customize the Three-Dot Menu
 
@@ -32,20 +25,8 @@ Open **Settings → Appearance → Toolbar → Customize three-dot menu** and sw
 
 **Settings** stays in the menu, and **Restore menu defaults** clears your changes in one tap.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Keep Find in page on and switch Desktop site off.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Expanded Customize three-dot menu settings with Find in page on and Desktop site off" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">The browser menu keeps Find in page, Share, and Settings.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Customized browser menu showing Find in page, Share, and Settings, with Desktop site hidden" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Expanded Customize three-dot menu settings with Find in page on and Desktop site off](/blog/nora-0-9-7/customize-three-dot-menu.webp "Keep Find in page on and switch Desktop site off.")
+![Customized browser menu showing Find in page, Share, and Settings, with Desktop site hidden](/blog/nora-0-9-7/customized-three-dot-menu.webp "The browser menu keeps Find in page, Share, and Settings.")
 
 ## WhatsApp Web and Facebook Marketplace Open in Desktop Mode
 

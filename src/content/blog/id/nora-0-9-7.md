@@ -17,14 +17,7 @@ Di Android, buka **Setelan → Preferensi → Unduhan → Simpan unduhan ke** un
 
 Jika Anda memilih sebuah folder, Nora juga menggunakannya untuk media yang Anda simpan dari feed di Android 10 dan yang lebih baru. Rilis ini juga memperbaiki unduhan dari tautan `data:`, yang digunakan oleh beberapa situs untuk file yang dibuat di peramban.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads dipilih sebagai tujuan untuk unduhan mendatang.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Setelan unduhan Android dengan Nora Downloads dipilih serta opsi Unduhan, Tanya setiap kali, dan Pilih folder terlihat" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Setelan unduhan Android dengan Nora Downloads dipilih serta opsi Unduhan, Tanya setiap kali, dan Pilih folder terlihat](/blog/nora-0-9-7/download-destination.webp "Nora Downloads dipilih sebagai tujuan untuk unduhan mendatang.")
 
 ## Sesuaikan Menu Tiga Titik
 
@@ -32,20 +25,8 @@ Buka **Setelan → Tampilan → Bilah Alat → Sesuaikan menu tiga titik** lalu 
 
 **Setelan** tetap berada di menu, dan **Pulihkan default menu** menghapus perubahan Anda dalam satu ketukan.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Biarkan Cari di halaman tetap aktif dan matikan Situs desktop.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Setelan Sesuaikan menu tiga titik yang diperluas dengan Cari di halaman aktif dan Situs desktop nonaktif" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Menu peramban mempertahankan Cari di halaman, Bagikan, dan Setelan.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Menu peramban yang telah disesuaikan menampilkan Cari di halaman, Bagikan, dan Setelan, dengan Situs desktop disembunyikan" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Setelan Sesuaikan menu tiga titik yang diperluas dengan Cari di halaman aktif dan Situs desktop nonaktif](/blog/nora-0-9-7/customize-three-dot-menu.webp "Biarkan Cari di halaman tetap aktif dan matikan Situs desktop.")
+![Menu peramban yang telah disesuaikan menampilkan Cari di halaman, Bagikan, dan Setelan, dengan Situs desktop disembunyikan](/blog/nora-0-9-7/customized-three-dot-menu.webp "Menu peramban mempertahankan Cari di halaman, Bagikan, dan Setelan.")
 
 ## WhatsApp Web dan Facebook Marketplace Terbuka di Mode Desktop
 

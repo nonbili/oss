@@ -13,39 +13,15 @@ Open **Instellingen → Weergave → Werkbalkknoppen**. Kies met de schakelaars 
 
 Je kunt ook **Tools**, **Desktopsite**, **Instellingen** of de schakelaar **YouTube / YouTube Music** aan de werkbalk toevoegen. In dezelfde lijst kun je bestaande knoppen zoals **Bibliotheek**, **Kanalenfeed** en **Geschiedenis** anders ordenen.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Zet Delen en URL openen aan en sleep ze bovenaan de lijst.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Android-weergave-instellingen met Delen en URL openen ingeschakeld in de eerste twee rijen en sleepgrepen aan de rechterkant" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Delen en URL openen zijn nu de eerste twee knoppen op de werkbalk van de afspeelpagina.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="NouTube-werkbalk boven de afspeelpagina van Big Buck Bunny, met het pictogram Delen en het linkpictogram URL openen helemaal links" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android-weergave-instellingen met Delen en URL openen ingeschakeld in de eerste twee rijen en sleepgrepen aan de rechterkant](/blog/noutube-0-7-11/android-toolbar-settings.webp "Zet Delen en URL openen aan en sleep ze bovenaan de lijst.")
+![NouTube-werkbalk boven de afspeelpagina van Big Buck Bunny, met het pictogram Delen en het linkpictogram URL openen helemaal links](/blog/noutube-0-7-11/android-toolbar-result.webp "Delen en URL openen zijn nu de eerste twee knoppen op de werkbalk van de afspeelpagina.")
 
 ## Video's downloaden op iPhone en iPad
 
 Open bij een video die je mag opslaan **Tools** en tik op **Video downloaden**. NouTube downloadt een compatibele MP4 als die beschikbaar is. Tik na het downloaden op **Exporteren** om het bestand op te slaan of te delen.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Tools vult de URL van de huidige video in.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Downloadpaneel op iPhone met de ingevulde video-URL, een opmerking over de beschikbaarheid van MP4 en de knop Video downloaden" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Exporteren verschijnt in de downloadgeschiedenis zodra het bestand klaar is.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Item in de downloadgeschiedenis op iPhone met een groen vinkje, de status Download voltooid en een knop Exporteren" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Downloadpaneel op iPhone met de ingevulde video-URL, een opmerking over de beschikbaarheid van MP4 en de knop Video downloaden](/blog/noutube-0-7-11/ios-download-tools.webp "Tools vult de URL van de huidige video in.")
+![Item in de downloadgeschiedenis op iPhone met een groen vinkje, de status Download voltooid en een knop Exporteren](/blog/noutube-0-7-11/ios-download-export.webp "Exporteren verschijnt in de downloadgeschiedenis zodra het bestand klaar is.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Veeg op mobiel omhoog over de YouTube-speler om naar volledig scherm te gaan en 
 
 Om het reactiegedeelte van YouTube-afspeelpagina's te verwijderen, open je **Instellingen → Voorkeuren → Afleidingsvrij** en zet je **Reacties verbergen** aan.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Reacties verbergen staat onderaan de Afleidingsvrij-instellingen.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Android-scherm Voorkeuren met de schakelaar Reacties verbergen ingeschakeld onderaan het gedeelte Afleidingsvrij" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android-scherm Voorkeuren met de schakelaar Reacties verbergen ingeschakeld onderaan het gedeelte Afleidingsvrij](/blog/noutube-0-7-11/hide-comments-setting.webp "Reacties verbergen staat onderaan de Afleidingsvrij-instellingen.")
 
 ## Overige verbeteringen
 

@@ -23,14 +23,7 @@ W menu **Ustawienia → Usługi → X** możesz teraz zdecydować o ukryciu:
 
 Opcje te są całkowicie dobrowolne. W tej samej sekcji dostępna jest także funkcja **Domyślne wyszukiwanie: Najnowsze**, dzięki której wyszukiwanie otwiera się z najnowszymi wpisami zamiast popularnych wyników. W razie potrzeby zawsze możesz przełączać karty wyszukiwania na X.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kontrola serwisu X w Norze na Androidzie: wybierz ukrywane elementy interfejsu oraz to, czy wyszukiwanie ma otwierać kartę Najnowsze.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Ustawienia X w Norze na telefonie Pixel z opcjami dla Groka, rekomendacji, liczników aktywności i wyszukiwania Najnowszych" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ustawienia X w Norze na telefonie Pixel z opcjami dla Groka, rekomendacji, liczników aktywności i wyszukiwania Najnowszych](/blog/nora-0-9-5/x-settings.webp "Kontrola serwisu X w Norze na Androidzie: wybierz ukrywane elementy interfejsu oraz to, czy wyszukiwanie ma otwierać kartę Najnowsze.")
 
 ## Zachowaj widoczność standardowych postów na Facebooku
 

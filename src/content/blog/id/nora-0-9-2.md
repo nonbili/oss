@@ -18,40 +18,25 @@ Mengikuti profil publik **Instagram** dan **X** tanpa masuk log dapat terhalang 
 
 Kedua opsi ini nonaktif secara default dan dapat diaktifkan kapan saja di **Pengaturan Feed**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Pengaturan Feed</div>
-    <h2 class="screenshot-card__title">Sumber imginn & Nitter</h2>
-    <p class="screenshot-card__body">
-      Baca profil Instagram dari imginn dan profil X dari instance Nitter yang Anda konfigurasi — sebagai cadangan atau sumber utama.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Pengaturan feed Nora 0.9.2 menampilkan opsi imginn dan Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Sumber imginn & Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Galeri Layar Penuh & Zoom</h2>
-    <p class="screenshot-card__body">
-      Cubit untuk memperbesar foto dan video di galeri layar penuh, tahan tepi layar untuk mempercepat pemutaran, atau simpan media secara langsung.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Layar galeri media layar penuh Nora 0.9.2" />
-    </div>
-  </figure>
+Pengaturan Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profil</div>
-    <h2 class="screenshot-card__title">Buka Ulang Tab di Profil</h2>
-    <p class="screenshot-card__body">
-      Pindahkan tab seluler yang sedang terbuka ke profil Nora lain secara langsung dari menu header atau pengalih tab.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Dialog buka ulang tab di profil pada Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Pengaturan feed Nora 0.9.2 menampilkan opsi imginn dan Nitter](/blog/nora-0-9-2/feed-settings.webp "Baca profil Instagram dari imginn dan profil X dari instance Nitter yang Anda konfigurasi — sebagai cadangan atau sumber utama.")
+
+## Galeri Layar Penuh & Zoom
+
+Media
+
+![Layar galeri media layar penuh Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Cubit untuk memperbesar foto dan video di galeri layar penuh, tahan tepi layar untuk mempercepat pemutaran, atau simpan media secara langsung.")
+
+## Buka Ulang Tab di Profil
+
+Profil
+
+![Dialog buka ulang tab di profil pada Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Pindahkan tab seluler yang sedang terbuka ke profil Nora lain secara langsung dari menu header atau pengalih tab.")
+:::
 
 ## Kontrol Video Feed, Zoom, dan Notifikasi
 

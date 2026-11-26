@@ -13,39 +13,15 @@ product: noutube
 
 يمكنك أيضًا إضافة **الأدوات** أو **إصدار سطح المكتب** أو **الإعدادات** أو زر التبديل **YouTube / YouTube Music** إلى شريط الأدوات. وتتيح لك القائمة نفسها إعادة ترتيب الأزرار الموجودة مثل **المكتبة** و**موجز القنوات** و**السجل**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">فعّل مشاركة وفتح عنوان URL واسحبهما إلى أعلى القائمة.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="إعدادات المظهر على Android مع تفعيل مشاركة وفتح عنوان URL في أول صفين ومقابض السحب على اليمين" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">أصبح زرا مشاركة وفتح عنوان URL أول زرين في شريط أدوات صفحة المشاهدة.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="شريط أدوات NouTube فوق صفحة مشاهدة Big Buck Bunny، مع أيقونة المشاركة وأيقونة رابط فتح عنوان URL في أقصى اليسار" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![إعدادات المظهر على Android مع تفعيل مشاركة وفتح عنوان URL في أول صفين ومقابض السحب على اليمين](/blog/noutube-0-7-11/android-toolbar-settings.webp "فعّل مشاركة وفتح عنوان URL واسحبهما إلى أعلى القائمة.")
+![شريط أدوات NouTube فوق صفحة مشاهدة Big Buck Bunny، مع أيقونة المشاركة وأيقونة رابط فتح عنوان URL في أقصى اليسار](/blog/noutube-0-7-11/android-toolbar-result.webp "أصبح زرا مشاركة وفتح عنوان URL أول زرين في شريط أدوات صفحة المشاهدة.")
 
 ## نزّل مقاطع الفيديو على iPhone وiPad
 
 لمقطع فيديو يُسمح لك بحفظه، افتح **الأدوات** واضغط على **تنزيل الفيديو**. يقوم NouTube بتنزيل ملف MP4 متوافق عند توفره. وعند انتهاء التنزيل، اضغط على **تصدير** لحفظ الملف أو مشاركته.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">تملأ الأدوات عنوان URL للفيديو الحالي تلقائيًا.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="لوحة التنزيل على iPhone مع عنوان URL للفيديو مملوء، وملاحظة حول توفر MP4، وزر تنزيل الفيديو" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">يظهر زر تصدير في سجل التنزيلات عندما يصبح الملف جاهزًا.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="عنصر في سجل التنزيلات على iPhone مع علامة اختيار خضراء وحالة اكتمل التنزيل وزر تصدير" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![لوحة التنزيل على iPhone مع عنوان URL للفيديو مملوء، وملاحظة حول توفر MP4، وزر تنزيل الفيديو](/blog/noutube-0-7-11/ios-download-tools.webp "تملأ الأدوات عنوان URL للفيديو الحالي تلقائيًا.")
+![عنصر في سجل التنزيلات على iPhone مع علامة اختيار خضراء وحالة اكتمل التنزيل وزر تصدير](/blog/noutube-0-7-11/ios-download-export.webp "يظهر زر تصدير في سجل التنزيلات عندما يصبح الملف جاهزًا.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ product: noutube
 
 لإزالة قسم التعليقات من صفحات مشاهدة YouTube، افتح **الإعدادات ← التفضيلات ← بلا تشتيت** وفعّل **إخفاء التعليقات**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">يوجد إخفاء التعليقات في أسفل إعدادات بلا تشتيت.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="شاشة التفضيلات على Android مع تفعيل مفتاح إخفاء التعليقات في أسفل قسم بلا تشتيت" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![شاشة التفضيلات على Android مع تفعيل مفتاح إخفاء التعليقات في أسفل قسم بلا تشتيت](/blog/noutube-0-7-11/hide-comments-setting.webp "يوجد إخفاء التعليقات في أسفل إعدادات بلا تشتيت.")
 
 ## إصلاحات أخرى
 

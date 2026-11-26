@@ -13,40 +13,25 @@ product: nora
 
 Ανοίξτε ένα υποστηριζόμενο προφίλ ή κοινότητα σε μια καρτέλα του Nora και επιλέξτε **Παρακολούθηση** από το μενού. Οι πιο πρόσφατες αναρτήσεις του θα εμφανιστούν στο **Feed** του Nora. Πατήστε σε μια ανάρτηση για να ανοίξετε την αρχική σελίδα όποτε θέλετε να διαβάσετε απαντήσεις ή να αλληλεπιδράσετε.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Προσαρμοσμένα χρονολόγια</h2>
-    <p class="screenshot-card__body">
-      Διαβάστε χρονολογικές ενημερώσεις από λογαριασμούς που παρακολουθείτε σε Bluesky, Reddit, Mastodon και άλλα.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Οθόνη χρονολογίου feed του Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Προσαρμοσμένα χρονολόγια
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Πολυμέσα</div>
-    <h2 class="screenshot-card__title">Πλέγμα φωτογραφιών και βίντεο</h2>
-    <p class="screenshot-card__body">
-      Αλλάξτε οποιοδήποτε χρονολόγιο για να εμφανίζονται μόνο φωτογραφίες και βίντεο σε οπτικό πλέγμα και περιηγηθείτε σύροντας στην γκαλερί πλήρους οθόνης.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Οθόνη πλέγματος φωτογραφιών και βίντεο του Nora 0.9.0" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Πηγές</div>
-    <h2 class="screenshot-card__title">Προσθήκη & διαχείριση πηγών</h2>
-    <p class="screenshot-card__body">
-      Επικολλήστε συνδέσμους προφίλ μαζικά, εισαγάγετε αρχεία OPML ή φιλτράρετε και ταξινομήστε τις πηγές σας από μια ειδική οθόνη.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Οθόνη διαχείρισης πηγών feed του Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Οθόνη χρονολογίου feed του Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Διαβάστε χρονολογικές ενημερώσεις από λογαριασμούς που παρακολουθείτε σε Bluesky, Reddit, Mastodon και άλλα.")
+
+## Πλέγμα φωτογραφιών και βίντεο
+
+Πολυμέσα
+
+![Οθόνη πλέγματος φωτογραφιών και βίντεο του Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Αλλάξτε οποιοδήποτε χρονολόγιο για να εμφανίζονται μόνο φωτογραφίες και βίντεο σε οπτικό πλέγμα και περιηγηθείτε σύροντας στην γκαλερί πλήρους οθόνης.")
+
+## Προσθήκη & διαχείριση πηγών
+
+Πηγές
+
+![Οθόνη διαχείρισης πηγών feed του Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Επικολλήστε συνδέσμους προφίλ μαζικά, εισαγάγετε αρχεία OPML ή φιλτράρετε και ταξινομήστε τις πηγές σας από μια ειδική οθόνη.")
+:::
 
 Μπορείτε να ακολουθήσετε:
 

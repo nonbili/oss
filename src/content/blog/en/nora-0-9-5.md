@@ -23,14 +23,7 @@ Under **Settings → Services → X**, you can now choose to hide:
 
 These controls are optional. The same settings section also offers **Default search to Latest**, so searches open with recent posts instead of Top results. You can still switch search tabs on X when you want a different view.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">X controls in Nora on Android: choose which interface elements to hide and whether searches open in Latest.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Nora’s X settings on a Pixel phone, showing optional Grok, recommendations, engagement count, and Latest search controls" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora’s X settings on a Pixel phone, showing optional Grok, recommendations, engagement count, and Latest search controls](/blog/nora-0-9-5/x-settings.webp "X controls in Nora on Android: choose which interface elements to hide and whether searches open in Latest.")
 
 ## Keep Ordinary Facebook Posts Visible
 

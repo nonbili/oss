@@ -13,40 +13,25 @@ Esplora tutto insieme, separa i tuoi interessi in timeline diverse o passa a una
 
 Apri un profilo o una community supportata in una scheda di Nora e seleziona **Segui** dal menu. I suoi post più recenti appariranno nel **Feed** di Nora. Tocca un post per aprire la pagina originale ogni volta che desideri leggere le risposte o interagire.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Timeline personalizzate</h2>
-    <p class="screenshot-card__body">
-      Leggi gli aggiornamenti cronologici degli account social seguiti su Bluesky, Reddit, Mastodon e altri.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Schermata della timeline del feed di Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Timeline personalizzate
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Griglia di foto e video</h2>
-    <p class="screenshot-card__body">
-      Passa a qualsiasi timeline per mostrare solo foto e video in una griglia visiva, quindi sfogliali nella galleria a schermo intero.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Schermata della griglia di foto e video di Nora 0.9.0" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Fonti</div>
-    <h2 class="screenshot-card__title">Aggiungi e gestisci fonti</h2>
-    <p class="screenshot-card__body">
-      Incolla link di profili in blocco, importa file OPML o filtra e ordina le fonti seguite da una schermata dedicata.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Schermata di gestione delle fonti del feed di Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Schermata della timeline del feed di Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Leggi gli aggiornamenti cronologici degli account social seguiti su Bluesky, Reddit, Mastodon e altri.")
+
+## Griglia di foto e video
+
+Media
+
+![Schermata della griglia di foto e video di Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Passa a qualsiasi timeline per mostrare solo foto e video in una griglia visiva, quindi sfogliali nella galleria a schermo intero.")
+
+## Aggiungi e gestisci fonti
+
+Fonti
+
+![Schermata di gestione delle fonti del feed di Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Incolla link di profili in blocco, importa file OPML o filtra e ordina le fonti seguite da una schermata dedicata.")
+:::
 
 Puoi seguire:
 

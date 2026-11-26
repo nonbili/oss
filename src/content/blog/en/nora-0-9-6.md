@@ -22,14 +22,7 @@ Android home screen shortcuts now offer context menus:
 
 You can keep reading in the standalone window and send a link to Nora when you want to explore it in a tab.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Long-pressing an image in an Android home screen shortcut opens Nora’s image actions.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Nora’s standalone Android shortcut showing Save image, Open image in new tab, and Copy image link actions" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora’s standalone Android shortcut showing Save image, Open image in new tab, and Copy image link actions](/blog/nora-0-9-6/shortcut-image-menu.webp "Long-pressing an image in an Android home screen shortcut opens Nora’s image actions.")
 
 ## Easier Reading in the Feed
 

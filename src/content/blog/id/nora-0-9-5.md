@@ -23,14 +23,7 @@ Di bawah **Pengaturan → Layanan → X**, Anda kini dapat memilih untuk menyemb
 
 Kontrol ini bersifat opsional. Bagian pengaturan yang sama juga menyediakan opsi **Default pencarian ke Terbaru**, sehingga pencarian langsung menampilkan postingan terbaru alih-alih hasil Populer. Anda tetap dapat beralih tab pencarian di X kapan pun menginginkan tampilan berbeda.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kontrol X di Nora pada Android: pilih elemen antarmuka yang akan disembunyikan dan apakah pencarian dibuka di Terbaru.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Pengaturan X Nora di ponsel Pixel, menampilkan opsi Grok, rekomendasi, jumlah interaksi, dan pencarian Terbaru" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pengaturan X Nora di ponsel Pixel, menampilkan opsi Grok, rekomendasi, jumlah interaksi, dan pencarian Terbaru](/blog/nora-0-9-5/x-settings.webp "Kontrol X di Nora pada Android: pilih elemen antarmuka yang akan disembunyikan dan apakah pencarian dibuka di Terbaru.")
 
 ## Pertahankan Postingan Facebook Biasa Tetap Terlihat
 

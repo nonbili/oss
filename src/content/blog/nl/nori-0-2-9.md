@@ -21,14 +21,7 @@ In de bladwijzereditor toont **Opgeslagen bericht** de datum van je opgeslagen k
 
 Automatisch opslaan staat standaard aan. Je kunt dit uitschakelen via **Instellingen → Algemeen → Socialmediaberichten offline opslaan**. Als je **Nori Sync** gebruikt, worden opgeslagen berichten en bijbehorende afbeeldingen gesynchroniseerd tussen je apparaten.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Een opgeslagen Bluesky-bericht blijft leesbaar met afbeelding terwijl de telefoon in vliegtuigmodus staat.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori toont een opgeslagen Bluesky-bericht met auteur, tekst en bijgevoegde afbeelding terwijl de vliegtuigmodus is ingeschakeld" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori toont een opgeslagen Bluesky-bericht met auteur, tekst en bijgevoegde afbeelding terwijl de vliegtuigmodus is ingeschakeld](/blog/nori-0-2-9/saved-social-post.webp "Een opgeslagen Bluesky-bericht blijft leesbaar met afbeelding terwijl de telefoon in vliegtuigmodus staat.")
 
 ## Deel meer dan alleen een link
 
@@ -38,14 +31,7 @@ Kies een **lichte of donkere** achtergrond en bepaal of je de **Notitie** en **T
 
 Tik op **Delen** om de kaart te versturen via het deelmenu van je apparaat, of tik op de downloadknop voor **Afbeelding opslaan** om hem in je fotobibliotheek op te slaan.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Bekijk een voorbeeld van de kaart, kies wat je wilt opnemen en deel of bewaar de afbeelding.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Voorbeeld van Delen als afbeelding met licht en donker thema, bediening voor Notitie en Tags, downloadknop en knop Delen" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Voorbeeld van Delen als afbeelding met licht en donker thema, bediening voor Notitie en Tags, downloadknop en knop Delen](/blog/nori-0-2-9/share-as-image.webp "Bekijk een voorbeeld van de kaart, kies wat je wilt opnemen en deel of bewaar de afbeelding.")
 
 ## Geef elke lijst zijn eigen volgorde
 
@@ -59,14 +45,7 @@ Open **Lijst bewerken**, of maak een **Nieuwe lijst** aan, en kies **Bladwijzerv
 
 De keuze geldt voor die specifieke lijst, zodat je andere lijsten hun eigen volgorde kunnen behouden. Je kunt de lijst in dezelfde editor ook hernoemen.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kies een bladwijzervolgorde voor de lijst Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Lijst bewerken voor Reading queue met alle vijf opties voor bladwijzervolgorde zichtbaar" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Lijst bewerken voor Reading queue met alle vijf opties voor bladwijzervolgorde zichtbaar](/blog/nori-0-2-9/list-bookmark-order.webp "Kies een bladwijzervolgorde voor de lijst Reading queue.")
 
 Deze versie verbetert ook het scrollen in het zijmenu **Alle bladwijzers** op iOS en lost een synchronisatieprobleem op. Bekijk de [volledige releaseopmerkingen](https://github.com/nonbili/Nori/releases/tag/v0.2.9) voor details.
 

@@ -19,14 +19,7 @@ NouTube は動画ページのレスポンスを受信しながら順次処理す
 
 ダウンロードダイアログの **フォルダ** の下にある **参照** をタップし、Android のフォルダピッカーでフォルダを選択してください。デフォルトの保存先に戻すには、**Downloads フォルダを使用** をタップします。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">動画を専用フォルダに保存したり、Downloads フォルダに戻したりできます。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="選択されたフォルダとして Download/NouTube、「参照」、「Downloads フォルダを使用」が表示されている NouTube の Android ダウンロードダイアログ" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![選択されたフォルダとして Download/NouTube、「参照」、「Downloads フォルダを使用」が表示されている NouTube の Android ダウンロードダイアログ](/blog/noutube-0-7-10/download-folder.webp "動画を専用フォルダに保存したり、Downloads フォルダに戻したりできます。")
 
 ## フィードリーダーでのコミュニティ投稿表示
 
@@ -34,20 +27,8 @@ NouTube は動画ページのレスポンスを受信しながら順次処理す
 
 試すには、**設定 → 外観** を開き、**チャンネルフィード** のすぐ下にある **フィードにコミュニティ投稿を表示** をオンにしてください。**デフォルトではオフ**になっています。投稿を含めると保存した各チャンネルの「投稿」タブを確認するため、フィード更新時のデータ通信量が増えます。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">外観設定でコミュニティ投稿を有効にします。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="「チャンネルフィード」と「フィードにコミュニティ投稿を表示」が有効になっている Android 版 NouTube の外観設定" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">保存したチャンネルの動画と並んでコミュニティ投稿が表示されます。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="テキストと画像を含む Veritasium のコミュニティ投稿がアップロード動画と並んで表示されている NouTube のフィード" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![「チャンネルフィード」と「フィードにコミュニティ投稿を表示」が有効になっている Android 版 NouTube の外観設定](/blog/noutube-0-7-10/community-posts-setting.webp "外観設定でコミュニティ投稿を有効にします。")
+![テキストと画像を含む Veritasium のコミュニティ投稿がアップロード動画と並んで表示されている NouTube のフィード](/blog/noutube-0-7-10/community-post-in-feed.webp "保存したチャンネルの動画と並んでコミュニティ投稿が表示されます。")
 
 ## その他の細かな修正
 

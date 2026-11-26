@@ -21,14 +21,7 @@ product: nori
 
 자동 저장은 기본적으로 켜져 있습니다. **설정 → 일반 → 소셜 게시물 오프라인 저장**에서 끌 수 있습니다. **Nori Sync**를 사용하면 저장된 게시물과 이미지가 기기 간에 동기화됩니다.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">저장된 Bluesky 게시물은 휴대폰이 비행기 모드일 때도 이미지와 함께 읽을 수 있습니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="비행기 모드가 켜진 상태에서 작성자, 텍스트, 첨부 이미지가 포함된 저장된 Bluesky 게시물을 표시하는 Nori" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![비행기 모드가 켜진 상태에서 작성자, 텍스트, 첨부 이미지가 포함된 저장된 Bluesky 게시물을 표시하는 Nori](/blog/nori-0-2-9/saved-social-post.webp "저장된 Bluesky 게시물은 휴대폰이 비행기 모드일 때도 이미지와 함께 읽을 수 있습니다.")
 
 ## 링크 그 이상을 공유하세요
 
@@ -38,14 +31,7 @@ product: nori
 
 **공유**를 탭하여 기기의 공유 시트로 카드를 보내거나, 다운로드 버튼을 탭하여 **이미지 저장**으로 사진 라이브러리에 저장하세요.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">카드를 미리 보고 포함할 항목을 선택한 다음 이미지를 공유하거나 저장하세요.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="밝은 테마와 어두운 테마, 메모 및 태그 컨트롤, 다운로드 버튼, 공유 버튼이 표시된 이미지로 공유 미리보기" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![밝은 테마와 어두운 테마, 메모 및 태그 컨트롤, 다운로드 버튼, 공유 버튼이 표시된 이미지로 공유 미리보기](/blog/nori-0-2-9/share-as-image.webp "카드를 미리 보고 포함할 항목을 선택한 다음 이미지를 공유하거나 저장하세요.")
 
 ## 각 목록에 고유한 순서 지정하기
 
@@ -59,14 +45,7 @@ product: nori
 
 선택한 순서는 해당 목록에만 적용되므로 다른 목록은 각자의 순서를 그대로 유지할 수 있습니다. 같은 편집기에서 목록 이름도 바꿀 수 있습니다.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Reading queue 목록의 북마크 순서를 선택하세요.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="다섯 가지 북마크 순서 옵션이 모두 표시된 Reading queue 목록 편집 화면" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![다섯 가지 북마크 순서 옵션이 모두 표시된 Reading queue 목록 편집 화면](/blog/nori-0-2-9/list-bookmark-order.webp "Reading queue 목록의 북마크 순서를 선택하세요.")
 
 이번 릴리스에서는 iOS의 **모든 북마크** 서랍 스크롤을 개선하고 동기화 문제도 수정했습니다. 자세한 내용은 [전체 릴리스 노트](https://github.com/nonbili/Nori/releases/tag/v0.2.9)를 확인하세요.
 

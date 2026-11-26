@@ -19,14 +19,7 @@ Bạn muốn giữ video đã tải xuống trong một thư mục riêng? Trên
 
 Trong hộp thoại tải xuống, nhấn **Browse** bên dưới **Folder**, sau đó chọn một thư mục trong trình chọn thư mục Android. Để quay lại vị trí mặc định, nhấn **Use Downloads folder**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Lưu video vào một thư mục riêng, hoặc chuyển lại về Downloads.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Hộp thoại tải xuống Android của NouTube hiển thị Download/NouTube là thư mục đã chọn, Browse và Use Downloads folder" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Hộp thoại tải xuống Android của NouTube hiển thị Download/NouTube là thư mục đã chọn, Browse và Use Downloads folder](/blog/noutube-0-7-10/download-folder.webp "Lưu video vào một thư mục riêng, hoặc chuyển lại về Downloads.")
 
 ## Bài viết cộng đồng trong trình đọc bảng tin
 
@@ -34,20 +27,8 @@ Các kênh bạn đã lưu có thể chia sẻ cập nhật giữa các lần t�
 
 Để dùng thử, hãy mở **Settings → Appearance** và bật **Community posts in feed**, ngay bên dưới **Channels feed**. Tùy chọn này **tắt theo mặc định**: việc bao gồm bài viết đồng nghĩa với việc kiểm tra thẻ Posts của từng kênh đã lưu, tiêu tốn nhiều dữ liệu hơn khi làm mới bảng tin.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Bật bài viết cộng đồng trong cài đặt Appearance.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Cài đặt Appearance của NouTube trên Android với Channels feed và Community posts in feed đã bật" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Bài viết cộng đồng xuất hiện cùng các video từ các kênh bạn đã lưu.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Bảng tin của NouTube hiển thị các bài viết cộng đồng của Veritasium kèm văn bản và hình ảnh bên cạnh video tải lên" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Cài đặt Appearance của NouTube trên Android với Channels feed và Community posts in feed đã bật](/blog/noutube-0-7-10/community-posts-setting.webp "Bật bài viết cộng đồng trong cài đặt Appearance.")
+![Bảng tin của NouTube hiển thị các bài viết cộng đồng của Veritasium kèm văn bản và hình ảnh bên cạnh video tải lên](/blog/noutube-0-7-10/community-post-in-feed.webp "Bài viết cộng đồng xuất hiện cùng các video từ các kênh bạn đã lưu.")
 
 ## Các sửa lỗi nhỏ hơn
 

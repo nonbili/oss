@@ -23,14 +23,7 @@ Onder **Settings → Services → X** kun je er nu voor kiezen om het volgende t
 
 Deze opties zijn facultatief. Dezelfde instellingensectie biedt ook **Default search to Latest**, zodat zoekopdrachten openen met recente berichten in plaats van Topresultaten. Je kunt op X nog steeds van zoektabblad wisselen als je een andere weergave wilt.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">X-bediening in Nora op Android: kies welke interface-elementen worden verborgen en of zoekopdrachten openen in Latest.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="De X-instellingen van Nora op een Pixel-telefoon, met optionele bediening voor Grok, aanbevelingen, interactietellingen en zoeken op Latest" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![De X-instellingen van Nora op een Pixel-telefoon, met optionele bediening voor Grok, aanbevelingen, interactietellingen en zoeken op Latest](/blog/nora-0-9-5/x-settings.webp "X-bediening in Nora op Android: kies welke interface-elementen worden verborgen en of zoekopdrachten openen in Latest.")
 
 ## Houd gewone Facebook-berichten zichtbaar
 

@@ -22,14 +22,7 @@ Skróty na ekranie głównym Androida oferują teraz menu kontekstowe:
 
 Możesz kontynuować czytanie w osobnym oknie i przesyłać wybrane linki do Nory, gdy zechcesz zapoznać się z nimi na nowej karcie.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Przytrzymanie obrazu w skrócie na ekranie głównym Androida otwiera menu akcji obrazu w Norze.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Samodzielny skrót Nory na Androidzie z akcjami Zapisz obraz, Otwórz obraz w nowej karcie i Kopiuj link do obrazu" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Samodzielny skrót Nory na Androidzie z akcjami Zapisz obraz, Otwórz obraz w nowej karcie i Kopiuj link do obrazu](/blog/nora-0-9-6/shortcut-image-menu.webp "Przytrzymanie obrazu w skrócie na ekranie głównym Androida otwiera menu akcji obrazu w Norze.")
 
 ## Wygodniejsze czytanie w czytniku kanałów
 

@@ -13,39 +13,15 @@ NouTube 0.7.11 讓你可以將 **分享** 和 **開啟網址** 等動作直接�
 
 你也可以將 **工具**、**桌面版網站**、**設定** 或 **YouTube / YouTube Music** 切換按鈕加入工具列。在同一份清單中，也能重新排列 **媒體庫**、**頻道動態** 和 **觀看記錄** 等現有按鈕。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">開啟分享和開啟網址，並將它們拖到清單頂端。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Android 外觀設定，前兩列的分享和開啟網址已開啟，右側顯示拖曳把手" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">分享和開啟網址現在是觀看頁面工具列上的前兩個按鈕。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Big Buck Bunny 觀看頁面上方的 NouTube 工具列，最左側是分享圖示與開啟網址的連結圖示" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android 外觀設定，前兩列的分享和開啟網址已開啟，右側顯示拖曳把手](/blog/noutube-0-7-11/android-toolbar-settings.webp "開啟分享和開啟網址，並將它們拖到清單頂端。")
+![Big Buck Bunny 觀看頁面上方的 NouTube 工具列，最左側是分享圖示與開啟網址的連結圖示](/blog/noutube-0-7-11/android-toolbar-result.webp "分享和開啟網址現在是觀看頁面工具列上的前兩個按鈕。")
 
 ## 在 iPhone 和 iPad 上下載影片
 
 對於你有權儲存的影片，開啟 **工具** 並點一下 **下載影片**。若有相容的 MP4，NouTube 就會下載。下載完成後，點一下 **匯出** 即可儲存或分享檔案。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">工具會自動填入目前影片的網址。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="iPhone 下載面板，已填入影片網址，顯示 MP4 可用性說明和下載影片按鈕" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">檔案準備好後，下載歷史記錄中會出現匯出按鈕。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="iPhone 下載歷史記錄中的項目，帶有綠色勾號、下載完成狀態和匯出按鈕" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![iPhone 下載面板，已填入影片網址，顯示 MP4 可用性說明和下載影片按鈕](/blog/noutube-0-7-11/ios-download-tools.webp "工具會自動填入目前影片的網址。")
+![iPhone 下載歷史記錄中的項目，帶有綠色勾號、下載完成狀態和匯出按鈕](/blog/noutube-0-7-11/ios-download-export.webp "檔案準備好後，下載歷史記錄中會出現匯出按鈕。")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ NouTube 0.7.11 讓你可以將 **分享** 和 **開啟網址** 等動作直接�
 
 若要從 YouTube 觀看頁面移除留言區，請開啟 **設定 → 偏好設定 → 無干擾模式**，然後開啟 **隱藏留言**。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">隱藏留言位於無干擾模式設定的最下方。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Android 偏好設定畫面，無干擾模式區段最下方的隱藏留言開關已開啟" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android 偏好設定畫面，無干擾模式區段最下方的隱藏留言開關已開啟](/blog/noutube-0-7-11/hide-comments-setting.webp "隱藏留言位於無干擾模式設定的最下方。")
 
 ## 其他修正
 

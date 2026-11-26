@@ -21,14 +21,7 @@ No editor de favoritos, **Post salvo** mostra a data da sua cópia salva. Use **
 
 O salvamento automático fica ativado por padrão. Você pode desativá-lo em **Configurações → Geral → Salvar posts sociais offline**. Se você usa o **Nori Sync**, os posts salvos e suas imagens são sincronizados entre os seus dispositivos.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Um post salvo do Bluesky continua legível com sua imagem enquanto o celular está no modo avião.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori exibindo um post salvo do Bluesky com autor, texto e imagem anexada, com o modo avião ativado" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori exibindo um post salvo do Bluesky com autor, texto e imagem anexada, com o modo avião ativado](/blog/nori-0-2-9/saved-social-post.webp "Um post salvo do Bluesky continua legível com sua imagem enquanto o celular está no modo avião.")
 
 ## Compartilhe mais do que um link
 
@@ -38,14 +31,7 @@ Escolha um fundo **claro ou escuro** e decida se quer incluir a **Nota** e as **
 
 Toque em **Compartilhar** para enviar o cartão pela folha de compartilhamento do seu dispositivo, ou toque no botão de download para **Salvar imagem** na sua biblioteca de fotos.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Visualize o cartão, escolha o que incluir e depois compartilhe ou salve a imagem.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Pré-visualização de Compartilhar como imagem com temas claro e escuro, controles de Nota e Tags, botão de download e botão Compartilhar" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pré-visualização de Compartilhar como imagem com temas claro e escuro, controles de Nota e Tags, botão de download e botão Compartilhar](/blog/nori-0-2-9/share-as-image.webp "Visualize o cartão, escolha o que incluir e depois compartilhe ou salve a imagem.")
 
 ## Dê a cada lista a sua própria ordem
 
@@ -59,14 +45,7 @@ Abra **Editar lista**, ou crie uma **Nova lista**, e escolha **Ordem dos favorit
 
 A escolha pertence àquela lista, para que suas outras listas possam manter sua própria ordem. Você também pode renomear a lista no mesmo editor.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Escolha uma ordem dos favoritos para a lista Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Editar lista para Reading queue com todas as cinco opções de Ordem dos favoritos visíveis" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Editar lista para Reading queue com todas as cinco opções de Ordem dos favoritos visíveis](/blog/nori-0-2-9/list-bookmark-order.webp "Escolha uma ordem dos favoritos para a lista Reading queue.")
 
 Esta versão também melhora a rolagem na gaveta **Todos os favoritos** no iOS e corrige um problema de sincronização. Veja as [notas de lançamento completas](https://github.com/nonbili/Nori/releases/tag/v0.2.9) para mais detalhes.
 

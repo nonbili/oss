@@ -23,14 +23,7 @@ Under **Inställningar → Tjänster → X** kan du nu välja att dölja:
 
 Dessa kontroller är valfria. Samma inställningssektion erbjuder även **Sök som standard efter Senaste**, så att sökningar öppnas med nya inlägg istället för populära resultat. Du kan fortfarande byta sökflikar på X när du vill ha en annan vy.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">X-kontroller i Nora på Android: välj vilka gränssnittselement som ska döljas och om sökningar ska öppnas i Senaste.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Noras X-inställningar på en Pixel-telefon, som visar kontroller för Grok, rekommendationer, engagemangsantal och Senaste sökning" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Noras X-inställningar på en Pixel-telefon, som visar kontroller för Grok, rekommendationer, engagemangsantal och Senaste sökning](/blog/nora-0-9-5/x-settings.webp "X-kontroller i Nora på Android: välj vilka gränssnittselement som ska döljas och om sökningar ska öppnas i Senaste.")
 
 ## Håll vanliga Facebook-inlägg synliga
 

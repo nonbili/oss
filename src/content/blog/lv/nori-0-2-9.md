@@ -21,14 +21,7 @@ Grāmatzīmju redaktorā sadaļā **Saglabātais ieraksts** ir redzams saglabāt
 
 Automātiskā saglabāšana pēc noklusējuma ir ieslēgta. Varat to izslēgt sadaļā **Iestatījumi → Vispārīgi → Saglabāt sociālo tīklu ierakstus bezsaistē**. Ja izmantojat **Nori Sync**, saglabātie ieraksti un to attēli tiek sinhronizēti visās jūsu ierīcēs.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Saglabāts Bluesky ieraksts paliek lasāms kopā ar attēlu, kamēr tālrunis ir lidmašīnas režīmā.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori rāda saglabātu Bluesky ierakstu ar autoru, tekstu un pievienotu attēlu, kad ir ieslēgts lidmašīnas režīms" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori rāda saglabātu Bluesky ierakstu ar autoru, tekstu un pievienotu attēlu, kad ir ieslēgts lidmašīnas režīms](/blog/nori-0-2-9/saved-social-post.webp "Saglabāts Bluesky ieraksts paliek lasāms kopā ar attēlu, kamēr tālrunis ir lidmašīnas režīmā.")
 
 ## Kopīgojiet vairāk nekā tikai saiti
 
@@ -38,14 +31,7 @@ Izvēlieties **gaišu vai tumšu** fonu un norādiet, vai iekļaut grāmatzīmes
 
 Pieskarieties **Kopīgot**, lai nosūtītu kartīti caur ierīces kopīgošanas izvēlni, vai pieskarieties lejupielādes pogai, lai **Saglabāt attēlu** savā fotoattēlu bibliotēkā.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Priekšskatiet kartīti, izvēlieties, ko iekļaut, un pēc tam kopīgojiet vai saglabājiet attēlu.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Kopīgošanas kā attēlu priekšskatījums ar gaišo un tumšo motīvu, Piezīmes un Birku vadīklām, lejupielādes pogu un Kopīgošanas pogu" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Kopīgošanas kā attēlu priekšskatījums ar gaišo un tumšo motīvu, Piezīmes un Birku vadīklām, lejupielādes pogu un Kopīgošanas pogu](/blog/nori-0-2-9/share-as-image.webp "Priekšskatiet kartīti, izvēlieties, ko iekļaut, un pēc tam kopīgojiet vai saglabājiet attēlu.")
 
 ## Piešķiriet katram sarakstam savu secību
 
@@ -59,14 +45,7 @@ Atveriet **Rediģēt sarakstu** vai izveidojiet **Jaunu sarakstu** un izvēlieti
 
 Izvēle attiecas uz konkrēto sarakstu, tāpēc pārējie saraksti var saglabāt savu secību. Tajā pašā redaktorā varat arī pārdēvēt sarakstu.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Izvēlieties grāmatzīmju secību sarakstam Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Saraksta Reading queue rediģēšana ar visām piecām redzamajām grāmatzīmju secības opcijām" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Saraksta Reading queue rediģēšana ar visām piecām redzamajām grāmatzīmju secības opcijām](/blog/nori-0-2-9/list-bookmark-order.webp "Izvēlieties grāmatzīmju secību sarakstam Reading queue.")
 
 Šajā laidienā ir arī uzlabota ritināšana atvilktnē **Visas grāmatzīmes** operētājsistēmā iOS un novērsta sinhronizācijas kļūda. Sīkāku informāciju skatiet [pilnajās laidiena piezīmēs](https://github.com/nonbili/Nori/releases/tag/v0.2.9).
 

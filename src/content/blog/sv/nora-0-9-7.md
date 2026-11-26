@@ -17,14 +17,7 @@ På Android öppnar du **Inställningar → Inställningar → Nedladdningar →
 
 Om du väljer en mapp använder Nora den även för media som du sparar från flödet på Android 10 och senare. Den här versionen åtgärdar också nedladdningar från `data:`-länkar, som vissa webbplatser använder för filer som genereras i webbläsaren.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads är vald som plats för framtida nedladdningar.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Androids nedladdningsinställningar med Nora Downloads vald och alternativen Nedladdningar, Fråga varje gång och Välj mapp synliga" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Androids nedladdningsinställningar med Nora Downloads vald och alternativen Nedladdningar, Fråga varje gång och Välj mapp synliga](/blog/nora-0-9-7/download-destination.webp "Nora Downloads är vald som plats för framtida nedladdningar.")
 
 ## Anpassa trepunktsmenyn
 
@@ -32,20 +25,8 @@ Om du väljer en mapp använder Nora den även för media som du sparar från fl
 
 **Inställningar** finns kvar i menyn, och **Återställ menystandard** rensar dina ändringar med ett tryck.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Låt Sök på sidan vara på och stäng av Datoranpassad webbplats.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Expanderade inställningar för Anpassa trepunktsmenyn med Sök på sidan på och Datoranpassad webbplats av" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Webbläsarmenyn behåller Sök på sidan, Dela och Inställningar.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Anpassad webbläsarmeny som visar Sök på sidan, Dela och Inställningar, med Datoranpassad webbplats dold" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Expanderade inställningar för Anpassa trepunktsmenyn med Sök på sidan på och Datoranpassad webbplats av](/blog/nora-0-9-7/customize-three-dot-menu.webp "Låt Sök på sidan vara på och stäng av Datoranpassad webbplats.")
+![Anpassad webbläsarmeny som visar Sök på sidan, Dela och Inställningar, med Datoranpassad webbplats dold](/blog/nora-0-9-7/customized-three-dot-menu.webp "Webbläsarmenyn behåller Sök på sidan, Dela och Inställningar.")
 
 ## WhatsApp Web och Facebook Marketplace öppnas i datorläge
 

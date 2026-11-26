@@ -22,14 +22,7 @@ Android 主畫面捷徑現在提供捷徑選單：
 
 您可以在獨立視窗中繼續閱讀，並將想要詳細瀏覽的連結傳送至 Nora 分頁中開啟。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">在 Android 主畫面捷徑中長按圖片可開啟 Nora 的圖片操作選單。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Nora 的獨立 Android 捷徑畫面，顯示儲存圖片、在新分頁中開啟圖片以及複製圖片連結操作" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora 的獨立 Android 捷徑畫面，顯示儲存圖片、在新分頁中開啟圖片以及複製圖片連結操作](/blog/nora-0-9-6/shortcut-image-menu.webp "在 Android 主畫面捷徑中長按圖片可開啟 Nora 的圖片操作選單。")
 
 ## 更流暢的動態閱讀體驗
 

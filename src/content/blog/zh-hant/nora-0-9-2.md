@@ -18,40 +18,25 @@ Instagram 或 X 停止更新了嗎？**Nora 0.9.2** 新增了選用的替代來�
 
 這兩項選項預設皆為關閉，可隨時在 **動態設定** 中啟用。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">動態設定</div>
-    <h2 class="screenshot-card__title">imginn 與 Nitter 來源</h2>
-    <p class="screenshot-card__body">
-      從 imginn 讀取 Instagram 個人檔案，並從您設定的 Nitter 站台讀取 X 個人檔案——可作為備用或主要來源。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="顯示 imginn 與 Nitter 選項的 Nora 0.9.2 動態設定畫面" />
-    </div>
-  </figure>
+:::screenshots
+## imginn 與 Nitter 來源
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">媒體</div>
-    <h2 class="screenshot-card__title">全螢幕藝廊與縮放</h2>
-    <p class="screenshot-card__body">
-      在全螢幕藝廊中以雙指縮放相片與影片、長按畫面邊緣加速播放，或直接儲存媒體檔案。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 全螢幕媒體藝廊畫面" />
-    </div>
-  </figure>
+動態設定
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">設定檔</div>
-    <h2 class="screenshot-card__title">在設定檔中重新開啟分頁</h2>
-    <p class="screenshot-card__body">
-      直接從頂部選單或分頁切換器，將任何開啟中的行動版分頁切換至另一個 Nora 設定檔。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 在設定檔中重新開啟分頁對話框" />
-    </div>
-  </figure>
-</div>
+![顯示 imginn 與 Nitter 選項的 Nora 0.9.2 動態設定畫面](/blog/nora-0-9-2/feed-settings.webp "從 imginn 讀取 Instagram 個人檔案，並從您設定的 Nitter 站台讀取 X 個人檔案——可作為備用或主要來源。")
+
+## 全螢幕藝廊與縮放
+
+媒體
+
+![Nora 0.9.2 全螢幕媒體藝廊畫面](/blog/nora-0-9-2/media-gallery.webp "在全螢幕藝廊中以雙指縮放相片與影片、長按畫面邊緣加速播放，或直接儲存媒體檔案。")
+
+## 在設定檔中重新開啟分頁
+
+設定檔
+
+![Nora 0.9.2 在設定檔中重新開啟分頁對話框](/blog/nora-0-9-2/reopen-in-profile.webp "直接從頂部選單或分頁切換器，將任何開啟中的行動版分頁切換至另一個 Nora 設定檔。")
+:::
 
 ## 動態影片控制、縮放與通知
 

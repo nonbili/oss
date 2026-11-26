@@ -18,40 +18,25 @@ Following public **Instagram** and **X** profiles without signing in can run int
 
 Both options are off by default and can be enabled anytime in **Feed Settings**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed Settings</div>
-    <h2 class="screenshot-card__title">imginn & Nitter Sources</h2>
-    <p class="screenshot-card__body">
-      Read Instagram profiles from imginn and X profiles from your configured Nitter instances — as a fallback or primary source.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Nora 0.9.2 feed settings showing imginn and Nitter options" />
-    </div>
-  </figure>
+:::screenshots
+## imginn & Nitter Sources
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Full-Screen Gallery & Zoom</h2>
-    <p class="screenshot-card__body">
-      Pinch to zoom into photos and videos in the full-screen gallery, hold the screen edge to speed up playback, or save media directly.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 full-screen media gallery screen" />
-    </div>
-  </figure>
+Feed Settings
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profiles</div>
-    <h2 class="screenshot-card__title">Reopen Tab in Profile</h2>
-    <p class="screenshot-card__body">
-      Switch any open mobile tab into another Nora profile directly from the header menu or tab switcher.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 reopen tab in profile dialog" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.2 feed settings showing imginn and Nitter options](/blog/nora-0-9-2/feed-settings.webp "Read Instagram profiles from imginn and X profiles from your configured Nitter instances — as a fallback or primary source.")
+
+## Full-Screen Gallery & Zoom
+
+Media
+
+![Nora 0.9.2 full-screen media gallery screen](/blog/nora-0-9-2/media-gallery.webp "Pinch to zoom into photos and videos in the full-screen gallery, hold the screen edge to speed up playback, or save media directly.")
+
+## Reopen Tab in Profile
+
+Profiles
+
+![Nora 0.9.2 reopen tab in profile dialog](/blog/nora-0-9-2/reopen-in-profile.webp "Switch any open mobile tab into another Nora profile directly from the header menu or tab switcher.")
+:::
 
 ## Feed Video Controls, Zoom, and Notifications
 

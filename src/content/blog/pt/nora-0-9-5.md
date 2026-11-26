@@ -23,14 +23,7 @@ Em **Definições → Serviços → X**, pode agora escolher ocultar:
 
 Estes controlos são opcionais. A mesma secção de definições também disponibiliza **Predefinir pesquisa para Mais recentes**, para que as pesquisas abram com publicações recentes em vez dos resultados Principais. Pode continuar a mudar de separador de pesquisa no X quando quiser uma vista diferente.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Controlos do X no Nora no Android: escolha que elementos da interface ocultar e se as pesquisas abrem em Mais recentes.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Definições do X no Nora num telemóvel Pixel, a mostrar controlos opcionais para Grok, recomendações, contagem de interações e pesquisa Mais recentes" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Definições do X no Nora num telemóvel Pixel, a mostrar controlos opcionais para Grok, recomendações, contagem de interações e pesquisa Mais recentes](/blog/nora-0-9-5/x-settings.webp "Controlos do X no Nora no Android: escolha que elementos da interface ocultar e se as pesquisas abrem em Mais recentes.")
 
 ## Manter as publicações normais do Facebook visíveis
 

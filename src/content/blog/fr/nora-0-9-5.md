@@ -23,14 +23,7 @@ Dans **Paramètres → Services → X**, vous pouvez désormais choisir de masqu
 
 Ces options sont facultatives. La même section des paramètres propose également l'option **Rechercher par défaut dans Récents**, permettant d'afficher d'emblée les publications récentes plutôt que les résultats Populaires. Vous pouvez toujours changer d'onglet de recherche sur X dès que vous le souhaitez.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Contrôles de X dans Nora sur Android : choisissez les éléments d'interface à masquer et si les recherches s'ouvrent dans Récents.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Paramètres X de Nora sur un smartphone Pixel montrant les réglages optionnels pour Grok, recommandations, compteurs d'engagement et recherche Récente" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Paramètres X de Nora sur un smartphone Pixel montrant les réglages optionnels pour Grok, recommandations, compteurs d\'engagement et recherche Récente](/blog/nora-0-9-5/x-settings.webp "Contrôles de X dans Nora sur Android : choisissez les éléments d'interface à masquer et si les recherches s'ouvrent dans Récents.")
 
 ## Garder les posts Facebook ordinaires visibles
 

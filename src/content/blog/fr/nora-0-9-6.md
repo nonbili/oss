@@ -22,14 +22,7 @@ Les raccourcis de l'écran d'accueil Android intègrent désormais des menus con
 
 Vous pouvez poursuivre votre lecture dans la fenêtre autonome et transmettre un lien à Nora chaque fois que vous souhaitez le consulter dans un onglet dédié.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Un appui long sur une image dans un raccourci d'écran d'accueil Android ouvre les actions d'image de Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Raccourci Android autonome de Nora affichant les actions Enregistrer l'image, Ouvrir l'image dans un nouvel onglet et Copier le lien de l'image" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Raccourci Android autonome de Nora affichant les actions Enregistrer l\'image, Ouvrir l\'image dans un nouvel onglet et Copier le lien de l\'image](/blog/nora-0-9-6/shortcut-image-menu.webp "Un appui long sur une image dans un raccourci d'écran d'accueil Android ouvre les actions d'image de Nora.")
 
 ## Lecture plus fluide dans le flux
 

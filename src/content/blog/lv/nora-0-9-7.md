@@ -17,14 +17,7 @@ Android ierīcē atveriet **Iestatījumi → Preferences → Lejupielādes → S
 
 Ja izvēlaties mapi, Nora to izmanto arī multividei, ko saglabājat no plūsmas operētājsistēmā Android 10 un jaunākās versijās. Šis laidiens arī novērš lejupielādes no `data:` saitēm, kuras dažas vietnes izmanto pārlūkā ģenerētiem failiem.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads ir atlasīta kā mērķis turpmākajām lejupielādēm.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Android lejupielāžu iestatījumi ar atlasītu Nora Downloads un redzamām opcijām Lejupielādes, Jautāt katru reizi un Izvēlēties mapi" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android lejupielāžu iestatījumi ar atlasītu Nora Downloads un redzamām opcijām Lejupielādes, Jautāt katru reizi un Izvēlēties mapi](/blog/nora-0-9-7/download-destination.webp "Nora Downloads ir atlasīta kā mērķis turpmākajām lejupielādēm.")
 
 ## Pielāgojiet trīs punktu izvēlni
 
@@ -32,20 +25,8 @@ Atveriet **Iestatījumi → Izskats → Rīkjosla → Pielāgot trīs punktu izv
 
 **Iestatījumi** paliek izvēlnē, un **Atjaunot izvēlnes noklusējumus** notīra jūsu izmaiņas ar vienu pieskārienu.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Atstājiet ieslēgtu Meklēt lapā un izslēdziet Darbvirsmas vietne.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Izvērsti trīs punktu izvēlnes pielāgošanas iestatījumi ar ieslēgtu Meklēt lapā un izslēgtu Darbvirsmas vietne" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Pārlūka izvēlne saglabā Meklēt lapā, Kopīgot un Iestatījumi.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Pielāgota pārlūka izvēlne, kurā redzams Meklēt lapā, Kopīgot un Iestatījumi, bet Darbvirsmas vietne ir paslēpta" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Izvērsti trīs punktu izvēlnes pielāgošanas iestatījumi ar ieslēgtu Meklēt lapā un izslēgtu Darbvirsmas vietne](/blog/nora-0-9-7/customize-three-dot-menu.webp "Atstājiet ieslēgtu Meklēt lapā un izslēdziet Darbvirsmas vietne.")
+![Pielāgota pārlūka izvēlne, kurā redzams Meklēt lapā, Kopīgot un Iestatījumi, bet Darbvirsmas vietne ir paslēpta](/blog/nora-0-9-7/customized-three-dot-menu.webp "Pārlūka izvēlne saglabā Meklēt lapā, Kopīgot un Iestatījumi.")
 
 ## WhatsApp Web un Facebook Marketplace atveras darbvirsmas režīmā
 

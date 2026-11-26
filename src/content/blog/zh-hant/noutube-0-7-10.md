@@ -19,14 +19,7 @@ NouTube 現在會在收到影片頁面回應時邊接收邊處理，無需等待
 
 在下載對話框中，點擊**資料夾**底下的**瀏覽**，然後在 Android 資料夾選擇器中選擇一個資料夾。若要恢復預設位置，請點擊**使用 Downloads 資料夾**。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">將影片儲存到專用資料夾，或切換回 Downloads。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="NouTube 的 Android 下載對話框，顯示選取的資料夾 Download/NouTube、瀏覽與使用 Downloads 資料夾" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![NouTube 的 Android 下載對話框，顯示選取的資料夾 Download/NouTube、瀏覽與使用 Downloads 資料夾](/blog/noutube-0-7-10/download-folder.webp "將影片儲存到專用資料夾，或切換回 Downloads。")
 
 ## 在動態閱讀器中查看社群貼文
 
@@ -34,20 +27,8 @@ NouTube 現在會在收到影片頁面回應時邊接收邊處理，無需等待
 
 若要試用，請開啟**設定 → 外觀**，並開啟位於**頻道動態**正下方的**在動態中顯示社群貼文**。此選項**預設為關閉**：包含貼文意味著需要檢查每個已儲存頻道的「貼文」分頁，這會在重新整理動態時使用更多網路流量。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">在外觀設定中啟用社群貼文。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Android 版 NouTube 的外觀設定，已開啟頻道動態與在動態中顯示社群貼文" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">社群貼文會與已儲存頻道的影片一同顯示。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="NouTube 動態顯示帶有文字和圖片的 Veritasium 社群貼文以及上傳的影片" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android 版 NouTube 的外觀設定，已開啟頻道動態與在動態中顯示社群貼文](/blog/noutube-0-7-10/community-posts-setting.webp "在外觀設定中啟用社群貼文。")
+![NouTube 動態顯示帶有文字和圖片的 Veritasium 社群貼文以及上傳的影片](/blog/noutube-0-7-10/community-post-in-feed.webp "社群貼文會與已儲存頻道的影片一同顯示。")
 
 ## 細節修正
 

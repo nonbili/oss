@@ -19,14 +19,7 @@ NouTube 现在会在收到视频页面响应时边接收边处理，无需等待
 
 在下载对话框中，点击**文件夹**下的**浏览**，然后在 Android 文件夹选择器中选择一个文件夹。如需恢复默认位置，请点击**使用 Downloads 文件夹**。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">将视频保存到专用文件夹，或切回 Downloads。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="NouTube 的 Android 下载对话框，显示选中的文件夹 Download/NouTube、浏览和使用 Downloads 文件夹" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![NouTube 的 Android 下载对话框，显示选中的文件夹 Download/NouTube、浏览和使用 Downloads 文件夹](/blog/noutube-0-7-10/download-folder.webp "将视频保存到专用文件夹，或切回 Downloads。")
 
 ## 在动态阅读器中查看社区帖子
 
@@ -34,20 +27,8 @@ NouTube 现在会在收到视频页面响应时边接收边处理，无需等待
 
 要试用此功能，请打开**设置 → 外观**，然后开启位于**频道动态**正下方的**在动态中显示社区帖子**。该选项**默认关闭**：包含帖子意味着需要检查每个已保存频道的“帖子”标签页，这会在刷新动态时消耗更多流量。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">在外观设置中启用社区帖子。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Android 版 NouTube 的外观设置，已开启频道动态和在动态中显示社区帖子" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">社区帖子会与已保存频道的视频一起显示。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="NouTube 动态显示带有文字和图片的 Veritasium 社区帖子以及上传的视频" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android 版 NouTube 的外观设置，已开启频道动态和在动态中显示社区帖子](/blog/noutube-0-7-10/community-posts-setting.webp "在外观设置中启用社区帖子。")
+![NouTube 动态显示带有文字和图片的 Veritasium 社区帖子以及上传的视频](/blog/noutube-0-7-10/community-post-in-feed.webp "社区帖子会与已保存频道的视频一起显示。")
 
 ## 细节修复
 

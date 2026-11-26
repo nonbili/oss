@@ -17,14 +17,7 @@ Open op Android **Instellingen → Voorkeuren → Downloads → Downloads opslaa
 
 Als je een map kiest, gebruikt Nora die ook voor media die je vanuit de feed opslaat op Android 10 en hoger. Deze release verhelpt ook downloads via `data:`-links, die sommige sites gebruiken voor bestanden die ze in de browser genereren.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads is geselecteerd als bestemming voor toekomstige downloads.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Android-downloadinstellingen met Nora Downloads geselecteerd en de opties Downloads, Elke keer vragen en Map kiezen zichtbaar" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android-downloadinstellingen met Nora Downloads geselecteerd en de opties Downloads, Elke keer vragen en Map kiezen zichtbaar](/blog/nora-0-9-7/download-destination.webp "Nora Downloads is geselecteerd als bestemming voor toekomstige downloads.")
 
 ## Pas het driepuntsmenu aan
 
@@ -32,20 +25,8 @@ Open **Instellingen → Uiterlijk → Werkbalk → Driepuntsmenu aanpassen** en 
 
 **Instellingen** blijft in het menu staan en **Menustandaard herstellen** wist je wijzigingen met één tik.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Laat Zoeken op pagina ingeschakeld en schakel Desktopsite uit.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Uitgeklapte instellingen voor Driepuntsmenu aanpassen met Zoeken op pagina aan en Desktopsite uit" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Het browsermenu behoudt Zoeken op pagina, Delen en Instellingen.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Aangepast browsermenu met Zoeken op pagina, Delen en Instellingen, waarbij Desktopsite verborgen is" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Uitgeklapte instellingen voor Driepuntsmenu aanpassen met Zoeken op pagina aan en Desktopsite uit](/blog/nora-0-9-7/customize-three-dot-menu.webp "Laat Zoeken op pagina ingeschakeld en schakel Desktopsite uit.")
+![Aangepast browsermenu met Zoeken op pagina, Delen en Instellingen, waarbij Desktopsite verborgen is](/blog/nora-0-9-7/customized-three-dot-menu.webp "Het browsermenu behoudt Zoeken op pagina, Delen en Instellingen.")
 
 ## WhatsApp Web en Facebook Marketplace openen in desktopmodus
 

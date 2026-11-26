@@ -13,39 +13,15 @@ Mở **Cài đặt → Giao diện → Nút thanh công cụ**. Dùng các công
 
 Bạn cũng có thể thêm **Công cụ**, **Trang cho máy tính**, **Cài đặt** hoặc nút chuyển **YouTube / YouTube Music** vào thanh công cụ. Trong cùng danh sách đó, bạn có thể sắp xếp lại các nút hiện có như **Thư viện**, **Bảng tin kênh** và **Lịch sử**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Bật Chia sẻ và Mở URL rồi kéo chúng lên đầu danh sách.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Cài đặt Giao diện trên Android với Chia sẻ và Mở URL được bật ở hai hàng đầu tiên và tay cầm kéo ở bên phải" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Chia sẻ và Mở URL giờ là hai nút đầu tiên trên thanh công cụ của trang xem.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Thanh công cụ NouTube phía trên trang xem Big Buck Bunny, với biểu tượng Chia sẻ và biểu tượng liên kết Mở URL ở ngoài cùng bên trái" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Cài đặt Giao diện trên Android với Chia sẻ và Mở URL được bật ở hai hàng đầu tiên và tay cầm kéo ở bên phải](/blog/noutube-0-7-11/android-toolbar-settings.webp "Bật Chia sẻ và Mở URL rồi kéo chúng lên đầu danh sách.")
+![Thanh công cụ NouTube phía trên trang xem Big Buck Bunny, với biểu tượng Chia sẻ và biểu tượng liên kết Mở URL ở ngoài cùng bên trái](/blog/noutube-0-7-11/android-toolbar-result.webp "Chia sẻ và Mở URL giờ là hai nút đầu tiên trên thanh công cụ của trang xem.")
 
 ## Tải video trên iPhone và iPad
 
 Với video bạn được phép lưu, hãy mở **Công cụ** và nhấn **Tải đoạn phim xuống**. NouTube sẽ tải một tệp MP4 tương thích nếu có. Khi tải xong, nhấn **Xuất** để lưu hoặc chia sẻ tệp.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Công cụ tự điền URL của video hiện tại.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Bảng tải xuống trên iPhone với URL video đã được điền, ghi chú về khả năng có MP4 và nút Tải đoạn phim xuống" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nút Xuất xuất hiện trong Lịch sử tải xuống khi tệp đã sẵn sàng.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Mục trong Lịch sử tải xuống trên iPhone với dấu tích xanh, trạng thái Đã tải xong và nút Xuất" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Bảng tải xuống trên iPhone với URL video đã được điền, ghi chú về khả năng có MP4 và nút Tải đoạn phim xuống](/blog/noutube-0-7-11/ios-download-tools.webp "Công cụ tự điền URL của video hiện tại.")
+![Mục trong Lịch sử tải xuống trên iPhone với dấu tích xanh, trạng thái Đã tải xong và nút Xuất](/blog/noutube-0-7-11/ios-download-export.webp "Nút Xuất xuất hiện trong Lịch sử tải xuống khi tệp đã sẵn sàng.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Trên thiết bị di động, vuốt lên trên trình phát YouTube để vào
 
 Để bỏ phần bình luận khỏi trang xem YouTube, hãy mở **Cài đặt → Tùy chọn → Không phân tâm** và bật **Ẩn bình luận**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ẩn bình luận nằm ở cuối phần cài đặt Không phân tâm.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Màn hình Tùy chọn trên Android với công tắc Ẩn bình luận được bật ở cuối phần Không phân tâm" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Màn hình Tùy chọn trên Android với công tắc Ẩn bình luận được bật ở cuối phần Không phân tâm](/blog/noutube-0-7-11/hide-comments-setting.webp "Ẩn bình luận nằm ở cuối phần cài đặt Không phân tâm.")
 
 ## Các bản sửa lỗi khác
 

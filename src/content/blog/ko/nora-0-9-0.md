@@ -13,40 +13,25 @@ product: nora
 
 Nora 탭에서 지원되는 프로필이나 커뮤니티를 열고 메뉴에서 **Watch**를 선택하세요. 최신 게시물이 Nora의 **Feed**에 표시됩니다. 답글을 읽거나 상호작용하고 싶을 때는 게시물을 탭하여 원본 페이지를 열면 됩니다.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">피드</div>
-    <h2 class="screenshot-card__title">사용자 지정 타임라인</h2>
-    <p class="screenshot-card__body">
-      Bluesky, Reddit, Mastodon 등 팔로우한 소셜 계정의 최신 소식을 시간순으로 읽어보세요.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 피드 타임라인 화면" />
-    </div>
-  </figure>
+:::screenshots
+## 사용자 지정 타임라인
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">미디어</div>
-    <h2 class="screenshot-card__title">사진 및 동영상 그리드</h2>
-    <p class="screenshot-card__body">
-      타임라인을 전환해 사진과 동영상만 시각적 그리드로 보고, 전체 화면 갤러리에서 스와이프하며 감상하세요.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 사진 및 동영상 그리드 화면" />
-    </div>
-  </figure>
+피드
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">소스</div>
-    <h2 class="screenshot-card__title">소스 추가 및 관리</h2>
-    <p class="screenshot-card__body">
-      프로필 링크를 일괄 붙여넣거나 OPML 파일을 가져오고, 전용 화면에서 팔로우 중인 소스를 필터링 및 정렬하세요.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 피드 소스 관리 화면" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 피드 타임라인 화면](/blog/nora-0-9-0/feed-timeline.webp "Bluesky, Reddit, Mastodon 등 팔로우한 소셜 계정의 최신 소식을 시간순으로 읽어보세요.")
+
+## 사진 및 동영상 그리드
+
+미디어
+
+![Nora 0.9.0 사진 및 동영상 그리드 화면](/blog/nora-0-9-0/media-grid.webp "타임라인을 전환해 사진과 동영상만 시각적 그리드로 보고, 전체 화면 갤러리에서 스와이프하며 감상하세요.")
+
+## 소스 추가 및 관리
+
+소스
+
+![Nora 0.9.0 피드 소스 관리 화면](/blog/nora-0-9-0/manage-sources.webp "프로필 링크를 일괄 붙여넣거나 OPML 파일을 가져오고, 전용 화면에서 팔로우 중인 소스를 필터링 및 정렬하세요.")
+:::
 
 다음 소스를 팔로우할 수 있습니다:
 

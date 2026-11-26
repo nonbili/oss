@@ -23,14 +23,7 @@ product: nora
 
 Ці параметри є необов'язковими. У цьому ж розділі налаштувань також доступний параметр **Default search to Latest**, щоб пошук відкривався на останніх дописах замість популярних результатів. Ви все одно можете перемикати вкладки пошуку в X, коли захочете інший вигляд.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Елементи керування X у Nora на Android: вибирайте, які елементи інтерфейсу приховати та чи відкривати пошук у вкладці «Останні».</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Налаштування X у Nora на телефоні Pixel з опціями Grok, рекомендацій, лічильників взаємодії та пошуку Latest" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Налаштування X у Nora на телефоні Pixel з опціями Grok, рекомендацій, лічильників взаємодії та пошуку Latest](/blog/nora-0-9-5/x-settings.webp "Елементи керування X у Nora на Android: вибирайте, які елементи інтерфейсу приховати та чи відкривати пошук у вкладці «Останні».")
 
 ## Звичайні дописи Facebook залишаються видимими
 

@@ -18,40 +18,25 @@ Beim Folgen öffentlicher Profile auf **Instagram** und **X** ohne Anmeldung kan
 
 Beide Optionen sind standardmäßig deaktiviert und können jederzeit in den **Feed-Einstellungen** aktiviert werden.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed-Einstellungen</div>
-    <h2 class="screenshot-card__title">imginn- & Nitter-Quellen</h2>
-    <p class="screenshot-card__body">
-      Lesen Sie Instagram-Profile über imginn und X-Profile über Ihre konfigurierten Nitter-Instanzen – als Ausweichlösung oder als primäre Quelle.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Nora 0.9.2 Feed-Einstellungen mit imginn- und Nitter-Optionen" />
-    </div>
-  </figure>
+:::screenshots
+## imginn- & Nitter-Quellen
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Medien</div>
-    <h2 class="screenshot-card__title">Vollbild-Galerie & Zoom</h2>
-    <p class="screenshot-card__body">
-      Zoomen Sie mit zwei Fingern in Fotos und Videos in der Vollbild-Galerie hinein, halten Sie den Bildschirmrand gedrückt, um die Wiedergabe zu beschleunigen, oder speichern Sie Medien direkt.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 Vollbild-Mediengalerie-Bildschirm" />
-    </div>
-  </figure>
+Feed-Einstellungen
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profile</div>
-    <h2 class="screenshot-card__title">Tab in Profil erneut öffnen</h2>
-    <p class="screenshot-card__body">
-      Wechseln Sie jeden geöffneten mobilen Tab direkt über das Kopfzeilenmenü oder die Tab-Übersicht in ein anderes Nora-Profil.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 Dialog zum erneuten Öffnen eines Tabs in einem Profil" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.2 Feed-Einstellungen mit imginn- und Nitter-Optionen](/blog/nora-0-9-2/feed-settings.webp "Lesen Sie Instagram-Profile über imginn und X-Profile über Ihre konfigurierten Nitter-Instanzen – als Ausweichlösung oder als primäre Quelle.")
+
+## Vollbild-Galerie & Zoom
+
+Medien
+
+![Nora 0.9.2 Vollbild-Mediengalerie-Bildschirm](/blog/nora-0-9-2/media-gallery.webp "Zoomen Sie mit zwei Fingern in Fotos und Videos in der Vollbild-Galerie hinein, halten Sie den Bildschirmrand gedrückt, um die Wiedergabe zu beschleunigen, oder speichern Sie Medien direkt.")
+
+## Tab in Profil erneut öffnen
+
+Profile
+
+![Nora 0.9.2 Dialog zum erneuten Öffnen eines Tabs in einem Profil](/blog/nora-0-9-2/reopen-in-profile.webp "Wechseln Sie jeden geöffneten mobilen Tab direkt über das Kopfzeilenmenü oder die Tab-Übersicht in ein anderes Nora-Profil.")
+:::
 
 ## Feed-Videosteuerung, Zoom und Benachrichtigungen
 

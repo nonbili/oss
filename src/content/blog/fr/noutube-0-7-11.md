@@ -13,39 +13,15 @@ Ouvrez **Paramètres → Apparence → Boutons de la barre d’outils**. Utilise
 
 Vous pouvez aussi ajouter **Outils**, **Site pour ordinateur**, **Paramètres** ou le sélecteur **YouTube / YouTube Music** à la barre d’outils. La même liste permet de réorganiser les boutons existants comme **Bibliothèque**, **Flux des chaînes** et **Historique**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Activez Partager et Ouvrir l’URL et faites-les glisser en haut de la liste.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Réglages Apparence sur Android avec Partager et Ouvrir l’URL activés dans les deux premières lignes et des poignées de déplacement à droite" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Partager et Ouvrir l’URL sont maintenant les deux premiers boutons de la barre d’outils de la page de lecture.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Barre d’outils NouTube au-dessus de la page de lecture de Big Buck Bunny, avec l’icône Partager et l’icône de lien Ouvrir l’URL tout à gauche" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Réglages Apparence sur Android avec Partager et Ouvrir l’URL activés dans les deux premières lignes et des poignées de déplacement à droite](/blog/noutube-0-7-11/android-toolbar-settings.webp "Activez Partager et Ouvrir l’URL et faites-les glisser en haut de la liste.")
+![Barre d’outils NouTube au-dessus de la page de lecture de Big Buck Bunny, avec l’icône Partager et l’icône de lien Ouvrir l’URL tout à gauche](/blog/noutube-0-7-11/android-toolbar-result.webp "Partager et Ouvrir l’URL sont maintenant les deux premiers boutons de la barre d’outils de la page de lecture.")
 
 ## Téléchargez des vidéos sur iPhone et iPad
 
 Pour une vidéo que vous avez le droit d’enregistrer, ouvrez **Outils** et touchez **Télécharger la vidéo**. NouTube télécharge un MP4 compatible lorsqu’il en existe un. Une fois le téléchargement terminé, touchez **Exporter** pour enregistrer ou partager le fichier.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Outils remplit automatiquement l’URL de la vidéo en cours.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Panneau de téléchargement sur iPhone avec l’URL de la vidéo remplie, une note sur la disponibilité du MP4 et le bouton Télécharger la vidéo" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Exporter apparaît dans l’historique des téléchargements quand le fichier est prêt.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Entrée de l’historique des téléchargements sur iPhone avec une coche verte, l’état Téléchargement complet et un bouton Exporter" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Panneau de téléchargement sur iPhone avec l’URL de la vidéo remplie, une note sur la disponibilité du MP4 et le bouton Télécharger la vidéo](/blog/noutube-0-7-11/ios-download-tools.webp "Outils remplit automatiquement l’URL de la vidéo en cours.")
+![Entrée de l’historique des téléchargements sur iPhone avec une coche verte, l’état Téléchargement complet et un bouton Exporter](/blog/noutube-0-7-11/ios-download-export.webp "Exporter apparaît dans l’historique des téléchargements quand le fichier est prêt.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Sur mobile, balayez vers le haut sur le lecteur YouTube pour passer en plein éc
 
 Pour supprimer la section des commentaires des pages de lecture YouTube, ouvrez **Paramètres → Préférences → Sans distraction** et activez **Masquer les commentaires**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Masquer les commentaires se trouve en bas des réglages Sans distraction.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Écran Préférences sur Android avec l’interrupteur Masquer les commentaires activé en bas de la section Sans distraction" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Écran Préférences sur Android avec l’interrupteur Masquer les commentaires activé en bas de la section Sans distraction](/blog/noutube-0-7-11/hide-comments-setting.webp "Masquer les commentaires se trouve en bas des réglages Sans distraction.")
 
 ## Autres corrections
 

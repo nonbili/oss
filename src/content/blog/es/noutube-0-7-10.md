@@ -19,14 +19,7 @@ Las mejoras relacionadas en **escritorio** también permiten que la página del 
 
 En el diálogo de descarga, toca **Examinar** debajo de **Carpeta** y selecciona una carpeta en el selector de carpetas de Android. Para volver a la ubicación predeterminada, toca **Usar carpeta Descargas**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Guarda los vídeos en una carpeta dedicada o vuelve a Descargas.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Diálogo de descarga de NouTube en Android mostrando Download/NouTube como carpeta seleccionada, Examinar y Usar carpeta Descargas" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Diálogo de descarga de NouTube en Android mostrando Download/NouTube como carpeta seleccionada, Examinar y Usar carpeta Descargas](/blog/noutube-0-7-10/download-folder.webp "Guarda los vídeos en una carpeta dedicada o vuelve a Descargas.")
 
 ## Publicaciones de comunidad en el lector de feeds
 
@@ -34,20 +27,8 @@ Tus canales guardados pueden compartir novedades entre subidas de vídeos. El **
 
 Para probarlo, abre **Ajustes → Apariencia** y activa **Publicaciones de comunidad en el feed**, justo debajo de **Feed de canales**. Está **desactivado por defecto**: incluir publicaciones implica revisar la pestaña Publicaciones de cada canal guardado, lo que consume más datos al actualizar el feed.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Activa las publicaciones de comunidad en los ajustes de Apariencia.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Ajustes de Apariencia de NouTube en Android con Feed de canales y Publicaciones de comunidad en el feed activados" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Las publicaciones de comunidad aparecen junto con los vídeos de tus canales guardados.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Feed de NouTube mostrando publicaciones de comunidad de Veritasium con texto y una imagen junto con subidas de vídeos" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ajustes de Apariencia de NouTube en Android con Feed de canales y Publicaciones de comunidad en el feed activados](/blog/noutube-0-7-10/community-posts-setting.webp "Activa las publicaciones de comunidad en los ajustes de Apariencia.")
+![Feed de NouTube mostrando publicaciones de comunidad de Veritasium con texto y una imagen junto con subidas de vídeos](/blog/noutube-0-7-10/community-post-in-feed.webp "Las publicaciones de comunidad aparecen junto con los vídeos de tus canales guardados.")
 
 ## Correcciones menores
 

@@ -21,14 +21,7 @@ product: nori
 
 自动保存默认开启。您可以在 **设置 → 通用 → 离线保存社交帖文** 中将其关闭。如果您使用 **Nori Sync**，已保存的帖文及其图片会在您的设备间同步。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">即使手机开启飞行模式，已保存的 Bluesky 帖文及其图片仍可正常阅读。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="在开启飞行模式的情况下，Nori 显示已保存的 Bluesky 帖文，包含作者、正文和附图" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![在开启飞行模式的情况下，Nori 显示已保存的 Bluesky 帖文，包含作者、正文和附图](/blog/nori-0-2-9/saved-social-post.webp "即使手机开启飞行模式，已保存的 Bluesky 帖文及其图片仍可正常阅读。")
 
 ## 分享不止于链接
 
@@ -38,14 +31,7 @@ product: nori
 
 点击 **分享** 通过设备的系统分享面板发送卡片，或点击下载按钮 **保存图片** 到您的照片图库。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">预览卡片，选择要包含的内容，然后分享或保存图片。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="“以图片分享”预览界面，显示浅色与深色主题、备注和标签开关、下载按钮与分享按钮" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![“以图片分享”预览界面，显示浅色与深色主题、备注和标签开关、下载按钮与分享按钮](/blog/nori-0-2-9/share-as-image.webp "预览卡片，选择要包含的内容，然后分享或保存图片。")
 
 ## 为每个列表设置专属顺序
 
@@ -59,14 +45,7 @@ product: nori
 
 该设置仅归属于当前列表，因此您的其他列表可以各自保持自己的顺序。您也可以在同一编辑器中重命名列表。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">为 Reading queue 列表选择书签顺序。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Reading queue 的编辑列表界面，显示全部五个书签顺序选项" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Reading queue 的编辑列表界面，显示全部五个书签顺序选项](/blog/nori-0-2-9/list-bookmark-order.webp "为 Reading queue 列表选择书签顺序。")
 
 此版本还改进了 iOS 上 **所有书签** 抽屉的滚动体验，并修复了一个同步问题。详情请参阅 [完整发布说明](https://github.com/nonbili/Nori/releases/tag/v0.2.9)。
 

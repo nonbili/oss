@@ -17,14 +17,7 @@ product: nora
 
 如果您选择了文件夹，在 Android 10 及更高版本上，Nora 也会将从信息流保存的媒体文件存放在该文件夹中。此版本还修复了 `data:` 链接的下载问题（部分网站会使用此类链接提供在浏览器中生成的文件）。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">已将 Nora Downloads 选为后续下载的保存位置。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Android 下载设置界面，已选中 Nora Downloads，并显示下载、每次询问和选择文件夹选项" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android 下载设置界面，已选中 Nora Downloads，并显示下载、每次询问和选择文件夹选项](/blog/nora-0-9-7/download-destination.webp "已将 Nora Downloads 选为后续下载的保存位置。")
 
 ## 自定义三点菜单
 
@@ -32,20 +25,8 @@ product: nora
 
 **设置** 会保留在菜单中，点击 **恢复默认菜单** 即可一键清除您的更改。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">保持“在页面中查找”开启，并关闭“桌面版网站”。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="展开的自定义三点菜单设置，其中在页面中查找已开启，桌面版网站已关闭" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">浏览器菜单保留了在页面中查找、分享和设置。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="自定义后的浏览器菜单，显示在页面中查找、分享和设置，桌面版网站已隐藏" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![展开的自定义三点菜单设置，其中在页面中查找已开启，桌面版网站已关闭](/blog/nora-0-9-7/customize-three-dot-menu.webp "保持“在页面中查找”开启，并关闭“桌面版网站”。")
+![自定义后的浏览器菜单，显示在页面中查找、分享和设置，桌面版网站已隐藏](/blog/nora-0-9-7/customized-three-dot-menu.webp "浏览器菜单保留了在页面中查找、分享和设置。")
 
 ## WhatsApp Web 和 Facebook Marketplace 以桌面模式打开
 

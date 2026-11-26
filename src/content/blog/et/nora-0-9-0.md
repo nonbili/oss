@@ -13,40 +13,25 @@ Sirvi kõike koos, jaga oma huvid eraldi ajajoontesse või lülitu fotode ja vid
 
 Ava toetatud profiil või kogukond Nora vahekaardil ja vali menüüst **Watch**. Selle uusimad postitused ilmuvad Nora **Feed** vaatesse. Puuduta postitust, et avada algne leht, kui soovid lugeda vastuseid või suhelda.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Voog</div>
-    <h2 class="screenshot-card__title">Kohandatud ajajooned</h2>
-    <p class="screenshot-card__body">
-      Loe kronoloogilisi uuendusi jälgitavatelt sotsiaalmeedia kontodelt platvormidel Bluesky, Reddit, Mastodon ja mujal.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 voo ajajoone ekraan" />
-    </div>
-  </figure>
+:::screenshots
+## Kohandatud ajajooned
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Meedia</div>
-    <h2 class="screenshot-card__title">Fotode ja videote ruudustik</h2>
-    <p class="screenshot-card__body">
-      Lülita mis tahes ajajoon näitama ainult fotosid ja videoid visuaalses ruudustikus ning sirvi neid täisekraanil galeriis.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 fotode ja videote ruudustiku ekraan" />
-    </div>
-  </figure>
+Voog
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Allikad</div>
-    <h2 class="screenshot-card__title">Allikate lisamine ja haldamine</h2>
-    <p class="screenshot-card__body">
-      Kleebi profiililinke hulgi, impordi OPML-faile või filtreeri ja sorteeri jälgitavaid allikaid eraldi ekraanil.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 voo allikate haldamise ekraan" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 voo ajajoone ekraan](/blog/nora-0-9-0/feed-timeline.webp "Loe kronoloogilisi uuendusi jälgitavatelt sotsiaalmeedia kontodelt platvormidel Bluesky, Reddit, Mastodon ja mujal.")
+
+## Fotode ja videote ruudustik
+
+Meedia
+
+![Nora 0.9.0 fotode ja videote ruudustiku ekraan](/blog/nora-0-9-0/media-grid.webp "Lülita mis tahes ajajoon näitama ainult fotosid ja videoid visuaalses ruudustikus ning sirvi neid täisekraanil galeriis.")
+
+## Allikate lisamine ja haldamine
+
+Allikad
+
+![Nora 0.9.0 voo allikate haldamise ekraan](/blog/nora-0-9-0/manage-sources.webp "Kleebi profiililinke hulgi, impordi OPML-faile või filtreeri ja sorteeri jälgitavaid allikaid eraldi ekraanil.")
+:::
 
 Saad jälgida:
 

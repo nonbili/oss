@@ -17,14 +17,7 @@ En Android, abre **Ajustes → Preferencias → Descargas → Guardar descargas 
 
 Si eliges una carpeta, Nora también la usará para los archivos multimedia que guardes desde el feed en Android 10 y versiones posteriores. Esta versión también corrige las descargas desde enlaces `data:`, que algunos sitios usan para archivos generados en el navegador.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads está seleccionado como destino para futuras descargas.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Ajustes de descarga de Android con Nora Downloads seleccionado y las opciones Descargas, Preguntar cada vez y Elegir carpeta visibles" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ajustes de descarga de Android con Nora Downloads seleccionado y las opciones Descargas, Preguntar cada vez y Elegir carpeta visibles](/blog/nora-0-9-7/download-destination.webp "Nora Downloads está seleccionado como destino para futuras descargas.")
 
 ## Personaliza el menú de tres puntos
 
@@ -32,20 +25,8 @@ Abre **Ajustes → Apariencia → Barra de herramientas → Personalizar menú d
 
 **Ajustes** permanece en el menú y **Restaurar valores predeterminados del menú** borra tus cambios con un solo toque.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Mantén activado Buscar en la página y desactiva Sitio de escritorio.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Ajustes expandidos de Personalizar menú de tres puntos con Buscar en la página activado y Sitio de escritorio desactivado" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">El menú del navegador conserva Buscar en la página, Compartir y Ajustes.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Menú personalizado del navegador que muestra Buscar en la página, Compartir y Ajustes, con Sitio de escritorio oculto" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ajustes expandidos de Personalizar menú de tres puntos con Buscar en la página activado y Sitio de escritorio desactivado](/blog/nora-0-9-7/customize-three-dot-menu.webp "Mantén activado Buscar en la página y desactiva Sitio de escritorio.")
+![Menú personalizado del navegador que muestra Buscar en la página, Compartir y Ajustes, con Sitio de escritorio oculto](/blog/nora-0-9-7/customized-three-dot-menu.webp "El menú del navegador conserva Buscar en la página, Compartir y Ajustes.")
 
 ## WhatsApp Web y Facebook Marketplace se abren en modo de escritorio
 

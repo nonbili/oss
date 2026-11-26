@@ -19,14 +19,7 @@ Soovid hoida allalaaditud videoid eraldi kaustas? **Androidis** saad nüüd vali
 
 Allalaadimisdialoogis puuduta jaotise **Folder** all nuppu **Browse** ja vali Androidi kaustavalijast kaust. Vaikimisi asukohta naasmiseks puuduta **Use Downloads folder**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Salvesta videod eraldi kausta või lülitu tagasi kausta Downloads.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="NouTube'i Androidi allalaadimisdialoog, mis näitab valitud kaustana Download/NouTube ning nuppe Browse ja Use Downloads folder" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![NouTube\'i Androidi allalaadimisdialoog, mis näitab valitud kaustana Download/NouTube ning nuppe Browse ja Use Downloads folder](/blog/noutube-0-7-10/download-folder.webp "Salvesta videod eraldi kausta või lülitu tagasi kausta Downloads.")
 
 ## Kogukonnapostitused voolugejas
 
@@ -34,20 +27,8 @@ Sinu salvestatud kanalid võivad videote üleslaadimiste vahel jagada uuendusi. 
 
 Proovimiseks ava **Settings → Appearance** ja lülita sisse **Community posts in feed** kohe valiku **Channels feed** all. See on **vaikimisi välja lülitatud**: postituste lisamine tähendab iga salvestatud kanali vahekaardi Posts kontrollimist, mis kasutab voo värskendamisel rohkem andmemahtu.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Luba kogukonnapostitused välimuse seadetes.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="NouTube'i välimuse seaded Androidis, kus on lubatud Channels feed ja Community posts in feed" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kogukonnapostitused ilmuvad sinu salvestatud kanalite videote kõrvale.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="NouTube'i voog, mis näitab Veritasiumi kogukonnapostitusi teksti ja pildiga videote üleslaadimiste kõrval" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![NouTube\'i välimuse seaded Androidis, kus on lubatud Channels feed ja Community posts in feed](/blog/noutube-0-7-10/community-posts-setting.webp "Luba kogukonnapostitused välimuse seadetes.")
+![NouTube\'i voog, mis näitab Veritasiumi kogukonnapostitusi teksti ja pildiga videote üleslaadimiste kõrval](/blog/noutube-0-7-10/community-post-in-feed.webp "Kogukonnapostitused ilmuvad sinu salvestatud kanalite videote kõrvale.")
 
 ## Väiksemad parandused
 

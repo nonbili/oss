@@ -22,14 +22,7 @@ Android-Startbildschirm-Verknüpfungen bieten nun praktische Kontextmenüs:
 
 So können Sie im eigenständigen Fenster weiterlesen und Links bequem an Nora senden, wenn Sie diese in einem separaten Tab vertiefen möchten.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Langes Drücken auf ein Bild in einer Android-Startbildschirm-Verknüpfung öffnet die Bildaktionen von Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Noras eigenständige Android-Verknüpfung mit den Aktionen Bild speichern, Bild in neuem Tab öffnen und Bildlink kopieren" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Noras eigenständige Android-Verknüpfung mit den Aktionen Bild speichern, Bild in neuem Tab öffnen und Bildlink kopieren](/blog/nora-0-9-6/shortcut-image-menu.webp "Langes Drücken auf ein Bild in einer Android-Startbildschirm-Verknüpfung öffnet die Bildaktionen von Nora.")
 
 ## Flüssigeres Lesen im Feed
 

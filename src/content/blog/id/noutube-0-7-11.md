@@ -13,39 +13,15 @@ Buka **Pengaturan → Tampilan → Tombol bilah alat**. Gunakan sakelar untuk me
 
 Anda juga dapat menambahkan **Alat**, **Situs desktop**, **Pengaturan**, atau pengalih **YouTube / YouTube Music** ke bilah alat. Daftar yang sama memungkinkan Anda mengatur ulang urutan tombol yang sudah ada seperti **Pustaka**, **Feed channel**, dan **Riwayat**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Aktifkan Bagikan dan Buka URL lalu seret keduanya ke bagian atas daftar.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Pengaturan Tampilan Android dengan Bagikan dan Buka URL aktif di dua baris pertama serta pegangan seret di sebelah kanan" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Bagikan dan Buka URL kini menjadi dua tombol pertama di bilah alat halaman tonton.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Bilah alat NouTube di atas halaman tonton Big Buck Bunny, dengan ikon Bagikan dan ikon tautan Buka URL di paling kiri" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pengaturan Tampilan Android dengan Bagikan dan Buka URL aktif di dua baris pertama serta pegangan seret di sebelah kanan](/blog/noutube-0-7-11/android-toolbar-settings.webp "Aktifkan Bagikan dan Buka URL lalu seret keduanya ke bagian atas daftar.")
+![Bilah alat NouTube di atas halaman tonton Big Buck Bunny, dengan ikon Bagikan dan ikon tautan Buka URL di paling kiri](/blog/noutube-0-7-11/android-toolbar-result.webp "Bagikan dan Buka URL kini menjadi dua tombol pertama di bilah alat halaman tonton.")
 
 ## Unduh Video di iPhone dan iPad
 
 Untuk video yang boleh Anda simpan, buka **Alat** dan ketuk **Unduh video**. NouTube mengunduh MP4 yang kompatibel jika tersedia. Setelah unduhan selesai, ketuk **Ekspor** untuk menyimpan atau membagikan file.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Alat mengisi URL video yang sedang diputar.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Panel unduhan iPhone dengan URL video terisi, catatan ketersediaan MP4, dan tombol Unduh video" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ekspor muncul di Riwayat Unduhan saat file sudah siap.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Entri Riwayat Unduhan di iPhone dengan tanda centang hijau, status Unduhan selesai, dan tombol Ekspor" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Panel unduhan iPhone dengan URL video terisi, catatan ketersediaan MP4, dan tombol Unduh video](/blog/noutube-0-7-11/ios-download-tools.webp "Alat mengisi URL video yang sedang diputar.")
+![Entri Riwayat Unduhan di iPhone dengan tanda centang hijau, status Unduhan selesai, dan tombol Ekspor](/blog/noutube-0-7-11/ios-download-export.webp "Ekspor muncul di Riwayat Unduhan saat file sudah siap.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Di perangkat seluler, geser ke atas pada pemutar YouTube untuk masuk ke layar pe
 
 Untuk menghapus bagian komentar dari halaman tonton YouTube, buka **Pengaturan → Preferensi → Bebas gangguan** lalu aktifkan **Sembunyikan komentar**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Sembunyikan komentar ada di bagian bawah pengaturan Bebas gangguan.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Layar Preferensi Android dengan sakelar Sembunyikan komentar aktif di bagian bawah bagian Bebas gangguan" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Layar Preferensi Android dengan sakelar Sembunyikan komentar aktif di bagian bawah bagian Bebas gangguan](/blog/noutube-0-7-11/hide-comments-setting.webp "Sembunyikan komentar ada di bagian bawah pengaturan Bebas gangguan.")
 
 ## Perbaikan Lainnya
 

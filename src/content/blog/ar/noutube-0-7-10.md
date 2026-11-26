@@ -19,14 +19,7 @@ product: noutube
 
 في مربع حوار التنزيل، انقر على **تصفح** أسفل **المجلد**، ثم اختر مجلدًا في منتقي مجلدات Android. وللعودة إلى الموقع الافتراضي، انقر على **استخدام مجلد التنزيلات**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">احفظ الفيديوهات في مجلد مخصص، أو عد إلى مجلد التنزيلات.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="مربع حوار التنزيل في NouTube على Android يعرض Download/NouTube كمجلد محدد، مع زري تصفح واستخدام مجلد التنزيلات" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![مربع حوار التنزيل في NouTube على Android يعرض Download/NouTube كمجلد محدد، مع زري تصفح واستخدام مجلد التنزيلات](/blog/noutube-0-7-10/download-folder.webp "احفظ الفيديوهات في مجلد مخصص، أو عد إلى مجلد التنزيلات.")
 
 ## منشورات المنتدى في قارئ الخلاصات
 
@@ -34,20 +27,8 @@ product: noutube
 
 لتجربتها، افتح **الإعدادات ← المظهر** وفعّل **منشورات المنتدى في الخلاصة**، أسفل **خلاصة القنوات** مباشرةً. وهي **معطّلة افتراضيًا**: إذ يتطلب تضمين المنشورات التحقق من تبويب «المنشورات» لكل قناة محفوظة، مما يستهلك بيانات أكثر عند تحديث الخلاصة.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">فعّل منشورات المنتدى في إعدادات المظهر.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="إعدادات المظهر في NouTube على Android مع تفعيل خلاصة القنوات ومنشورات المنتدى في الخلاصة" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">تظهر منشورات المنتدى إلى جانب الفيديوهات من قنواتك المحفوظة.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="خلاصة NouTube تعرض منشورات منتدى Veritasium مع نص وصورة إلى جانب الفيديوهات المرفوعة" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![إعدادات المظهر في NouTube على Android مع تفعيل خلاصة القنوات ومنشورات المنتدى في الخلاصة](/blog/noutube-0-7-10/community-posts-setting.webp "فعّل منشورات المنتدى في إعدادات المظهر.")
+![خلاصة NouTube تعرض منشورات منتدى Veritasium مع نص وصورة إلى جانب الفيديوهات المرفوعة](/blog/noutube-0-7-10/community-post-in-feed.webp "تظهر منشورات المنتدى إلى جانب الفيديوهات من قنواتك المحفوظة.")
 
 ## إصلاحات أصغر
 

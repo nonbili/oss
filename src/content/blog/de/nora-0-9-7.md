@@ -17,14 +17,7 @@ Mit **Nora 0.9.7 für Mobilgeräte** kannst du Android-Downloads in einen selbst
 
 Wenn du einen Ordner wählst, nutzt Nora diesen ab Android 10 auch für Medien, die du aus dem Feed speicherst. Dieses Release behebt außerdem Downloads über `data:`-Links, die manche Websites für im Browser generierte Dateien verwenden.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads ist als Ziel für zukünftige Downloads ausgewählt.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Android-Download-Einstellungen mit ausgewähltem Nora Downloads und den sichtbaren Optionen Downloads, Jedes Mal fragen und Ordner wählen" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android-Download-Einstellungen mit ausgewähltem Nora Downloads und den sichtbaren Optionen Downloads, Jedes Mal fragen und Ordner wählen](/blog/nora-0-9-7/download-destination.webp "Nora Downloads ist als Ziel für zukünftige Downloads ausgewählt.")
 
 ## Das Drei-Punkte-Menü anpassen
 
@@ -32,20 +25,8 @@ Wenn du einen Ordner wählst, nutzt Nora diesen ab Android 10 auch für Medien, 
 
 **Einstellungen** bleibt im Menü erhalten, und **Menüstandards wiederherstellen** setzt deine Änderungen mit einem Tippen zurück.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Lasse „Auf Seite suchen“ aktiviert und schalte „Desktopwebsite“ aus.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Erweiterte Einstellungen zum Anpassen des Drei-Punkte-Menüs mit aktiviertem Auf Seite suchen und deaktiviertem Desktopwebsite" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Das Browser-Menü behält „Auf Seite suchen“, „Teilen“ und „Einstellungen“.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Angepasstes Browser-Menü mit Auf Seite suchen, Teilen und Einstellungen sowie ausgeblendeter Desktopwebsite" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Erweiterte Einstellungen zum Anpassen des Drei-Punkte-Menüs mit aktiviertem Auf Seite suchen und deaktiviertem Desktopwebsite](/blog/nora-0-9-7/customize-three-dot-menu.webp "Lasse „Auf Seite suchen“ aktiviert und schalte „Desktopwebsite“ aus.")
+![Angepasstes Browser-Menü mit Auf Seite suchen, Teilen und Einstellungen sowie ausgeblendeter Desktopwebsite](/blog/nora-0-9-7/customized-three-dot-menu.webp "Das Browser-Menü behält „Auf Seite suchen“, „Teilen“ und „Einstellungen“.")
 
 ## WhatsApp Web und Facebook Marketplace öffnen im Desktop-Modus
 

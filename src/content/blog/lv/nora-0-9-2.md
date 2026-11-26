@@ -18,40 +18,25 @@ Sekojot publiskiem **Instagram** un **X** profiliem bez pierakstīšanās, var s
 
 Abas opcijas pēc noklusējuma ir izslēgtas, un tās var jebkurā laikā iespējot sadaļā **Plūsmas iestatījumi**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Plūsmas iestatījumi</div>
-    <h2 class="screenshot-card__title">imginn un Nitter avoti</h2>
-    <p class="screenshot-card__body">
-      Lasiet Instagram profilus no imginn un X profilus no jūsu konfigurētajām Nitter instancēm — kā rezerves vai galveno avotu.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Nora 0.9.2 plūsmas iestatījumi, kas rāda imginn un Nitter opcijas" />
-    </div>
-  </figure>
+:::screenshots
+## imginn un Nitter avoti
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Multivide</div>
-    <h2 class="screenshot-card__title">Pilnekrāna galerija un tālummaiņa</h2>
-    <p class="screenshot-card__body">
-      Savelciet pirkstus, lai tuvinātu fotoattēlus un video pilnekrāna galerijā, turiet ekrāna malu, lai paātrinātu atskaņošanu, vai saglabājiet multividi tieši.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 pilnekrāna multivides galerijas ekrāns" />
-    </div>
-  </figure>
+Plūsmas iestatījumi
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profili</div>
-    <h2 class="screenshot-card__title">Atvērt cilni profilā vēlreiz</h2>
-    <p class="screenshot-card__body">
-      Pārslēdziet jebkuru atvērtu mobilās versijas cilni uz citu Nora profilu tieši no galvenes izvēlnes vai ciļņu pārslēga.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 cilnes atkārtotas atvēršanas profilā dialogs" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.2 plūsmas iestatījumi, kas rāda imginn un Nitter opcijas](/blog/nora-0-9-2/feed-settings.webp "Lasiet Instagram profilus no imginn un X profilus no jūsu konfigurētajām Nitter instancēm — kā rezerves vai galveno avotu.")
+
+## Pilnekrāna galerija un tālummaiņa
+
+Multivide
+
+![Nora 0.9.2 pilnekrāna multivides galerijas ekrāns](/blog/nora-0-9-2/media-gallery.webp "Savelciet pirkstus, lai tuvinātu fotoattēlus un video pilnekrāna galerijā, turiet ekrāna malu, lai paātrinātu atskaņošanu, vai saglabājiet multividi tieši.")
+
+## Atvērt cilni profilā vēlreiz
+
+Profili
+
+![Nora 0.9.2 cilnes atkārtotas atvēršanas profilā dialogs](/blog/nora-0-9-2/reopen-in-profile.webp "Pārslēdziet jebkuru atvērtu mobilās versijas cilni uz citu Nora profilu tieši no galvenes izvēlnes vai ciļņu pārslēga.")
+:::
 
 ## Plūsmas video vadīklas, tālummaiņa un paziņojumi
 

@@ -19,14 +19,7 @@ Vuoi tenere i video scaricati in una cartella dedicata? Su **Android**, ora puoi
 
 Nella finestra di download, tocca **Sfoglia** sotto **Cartella**, poi scegli una cartella nel selettore di cartelle di Android. Per tornare alla posizione predefinita, tocca **Usa cartella Download**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Salva i video in una cartella dedicata o torna a Download.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Finestra di download di NouTube su Android che mostra Download/NouTube come cartella selezionata, Sfoglia e Usa cartella Download" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Finestra di download di NouTube su Android che mostra Download/NouTube come cartella selezionata, Sfoglia e Usa cartella Download](/blog/noutube-0-7-10/download-folder.webp "Salva i video in una cartella dedicata o torna a Download.")
 
 ## Post della community nel lettore di feed
 
@@ -34,20 +27,8 @@ I tuoi canali salvati potrebbero condividere aggiornamenti tra un caricamento vi
 
 Per provarlo, apri **Impostazioni → Aspetto** e attiva **Post della community nel feed**, subito sotto **Feed dei canali**. È **disattivato per impostazione predefinita**: includere i post comporta il controllo della scheda Post di ogni canale salvato, consumando più dati quando aggiorni il feed.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Attiva i post della community nelle impostazioni di Aspetto.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Impostazioni Aspetto di NouTube su Android con Feed dei canali e Post della community nel feed attivi" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">I post della community appaiono insieme ai video dei tuoi canali salvati.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Feed di NouTube che mostra post della community di Veritasium con testo e immagine insieme ai video caricati" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Impostazioni Aspetto di NouTube su Android con Feed dei canali e Post della community nel feed attivi](/blog/noutube-0-7-10/community-posts-setting.webp "Attiva i post della community nelle impostazioni di Aspetto.")
+![Feed di NouTube che mostra post della community di Veritasium con testo e immagine insieme ai video caricati](/blog/noutube-0-7-10/community-post-in-feed.webp "I post della community appaiono insieme ai video dei tuoi canali salvati.")
 
 ## Correzioni minori
 

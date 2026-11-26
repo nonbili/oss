@@ -22,14 +22,7 @@ product: nora
 
 Вы можете продолжать читать в отдельном окне и перенаправлять ссылки в Nora, если захотите открыть их во вкладке.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Долгое нажатие на изображение в ярлыке главного экрана Android открывает действия с изображением в Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Автономный ярлык Nora на Android, демонстрирующий действия: Сохранить изображение, Открыть изображение в новой вкладке и Скопировать ссылку на изображение" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Автономный ярлык Nora на Android, демонстрирующий действия: Сохранить изображение, Открыть изображение в новой вкладке и Скопировать ссылку на изображение](/blog/nora-0-9-6/shortcut-image-menu.webp "Долгое нажатие на изображение в ярлыке главного экрана Android открывает действия с изображением в Nora.")
 
 ## Более удобное чтение в ленте
 

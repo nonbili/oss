@@ -23,14 +23,7 @@ In **Impostazioni → Servizi → X**, puoi ora scegliere di nascondere:
 
 Questi controlli sono del tutto facoltativi. La stessa sezione offre l'opzione **Ricerca predefinita su Recenti**, così che le ricerche mostrino subito i post recenti anziché i contenuti in evidenza. Puoi comunque passare da una scheda all'altra su X ogni volta che desideri una vista diversa.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Controlli di X in Nora su Android: scegli quali elementi nascondere e se aprire le ricerche nei post Recenti.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Impostazioni di X in Nora su smartphone Pixel con controlli opzionali per Grok, suggerimenti, conteggio interazioni e ricerca Recenti" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Impostazioni di X in Nora su smartphone Pixel con controlli opzionali per Grok, suggerimenti, conteggio interazioni e ricerca Recenti](/blog/nora-0-9-5/x-settings.webp "Controlli di X in Nora su Android: scegli quali elementi nascondere e se aprire le ricerche nei post Recenti.")
 
 ## Mantieni visibili i normali post di Facebook
 

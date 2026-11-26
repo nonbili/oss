@@ -13,39 +13,15 @@ NouTube 0.7.11, **Paylaş** ve **URL'yi aç** gibi eylemleri doğrudan Android a
 
 Araç çubuğuna **Araçlar**, **Masaüstü sitesi**, **Ayarlar** veya **YouTube / YouTube Music** geçiş düğmesini de ekleyebilirsiniz. Aynı listede **Kitaplık**, **Kanallar akışı** ve **Geçmiş** gibi mevcut düğmeleri de yeniden sıralayabilirsiniz.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Paylaş ve URL'yi aç seçeneklerini açın ve listenin en üstüne sürükleyin.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="İlk iki satırda Paylaş ve URL'yi aç açık, sağda sürükleme tutamaçları bulunan Android Görünüm ayarları" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Paylaş ve URL'yi aç artık izleme sayfası araç çubuğundaki ilk iki düğme.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Big Buck Bunny izleme sayfasının üzerindeki NouTube araç çubuğu; en solda Paylaş simgesi ve URL'yi aç bağlantı simgesi" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![İlk iki satırda Paylaş ve URL\'yi aç açık, sağda sürükleme tutamaçları bulunan Android Görünüm ayarları](/blog/noutube-0-7-11/android-toolbar-settings.webp "Paylaş ve URL'yi aç seçeneklerini açın ve listenin en üstüne sürükleyin.")
+![Big Buck Bunny izleme sayfasının üzerindeki NouTube araç çubuğu; en solda Paylaş simgesi ve URL\'yi aç bağlantı simgesi](/blog/noutube-0-7-11/android-toolbar-result.webp "Paylaş ve URL'yi aç artık izleme sayfası araç çubuğundaki ilk iki düğme.")
 
 ## iPhone ve iPad'de Video İndirin
 
 Kaydetme izniniz olan bir videoda **Araçlar**'ı açın ve **Videoyu indir**'e dokunun. NouTube, uyumlu bir MP4 mevcutsa onu indirir. İndirme tamamlandığında dosyayı kaydetmek veya paylaşmak için **Dışa aktar**'a dokunun.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Araçlar, geçerli videonun URL'sini otomatik olarak doldurur.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Video URL'si doldurulmuş, MP4 kullanılabilirliği notu ve Videoyu indir düğmesi bulunan iPhone indirme paneli" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Dosya hazır olduğunda İndirme Geçmişi'nde Dışa aktar görünür.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Yeşil onay işareti, İndirme tamamlandı durumu ve Dışa aktar düğmesi bulunan iPhone İndirme Geçmişi girişi" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Video URL\'si doldurulmuş, MP4 kullanılabilirliği notu ve Videoyu indir düğmesi bulunan iPhone indirme paneli](/blog/noutube-0-7-11/ios-download-tools.webp "Araçlar, geçerli videonun URL'sini otomatik olarak doldurur.")
+![Yeşil onay işareti, İndirme tamamlandı durumu ve Dışa aktar düğmesi bulunan iPhone İndirme Geçmişi girişi](/blog/noutube-0-7-11/ios-download-export.webp "Dosya hazır olduğunda İndirme Geçmişi'nde Dışa aktar görünür.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Mobilde, tam ekrana geçmek için YouTube oynatıcısında yukarı, izleme sayfa
 
 YouTube izleme sayfalarından yorumlar bölümünü kaldırmak için **Ayarlar → Tercihler → Dikkat dağıtmayan** bölümünü açın ve **Yorumları gizle**'yi açın.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Yorumları gizle, Dikkat dağıtmayan ayarlarının en altındadır.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Dikkat dağıtmayan bölümünün en altında Yorumları gizle anahtarı açık olan Android Tercihler ekranı" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Dikkat dağıtmayan bölümünün en altında Yorumları gizle anahtarı açık olan Android Tercihler ekranı](/blog/noutube-0-7-11/hide-comments-setting.webp "Yorumları gizle, Dikkat dağıtmayan ayarlarının en altındadır.")
 
 ## Diğer Düzeltmeler
 

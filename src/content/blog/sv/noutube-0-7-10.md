@@ -19,14 +19,7 @@ Vill du spara nedladdade videor i en särskild mapp? På **Android** kan du nu v
 
 Tryck på **Bläddra** under **Mapp** i nedladdningsdialogen och välj sedan en mapp i Androids mappväljare. För att återgå till standardplatsen trycker du på **Använd mappen Hämtade filer**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Spara videor i en särskild mapp eller byt tillbaka till Hämtade filer.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="NouTubes nedladdningsdialog på Android som visar Download/NouTube som vald mapp, Bläddra och Använd mappen Hämtade filer" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![NouTubes nedladdningsdialog på Android som visar Download/NouTube som vald mapp, Bläddra och Använd mappen Hämtade filer](/blog/noutube-0-7-10/download-folder.webp "Spara videor i en särskild mapp eller byt tillbaka till Hämtade filer.")
 
 ## Community-inlägg i flödesläsaren
 
@@ -34,20 +27,8 @@ Dina sparade kanaler kan dela uppdateringar mellan videoöverföringar. **Kanalf
 
 För att testa, öppna **Inställningar → Utseende** och slå på **Community-inlägg i flödet**, precis under **Kanalflöde**. Det är **avstängt som standard**: att ta med inlägg innebär att fliken Inlägg för varje sparad kanal kontrolleras, vilket förbrukar mer data när flödet uppdateras.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Aktivera community-inlägg i inställningarna för Utseende.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="NouTubes Utseende-inställningar på Android med Kanalflöde och Community-inlägg i flödet aktiverade" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Community-inlägg visas tillsammans med videor från dina sparade kanaler.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="NouTubes flöde som visar community-inlägg från Veritasium med text och en bild tillsammans med uppladdade videor" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![NouTubes Utseende-inställningar på Android med Kanalflöde och Community-inlägg i flödet aktiverade](/blog/noutube-0-7-10/community-posts-setting.webp "Aktivera community-inlägg i inställningarna för Utseende.")
+![NouTubes flöde som visar community-inlägg från Veritasium med text och en bild tillsammans med uppladdade videor](/blog/noutube-0-7-10/community-post-in-feed.webp "Community-inlägg visas tillsammans med videor från dina sparade kanaler.")
 
 ## Mindre fixar
 

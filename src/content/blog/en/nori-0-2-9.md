@@ -21,14 +21,7 @@ In the bookmark editor, **Saved post** shows the date of your saved copy. Use **
 
 Automatic saving is on by default. You can turn it off under **Settings → General → Save social posts offline**. If you use **Nori Sync**, saved posts and their images sync across your devices.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">A saved Bluesky post stays readable with its image while the phone is in airplane mode.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori displaying a saved Bluesky post with author, text and attached image, with airplane mode enabled" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori displaying a saved Bluesky post with author, text and attached image, with airplane mode enabled](/blog/nori-0-2-9/saved-social-post.webp "A saved Bluesky post stays readable with its image while the phone is in airplane mode.")
 
 ## Share More Than a Link
 
@@ -38,14 +31,7 @@ Choose a **light or dark** background and decide whether to include the bookmark
 
 Tap **Share** to send the card through your device's share sheet, or tap the download button to **Save image** to your photo library.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Preview the card, choose what to include, then share or save the image.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Share as image preview with light and dark themes, Note and Tags controls, download button and Share button" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Share as image preview with light and dark themes, Note and Tags controls, download button and Share button](/blog/nori-0-2-9/share-as-image.webp "Preview the card, choose what to include, then share or save the image.")
 
 ## Give Each List Its Own Order
 
@@ -59,14 +45,7 @@ Open **Edit list**, or create a **New list**, and choose **Bookmark order**:
 
 The choice belongs to that list, so your other lists can keep their own order. You can rename the list in the same editor.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Choose a bookmark order for the Reading queue list.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Edit list for Reading queue with all five Bookmark order options visible" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Edit list for Reading queue with all five Bookmark order options visible](/blog/nori-0-2-9/list-bookmark-order.webp "Choose a bookmark order for the Reading queue list.")
 
 This release also improves scrolling in the **All Bookmarks** drawer on iOS and fixes a sync issue. See the [full release notes](https://github.com/nonbili/Nori/releases/tag/v0.2.9) for details.
 

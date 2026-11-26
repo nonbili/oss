@@ -19,14 +19,7 @@ NouTube тепер обробляє відповіді сторінки віде
 
 У діалозі завантаження натисніть **Browse** під пунктом **Folder**, а потім виберіть папку у системному засобі вибору папок Android. Щоб повернутися до стандартного розташування, натисніть **Use Downloads folder**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Зберігайте відео в окрему папку або поверніться до папки Downloads.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Діалог завантаження NouTube на Android із вибраною папкою Download/NouTube та кнопками Browse і Use Downloads folder" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Діалог завантаження NouTube на Android із вибраною папкою Download/NouTube та кнопками Browse і Use Downloads folder](/blog/noutube-0-7-10/download-folder.webp "Зберігайте відео в окрему папку або поверніться до папки Downloads.")
 
 ## Дописи спільноти в читачі стрічок
 
@@ -34,20 +27,8 @@ NouTube тепер обробляє відповіді сторінки віде
 
 Щоб спробувати, відкрийте **Settings → Appearance** та ввімкніть **Community posts in feed**, одразу під **Channels feed**. Цей параметр **вимкнено за замовчуванням**: додавання дописів означає перевірку вкладки «Дописи» кожного збереженого каналу, що використовує більше трафіку під час оновлення стрічки.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Увімкніть дописи спільноти в налаштуваннях вигляду.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Налаштування Appearance у NouTube на Android з увімкненими Channels feed та Community posts in feed" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Дописи спільноти відображаються поруч із відео зі збережених каналів.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Стрічка NouTube з дописами спільноти Veritasium з текстом і зображенням поруч із завантаженими відео" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Налаштування Appearance у NouTube на Android з увімкненими Channels feed та Community posts in feed](/blog/noutube-0-7-10/community-posts-setting.webp "Увімкніть дописи спільноти в налаштуваннях вигляду.")
+![Стрічка NouTube з дописами спільноти Veritasium з текстом і зображенням поруч із завантаженими відео](/blog/noutube-0-7-10/community-post-in-feed.webp "Дописи спільноти відображаються поруч із відео зі збережених каналів.")
 
 ## Дрібніші виправлення
 

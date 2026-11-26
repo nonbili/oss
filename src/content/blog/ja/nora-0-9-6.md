@@ -22,14 +22,7 @@ Android のホーム画面ショートカットでコンテキストメニュー
 
 独立ウィンドウで閲覧を続けながら、タブでじっくり見たいリンクだけを Nora に送ることができます。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Android のホーム画面ショートカットで画像を長押しすると、Nora の画像アクションメニューが開きます。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="「画像を保存」「新しいタブで画像を開く」「画像のリンクをコピー」などのアクションを表示した Nora の独立 Android ショートカット画面" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![「画像を保存」「新しいタブで画像を開く」「画像のリンクをコピー」などのアクションを表示した Nora の独立 Android ショートカット画面](/blog/nora-0-9-6/shortcut-image-menu.webp "Android のホーム画面ショートカットで画像を長押しすると、Nora の画像アクションメニューが開きます。")
 
 ## フィードリーダーの閲覧体験を改善
 

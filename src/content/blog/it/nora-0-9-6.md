@@ -22,14 +22,7 @@ Le scorciatoie della schermata Home di Android offrono ora pratici menu contestu
 
 Puoi continuare a leggere nella finestra autonoma e inviare qualsiasi link desideri approfondire a una scheda di Nora.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Tenendo premuta un'immagine in una scorciatoia della schermata Home di Android si aprono le azioni per le immagini di Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Finestra autonoma di Nora su Android che mostra le azioni Salva immagine, Apri immagine in una nuova scheda e Copia link immagine" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Finestra autonoma di Nora su Android che mostra le azioni Salva immagine, Apri immagine in una nuova scheda e Copia link immagine](/blog/nora-0-9-6/shortcut-image-menu.webp "Tenendo premuta un'immagine in una scorciatoia della schermata Home di Android si aprono le azioni per le immagini di Nora.")
 
 ## Lettura più agevole nel feed
 

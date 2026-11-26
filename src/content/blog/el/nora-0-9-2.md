@@ -18,40 +18,25 @@ product: nora
 
 Και οι δύο επιλογές είναι απενεργοποιημένες από προεπιλογή και μπορούν να ενεργοποιηθούν ανά πάσα στιγμή στις **Ρυθμίσεις ροής**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Ρυθμίσεις ροής</div>
-    <h2 class="screenshot-card__title">Πηγές imginn & Nitter</h2>
-    <p class="screenshot-card__body">
-      Διαβάστε προφίλ Instagram από το imginn και προφίλ X από τους διακομιστές Nitter που έχετε ρυθμίσει — ως εφεδρική ή κύρια πηγή.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Ρυθμίσεις ροής του Nora 0.9.2 με τις επιλογές imginn και Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Πηγές imginn & Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Πολυμέσα</div>
-    <h2 class="screenshot-card__title">Γκαλερί πλήρους οθόνης & Ζουμ</h2>
-    <p class="screenshot-card__body">
-      Εστιάστε με δύο δάχτυλα σε φωτογραφίες και βίντεο στην γκαλερί πλήρους οθόνης, κρατήστε πατημένη την άκρη της οθόνης για γρήγορη αναπαραγωγή ή αποθηκεύστε απευθείας τα πολυμέσα.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Οθόνη γκαλερί πολυμέσων πλήρους οθόνης του Nora 0.9.2" />
-    </div>
-  </figure>
+Ρυθμίσεις ροής
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Προφίλ</div>
-    <h2 class="screenshot-card__title">Εκ νέου άνοιγμα καρτέλας σε προφίλ</h2>
-    <p class="screenshot-card__body">
-      Μεταφέρετε οποιαδήποτε ανοιχτή καρτέλα κινητού σε άλλο προφίλ του Nora απευθείας από το μενού κεφαλίδας ή την εναλλαγή καρτελών.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Παράθυρο διαλόγου εκ νέου ανοίγματος καρτέλας σε προφίλ στο Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Ρυθμίσεις ροής του Nora 0.9.2 με τις επιλογές imginn και Nitter](/blog/nora-0-9-2/feed-settings.webp "Διαβάστε προφίλ Instagram από το imginn και προφίλ X από τους διακομιστές Nitter που έχετε ρυθμίσει — ως εφεδρική ή κύρια πηγή.")
+
+## Γκαλερί πλήρους οθόνης & Ζουμ
+
+Πολυμέσα
+
+![Οθόνη γκαλερί πολυμέσων πλήρους οθόνης του Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Εστιάστε με δύο δάχτυλα σε φωτογραφίες και βίντεο στην γκαλερί πλήρους οθόνης, κρατήστε πατημένη την άκρη της οθόνης για γρήγορη αναπαραγωγή ή αποθηκεύστε απευθείας τα πολυμέσα.")
+
+## Εκ νέου άνοιγμα καρτέλας σε προφίλ
+
+Προφίλ
+
+![Παράθυρο διαλόγου εκ νέου ανοίγματος καρτέλας σε προφίλ στο Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Μεταφέρετε οποιαδήποτε ανοιχτή καρτέλα κινητού σε άλλο προφίλ του Nora απευθείας από το μενού κεφαλίδας ή την εναλλαγή καρτελών.")
+:::
 
 ## Έλεγχος βίντεο ροής, ζουμ και ειδοποιήσεις
 

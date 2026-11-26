@@ -13,39 +13,15 @@ Open **Settings → Appearance → Toolbar buttons**. Use the switches to choose
 
 You can also add **Tools**, **Desktop site**, **Settings**, or the **YouTube / YouTube Music** switcher to the toolbar. The same list lets you reorder existing buttons like **Library**, **Channels feed**, and **History**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Turn on Share and Open URL and drag them to the top of the list.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Android Appearance settings with Share and Open URL switched on in the first two rows and drag handles on the right" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Share and Open URL are now the first two buttons on the watch page toolbar.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="NouTube toolbar above the Big Buck Bunny watch page, with the Share icon and Open URL link icon at the far left" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android Appearance settings with Share and Open URL switched on in the first two rows and drag handles on the right](/blog/noutube-0-7-11/android-toolbar-settings.webp "Turn on Share and Open URL and drag them to the top of the list.")
+![NouTube toolbar above the Big Buck Bunny watch page, with the Share icon and Open URL link icon at the far left](/blog/noutube-0-7-11/android-toolbar-result.webp "Share and Open URL are now the first two buttons on the watch page toolbar.")
 
 ## Download Videos on iPhone and iPad
 
 For a video you have permission to save, open **Tools** and tap **Download video**. NouTube downloads a compatible MP4 when one is available. When the download finishes, tap **Export** to save or share the file.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Tools fills in the current video’s URL.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="iPhone download panel with the video URL filled in, an MP4 availability note, and the Download video button" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Export appears in Download History when the file is ready.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="iPhone Download History entry with a green checkmark, Download complete status, and an Export button" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![iPhone download panel with the video URL filled in, an MP4 availability note, and the Download video button](/blog/noutube-0-7-11/ios-download-tools.webp "Tools fills in the current video’s URL.")
+![iPhone Download History entry with a green checkmark, Download complete status, and an Export button](/blog/noutube-0-7-11/ios-download-export.webp "Export appears in Download History when the file is ready.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ On mobile, swipe up on the YouTube player to enter fullscreen and swipe down to 
 
 To remove the comments section from YouTube watch pages, open **Settings → Preferences → Distraction-free** and turn on **Hide comments**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Hide comments is at the bottom of the Distraction-free settings.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Android Preferences screen with the Hide comments switch on at the bottom of the Distraction-free section" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android Preferences screen with the Hide comments switch on at the bottom of the Distraction-free section](/blog/noutube-0-7-11/hide-comments-setting.webp "Hide comments is at the bottom of the Distraction-free settings.")
 
 ## Other Fixes
 

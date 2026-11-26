@@ -22,14 +22,7 @@ Android 主屏幕快捷方式现在支持上下文菜单：
 
 你可以在独立窗口中继续阅读，并将想要深入查看的链接发送至 Nora 标签页中打开。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">在 Android 主屏幕快捷方式中长按图片可打开 Nora 的图片操作菜单。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Nora 的独立 Android 快捷方式界面，显示保存图片、在新标签页中打开图片和复制图片链接操作" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora 的独立 Android 快捷方式界面，显示保存图片、在新标签页中打开图片和复制图片链接操作](/blog/nora-0-9-6/shortcut-image-menu.webp "在 Android 主屏幕快捷方式中长按图片可打开 Nora 的图片操作菜单。")
 
 ## 更顺畅的动态阅读体验
 

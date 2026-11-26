@@ -18,40 +18,25 @@ product: nora
 
 كلا الخيارين متوقفان افتراضيًا ويمكن تفعيلهما في أي وقت من **إعدادات الخلاصة**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">إعدادات الخلاصة</div>
-    <h2 class="screenshot-card__title">مصادر imginn و Nitter</h2>
-    <p class="screenshot-card__body">
-      اقرأ ملفات Instagram الشخصية من imginn وملفات X الشخصية من خوادم Nitter التي قمت بإعدادها — كمصدر احتياطي أو أساسي.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="إعدادات الخلاصة في Nora 0.9.2 تعرض خيارات imginn و Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## مصادر imginn و Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">وسائط</div>
-    <h2 class="screenshot-card__title">معرض ملء الشاشة والتكبير</h2>
-    <p class="screenshot-card__body">
-      قرّب بإصبعيك لتكبير الصور ومقاطع الفيديو في معرض ملء الشاشة، أو المس حافة الشاشة مطولاً لتسريع التشغيل، أو احفظ الوسائط مباشرة.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="شاشة معرض الوسائط بملء الشاشة في Nora 0.9.2" />
-    </div>
-  </figure>
+إعدادات الخلاصة
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">ملفات التعريف</div>
-    <h2 class="screenshot-card__title">إعادة فتح علامة التبويب في ملف تعريف</h2>
-    <p class="screenshot-card__body">
-      انقل أي علامة تبويب مفتوحة على الهاتف إلى ملف تعريف آخر في Nora مباشرة من قائمة الشريط العلوي أو مبدل علامات التبويب.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="نافذة إعادة فتح علامة التبويب في ملف تعريف في Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![إعدادات الخلاصة في Nora 0.9.2 تعرض خيارات imginn و Nitter](/blog/nora-0-9-2/feed-settings.webp "اقرأ ملفات Instagram الشخصية من imginn وملفات X الشخصية من خوادم Nitter التي قمت بإعدادها — كمصدر احتياطي أو أساسي.")
+
+## معرض ملء الشاشة والتكبير
+
+وسائط
+
+![شاشة معرض الوسائط بملء الشاشة في Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "قرّب بإصبعيك لتكبير الصور ومقاطع الفيديو في معرض ملء الشاشة، أو المس حافة الشاشة مطولاً لتسريع التشغيل، أو احفظ الوسائط مباشرة.")
+
+## إعادة فتح علامة التبويب في ملف تعريف
+
+ملفات التعريف
+
+![نافذة إعادة فتح علامة التبويب في ملف تعريف في Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "انقل أي علامة تبويب مفتوحة على الهاتف إلى ملف تعريف آخر في Nora مباشرة من قائمة الشريط العلوي أو مبدل علامات التبويب.")
+:::
 
 ## عناصر التحكم في فيديو الخلاصة والتكبير والإشعارات
 

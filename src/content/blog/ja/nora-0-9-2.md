@@ -18,40 +18,25 @@ Nora のフィードリーダーを初めて使う方は、[0.9.0 の紹介記�
 
 どちらのオプションもデフォルトではオフになっており、**フィード設定** からいつでも有効にできます。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">フィード設定</div>
-    <h2 class="screenshot-card__title">imginn と Nitter ソース</h2>
-    <p class="screenshot-card__body">
-      Instagram プロフィールを imginn から、X プロフィールを設定した Nitter インスタンスから、フォールバックまたはメインの取得元として読み込めます。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="imginn と Nitter のオプションを表示する Nora 0.9.2 のフィード設定" />
-    </div>
-  </figure>
+:::screenshots
+## imginn と Nitter ソース
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">メディア</div>
-    <h2 class="screenshot-card__title">全画面ギャラリーとズーム</h2>
-    <p class="screenshot-card__body">
-      全画面ギャラリーで写真や動画をピンチ操作でズームしたり、画面端の長押しで再生速度を上げたり、メディアを直接保存したりできます。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 の全画面メディアギャラリー画面" />
-    </div>
-  </figure>
+フィード設定
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">プロフィール</div>
-    <h2 class="screenshot-card__title">別のプロフィールでタブを開き直す</h2>
-    <p class="screenshot-card__body">
-      開いているモバイルタブを、ヘッダーメニューやタブ切り替え画面から直接別の Nora プロフィールに切り替えられます。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 のプロフィールでタブを開き直すダイアログ" />
-    </div>
-  </figure>
-</div>
+![imginn と Nitter のオプションを表示する Nora 0.9.2 のフィード設定](/blog/nora-0-9-2/feed-settings.webp "Instagram プロフィールを imginn から、X プロフィールを設定した Nitter インスタンスから、フォールバックまたはメインの取得元として読み込めます。")
+
+## 全画面ギャラリーとズーム
+
+メディア
+
+![Nora 0.9.2 の全画面メディアギャラリー画面](/blog/nora-0-9-2/media-gallery.webp "全画面ギャラリーで写真や動画をピンチ操作でズームしたり、画面端の長押しで再生速度を上げたり、メディアを直接保存したりできます。")
+
+## 別のプロフィールでタブを開き直す
+
+プロフィール
+
+![Nora 0.9.2 のプロフィールでタブを開き直すダイアログ](/blog/nora-0-9-2/reopen-in-profile.webp "開いているモバイルタブを、ヘッダーメニューやタブ切り替え画面から直接別の Nora プロフィールに切り替えられます。")
+:::
 
 ## フィード動画の操作、ズーム、通知
 

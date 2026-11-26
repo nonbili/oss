@@ -23,14 +23,7 @@ product: nora
 
 이 제어 기능들은 선택 사항입니다. 같은 설정 섹션에서 **Default search to Latest**도 제공하므로 검색 시 인기(Top) 결과 대신 최신 게시물부터 열 수 있습니다. 원할 때 X에서 검색 탭을 전환해 다른 보기로 바꿀 수도 있습니다.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Android용 Nora의 X 제어 기능: 숨길 인터페이스 요소와 검색을 Latest로 열지 여부를 선택할 수 있습니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Pixel 휴대전화의 Nora X 설정 화면으로 선택적 Grok, 추천, 참여 수 및 최신 검색 제어가 표시되어 있음" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pixel 휴대전화의 Nora X 설정 화면으로 선택적 Grok, 추천, 참여 수 및 최신 검색 제어가 표시되어 있음](/blog/nora-0-9-5/x-settings.webp "Android용 Nora의 X 제어 기능: 숨길 인터페이스 요소와 검색을 Latest로 열지 여부를 선택할 수 있습니다.")
 
 ## 일반 Facebook 게시물 표시 유지
 

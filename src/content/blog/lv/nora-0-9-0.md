@@ -13,40 +13,25 @@ Pārlūkojiet visu kopā, sadaliet savas intereses dažādās laika joslās vai 
 
 Atveriet atbalstītu profilu vai kopienu Nora cilnē un izvēlnē atlasiet **Skatīties**. Jaunākie ieraksti parādīsies Nora sadaļā **Plūsma**. Pieskarieties ierakstam, lai atvērtu sākotnējo lapu, kad vēlaties lasīt atbildes vai mijiedarboties.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Plūsma</div>
-    <h2 class="screenshot-card__title">Pielāgotas laika joslas</h2>
-    <p class="screenshot-card__body">
-      Lasiet hronoloģiskus jaunumus no skatītajiem sociālo tīklu kontiem vietnēs Bluesky, Reddit, Mastodon un citās.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 plūsmas laika joslas ekrāns" />
-    </div>
-  </figure>
+:::screenshots
+## Pielāgotas laika joslas
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Multivide</div>
-    <h2 class="screenshot-card__title">Fotoattēlu un video režģis</h2>
-    <p class="screenshot-card__body">
-      Pārslēdziet jebkuru laika joslu, lai rādītu tikai fotoattēlus un video vizuālā režģī, un pāršķirstiet tos pilnekrāna galerijā.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 fotoattēlu un video režģa ekrāns" />
-    </div>
-  </figure>
+Plūsma
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Avoti</div>
-    <h2 class="screenshot-card__title">Avotu pievienošana un pārvaldība</h2>
-    <p class="screenshot-card__body">
-      Ielīmējiet profilu saites vairumā, importējiet OPML failus vai filtrējiet un kārtojiet skatītos avotus īpašā ekrānā.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 plūsmas avotu pārvaldības ekrāns" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 plūsmas laika joslas ekrāns](/blog/nora-0-9-0/feed-timeline.webp "Lasiet hronoloģiskus jaunumus no skatītajiem sociālo tīklu kontiem vietnēs Bluesky, Reddit, Mastodon un citās.")
+
+## Fotoattēlu un video režģis
+
+Multivide
+
+![Nora 0.9.0 fotoattēlu un video režģa ekrāns](/blog/nora-0-9-0/media-grid.webp "Pārslēdziet jebkuru laika joslu, lai rādītu tikai fotoattēlus un video vizuālā režģī, un pāršķirstiet tos pilnekrāna galerijā.")
+
+## Avotu pievienošana un pārvaldība
+
+Avoti
+
+![Nora 0.9.0 plūsmas avotu pārvaldības ekrāns](/blog/nora-0-9-0/manage-sources.webp "Ielīmējiet profilu saites vairumā, importējiet OPML failus vai filtrējiet un kārtojiet skatītos avotus īpašā ekrānā.")
+:::
 
 Varat sekot:
 

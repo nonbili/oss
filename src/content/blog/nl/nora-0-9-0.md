@@ -13,40 +13,25 @@ Bekijk alles samen, verdeel je interesses over verschillende tijdlijnen of schak
 
 Open een ondersteund profiel of een community in een Nora-tabblad en selecteer **Watch** in het menu. De nieuwste berichten verschijnen dan in de **Feed** van Nora. Tik op een bericht om de oorspronkelijke pagina te openen wanneer je reacties wilt lezen of wilt reageren.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Aangepaste tijdlijnen</h2>
-    <p class="screenshot-card__body">
-      Lees chronologische updates van gevolgde sociale accounts op Bluesky, Reddit, Mastodon en meer.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 feedtijdlijnscherm" />
-    </div>
-  </figure>
+:::screenshots
+## Aangepaste tijdlijnen
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Foto- en videoraster</h2>
-    <p class="screenshot-card__body">
-      Schakel elke tijdlijn over om alleen foto's en video's in een visueel raster te tonen en veeg erdoorheen in de schermvullende galerij.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 foto- en videorasterscherm" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Bronnen</div>
-    <h2 class="screenshot-card__title">Bronnen toevoegen & beheren</h2>
-    <p class="screenshot-card__body">
-      Plak profiellinks in bulk, importeer OPML-bestanden of filter en sorteer je gevolgde bronnen vanuit een speciaal scherm.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 scherm voor het beheren van feedbronnen" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 feedtijdlijnscherm](/blog/nora-0-9-0/feed-timeline.webp "Lees chronologische updates van gevolgde sociale accounts op Bluesky, Reddit, Mastodon en meer.")
+
+## Foto- en videoraster
+
+Media
+
+![Nora 0.9.0 foto- en videorasterscherm](/blog/nora-0-9-0/media-grid.webp "Schakel elke tijdlijn over om alleen foto's en video's in een visueel raster te tonen en veeg erdoorheen in de schermvullende galerij.")
+
+## Bronnen toevoegen & beheren
+
+Bronnen
+
+![Nora 0.9.0 scherm voor het beheren van feedbronnen](/blog/nora-0-9-0/manage-sources.webp "Plak profiellinks in bulk, importeer OPML-bestanden of filter en sorteer je gevolgde bronnen vanuit een speciaal scherm.")
+:::
 
 Je kunt volgen:
 

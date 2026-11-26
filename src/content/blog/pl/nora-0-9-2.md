@@ -18,40 +18,25 @@ Jeśli dopiero zaczynasz korzystać z czytnika kanałów w Norze, zacznij od [wp
 
 Obie opcje są domyślnie wyłączone i można je w dowolnej chwili włączyć w **Ustawieniach kanałów**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Ustawienia kanałów</div>
-    <h2 class="screenshot-card__title">Źródła imginn i Nitter</h2>
-    <p class="screenshot-card__body">
-      Czytaj profile z Instagrama przez imginn oraz profile z X z skonfigurowanych instancji Nittera — jako źródło zapasowe lub główne.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Ustawienia kanałów Nora 0.9.2 pokazujące opcje imginn i Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Źródła imginn i Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Multimedia</div>
-    <h2 class="screenshot-card__title">Galeria pełnoekranowa i powiększanie</h2>
-    <p class="screenshot-card__body">
-      Rozsuń palce, aby powiększyć zdjęcia i filmy w galerii pełnoekranowej, przytrzymaj krawędź ekranu, aby przyspieszyć odtwarzanie, lub zapisuj multimedia bezpośrednio.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Ekran pełnoekranowej galerii multimediów w Nora 0.9.2" />
-    </div>
-  </figure>
+Ustawienia kanałów
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profile</div>
-    <h2 class="screenshot-card__title">Otwórz kartę ponownie w profilu</h2>
-    <p class="screenshot-card__body">
-      Przełącz dowolną otwartą kartę mobilną do innego profilu Nora bezpośrednio z menu nagłówka lub przełącznika kart.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Okno dialogowe ponownego otwierania karty w profilu w Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Ustawienia kanałów Nora 0.9.2 pokazujące opcje imginn i Nitter](/blog/nora-0-9-2/feed-settings.webp "Czytaj profile z Instagrama przez imginn oraz profile z X z skonfigurowanych instancji Nittera — jako źródło zapasowe lub główne.")
+
+## Galeria pełnoekranowa i powiększanie
+
+Multimedia
+
+![Ekran pełnoekranowej galerii multimediów w Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Rozsuń palce, aby powiększyć zdjęcia i filmy w galerii pełnoekranowej, przytrzymaj krawędź ekranu, aby przyspieszyć odtwarzanie, lub zapisuj multimedia bezpośrednio.")
+
+## Otwórz kartę ponownie w profilu
+
+Profile
+
+![Okno dialogowe ponownego otwierania karty w profilu w Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Przełącz dowolną otwartą kartę mobilną do innego profilu Nora bezpośrednio z menu nagłówka lub przełącznika kart.")
+:::
 
 ## Sterowanie wideo w kanałach, powiększanie i powiadomienia
 

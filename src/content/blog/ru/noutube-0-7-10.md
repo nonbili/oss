@@ -19,14 +19,7 @@ NouTube теперь обрабатывает ответы страницы ви
 
 В окне загрузки нажмите **Обзор** под пунктом **Папка** и выберите нужную папку в системном окне выбора папок Android. Чтобы вернуться к расположению по умолчанию, нажмите **Использовать папку Загрузки**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Сохраняйте видео в отдельную папку или вернитесь к папке Загрузки.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Диалог загрузки NouTube на Android с выбранной папкой Download/NouTube, кнопками Обзор и Использовать папку Загрузки" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Диалог загрузки NouTube на Android с выбранной папкой Download/NouTube, кнопками Обзор и Использовать папку Загрузки](/blog/noutube-0-7-10/download-folder.webp "Сохраняйте видео в отдельную папку или вернитесь к папке Загрузки.")
 
 ## Записи сообщества в ленте
 
@@ -34,20 +27,8 @@ NouTube теперь обрабатывает ответы страницы ви
 
 Чтобы попробовать, откройте **Настройки → Внешний вид** и включите **Записи сообщества в ленте** сразу под пунктом **Лента каналов**. По умолчанию эта опция **отключена**: загрузка записей требует проверки вкладки «Записи» каждого сохранённого канала, что расходует больше трафика при обновлении ленты.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Включите записи сообщества в настройках внешнего вида.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Настройки внешнего вида NouTube на Android с включёнными пунктами Лента каналов и Записи сообщества в ленте" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Записи сообщества отображаются рядом с видео ваших сохранённых каналов.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Лента NouTube с записями сообщества Veritasium, содержащими текст и изображение, рядом с загруженными видео" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Настройки внешнего вида NouTube на Android с включёнными пунктами Лента каналов и Записи сообщества в ленте](/blog/noutube-0-7-10/community-posts-setting.webp "Включите записи сообщества в настройках внешнего вида.")
+![Лента NouTube с записями сообщества Veritasium, содержащими текст и изображение, рядом с загруженными видео](/blog/noutube-0-7-10/community-post-in-feed.webp "Записи сообщества отображаются рядом с видео ваших сохранённых каналов.")
 
 ## Мелкие исправления
 

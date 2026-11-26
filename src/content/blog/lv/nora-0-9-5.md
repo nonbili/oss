@@ -23,14 +23,7 @@ Sadaļā **Iestatījumi → Pakalpojumi → X** tagad varat izvēlēties paslēp
 
 Šīs vadīklas nav obligātas. Tajā pašā iestatījumu sadaļā ir pieejama arī opcija **Noklusējuma meklēšana uz Jaunākie**, lai meklēšana atvērtos ar jaunākajiem ierakstiem, nevis populārākajiem rezultātiem. Jūs joprojām varat pārslēgt meklēšanas cilnes vietnē X, kad vēlaties citu skatu.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">X vadīklas lietotnē Nora Android ierīcē: izvēlieties, kurus saskarnes elementus paslēpt un vai meklēšana atveras sadaļā Jaunākie.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Nora X iestatījumi Pixel tālrunī, kas rāda izvēles Grok, ieteikumu, iesaistes skaita un Jaunāko meklēšanas vadīklas" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora X iestatījumi Pixel tālrunī, kas rāda izvēles Grok, ieteikumu, iesaistes skaita un Jaunāko meklēšanas vadīklas](/blog/nora-0-9-5/x-settings.webp "X vadīklas lietotnē Nora Android ierīcē: izvēlieties, kurus saskarnes elementus paslēpt un vai meklēšana atveras sadaļā Jaunākie.")
 
 ## Saglabājiet parastos Facebook ierakstus redzamus
 

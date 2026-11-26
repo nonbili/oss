@@ -18,40 +18,25 @@ Seguir perfis públicos do **Instagram** e do **X** sem iniciar sessão pode esb
 
 Ambas as opções estão desativadas por predefinição e podem ser ativadas a qualquer momento nas **Definições do feed**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Definições do feed</div>
-    <h2 class="screenshot-card__title">Fontes imginn e Nitter</h2>
-    <p class="screenshot-card__body">
-      Leia perfis do Instagram a partir do imginn e perfis do X a partir das suas instâncias Nitter configuradas — como recurso ou fonte principal.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Definições do feed do Nora 0.9.2 a mostrar opções do imginn e Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Fontes imginn e Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Multimédia</div>
-    <h2 class="screenshot-card__title">Galeria em ecrã inteiro e ampliação</h2>
-    <p class="screenshot-card__body">
-      Faça pinça para ampliar fotografias e vídeos na galeria em ecrã inteiro, mantenha premida a margem do ecrã para acelerar a reprodução ou guarde conteúdos diretamente.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Ecrã da galeria multimédia em ecrã inteiro do Nora 0.9.2" />
-    </div>
-  </figure>
+Definições do feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Perfis</div>
-    <h2 class="screenshot-card__title">Reabrir separador no perfil</h2>
-    <p class="screenshot-card__body">
-      Mude qualquer separador móvel aberto para outro perfil do Nora diretamente a partir do menu do cabeçalho ou do seletor de separadores.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Caixa de diálogo reabrir separador no perfil do Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Definições do feed do Nora 0.9.2 a mostrar opções do imginn e Nitter](/blog/nora-0-9-2/feed-settings.webp "Leia perfis do Instagram a partir do imginn e perfis do X a partir das suas instâncias Nitter configuradas — como recurso ou fonte principal.")
+
+## Galeria em ecrã inteiro e ampliação
+
+Multimédia
+
+![Ecrã da galeria multimédia em ecrã inteiro do Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Faça pinça para ampliar fotografias e vídeos na galeria em ecrã inteiro, mantenha premida a margem do ecrã para acelerar a reprodução ou guarde conteúdos diretamente.")
+
+## Reabrir separador no perfil
+
+Perfis
+
+![Caixa de diálogo reabrir separador no perfil do Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Mude qualquer separador móvel aberto para outro perfil do Nora diretamente a partir do menu do cabeçalho ou do seletor de separadores.")
+:::
 
 ## Controlos de vídeo no feed, ampliação e notificações
 

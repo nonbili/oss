@@ -23,14 +23,7 @@ product: nora
 
 هذه الخيارات اختيارية بالكامل. يقدم قسم الإعدادات نفسه أيضًا خيار **البحث الافتراضي في الأحدث**، بحيث تفتح عمليات البحث المنشورات الحديثة بدلاً من أهم النتائج. لا يزال بإمكانك تبديل علامات تبويب البحث على X متى أردت عرضًا مختلفًا.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">عناصر التحكم في X في Nora على Android: اختر عناصر الواجهة التي تريد إخفاءها وما إذا كان البحث يفتح في الأحدث.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="إعدادات X في Nora على هاتف Pixel، توضح خيارات Grok والتوصيات وإحصاءات التفاعل والبحث في الأحدث" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![إعدادات X في Nora على هاتف Pixel، توضح خيارات Grok والتوصيات وإحصاءات التفاعل والبحث في الأحدث](/blog/nora-0-9-5/x-settings.webp "عناصر التحكم في X في Nora على Android: اختر عناصر الواجهة التي تريد إخفاءها وما إذا كان البحث يفتح في الأحدث.")
 
 ## الإبقاء على منشورات Facebook العادية مرئية
 

@@ -18,40 +18,25 @@ Seguir perfis públicos do **Instagram** e do **X** sem fazer login pode esbarra
 
 Ambas as opções vêm desativadas por padrão e podem ser ativadas a qualquer momento nas **Configurações do feed**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Configurações do feed</div>
-    <h2 class="screenshot-card__title">Fontes imginn e Nitter</h2>
-    <p class="screenshot-card__body">
-      Leia perfis do Instagram pelo imginn e perfis do X pelas suas instâncias configuradas do Nitter — como reserva ou fonte principal.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Configurações do feed do Nora 0.9.2 mostrando as opções imginn e Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Fontes imginn e Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Mídia</div>
-    <h2 class="screenshot-card__title">Galeria em tela cheia e zoom</h2>
-    <p class="screenshot-card__body">
-      Faça o gesto de pinça para ampliar fotos e vídeos na galeria em tela cheia, segure a borda da tela para acelerar a reprodução ou salve a mídia diretamente.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Tela da galeria de mídia em tela cheia do Nora 0.9.2" />
-    </div>
-  </figure>
+Configurações do feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Perfis</div>
-    <h2 class="screenshot-card__title">Reabrir aba em outro perfil</h2>
-    <p class="screenshot-card__body">
-      Mude qualquer aba móvel aberta para outro perfil do Nora diretamente pelo menu do cabeçalho ou pelo alternador de abas.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Diálogo para reabrir aba em outro perfil no Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Configurações do feed do Nora 0.9.2 mostrando as opções imginn e Nitter](/blog/nora-0-9-2/feed-settings.webp "Leia perfis do Instagram pelo imginn e perfis do X pelas suas instâncias configuradas do Nitter — como reserva ou fonte principal.")
+
+## Galeria em tela cheia e zoom
+
+Mídia
+
+![Tela da galeria de mídia em tela cheia do Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Faça o gesto de pinça para ampliar fotos e vídeos na galeria em tela cheia, segure a borda da tela para acelerar a reprodução ou salve a mídia diretamente.")
+
+## Reabrir aba em outro perfil
+
+Perfis
+
+![Diálogo para reabrir aba em outro perfil no Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Mude qualquer aba móvel aberta para outro perfil do Nora diretamente pelo menu do cabeçalho ou pelo alternador de abas.")
+:::
 
 ## Controles de vídeo do feed, zoom e notificações
 

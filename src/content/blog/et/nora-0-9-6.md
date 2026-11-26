@@ -22,14 +22,7 @@ Androidi avakuva otseteed pakuvad nüüd kontekstimenüüsid:
 
 Saad jätkata lugemist eraldi aknas ja saata lingi Norasse, kui soovid seda vahekaardil uurida.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Pildile pikalt vajutamine Androidi avakuva otsetees avab Nora pilditoimingud.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Nora eraldiseisev Androidi otsetee, mis näitab toiminguid Save image, Open image in new tab ja Copy image link" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora eraldiseisev Androidi otsetee, mis näitab toiminguid Save image, Open image in new tab ja Copy image link](/blog/nora-0-9-6/shortcut-image-menu.webp "Pildile pikalt vajutamine Androidi avakuva otsetees avab Nora pilditoimingud.")
 
 ## Lihtsam lugemine voos
 

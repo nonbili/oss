@@ -19,14 +19,7 @@ NouTube artık video sayfası yanıtlarını geldikleri anda işliyor, böylece 
 
 İndirme iletişim kutusunda **Klasör** altındaki **Göz at**'a dokunun, ardından Android klasör seçiciden bir klasör seçin. Varsayılan konuma dönmek için **İndirilenler klasörünü kullan**'a dokunun.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Videoları özel bir klasöre kaydedin veya İndirilenler'e geri dönün.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Seçili klasör olarak Download/NouTube, Göz at ve İndirilenler klasörünü kullan seçeneklerini gösteren NouTube Android indirme iletişim kutusu" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Seçili klasör olarak Download/NouTube, Göz at ve İndirilenler klasörünü kullan seçeneklerini gösteren NouTube Android indirme iletişim kutusu](/blog/noutube-0-7-10/download-folder.webp "Videoları özel bir klasöre kaydedin veya İndirilenler'e geri dönün.")
 
 ## Akış Okuyucuda Topluluk Gönderileri
 
@@ -34,20 +27,8 @@ Kayıtlı kanallarınız video yüklemeleri arasında güncellemeler paylaşabil
 
 Denemek için **Ayarlar → Görünüm**'ü açın ve **Kanal akışı**'nın hemen altındaki **Akışta topluluk gönderileri** seçeneğini açın. Bu seçenek **varsayılan olarak kapalıdır**: gönderileri dahil etmek, kayıtlı her kanalın Gönderiler sekmesini kontrol etmek anlamına gelir ve bu da akışı yenilerken daha fazla veri kullanır.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Görünüm ayarlarından topluluk gönderilerini etkinleştirin.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Kanal akışı ve Akışta topluluk gönderileri etkinleştirilmiş Android NouTube Görünüm ayarları" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Topluluk gönderileri kayıtlı kanallarınızın videolarıyla birlikte görünür.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Video yüklemelerinin yanında metin ve görsel içeren Veritasium topluluk gönderilerini gösteren NouTube akışı" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Kanal akışı ve Akışta topluluk gönderileri etkinleştirilmiş Android NouTube Görünüm ayarları](/blog/noutube-0-7-10/community-posts-setting.webp "Görünüm ayarlarından topluluk gönderilerini etkinleştirin.")
+![Video yüklemelerinin yanında metin ve görsel içeren Veritasium topluluk gönderilerini gösteren NouTube akışı](/blog/noutube-0-7-10/community-post-in-feed.webp "Topluluk gönderileri kayıtlı kanallarınızın videolarıyla birlikte görünür.")
 
 ## Küçük Düzeltmeler
 

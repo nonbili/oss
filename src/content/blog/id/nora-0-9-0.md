@@ -13,40 +13,25 @@ Jelajahi semuanya bersama-sama, pisahkan minat Anda ke dalam linimasa yang berbe
 
 Buka profil atau komunitas yang didukung di tab Nora lalu pilih **Pantau** dari menu. Postingan terbarunya akan muncul di **Feed** Nora. Ketuk postingan untuk membuka halaman asli kapan pun Anda ingin membaca balasan atau berinteraksi.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Linimasa Kustom</h2>
-    <p class="screenshot-card__body">
-      Baca pembaruan kronologis dari akun sosial yang dipantau di Bluesky, Reddit, Mastodon, dan lainnya.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Layar linimasa feed Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Linimasa Kustom
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Kisi Foto & Video</h2>
-    <p class="screenshot-card__body">
-      Alihkan linimasa apa pun untuk hanya menampilkan foto dan video dalam kisi visual, lalu geser di galeri layar penuh.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Layar kisi foto dan video Nora 0.9.0" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Sumber</div>
-    <h2 class="screenshot-card__title">Tambah & Kelola Sumber</h2>
-    <p class="screenshot-card__body">
-      Tempel tautan profil secara massal, impor file OPML, atau filter dan urutkan sumber yang Anda pantau dari layar khusus.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Layar pengelolaan sumber feed Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Layar linimasa feed Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Baca pembaruan kronologis dari akun sosial yang dipantau di Bluesky, Reddit, Mastodon, dan lainnya.")
+
+## Kisi Foto & Video
+
+Media
+
+![Layar kisi foto dan video Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Alihkan linimasa apa pun untuk hanya menampilkan foto dan video dalam kisi visual, lalu geser di galeri layar penuh.")
+
+## Tambah & Kelola Sumber
+
+Sumber
+
+![Layar pengelolaan sumber feed Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Tempel tautan profil secara massal, impor file OPML, atau filter dan urutkan sumber yang Anda pantau dari layar khusus.")
+:::
 
 Anda dapat mengikuti:
 

@@ -13,39 +13,15 @@ NouTube 0.7.11 让你可以把 **分享** 和 **打开 URL** 等操作直接放�
 
 你还可以把 **工具**、**桌面版网站**、**设置** 或 **YouTube / YouTube Music** 切换按钮添加到工具栏。在同一个列表中，也可以重新排列 **媒体库**、**频道订阅源** 和 **历史记录** 等现有按钮。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">打开分享和打开 URL，并将它们拖到列表顶部。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Android 外观设置，前两行的分享和打开 URL 已开启，右侧显示拖动把手" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">分享和打开 URL 现在是观看页面工具栏上的前两个按钮。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Big Buck Bunny 观看页面上方的 NouTube 工具栏，最左侧是分享图标和打开 URL 的链接图标" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android 外观设置，前两行的分享和打开 URL 已开启，右侧显示拖动把手](/blog/noutube-0-7-11/android-toolbar-settings.webp "打开分享和打开 URL，并将它们拖到列表顶部。")
+![Big Buck Bunny 观看页面上方的 NouTube 工具栏，最左侧是分享图标和打开 URL 的链接图标](/blog/noutube-0-7-11/android-toolbar-result.webp "分享和打开 URL 现在是观看页面工具栏上的前两个按钮。")
 
 ## 在 iPhone 和 iPad 上下载视频
 
 对于你有权保存的视频，打开 **工具** 并点按 **下载视频**。如果有兼容的 MP4，NouTube 会下载它。下载完成后，点按 **导出** 即可保存或分享文件。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">工具会自动填入当前视频的 URL。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="iPhone 下载面板，已填入视频 URL，显示 MP4 可用性提示和下载视频按钮" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">文件准备好后，下载记录中会出现导出按钮。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="iPhone 下载记录中的一项，带有绿色对勾、下载完成状态和导出按钮" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![iPhone 下载面板，已填入视频 URL，显示 MP4 可用性提示和下载视频按钮](/blog/noutube-0-7-11/ios-download-tools.webp "工具会自动填入当前视频的 URL。")
+![iPhone 下载记录中的一项，带有绿色对勾、下载完成状态和导出按钮](/blog/noutube-0-7-11/ios-download-export.webp "文件准备好后，下载记录中会出现导出按钮。")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ NouTube 0.7.11 让你可以把 **分享** 和 **打开 URL** 等操作直接放�
 
 要从 YouTube 观看页面移除评论区，请打开 **设置 → 偏好设置 → 无干扰模式**，然后打开 **隐藏评论**。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">隐藏评论位于无干扰模式设置的底部。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Android 偏好设置界面，无干扰模式部分底部的隐藏评论开关已开启" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android 偏好设置界面，无干扰模式部分底部的隐藏评论开关已开启](/blog/noutube-0-7-11/hide-comments-setting.webp "隐藏评论位于无干扰模式设置的底部。")
 
 ## 其他修复
 

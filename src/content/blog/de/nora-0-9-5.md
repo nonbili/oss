@@ -23,14 +23,7 @@ Unter **Einstellungen → Dienste → X** können Sie nun festlegen, welche Elem
 
 Diese Optionen sind rein optional. Im selben Einstellungsbereich können Sie zudem **Standardsuche auf „Neueste“** aktivieren, damit Suchanfragen direkt aktuelle Beiträge statt der Top-Ergebnisse anzeigen. Sie können die Such-Tabs auf X weiterhin jederzeit wechseln.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">X-Steuerung in Nora unter Android: Wählen Sie, welche Oberflächenelemente verborgen werden und ob Suchen mit „Neueste“ starten.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Nora X-Einstellungen auf einem Pixel-Smartphone mit Optionen für Grok, Empfehlungen, Interaktionszahlen und Neueste-Suche" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora X-Einstellungen auf einem Pixel-Smartphone mit Optionen für Grok, Empfehlungen, Interaktionszahlen und Neueste-Suche](/blog/nora-0-9-5/x-settings.webp "X-Steuerung in Nora unter Android: Wählen Sie, welche Oberflächenelemente verborgen werden und ob Suchen mit „Neueste“ starten.")
 
 ## Normale Facebook-Beiträge sichtbar halten
 

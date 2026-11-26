@@ -17,14 +17,7 @@ product: nora
 
 Если вы выберете папку, Nora также будет использовать её для медиафайлов, сохраняемых из ленты на Android 10 и новее. Кроме того, в этом выпуске исправлена загрузка по ссылкам `data:`, которые некоторые сайты используют для файлов, создаваемых прямо в браузере.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">В качестве места назначения для будущих загрузок выбрана папка Nora Downloads.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Настройки загрузок Android с выбранной папкой Nora Downloads и видимыми параметрами Загрузки, Спрашивать каждый раз и Выбрать папку" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Настройки загрузок Android с выбранной папкой Nora Downloads и видимыми параметрами Загрузки, Спрашивать каждый раз и Выбрать папку](/blog/nora-0-9-7/download-destination.webp "В качестве места назначения для будущих загрузок выбрана папка Nora Downloads.")
 
 ## Настройте меню с тремя точками
 
@@ -32,20 +25,8 @@ product: nora
 
 Пункт **Настройки** остаётся в меню, а **Сбросить меню по умолчанию** отменяет ваши изменения одним нажатием.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Оставьте «Найти на странице» включённым и отключите «Версию для ПК».</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Развёрнутые настройки «Настроить меню с тремя точками» с включённым «Найти на странице» и отключённой «Версией для ПК»" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">В меню браузера остаются «Найти на странице», «Поделиться» и «Настройки».</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Настроенное меню браузера с пунктами «Найти на странице», «Поделиться» и «Настройки», где «Версия для ПК» скрыта" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Развёрнутые настройки «Настроить меню с тремя точками» с включённым «Найти на странице» и отключённой «Версией для ПК»](/blog/nora-0-9-7/customize-three-dot-menu.webp "Оставьте «Найти на странице» включённым и отключите «Версию для ПК».")
+![Настроенное меню браузера с пунктами «Найти на странице», «Поделиться» и «Настройки», где «Версия для ПК» скрыта](/blog/nora-0-9-7/customized-three-dot-menu.webp "В меню браузера остаются «Найти на странице», «Поделиться» и «Настройки».")
 
 ## WhatsApp Web и Facebook Marketplace открываются в режиме для ПК
 

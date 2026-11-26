@@ -21,14 +21,7 @@ product: nori
 
 自動保存はデフォルトでオンになっています。**設定 → 一般 → SNS 投稿をオフライン保存** からオフにできます。**Nori Sync** を利用している場合、保存した投稿とその画像はお使いのデバイス間で同期されます。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">保存した Bluesky の投稿は、機内モード中でも画像付きでそのまま読めます。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="機内モードが有効な状態で、投稿者・本文・添付画像を含む保存済み Bluesky 投稿を表示している Nori" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![機内モードが有効な状態で、投稿者・本文・添付画像を含む保存済み Bluesky 投稿を表示している Nori](/blog/nori-0-2-9/saved-social-post.webp "保存した Bluesky の投稿は、機内モード中でも画像付きでそのまま読めます。")
 
 ## リンク以上のものを共有する
 
@@ -38,14 +31,7 @@ product: nori
 
 **共有** をタップしてデバイスの共有シートからカードを送信するか、ダウンロードボタンをタップして **画像を保存** し、写真ライブラリに保存できます。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">カードをプレビューし、含める項目を選んでから画像を共有または保存できます。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="ライトとダークのテーマ、メモとタグの切り替え、ダウンロードボタン、共有ボタンが表示された「画像として共有」のプレビュー" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![ライトとダークのテーマ、メモとタグの切り替え、ダウンロードボタン、共有ボタンが表示された「画像として共有」のプレビュー](/blog/nori-0-2-9/share-as-image.webp "カードをプレビューし、含める項目を選んでから画像を共有または保存できます。")
 
 ## リストごとに独自の並び順を設定する
 
@@ -59,14 +45,7 @@ product: nori
 
 この設定はそのリストごとに保存されるため、他のリストはそれぞれの並び順をそのまま維持できます。同じエディタ内でリスト名の変更も可能です。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Reading queue リストのブックマークの並び順を選択します。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="5 つのブックマークの並び順オプションがすべて表示された Reading queue のリスト編集画面" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![5 つのブックマークの並び順オプションがすべて表示された Reading queue のリスト編集画面](/blog/nori-0-2-9/list-bookmark-order.webp "Reading queue リストのブックマークの並び順を選択します。")
 
 このリリースでは、iOS の **すべてのブックマーク** ドロワーにおけるスクロールの改善と同期の不具合修正も行われています。詳細は [完全なリリースノート](https://github.com/nonbili/Nori/releases/tag/v0.2.9) をご覧ください。
 

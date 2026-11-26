@@ -19,14 +19,7 @@ Ingin menyimpan video yang diunduh di folder khusus? Di **Android**, Anda kini d
 
 Di dialog unduhan, ketuk **Telusuri** di bawah **Folder**, lalu pilih folder di pemilih folder Android. Untuk kembali ke lokasi bawaan, ketuk **Gunakan folder Downloads**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Simpan video ke folder khusus, atau beralih kembali ke Downloads.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Dialog unduhan Android NouTube yang menampilkan Download/NouTube sebagai folder terpilih, Telusuri, dan Gunakan folder Downloads" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Dialog unduhan Android NouTube yang menampilkan Download/NouTube sebagai folder terpilih, Telusuri, dan Gunakan folder Downloads](/blog/noutube-0-7-10/download-folder.webp "Simpan video ke folder khusus, atau beralih kembali ke Downloads.")
 
 ## Postingan Komunitas di Pembaca Feed
 
@@ -34,20 +27,8 @@ Channel yang Anda simpan mungkin membagikan pembaruan di sela-sela unggahan vide
 
 Untuk mencobanya, buka **Pengaturan → Tampilan** dan aktifkan **Postingan komunitas di feed**, tepat di bawah **Feed Channel**. Fitur ini **nonaktif secara bawaan**: menyertakan postingan berarti memeriksa tab Postingan setiap channel yang disimpan, yang menggunakan lebih banyak data saat menyegarkan feed.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Aktifkan postingan komunitas di pengaturan Tampilan.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Pengaturan Tampilan NouTube di Android dengan Feed Channel dan Postingan komunitas di feed diaktifkan" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Postingan komunitas muncul bersama video dari channel yang Anda simpan.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Feed NouTube menampilkan postingan komunitas Veritasium dengan teks dan gambar bersama unggahan video" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pengaturan Tampilan NouTube di Android dengan Feed Channel dan Postingan komunitas di feed diaktifkan](/blog/noutube-0-7-10/community-posts-setting.webp "Aktifkan postingan komunitas di pengaturan Tampilan.")
+![Feed NouTube menampilkan postingan komunitas Veritasium dengan teks dan gambar bersama unggahan video](/blog/noutube-0-7-10/community-post-in-feed.webp "Postingan komunitas muncul bersama video dari channel yang Anda simpan.")
 
 ## Perbaikan Kecil Lainnya
 

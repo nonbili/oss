@@ -17,14 +17,7 @@ Sur Android, ouvrez **Paramètres → Préférences → Téléchargements → En
 
 Si vous choisissez un dossier, Nora l’utilise aussi pour les médias enregistrés depuis le fil sur Android 10 et versions ultérieures. Cette version corrige également les téléchargements depuis les liens `data:`, utilisés par certains sites pour les fichiers générés dans le navigateur.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads est sélectionné comme destination pour les futurs téléchargements.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Paramètres de téléchargement Android avec Nora Downloads sélectionné et les options Téléchargements, Demander à chaque fois et Choisir un dossier visibles" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Paramètres de téléchargement Android avec Nora Downloads sélectionné et les options Téléchargements, Demander à chaque fois et Choisir un dossier visibles](/blog/nora-0-9-7/download-destination.webp "Nora Downloads est sélectionné comme destination pour les futurs téléchargements.")
 
 ## Personnaliser le menu à trois points
 
@@ -32,20 +25,8 @@ Ouvrez **Paramètres → Apparence → Barre d’outils → Personnaliser le men
 
 **Paramètres** reste dans le menu, et **Rétablir le menu par défaut** annule vos modifications en un clic.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Gardez Rechercher dans la page activé et désactivez Version pour ordinateur.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Paramètres développés de Personnaliser le menu à trois points avec Rechercher dans la page activé et Version pour ordinateur désactivé" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Le menu du navigateur conserve Rechercher dans la page, Partager et Paramètres.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Menu personnalisé du navigateur affichant Rechercher dans la page, Partager et Paramètres, avec Version pour ordinateur masqué" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Paramètres développés de Personnaliser le menu à trois points avec Rechercher dans la page activé et Version pour ordinateur désactivé](/blog/nora-0-9-7/customize-three-dot-menu.webp "Gardez Rechercher dans la page activé et désactivez Version pour ordinateur.")
+![Menu personnalisé du navigateur affichant Rechercher dans la page, Partager et Paramètres, avec Version pour ordinateur masqué](/blog/nora-0-9-7/customized-three-dot-menu.webp "Le menu du navigateur conserve Rechercher dans la page, Partager et Paramètres.")
 
 ## WhatsApp Web et Facebook Marketplace s’ouvrent en mode ordinateur
 

@@ -13,40 +13,25 @@ Her şeyi bir arada inceleyin, ilgi alanlarınızı farklı zaman akışlarına 
 
 Nora sekmesinde desteklenen bir profili veya topluluğu açın ve menüden **İzle** seçeneğini belirleyin. En son gönderileri Nora'nın **Feed** bölümünde görünecektir. Yanıtları okumak veya etkileşimde bulunmak istediğinizde orijinal sayfayı açmak için bir gönderiye dokunmanız yeterlidir.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Özel Zaman Akışları</h2>
-    <p class="screenshot-card__body">
-      Bluesky, Reddit, Mastodon ve daha fazlasındaki izlenen sosyal hesaplardan gelen kronolojik güncellemeleri okuyun.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 feed zaman akışı ekranı" />
-    </div>
-  </figure>
+:::screenshots
+## Özel Zaman Akışları
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Medya</div>
-    <h2 class="screenshot-card__title">Fotoğraf ve Video Izgarası</h2>
-    <p class="screenshot-card__body">
-      Yalnızca fotoğraf ve videoları görsel bir ızgarada görmek için herhangi bir zaman akışını değiştirin ve tam ekran galeride aralarında kaydırarak gezinin.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 fotoğraf ve video ızgarası ekranı" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Kaynaklar</div>
-    <h2 class="screenshot-card__title">Kaynak Ekleme ve Yönetme</h2>
-    <p class="screenshot-card__body">
-      Profil bağlantılarını topluca yapıştırın, OPML dosyalarını içe aktarın veya özel bir ekrandan izlenen kaynaklarınızı filtreleyip sıralayın.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 feed kaynakları yönetim ekranı" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 feed zaman akışı ekranı](/blog/nora-0-9-0/feed-timeline.webp "Bluesky, Reddit, Mastodon ve daha fazlasındaki izlenen sosyal hesaplardan gelen kronolojik güncellemeleri okuyun.")
+
+## Fotoğraf ve Video Izgarası
+
+Medya
+
+![Nora 0.9.0 fotoğraf ve video ızgarası ekranı](/blog/nora-0-9-0/media-grid.webp "Yalnızca fotoğraf ve videoları görsel bir ızgarada görmek için herhangi bir zaman akışını değiştirin ve tam ekran galeride aralarında kaydırarak gezinin.")
+
+## Kaynak Ekleme ve Yönetme
+
+Kaynaklar
+
+![Nora 0.9.0 feed kaynakları yönetim ekranı](/blog/nora-0-9-0/manage-sources.webp "Profil bağlantılarını topluca yapıştırın, OPML dosyalarını içe aktarın veya özel bir ekrandan izlenen kaynaklarınızı filtreleyip sıralayın.")
+:::
 
 Takip edebilecekleriniz:
 

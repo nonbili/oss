@@ -17,14 +17,7 @@ product: nora
 
 إذا اخترت مجلداً، يستخدمه Nora أيضاً للوسائط التي تحفظها من الخلاصة على Android 10 والإصدارات الأحدث. يصلح هذا الإصدار التنزيلات من روابط `data:`، التي تستخدمها بعض المواقع للملفات التي تنشئها في المتصفح.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">تم تحديد Nora Downloads كوجهة للتنزيلات المستقبلية.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="إعدادات التنزيل في Android مع تحديد Nora Downloads وظهور خيارات التنزيلات والسؤال في كل مرة واختيار مجلد" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![إعدادات التنزيل في Android مع تحديد Nora Downloads وظهور خيارات التنزيلات والسؤال في كل مرة واختيار مجلد](/blog/nora-0-9-7/download-destination.webp "تم تحديد Nora Downloads كوجهة للتنزيلات المستقبلية.")
 
 ## خصّص قائمة النقاط الثلاث
 
@@ -32,20 +25,8 @@ product: nora
 
 يبقى خيار **الإعدادات** في القائمة، ويمسح **استعادة افتراضيات القائمة** تغييراتك بنقرة واحدة.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">أبقِ البحث في الصفحة قيد التشغيل وأوقف موقع سطح المكتب.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="إعدادات تخصيص قائمة النقاط الثلاث الموسّعة مع تشغيل البحث في الصفحة وإيقاف موقع سطح المكتب" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">تحتفظ قائمة المتصفح بخيارات البحث في الصفحة ومشاركة والإعدادات.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="قائمة المتصفح المخصّصة تعرض البحث في الصفحة ومشاركة والإعدادات مع إخفاء موقع سطح المكتب" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![إعدادات تخصيص قائمة النقاط الثلاث الموسّعة مع تشغيل البحث في الصفحة وإيقاف موقع سطح المكتب](/blog/nora-0-9-7/customize-three-dot-menu.webp "أبقِ البحث في الصفحة قيد التشغيل وأوقف موقع سطح المكتب.")
+![قائمة المتصفح المخصّصة تعرض البحث في الصفحة ومشاركة والإعدادات مع إخفاء موقع سطح المكتب](/blog/nora-0-9-7/customized-three-dot-menu.webp "تحتفظ قائمة المتصفح بخيارات البحث في الصفحة ومشاركة والإعدادات.")
 
 ## فتح WhatsApp Web وFacebook Marketplace في وضع سطح المكتب
 

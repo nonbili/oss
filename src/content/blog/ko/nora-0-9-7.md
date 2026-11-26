@@ -17,14 +17,7 @@ Android에서 **설정 → 기본 설정 → 다운로드 → 다운로드 저�
 
 폴더를 선택하면 Android 10 이상에서 피드에서 저장하는 미디어에도 Nora가 해당 폴더를 사용합니다. 또한 이번 릴리스에서는 일부 사이트가 브라우저에서 생성한 파일에 사용하는 `data:` 링크의 다운로드 문제도 수정했습니다.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">앞으로의 다운로드 대상으로 Nora Downloads가 선택되어 있습니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Nora Downloads가 선택되어 있고 다운로드, 매번 묻기, 폴더 선택 옵션이 보이는 Android 다운로드 설정" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora Downloads가 선택되어 있고 다운로드, 매번 묻기, 폴더 선택 옵션이 보이는 Android 다운로드 설정](/blog/nora-0-9-7/download-destination.webp "앞으로의 다운로드 대상으로 Nora Downloads가 선택되어 있습니다.")
 
 ## 점 세 개 메뉴 사용자 지정하기
 
@@ -32,20 +25,8 @@ Android에서 **설정 → 기본 설정 → 다운로드 → 다운로드 저�
 
 **설정**은 메뉴에 항상 남으며, **메뉴 기본값 복원**을 한 번 탭하면 변경 사항이 초기화됩니다.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">페이지에서 찾기는 켜 두고 데스크톱 사이트는 끕니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="페이지에서 찾기가 켜져 있고 데스크톱 사이트가 꺼져 있는 확장된 점 세 개 메뉴 사용자 지정 설정" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">브라우저 메뉴에 페이지에서 찾기, 공유, 설정만 남습니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="데스크톱 사이트가 숨겨지고 페이지에서 찾기, 공유, 설정이 표시된 사용자 지정 브라우저 메뉴" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![페이지에서 찾기가 켜져 있고 데스크톱 사이트가 꺼져 있는 확장된 점 세 개 메뉴 사용자 지정 설정](/blog/nora-0-9-7/customize-three-dot-menu.webp "페이지에서 찾기는 켜 두고 데스크톱 사이트는 끕니다.")
+![데스크톱 사이트가 숨겨지고 페이지에서 찾기, 공유, 설정이 표시된 사용자 지정 브라우저 메뉴](/blog/nora-0-9-7/customized-three-dot-menu.webp "브라우저 메뉴에 페이지에서 찾기, 공유, 설정만 남습니다.")
 
 ## WhatsApp Web과 Facebook Marketplace를 데스크톱 모드로 열기
 

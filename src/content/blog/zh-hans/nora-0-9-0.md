@@ -13,40 +13,25 @@ product: nora
 
 在 Nora 标签页中打开支持的个人资料或社区，从菜单中选择 **关注**（Watch）。其最新帖子就会出现在 Nora 的 **动态**（Feed）中。点击帖子即可随时打开原始网页，查看回复或进行互动。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">动态</div>
-    <h2 class="screenshot-card__title">自定义时间线</h2>
-    <p class="screenshot-card__body">
-      按时间顺序阅读来自 Bluesky、Reddit、Mastodon 等关注社交账号的最新更新。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 动态时间线界面" />
-    </div>
-  </figure>
+:::screenshots
+## 自定义时间线
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">媒体</div>
-    <h2 class="screenshot-card__title">照片与视频网格</h2>
-    <p class="screenshot-card__body">
-      将任意时间线切换为仅显示照片和视频的网格视图，并在全屏画廊中滑动浏览。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 照片与视频网格界面" />
-    </div>
-  </figure>
+动态
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">源</div>
-    <h2 class="screenshot-card__title">添加与管理源</h2>
-    <p class="screenshot-card__body">
-      批量粘贴个人主页链接、导入 OPML 文件，或在专属管理界面中筛选和排序关注的源。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 动态源管理界面" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 动态时间线界面](/blog/nora-0-9-0/feed-timeline.webp "按时间顺序阅读来自 Bluesky、Reddit、Mastodon 等关注社交账号的最新更新。")
+
+## 照片与视频网格
+
+媒体
+
+![Nora 0.9.0 照片与视频网格界面](/blog/nora-0-9-0/media-grid.webp "将任意时间线切换为仅显示照片和视频的网格视图，并在全屏画廊中滑动浏览。")
+
+## 添加与管理源
+
+源
+
+![Nora 0.9.0 动态源管理界面](/blog/nora-0-9-0/manage-sources.webp "批量粘贴个人主页链接、导入 OPML 文件，或在专属管理界面中筛选和排序关注的源。")
+:::
 
 你可以关注：
 

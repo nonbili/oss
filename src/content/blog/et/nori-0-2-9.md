@@ -21,14 +21,7 @@ Järjehoidja redaktoris näitab **Salvestatud postitus** sinu salvestatud koopia
 
 Automaatne salvestamine on vaikimisi sisse lülitatud. Saad selle välja lülitada menüüs **Seaded → Üldine → Salvesta sotsiaalmeedia postitused võrguühenduseta**. Kui kasutad teenust **Nori Sync**, sünkroonitakse salvestatud postitused ja nende pildid kõigi sinu seadmete vahel.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Salvestatud Bluesky postitus jääb koos pildiga loetavaks ka siis, kui telefon on lennurežiimis.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori kuvamas salvestatud Bluesky postitust autori, teksti ja manustatud pildiga, kui lennurežiim on sisse lülitatud" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori kuvamas salvestatud Bluesky postitust autori, teksti ja manustatud pildiga, kui lennurežiim on sisse lülitatud](/blog/nori-0-2-9/saved-social-post.webp "Salvestatud Bluesky postitus jääb koos pildiga loetavaks ka siis, kui telefon on lennurežiimis.")
 
 ## Jaga enamat kui lihtsalt linki
 
@@ -38,14 +31,7 @@ Vali **hele või tume** taust ning otsusta, kas kaasata järjehoidja **Märkus**
 
 Puuduta **Jaga**, et saata kaart oma seadme jagamismenüü kaudu, või puuduta allalaadimisnuppu **Salvesta pilt**, et see oma fotokogusse salvestada.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Vaata kaardi eelvaadet, vali kaasatav sisu ning jaga või salvesta pilt.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Pildina jagamise eelvaade heleda ja tumeda teemaga, Märkuse ja Siltide juhtelementide, allalaadimisnupu ja Jagamise nupuga" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pildina jagamise eelvaade heleda ja tumeda teemaga, Märkuse ja Siltide juhtelementide, allalaadimisnupu ja Jagamise nupuga](/blog/nori-0-2-9/share-as-image.webp "Vaata kaardi eelvaadet, vali kaasatav sisu ning jaga või salvesta pilt.")
 
 ## Anna igale nimekirjale oma järjekord
 
@@ -59,14 +45,7 @@ Ava **Muuda nimekirja** või loo **Uus nimekiri** ja vali **Järjehoidjate järj
 
 Valik kehtib ainult sellele nimekirjale, nii et teised nimekirjad saavad säilitada oma järjekorra. Samas redaktoris saad nimekirja ka ümber nimetada.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Vali nimekirjale Reading queue järjehoidjate järjekord.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Nimekirja Reading queue muutmine koos kõigi viie nähtava järjehoidjate järjekorra valikuga" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nimekirja Reading queue muutmine koos kõigi viie nähtava järjehoidjate järjekorra valikuga](/blog/nori-0-2-9/list-bookmark-order.webp "Vali nimekirjale Reading queue järjehoidjate järjekord.")
 
 See väljalase parandab ka kerimist iOS-i sahtlis **Kõik järjehoidjad** ja lahendab ühe sünkroonimisprobleemi. Üksikasjad leiad [täielikest väljalaskemärkmetest](https://github.com/nonbili/Nori/releases/tag/v0.2.9).
 

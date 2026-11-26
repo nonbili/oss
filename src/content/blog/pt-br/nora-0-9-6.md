@@ -22,14 +22,7 @@ Os atalhos da tela inicial do Android passam a oferecer menus contextuais:
 
 Você pode continuar a leitura na janela independente e enviar qualquer link que queira aprofundar para uma aba do Nora.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Pressionar e segurar uma imagem em um atalho da tela inicial do Android abre as ações de imagem do Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Janela independente do Nora no Android mostrando as ações Salvar imagem, Abrir imagem em nova aba e Copiar link da imagem" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Janela independente do Nora no Android mostrando as ações Salvar imagem, Abrir imagem em nova aba e Copiar link da imagem](/blog/nora-0-9-6/shortcut-image-menu.webp "Pressionar e segurar uma imagem em um atalho da tela inicial do Android abre as ações de imagem do Nora.")
 
 ## Leitura mais fácil no feed
 

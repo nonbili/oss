@@ -5,6 +5,7 @@
     "": {
       "name": "docs.nonbili.jp",
       "dependencies": {
+        "@astrojs/markdown-satteri": "^0.4.3",
         "@astrojs/starlight": "^0.42.6",
         "astro": "^7.3.8",
         "sharp": "^0.34.2",

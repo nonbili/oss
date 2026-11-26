@@ -13,39 +13,15 @@ product: noutube
 
 Μπορείτε επίσης να προσθέσετε στη γραμμή εργαλείων τα **Εργαλεία**, την **Έκδοση για υπολογιστή**, τις **Ρυθμίσεις** ή τον εναλλάκτη **YouTube / YouTube Music**. Στην ίδια λίστα μπορείτε να αλλάξετε τη σειρά υπαρχόντων κουμπιών, όπως **Βιβλιοθήκη**, **Ροή καναλιών** και **Ιστορικό**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ενεργοποιήστε την Κοινοποίηση και το Άνοιγμα URL και σύρετέ τα στην κορυφή της λίστας.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Ρυθμίσεις Εμφάνισης στο Android με ενεργοποιημένα την Κοινοποίηση και το Άνοιγμα URL στις δύο πρώτες γραμμές και λαβές μεταφοράς στα δεξιά" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Η Κοινοποίηση και το Άνοιγμα URL είναι πλέον τα δύο πρώτα κουμπιά στη γραμμή εργαλείων της σελίδας αναπαραγωγής.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Γραμμή εργαλείων του NouTube πάνω από τη σελίδα αναπαραγωγής του Big Buck Bunny, με το εικονίδιο Κοινοποίησης και το εικονίδιο συνδέσμου Ανοίγματος URL τέρμα αριστερά" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ρυθμίσεις Εμφάνισης στο Android με ενεργοποιημένα την Κοινοποίηση και το Άνοιγμα URL στις δύο πρώτες γραμμές και λαβές μεταφοράς στα δεξιά](/blog/noutube-0-7-11/android-toolbar-settings.webp "Ενεργοποιήστε την Κοινοποίηση και το Άνοιγμα URL και σύρετέ τα στην κορυφή της λίστας.")
+![Γραμμή εργαλείων του NouTube πάνω από τη σελίδα αναπαραγωγής του Big Buck Bunny, με το εικονίδιο Κοινοποίησης και το εικονίδιο συνδέσμου Ανοίγματος URL τέρμα αριστερά](/blog/noutube-0-7-11/android-toolbar-result.webp "Η Κοινοποίηση και το Άνοιγμα URL είναι πλέον τα δύο πρώτα κουμπιά στη γραμμή εργαλείων της σελίδας αναπαραγωγής.")
 
 ## Λήψη βίντεο σε iPhone και iPad
 
 Για ένα βίντεο που έχετε άδεια να αποθηκεύσετε, ανοίξτε τα **Εργαλεία** και πατήστε **Λήψη βίντεο**. Το NouTube κατεβάζει ένα συμβατό MP4 όταν υπάρχει διαθέσιμο. Όταν ολοκληρωθεί η λήψη, πατήστε **Εξαγωγή** για να αποθηκεύσετε ή να κοινοποιήσετε το αρχείο.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Τα Εργαλεία συμπληρώνουν το URL του τρέχοντος βίντεο.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Πλαίσιο λήψης στο iPhone με συμπληρωμένο το URL του βίντεο, σημείωση για τη διαθεσιμότητα MP4 και το κουμπί Λήψη βίντεο" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Η Εξαγωγή εμφανίζεται στο Ιστορικό λήψεων όταν το αρχείο είναι έτοιμο.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Καταχώριση στο Ιστορικό λήψεων στο iPhone με πράσινο σημάδι επιλογής, κατάσταση Η λήψη ολοκληρώθηκε και κουμπί Εξαγωγή" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Πλαίσιο λήψης στο iPhone με συμπληρωμένο το URL του βίντεο, σημείωση για τη διαθεσιμότητα MP4 και το κουμπί Λήψη βίντεο](/blog/noutube-0-7-11/ios-download-tools.webp "Τα Εργαλεία συμπληρώνουν το URL του τρέχοντος βίντεο.")
+![Καταχώριση στο Ιστορικό λήψεων στο iPhone με πράσινο σημάδι επιλογής, κατάσταση Η λήψη ολοκληρώθηκε και κουμπί Εξαγωγή](/blog/noutube-0-7-11/ios-download-export.webp "Η Εξαγωγή εμφανίζεται στο Ιστορικό λήψεων όταν το αρχείο είναι έτοιμο.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ product: noutube
 
 Για να αφαιρέσετε την ενότητα σχολίων από τις σελίδες αναπαραγωγής του YouTube, ανοίξτε **Ρυθμίσεις → Προτιμήσεις → Χωρίς περισπασμούς** και ενεργοποιήστε την **Απόκρυψη σχολίων**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Η Απόκρυψη σχολίων βρίσκεται στο κάτω μέρος των ρυθμίσεων Χωρίς περισπασμούς.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Οθόνη Προτιμήσεων στο Android με ενεργοποιημένο τον διακόπτη Απόκρυψη σχολίων στο κάτω μέρος της ενότητας Χωρίς περισπασμούς" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Οθόνη Προτιμήσεων στο Android με ενεργοποιημένο τον διακόπτη Απόκρυψη σχολίων στο κάτω μέρος της ενότητας Χωρίς περισπασμούς](/blog/noutube-0-7-11/hide-comments-setting.webp "Η Απόκρυψη σχολίων βρίσκεται στο κάτω μέρος των ρυθμίσεων Χωρίς περισπασμούς.")
 
 ## Άλλες διορθώσεις
 

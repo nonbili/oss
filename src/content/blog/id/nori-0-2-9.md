@@ -21,14 +21,7 @@ Di editor marka buku, **Postingan tersimpan** menampilkan tanggal salinan tersim
 
 Penyimpanan otomatis aktif secara bawaan. Anda dapat menonaktifkannya di **Pengaturan → Umum → Simpan postingan sosial secara offline**. Jika Anda menggunakan **Nori Sync**, postingan tersimpan dan gambarnya akan disinkronkan di seluruh perangkat Anda.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Postingan Bluesky yang tersimpan tetap dapat dibaca beserta gambarnya saat ponsel dalam mode pesawat.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori menampilkan postingan Bluesky tersimpan dengan penulis, teks, dan gambar terlampir, dengan mode pesawat aktif" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori menampilkan postingan Bluesky tersimpan dengan penulis, teks, dan gambar terlampir, dengan mode pesawat aktif](/blog/nori-0-2-9/saved-social-post.webp "Postingan Bluesky yang tersimpan tetap dapat dibaca beserta gambarnya saat ponsel dalam mode pesawat.")
 
 ## Bagikan Lebih dari Sekadar Tautan
 
@@ -38,14 +31,7 @@ Pilih latar belakang **terang atau gelap** dan tentukan apakah ingin menyertakan
 
 Ketuk **Bagikan** untuk mengirim kartu melalui lembar berbagi perangkat Anda, atau ketuk tombol unduh untuk **Simpan gambar** ke galeri foto Anda.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Pratinjau kartu, pilih apa yang ingin disertakan, lalu bagikan atau simpan gambarnya.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Pratinjau Bagikan sebagai gambar dengan tema terang dan gelap, kontrol Catatan dan Tag, tombol unduh, dan tombol Bagikan" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pratinjau Bagikan sebagai gambar dengan tema terang dan gelap, kontrol Catatan dan Tag, tombol unduh, dan tombol Bagikan](/blog/nori-0-2-9/share-as-image.webp "Pratinjau kartu, pilih apa yang ingin disertakan, lalu bagikan atau simpan gambarnya.")
 
 ## Beri Setiap Daftar Urutannya Sendiri
 
@@ -59,14 +45,7 @@ Buka **Edit daftar**, atau buat **Daftar baru**, lalu pilih **Urutan marka buku*
 
 Pilihan ini berlaku untuk daftar tersebut saja, sehingga daftar Anda yang lain tetap dapat mempertahankan urutannya sendiri. Anda juga dapat mengganti nama daftar di editor yang sama.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Pilih urutan marka buku untuk daftar Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Edit daftar untuk Reading queue dengan kelima opsi urutan marka buku terlihat" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Edit daftar untuk Reading queue dengan kelima opsi urutan marka buku terlihat](/blog/nori-0-2-9/list-bookmark-order.webp "Pilih urutan marka buku untuk daftar Reading queue.")
 
 Rilis ini juga meningkatkan pengguliran di laci **Semua Marka Buku** di iOS dan memperbaiki masalah sinkronisasi. Lihat [catatan rilis lengkap](https://github.com/nonbili/Nori/releases/tag/v0.2.9) untuk detailnya.
 

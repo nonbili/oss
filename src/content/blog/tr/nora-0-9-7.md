@@ -17,14 +17,7 @@ Android'de tarayıcı indirmelerinin nereye gideceğini ayarlamak için **Ayarla
 
 Bir klasör seçerseniz Nora, Android 10 ve sonraki sürümlerde akıştan kaydettiğiniz medya dosyaları için de bu klasörü kullanır. Bu sürüm ayrıca bazı sitelerin tarayıcıda oluşturduğu dosyalar için kullandığı `data:` bağlantılarından yapılan indirmeleri de düzeltir.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Sonraki indirmeler için hedef olarak Nora Downloads seçili.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Nora Downloads seçili ve İndirmeler, Her seferinde sor ve Klasör seç seçeneklerinin göründüğü Android indirme ayarları" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora Downloads seçili ve İndirmeler, Her seferinde sor ve Klasör seç seçeneklerinin göründüğü Android indirme ayarları](/blog/nora-0-9-7/download-destination.webp "Sonraki indirmeler için hedef olarak Nora Downloads seçili.")
 
 ## Üç Nokta Menüsünü Özelleştirin
 
@@ -32,20 +25,8 @@ Bir klasör seçerseniz Nora, Android 10 ve sonraki sürümlerde akıştan kayde
 
 **Ayarlar** menüde kalır ve **Menü varsayılanlarını geri yükle** tek dokunuşla değişikliklerinizi temizler.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Sayfada bul seçeneğini açık bırakın ve Masaüstü sitesi seçeneğini kapatın.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Sayfada bul açık ve Masaüstü sitesi kapalı olarak genişletilmiş Üç nokta menüsünü özelleştir ayarları" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Tarayıcı menüsü Sayfada bul, Paylaş ve Ayarlar seçeneklerini korur.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Masaüstü sitesi gizlenmiş şekilde Sayfada bul, Paylaş ve Ayarlar seçeneklerini gösteren özelleştirilmiş tarayıcı menüsü" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Sayfada bul açık ve Masaüstü sitesi kapalı olarak genişletilmiş Üç nokta menüsünü özelleştir ayarları](/blog/nora-0-9-7/customize-three-dot-menu.webp "Sayfada bul seçeneğini açık bırakın ve Masaüstü sitesi seçeneğini kapatın.")
+![Masaüstü sitesi gizlenmiş şekilde Sayfada bul, Paylaş ve Ayarlar seçeneklerini gösteren özelleştirilmiş tarayıcı menüsü](/blog/nora-0-9-7/customized-three-dot-menu.webp "Tarayıcı menüsü Sayfada bul, Paylaş ve Ayarlar seçeneklerini korur.")
 
 ## WhatsApp Web ve Facebook Marketplace Masaüstü Modunda Açılıyor
 

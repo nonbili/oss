@@ -23,14 +23,7 @@ Trong **Settings → Services → X**, giờ đây bạn có thể chọn ẩn:
 
 Các tùy chọn điều khiển này là tự chọn. Cùng mục cài đặt đó cũng cung cấp **Default search to Latest**, giúp các tìm kiếm mở ở bài viết gần đây thay vì kết quả Top. Bạn vẫn có thể chuyển thẻ tìm kiếm trên X khi muốn xem góc nhìn khác.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Các tùy chọn điều khiển X trong Nora trên Android: chọn thành phần giao diện cần ẩn và có mở tìm kiếm ở Latest hay không.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Cài đặt X của Nora trên điện thoại Pixel, hiển thị các tùy chọn Grok, gợi ý, số lượt tương tác và tìm kiếm Latest" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Cài đặt X của Nora trên điện thoại Pixel, hiển thị các tùy chọn Grok, gợi ý, số lượt tương tác và tìm kiếm Latest](/blog/nora-0-9-5/x-settings.webp "Các tùy chọn điều khiển X trong Nora trên Android: chọn thành phần giao diện cần ẩn và có mở tìm kiếm ở Latest hay không.")
 
 ## Giữ các bài viết Facebook thông thường hiển thị
 

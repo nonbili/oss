@@ -17,14 +17,7 @@ Na Androidzie otwórz **Ustawienia → Preferencje → Pobrane → Zapisuj pobra
 
 Jeśli wybierzesz folder, Nora użyje go również dla multimediów zapisywanych z kanału w systemie Android 10 i nowszych. To wydanie naprawia także pobieranie z linków `data:`, których niektóre witryny używają do plików generowanych w przeglądarce.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Folder Nora Downloads jest wybrany jako miejsce docelowe dla przyszłych pobrań.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Ustawienia pobierania na Androidzie z wybranym folderem Nora Downloads oraz widocznymi opcjami Pobrane, Pytaj za każdym razem i Wybierz folder" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ustawienia pobierania na Androidzie z wybranym folderem Nora Downloads oraz widocznymi opcjami Pobrane, Pytaj za każdym razem i Wybierz folder](/blog/nora-0-9-7/download-destination.webp "Folder Nora Downloads jest wybrany jako miejsce docelowe dla przyszłych pobrań.")
 
 ## Dostosuj menu z trzema kropkami
 
@@ -32,20 +25,8 @@ Otwórz **Ustawienia → Wygląd → Pasek narzędzi → Dostosuj menu z trzema 
 
 **Ustawienia** pozostają w menu, a **Przywróć domyślne menu** cofa Twoje zmiany jednym dotknięciem.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Zostaw włączone Znajdź na stronie i wyłącz Wersję na komputer.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Rozwinięte ustawienia Dostosuj menu z trzema kropkami z włączonym Znajdź na stronie i wyłączoną Wersją na komputer" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Menu przeglądarki zachowuje Znajdź na stronie, Udostępnij i Ustawienia.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Dostosowane menu przeglądarki pokazujące Znajdź na stronie, Udostępnij i Ustawienia, z ukrytą Wersją na komputer" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Rozwinięte ustawienia Dostosuj menu z trzema kropkami z włączonym Znajdź na stronie i wyłączoną Wersją na komputer](/blog/nora-0-9-7/customize-three-dot-menu.webp "Zostaw włączone Znajdź na stronie i wyłącz Wersję na komputer.")
+![Dostosowane menu przeglądarki pokazujące Znajdź na stronie, Udostępnij i Ustawienia, z ukrytą Wersją na komputer](/blog/nora-0-9-7/customized-three-dot-menu.webp "Menu przeglądarki zachowuje Znajdź na stronie, Udostępnij i Ustawienia.")
 
 ## WhatsApp Web i Facebook Marketplace otwierają się w trybie komputerowym
 

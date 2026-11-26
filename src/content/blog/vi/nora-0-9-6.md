@@ -22,14 +22,7 @@ Lối tắt màn hình chính Android giờ đây cung cấp menu ngữ cảnh:
 
 Bạn có thể tiếp tục đọc trong cửa sổ độc lập và gửi liên kết sang Nora khi muốn khám phá trong một thẻ.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nhấn giữ một hình ảnh trong lối tắt màn hình chính Android để mở các thao tác hình ảnh của Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Lối tắt Android độc lập của Nora hiển thị các thao tác Save image, Open image in new tab và Copy image link" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Lối tắt Android độc lập của Nora hiển thị các thao tác Save image, Open image in new tab và Copy image link](/blog/nora-0-9-6/shortcut-image-menu.webp "Nhấn giữ một hình ảnh trong lối tắt màn hình chính Android để mở các thao tác hình ảnh của Nora.")
 
 ## Đọc dễ dàng hơn trong bảng tin
 

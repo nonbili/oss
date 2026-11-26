@@ -18,40 +18,25 @@ Việc theo dõi các hồ sơ **Instagram** và **X** công khai mà không đ�
 
 Cả hai tùy chọn đều tắt theo mặc định và có thể bật bất cứ lúc nào trong **Feed Settings**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed Settings</div>
-    <h2 class="screenshot-card__title">Nguồn imginn & Nitter</h2>
-    <p class="screenshot-card__body">
-      Đọc hồ sơ Instagram từ imginn và hồ sơ X từ các phiên bản Nitter đã cấu hình — làm nguồn dự phòng hoặc nguồn chính.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Cài đặt bảng tin Nora 0.9.2 hiển thị các tùy chọn imginn và Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Nguồn imginn & Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Thư viện toàn màn hình & Phóng to</h2>
-    <p class="screenshot-card__body">
-      Chụm để phóng to ảnh và video trong thư viện toàn màn hình, giữ cạnh màn hình để tăng tốc độ phát hoặc lưu phương tiện trực tiếp.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Màn hình thư viện phương tiện toàn màn hình Nora 0.9.2" />
-    </div>
-  </figure>
+Feed Settings
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profiles</div>
-    <h2 class="screenshot-card__title">Mở lại thẻ trong hồ sơ</h2>
-    <p class="screenshot-card__body">
-      Chuyển bất kỳ thẻ di động đang mở nào sang một hồ sơ Nora khác trực tiếp từ menu tiêu đề hoặc trình chuyển thẻ.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Hộp thoại mở lại thẻ trong hồ sơ Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Cài đặt bảng tin Nora 0.9.2 hiển thị các tùy chọn imginn và Nitter](/blog/nora-0-9-2/feed-settings.webp "Đọc hồ sơ Instagram từ imginn và hồ sơ X từ các phiên bản Nitter đã cấu hình — làm nguồn dự phòng hoặc nguồn chính.")
+
+## Thư viện toàn màn hình & Phóng to
+
+Media
+
+![Màn hình thư viện phương tiện toàn màn hình Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Chụm để phóng to ảnh và video trong thư viện toàn màn hình, giữ cạnh màn hình để tăng tốc độ phát hoặc lưu phương tiện trực tiếp.")
+
+## Mở lại thẻ trong hồ sơ
+
+Profiles
+
+![Hộp thoại mở lại thẻ trong hồ sơ Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Chuyển bất kỳ thẻ di động đang mở nào sang một hồ sơ Nora khác trực tiếp từ menu tiêu đề hoặc trình chuyển thẻ.")
+:::
 
 ## Điều khiển video bảng tin, phóng to và thông báo
 

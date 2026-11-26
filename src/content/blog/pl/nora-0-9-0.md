@@ -13,40 +13,25 @@ Przeglądaj wszystko razem, dziel zainteresowania na różne osie czasu lub prze
 
 Otwórz obsługiwany profil lub społeczność na karcie Nora i wybierz **Obserwuj** z menu. Najnowsze wpisy pojawią się w sekcji **Kanały** w Norze. Dotknij wpisu, aby otworzyć oryginalną stronę i przeczytać odpowiedzi lub wejść w interakcję.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Kanały</div>
-    <h2 class="screenshot-card__title">Własne osie czasu</h2>
-    <p class="screenshot-card__body">
-      Czytaj chronologiczne aktualizacje z obserwowanych kont na Bluesky, Reddicie, Mastodonie i innych platformach.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Ekran osi czasu kanału Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Własne osie czasu
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Multimedia</div>
-    <h2 class="screenshot-card__title">Siatka zdjęć i filmów</h2>
-    <p class="screenshot-card__body">
-      Przełącz dowolną oś czasu, aby wyświetlać tylko zdjęcia i filmy w siatce wizualnej, a następnie przeglądaj je w pełnoekranowej galerii.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Ekran siatki zdjęć i filmów Nora 0.9.0" />
-    </div>
-  </figure>
+Kanały
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Źródła</div>
-    <h2 class="screenshot-card__title">Dodawanie i zarządzanie źródłami</h2>
-    <p class="screenshot-card__body">
-      Wklejaj linki do profili hurtowo, importuj pliki OPML oraz filtruj i sortuj obserwowane źródła na dedykowanym ekranie.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Ekran zarządzania źródłami kanałów Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Ekran osi czasu kanału Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Czytaj chronologiczne aktualizacje z obserwowanych kont na Bluesky, Reddicie, Mastodonie i innych platformach.")
+
+## Siatka zdjęć i filmów
+
+Multimedia
+
+![Ekran siatki zdjęć i filmów Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Przełącz dowolną oś czasu, aby wyświetlać tylko zdjęcia i filmy w siatce wizualnej, a następnie przeglądaj je w pełnoekranowej galerii.")
+
+## Dodawanie i zarządzanie źródłami
+
+Źródła
+
+![Ekran zarządzania źródłami kanałów Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Wklejaj linki do profili hurtowo, importuj pliki OPML oraz filtruj i sortuj obserwowane źródła na dedykowanym ekranie.")
+:::
 
 Możesz śledzić:
 

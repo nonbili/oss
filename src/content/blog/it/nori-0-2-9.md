@@ -21,14 +21,7 @@ Nell'editor dei segnalibri, **Post salvato** mostra la data della copia salvata.
 
 Il salvataggio automatico è attivo per impostazione predefinita. Puoi disattivarlo in **Impostazioni → Generali → Salva post social offline**. Se usi **Nori Sync**, i post salvati e le relative immagini si sincronizzano su tutti i tuoi dispositivi.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Un post di Bluesky salvato rimane leggibile con la sua immagine mentre il telefono è in modalità aereo.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori che mostra un post di Bluesky salvato con autore, testo e immagine allegata, con la modalità aereo attiva" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori che mostra un post di Bluesky salvato con autore, testo e immagine allegata, con la modalità aereo attiva](/blog/nori-0-2-9/saved-social-post.webp "Un post di Bluesky salvato rimane leggibile con la sua immagine mentre il telefono è in modalità aereo.")
 
 ## Condividi molto più di un link
 
@@ -38,14 +31,7 @@ Scegli uno sfondo **chiaro o scuro** e decidi se includere **Nota** e **Tag** de
 
 Tocca **Condividi** per inviare la scheda tramite il menu di condivisione del tuo dispositivo, oppure tocca il pulsante di download per **Salva immagine** nella tua libreria foto.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Visualizza l'anteprima della scheda, scegli cosa includere, poi condividi o salva l'immagine.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Anteprima di Condividi come immagine con temi chiaro e scuro, controlli Nota e Tag, pulsante di download e pulsante Condividi" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Anteprima di Condividi come immagine con temi chiaro e scuro, controlli Nota e Tag, pulsante di download e pulsante Condividi](/blog/nori-0-2-9/share-as-image.webp "Visualizza l'anteprima della scheda, scegli cosa includere, poi condividi o salva l'immagine.")
 
 ## Dai a ogni lista il proprio ordine
 
@@ -59,14 +45,7 @@ Apri **Modifica lista**, oppure crea una **Nuova lista**, e scegli **Ordine segn
 
 La scelta appartiene a quella lista, così le altre liste possono mantenere il proprio ordine. Puoi anche rinominare la lista nello stesso editor.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Scegli un ordine dei segnalibri per la lista Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Modifica lista per Reading queue con tutte e cinque le opzioni di Ordine segnalibri visibili" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Modifica lista per Reading queue con tutte e cinque le opzioni di Ordine segnalibri visibili](/blog/nori-0-2-9/list-bookmark-order.webp "Scegli un ordine dei segnalibri per la lista Reading queue.")
 
 Questa versione migliora anche lo scorrimento nel cassetto **Tutti i segnalibri** su iOS e risolve un problema di sincronizzazione. Consulta le [note di rilascio complete](https://github.com/nonbili/Nori/releases/tag/v0.2.9) per i dettagli.
 

@@ -18,40 +18,25 @@ Nora의 피드 리더가 처음이라면 [0.9.0 소개 글](/ko/blog/nora-0-9-0/
 
 두 옵션 모두 기본값은 꺼져 있으며 **Feed Settings**에서 언제든지 활성화할 수 있습니다.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">피드 설정</div>
-    <h2 class="screenshot-card__title">imginn 및 Nitter 소스</h2>
-    <p class="screenshot-card__body">
-      Instagram 프로필은 imginn에서, X 프로필은 설정한 Nitter 인스턴스에서 대체 소스 또는 기본 소스로 읽어옵니다.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="imginn 및 Nitter 옵션이 표시된 Nora 0.9.2 피드 설정" />
-    </div>
-  </figure>
+:::screenshots
+## imginn 및 Nitter 소스
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">미디어</div>
-    <h2 class="screenshot-card__title">전체 화면 갤러리 및 확대/축소</h2>
-    <p class="screenshot-card__body">
-      전체 화면 갤러리에서 핀치로 사진과 동영상을 확대하고, 화면 가장자리를 길게 눌러 빠르게 재생하거나, 미디어를 바로 저장하세요.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 전체 화면 미디어 갤러리 화면" />
-    </div>
-  </figure>
+피드 설정
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">프로필</div>
-    <h2 class="screenshot-card__title">프로필에서 탭 다시 열기</h2>
-    <p class="screenshot-card__body">
-      헤더 메뉴나 탭 전환기에서 열려 있는 모바일 탭을 다른 Nora 프로필로 바로 전환하세요.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 프로필에서 탭 다시 열기 대화상자" />
-    </div>
-  </figure>
-</div>
+![imginn 및 Nitter 옵션이 표시된 Nora 0.9.2 피드 설정](/blog/nora-0-9-2/feed-settings.webp "Instagram 프로필은 imginn에서, X 프로필은 설정한 Nitter 인스턴스에서 대체 소스 또는 기본 소스로 읽어옵니다.")
+
+## 전체 화면 갤러리 및 확대/축소
+
+미디어
+
+![Nora 0.9.2 전체 화면 미디어 갤러리 화면](/blog/nora-0-9-2/media-gallery.webp "전체 화면 갤러리에서 핀치로 사진과 동영상을 확대하고, 화면 가장자리를 길게 눌러 빠르게 재생하거나, 미디어를 바로 저장하세요.")
+
+## 프로필에서 탭 다시 열기
+
+프로필
+
+![Nora 0.9.2 프로필에서 탭 다시 열기 대화상자](/blog/nora-0-9-2/reopen-in-profile.webp "헤더 메뉴나 탭 전환기에서 열려 있는 모바일 탭을 다른 Nora 프로필로 바로 전환하세요.")
+:::
 
 ## 피드 동영상 제어, 확대/축소 및 알림
 

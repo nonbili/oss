@@ -23,14 +23,7 @@ Kimlik bilgileri cihazda kalır ve yedekleme ile senkronizasyondan hariç tutulu
 
 Bu kontroller isteğe bağlıdır. Aynı ayarlar bölümü ayrıca **Aramaları varsayılan olarak En Son'da aç** seçeneğini sunar, böylece aramalar Popüler sonuçlar yerine en son gönderilerle açılır. Farklı bir görünüm istediğinizde X'te arama sekmelerini değiştirmeye devam edebilirsiniz.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Android'de Nora'nın X kontrolleri: hangi arayüz öğelerinin gizleneceğini ve aramaların En Son'da açılıp açılmayacağını seçin.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Pixel telefonda Nora'nın X ayarları; isteğe bağlı Grok, öneriler, etkileşim sayıları ve En Son arama kontrollerini gösteriyor" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pixel telefonda Nora\'nın X ayarları; isteğe bağlı Grok, öneriler, etkileşim sayıları ve En Son arama kontrollerini gösteriyor](/blog/nora-0-9-5/x-settings.webp "Android'de Nora'nın X kontrolleri: hangi arayüz öğelerinin gizleneceğini ve aramaların En Son'da açılıp açılmayacağını seçin.")
 
 ## Sıradan Facebook Gönderilerini Görünür Tutun
 

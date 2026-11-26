@@ -21,14 +21,7 @@ Yer imi düzenleyicisinde **Kaydedilen gönderi**, kayıtlı kopyanızın tarihi
 
 Otomatik kaydetme varsayılan olarak açıktır. Bunu **Ayarlar → Genel → Sosyal gönderileri çevrimdışı kaydet** bölümünden kapatabilirsiniz. **Nori Sync** kullanıyorsanız kaydedilen gönderiler ve görselleri cihazlarınız arasında senkronize edilir.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kaydedilmiş bir Bluesky gönderisi, telefon uçak modundayken bile görseliyle birlikte okunabilir kalır.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Uçak modu etkinken yazar, metin ve ekli görselle birlikte kaydedilmiş bir Bluesky gönderisini görüntüleyen Nori" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Uçak modu etkinken yazar, metin ve ekli görselle birlikte kaydedilmiş bir Bluesky gönderisini görüntüleyen Nori](/blog/nori-0-2-9/saved-social-post.webp "Kaydedilmiş bir Bluesky gönderisi, telefon uçak modundayken bile görseliyle birlikte okunabilir kalır.")
 
 ## Bir Bağlantıdan Daha Fazlasını Paylaşın
 
@@ -38,14 +31,7 @@ Otomatik kaydetme varsayılan olarak açıktır. Bunu **Ayarlar → Genel → So
 
 Kartı cihazınızın paylaşım sayfası üzerinden göndermek için **Paylaş**'a dokunun veya fotoğraf kitaplığınıza **Görseli kaydet**mek için indirme düğmesine dokunun.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kartı önizleyin, nelerin ekleneceğini seçin, ardından görseli paylaşın veya kaydedin.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Açık ve koyu temalar, Not ve Etiketler kontrolleri, indirme düğmesi ve Paylaş düğmesi ile Görsel olarak paylaş önizlemesi" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Açık ve koyu temalar, Not ve Etiketler kontrolleri, indirme düğmesi ve Paylaş düğmesi ile Görsel olarak paylaş önizlemesi](/blog/nori-0-2-9/share-as-image.webp "Kartı önizleyin, nelerin ekleneceğini seçin, ardından görseli paylaşın veya kaydedin.")
 
 ## Her Listeye Kendi Sıralamasını Verin
 
@@ -59,14 +45,7 @@ Okuma kuyruğunu incelemek istediğiniz sırada tutun, başka bir listede yeni b
 
 Seçim yalnızca o listeye aittir, bu nedenle diğer listeleriniz kendi sıralamalarını koruyabilir. Aynı düzenleyicide listeyi yeniden adlandırabilirsiniz.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Reading queue listesi için bir yer imi sırası seçin.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Beş yer imi sırası seçeneğinin tümü görünür durumda Reading queue için Liste düzenleme ekranı" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Beş yer imi sırası seçeneğinin tümü görünür durumda Reading queue için Liste düzenleme ekranı](/blog/nori-0-2-9/list-bookmark-order.webp "Reading queue listesi için bir yer imi sırası seçin.")
 
 Bu sürüm ayrıca iOS'taki **Tüm Yer İmleri** çekmecesinde kaydırmayı iyileştirir ve bir senkronizasyon sorununu giderir. Ayrıntılar için [tam sürüm notlarına](https://github.com/nonbili/Nori/releases/tag/v0.2.9) göz atın.
 

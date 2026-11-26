@@ -13,40 +13,25 @@ product: nora
 
 Откройте поддерживаемый профиль или сообщество во вкладке Nora и выберите **Отслеживать** в меню. Свежие публикации появятся в **Ленте** Nora. Нажмите на публикацию, чтобы открыть исходную страницу, прочитать ответы или оставить реакцию.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Лента</div>
-    <h2 class="screenshot-card__title">Пользовательские ленты</h2>
-    <p class="screenshot-card__body">
-      Читайте хронологические обновления отслеживаемых социальных аккаунтов в Bluesky, Reddit, Mastodon и других сервисах.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Экран хронологической ленты Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Пользовательские ленты
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Медиа</div>
-    <h2 class="screenshot-card__title">Сетка фото и видео</h2>
-    <p class="screenshot-card__body">
-      Переключите любую ленту в режим отображения только фото и видео в виде наглядной сетки и листайте их в полноэкранной галерее.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Экран сетки фото и видео Nora 0.9.0" />
-    </div>
-  </figure>
+Лента
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Источники</div>
-    <h2 class="screenshot-card__title">Добавление и управление источниками</h2>
-    <p class="screenshot-card__body">
-      Вставляйте ссылки на профили списком, импортируйте файлы OPML, фильтруйте и сортируйте отслеживаемые источники на специальном экране.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Экран управления источниками ленты Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Экран хронологической ленты Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Читайте хронологические обновления отслеживаемых социальных аккаунтов в Bluesky, Reddit, Mastodon и других сервисах.")
+
+## Сетка фото и видео
+
+Медиа
+
+![Экран сетки фото и видео Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Переключите любую ленту в режим отображения только фото и видео в виде наглядной сетки и листайте их в полноэкранной галерее.")
+
+## Добавление и управление источниками
+
+Источники
+
+![Экран управления источниками ленты Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Вставляйте ссылки на профили списком, импортируйте файлы OPML, фильтруйте и сортируйте отслеживаемые источники на специальном экране.")
+:::
 
 Вы можете отслеживать:
 

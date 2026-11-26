@@ -13,40 +13,25 @@ Bläddra bland allt tillsammans, dela upp dina intressen i olika tidslinjer elle
 
 Öppna en profil eller gemenskap som stöds i en Nora-flik och välj **Bevaka** i menyn. Dess senaste inlägg visas då i Noras **Flöde**. Tryck på ett inlägg för att öppna originalsidan när du vill läsa svar eller interagera.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Flöde</div>
-    <h2 class="screenshot-card__title">Anpassade tidslinjer</h2>
-    <p class="screenshot-card__body">
-      Läs kronologiska uppdateringar från bevakade konton på Bluesky, Reddit, Mastodon med flera.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Skärmdump av tidslinje i Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Anpassade tidslinjer
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Foto- och videorutnät</h2>
-    <p class="screenshot-card__body">
-      Växla en tidslinje till att endast visa foton och videor i ett visuellt rutnät och svep genom dem i helskärmsgalleriet.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Skärmdump av foto- och videorutnät i Nora 0.9.0" />
-    </div>
-  </figure>
+Flöde
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Källor</div>
-    <h2 class="screenshot-card__title">Lägg till och hantera källor</h2>
-    <p class="screenshot-card__body">
-      Klistra in profillänkar i bulk, importera OPML-filer, eller filtrera och sortera dina bevakade källor från en dedikerad skärm.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Skärmdump av källhantering i Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Skärmdump av tidslinje i Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Läs kronologiska uppdateringar från bevakade konton på Bluesky, Reddit, Mastodon med flera.")
+
+## Foto- och videorutnät
+
+Media
+
+![Skärmdump av foto- och videorutnät i Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Växla en tidslinje till att endast visa foton och videor i ett visuellt rutnät och svep genom dem i helskärmsgalleriet.")
+
+## Lägg till och hantera källor
+
+Källor
+
+![Skärmdump av källhantering i Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Klistra in profillänkar i bulk, importera OPML-filer, eller filtrera och sortera dina bevakade källor från en dedikerad skärm.")
+:::
 
 Du kan följa:
 

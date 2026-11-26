@@ -21,14 +21,7 @@ Im Lesezeichen-Editor zeigt **Gespeicherter Beitrag** das Datum Ihrer gespeicher
 
 Das automatische Speichern ist standardmäßig aktiviert. Sie können es unter **Einstellungen → Allgemein → Social-Media-Beiträge offline speichern** deaktivieren. Wenn Sie **Nori Sync** verwenden, werden gespeicherte Beiträge und ihre Bilder geräteübergreifend synchronisiert.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ein gespeicherter Bluesky-Beitrag bleibt samt Bild lesbar, während sich das Smartphone im Flugmodus befindet.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori zeigt einen gespeicherten Bluesky-Beitrag mit Autor, Text und angehängtem Bild bei aktiviertem Flugmodus" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori zeigt einen gespeicherten Bluesky-Beitrag mit Autor, Text und angehängtem Bild bei aktiviertem Flugmodus](/blog/nori-0-2-9/saved-social-post.webp "Ein gespeicherter Bluesky-Beitrag bleibt samt Bild lesbar, während sich das Smartphone im Flugmodus befindet.")
 
 ## Mehr als nur einen Link teilen
 
@@ -38,14 +31,7 @@ Wählen Sie einen **hellen oder dunklen** Hintergrund und entscheiden Sie, ob **
 
 Tippen Sie auf **Teilen**, um die Karte über das Teilen-Menü Ihres Geräts zu versenden, oder tippen Sie auf die Download-Schaltfläche für **Bild speichern**, um sie in Ihrer Fotomediathek abzulegen.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Sehen Sie sich die Karte in der Vorschau an, wählen Sie aus, was enthalten sein soll, und teilen oder speichern Sie das Bild.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Vorschau von Als Bild teilen mit hellem und dunklem Design, Steuerelementen für Notiz und Tags sowie Download- und Teilen-Schaltfläche" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Vorschau von Als Bild teilen mit hellem und dunklem Design, Steuerelementen für Notiz und Tags sowie Download- und Teilen-Schaltfläche](/blog/nori-0-2-9/share-as-image.webp "Sehen Sie sich die Karte in der Vorschau an, wählen Sie aus, was enthalten sein soll, und teilen oder speichern Sie das Bild.")
 
 ## Jeder Liste ihre eigene Reihenfolge geben
 
@@ -59,14 +45,7 @@ Behalten Sie eine Leseliste in der gewünschten Bearbeitungsreihenfolge, stellen
 
 Die Auswahl gilt jeweils für diese Liste, sodass Ihre anderen Listen ihre eigene Reihenfolge behalten können. Im selben Editor können Sie die Liste auch umbenennen.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Wählen Sie eine Lesezeichen-Reihenfolge für die Liste Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Liste bearbeiten für Reading queue mit allen fünf sichtbaren Optionen für die Lesezeichen-Reihenfolge" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Liste bearbeiten für Reading queue mit allen fünf sichtbaren Optionen für die Lesezeichen-Reihenfolge](/blog/nori-0-2-9/list-bookmark-order.webp "Wählen Sie eine Lesezeichen-Reihenfolge für die Liste Reading queue.")
 
 Diese Version verbessert außerdem das Scrollen in der Seitenleiste **Alle Lesezeichen** unter iOS und behebt ein Synchronisationsproblem. Einzelheiten finden Sie in den [vollständigen Versionshinweisen](https://github.com/nonbili/Nori/releases/tag/v0.2.9).
 

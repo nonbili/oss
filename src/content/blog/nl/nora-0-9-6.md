@@ -22,14 +22,7 @@ Snelkoppelingen op het Android-startscherm bieden nu contextmenu's:
 
 Je kunt blijven lezen in het zelfstandige venster en een link naar Nora sturen wanneer je deze in een tabblad wilt verkennen.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Een afbeelding lang ingedrukt houden in een snelkoppeling op het Android-startscherm opent de afbeeldingsacties van Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="De zelfstandige Android-snelkoppeling van Nora met de acties Save image, Open image in new tab en Copy image link" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![De zelfstandige Android-snelkoppeling van Nora met de acties Save image, Open image in new tab en Copy image link](/blog/nora-0-9-6/shortcut-image-menu.webp "Een afbeelding lang ingedrukt houden in een snelkoppeling op het Android-startscherm opent de afbeeldingsacties van Nora.")
 
 ## Makkelijker lezen in de feed
 

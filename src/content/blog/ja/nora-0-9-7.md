@@ -17,14 +17,7 @@ Android で **設定 → プリファレンス → ダウンロード → ダウ
 
 フォルダを選択した場合、Android 10 以降ではフィードから保存したメディアにも同じフォルダが使われます。また、このリリースでは一部のサイトがブラウザ上で生成したファイルに使用する `data:` リンクからのダウンロードも修正しています。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">今後のダウンロード先として Nora Downloads が選択されています。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Nora Downloads が選択され、ダウンロード、毎回確認する、フォルダを選択のオプションが表示されている Android のダウンロード設定" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora Downloads が選択され、ダウンロード、毎回確認する、フォルダを選択のオプションが表示されている Android のダウンロード設定](/blog/nora-0-9-7/download-destination.webp "今後のダウンロード先として Nora Downloads が選択されています。")
 
 ## 3点メニューをカスタマイズする
 
@@ -32,20 +25,8 @@ Android で **設定 → プリファレンス → ダウンロード → ダウ
 
 **設定** はメニューに残り、**メニューを初期状態に戻す** をタップすると変更を一括でリセットできます。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">ページ内検索をオンにしたまま、PC版サイトをオフにします。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="ページ内検索がオン、PC版サイトがオフになっている「3点メニューをカスタマイズ」の展開設定画面" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">ブラウザメニューにページ内検索、共有、設定だけが残ります。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="PC版サイトが非表示になり、ページ内検索、共有、設定が表示されているカスタマイズ後のブラウザメニュー" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![ページ内検索がオン、PC版サイトがオフになっている「3点メニューをカスタマイズ」の展開設定画面](/blog/nora-0-9-7/customize-three-dot-menu.webp "ページ内検索をオンにしたまま、PC版サイトをオフにします。")
+![PC版サイトが非表示になり、ページ内検索、共有、設定が表示されているカスタマイズ後のブラウザメニュー](/blog/nora-0-9-7/customized-three-dot-menu.webp "ブラウザメニューにページ内検索、共有、設定だけが残ります。")
 
 ## WhatsApp Web と Facebook Marketplace がデスクトップモードで開く
 

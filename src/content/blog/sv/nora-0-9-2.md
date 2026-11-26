@@ -18,40 +18,25 @@ Att följa offentliga **Instagram**- och **X**-profiler utan att logga in kan st
 
 Båda alternativen är avstängda som standard och kan aktiveras när som helst i **Flödesinställningar**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Flödesinställningar</div>
-    <h2 class="screenshot-card__title">imginn- och Nitter-källor</h2>
-    <p class="screenshot-card__body">
-      Läs Instagram-profiler från imginn och X-profiler från dina konfigurerade Nitter-instanser — som reserv eller primär källa.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Flödesinställningar i Nora 0.9.2 som visar alternativen för imginn och Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## imginn- och Nitter-källor
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Helskärmsgalleri och zoom</h2>
-    <p class="screenshot-card__body">
-      Nyp för att zooma in på foton och videor i helskärmsgalleriet, håll in skärmkanten för att snabba upp uppspelningen eller spara media direkt.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Skärmdump av helskärmsgalleriet för media i Nora 0.9.2" />
-    </div>
-  </figure>
+Flödesinställningar
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profiler</div>
-    <h2 class="screenshot-card__title">Öppna flik igen i profil</h2>
-    <p class="screenshot-card__body">
-      Byt valfri öppen mobilflik till en annan Nora-profil direkt från sidhuvudmenyn eller flikväljaren.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Dialogrutan för att öppna flik i profil i Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Flödesinställningar i Nora 0.9.2 som visar alternativen för imginn och Nitter](/blog/nora-0-9-2/feed-settings.webp "Läs Instagram-profiler från imginn och X-profiler från dina konfigurerade Nitter-instanser — som reserv eller primär källa.")
+
+## Helskärmsgalleri och zoom
+
+Media
+
+![Skärmdump av helskärmsgalleriet för media i Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Nyp för att zooma in på foton och videor i helskärmsgalleriet, håll in skärmkanten för att snabba upp uppspelningen eller spara media direkt.")
+
+## Öppna flik igen i profil
+
+Profiler
+
+![Dialogrutan för att öppna flik i profil i Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Byt valfri öppen mobilflik till en annan Nora-profil direkt från sidhuvudmenyn eller flikväljaren.")
+:::
 
 ## Videokontroller i flödet, zoom och aviseringar
 

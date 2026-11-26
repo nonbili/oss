@@ -13,39 +13,15 @@ Abra **Definições → Aparência → Botões da barra de ferramentas**. Use os
 
 Também pode adicionar **Ferramentas**, **Site para computador**, **Definições** ou o seletor **YouTube / YouTube Music** à barra de ferramentas. A mesma lista permite reordenar botões existentes como **Biblioteca**, **Feed de canais** e **Histórico**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ative Partilhar e Abrir URL e arraste-os para o topo da lista.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Definições de Aparência no Android com Partilhar e Abrir URL ativados nas duas primeiras linhas e pegas de arrastar à direita" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Partilhar e Abrir URL são agora os dois primeiros botões da barra de ferramentas da página de reprodução.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Barra de ferramentas do NouTube acima da página de reprodução de Big Buck Bunny, com o ícone Partilhar e o ícone de ligação Abrir URL na extremidade esquerda" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Definições de Aparência no Android com Partilhar e Abrir URL ativados nas duas primeiras linhas e pegas de arrastar à direita](/blog/noutube-0-7-11/android-toolbar-settings.webp "Ative Partilhar e Abrir URL e arraste-os para o topo da lista.")
+![Barra de ferramentas do NouTube acima da página de reprodução de Big Buck Bunny, com o ícone Partilhar e o ícone de ligação Abrir URL na extremidade esquerda](/blog/noutube-0-7-11/android-toolbar-result.webp "Partilhar e Abrir URL são agora os dois primeiros botões da barra de ferramentas da página de reprodução.")
 
 ## Descarregue vídeos no iPhone e no iPad
 
 Num vídeo que tenha permissão para guardar, abra **Ferramentas** e toque em **Descarregar vídeo**. O NouTube descarrega um MP4 compatível quando existe um disponível. Quando a transferência terminar, toque em **Exportar** para guardar ou partilhar o ficheiro.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ferramentas preenche o URL do vídeo atual.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Painel de transferência no iPhone com o URL do vídeo preenchido, uma nota sobre a disponibilidade de MP4 e o botão Descarregar vídeo" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Exportar aparece no Histórico de descargas quando o ficheiro está pronto.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Entrada do Histórico de descargas no iPhone com um visto verde, o estado Descarga concluída e um botão Exportar" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Painel de transferência no iPhone com o URL do vídeo preenchido, uma nota sobre a disponibilidade de MP4 e o botão Descarregar vídeo](/blog/noutube-0-7-11/ios-download-tools.webp "Ferramentas preenche o URL do vídeo atual.")
+![Entrada do Histórico de descargas no iPhone com um visto verde, o estado Descarga concluída e um botão Exportar](/blog/noutube-0-7-11/ios-download-export.webp "Exportar aparece no Histórico de descargas quando o ficheiro está pronto.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Em dispositivos móveis, deslize para cima no leitor do YouTube para entrar em e
 
 Para remover a secção de comentários das páginas de reprodução do YouTube, abra **Definições → Preferências → Sem distrações** e ative **Ocultar comentários**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ocultar comentários está no fim das definições Sem distrações.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Ecrã de Preferências no Android com o interruptor Ocultar comentários ativado no fim da secção Sem distrações" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ecrã de Preferências no Android com o interruptor Ocultar comentários ativado no fim da secção Sem distrações](/blog/noutube-0-7-11/hide-comments-setting.webp "Ocultar comentários está no fim das definições Sem distrações.")
 
 ## Outras correções
 

@@ -18,40 +18,25 @@ Het volgen van openbare **Instagram**- en **X**-profielen zonder in te loggen ka
 
 Beide opties staan standaard uit en kunnen op elk moment worden ingeschakeld in **Feed Settings**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feedinstellingen</div>
-    <h2 class="screenshot-card__title">imginn- & Nitter-bronnen</h2>
-    <p class="screenshot-card__body">
-      Lees Instagram-profielen via imginn en X-profielen via je geconfigureerde Nitter-instanties — als terugvaloptie of primaire bron.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Nora 0.9.2 feedinstellingen met opties voor imginn en Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## imginn- & Nitter-bronnen
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Schermvullende galerij & zoom</h2>
-    <p class="screenshot-card__body">
-      Knijp om in te zoomen op foto's en video's in de schermvullende galerij, houd de schermrand vast om het afspelen te versnellen of sla media direct op.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 schermvullende mediagalerij" />
-    </div>
-  </figure>
+Feedinstellingen
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profielen</div>
-    <h2 class="screenshot-card__title">Tabblad opnieuw openen in profiel</h2>
-    <p class="screenshot-card__body">
-      Zet elk geopend mobiel tabblad direct over naar een ander Nora-profiel vanuit het headermenu of de tabbladwisselaar.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 dialoogvenster om tabblad opnieuw te openen in profiel" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.2 feedinstellingen met opties voor imginn en Nitter](/blog/nora-0-9-2/feed-settings.webp "Lees Instagram-profielen via imginn en X-profielen via je geconfigureerde Nitter-instanties — als terugvaloptie of primaire bron.")
+
+## Schermvullende galerij & zoom
+
+Media
+
+![Nora 0.9.2 schermvullende mediagalerij](/blog/nora-0-9-2/media-gallery.webp "Knijp om in te zoomen op foto's en video's in de schermvullende galerij, houd de schermrand vast om het afspelen te versnellen of sla media direct op.")
+
+## Tabblad opnieuw openen in profiel
+
+Profielen
+
+![Nora 0.9.2 dialoogvenster om tabblad opnieuw te openen in profiel](/blog/nora-0-9-2/reopen-in-profile.webp "Zet elk geopend mobiel tabblad direct over naar een ander Nora-profiel vanuit het headermenu of de tabbladwisselaar.")
+:::
 
 ## Videobediening, zoom en meldingen in de feed
 

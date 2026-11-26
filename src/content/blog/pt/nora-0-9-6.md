@@ -22,14 +22,7 @@ Os atalhos do ecrã inicial do Android oferecem agora menus de contexto:
 
 Pode continuar a ler na janela autónoma e enviar uma ligação para o Nora quando quiser explorá-la num separador.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Premir longamente uma imagem num atalho do ecrã inicial do Android abre as ações de imagem do Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Atalho autónomo do Nora para Android a mostrar as ações Guardar imagem, Abrir imagem num novo separador e Copiar ligação da imagem" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Atalho autónomo do Nora para Android a mostrar as ações Guardar imagem, Abrir imagem num novo separador e Copiar ligação da imagem](/blog/nora-0-9-6/shortcut-image-menu.webp "Premir longamente uma imagem num atalho do ecrã inicial do Android abre as ações de imagem do Nora.")
 
 ## Leitura mais fácil no feed
 

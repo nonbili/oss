@@ -13,39 +13,15 @@ Otwórz **Ustawienia → Wygląd → Przyciski paska narzędzi**. Przełącznika
 
 Do paska narzędzi możesz też dodać **Narzędzia**, **Wersję na komputer**, **Ustawienia** albo przełącznik **YouTube / YouTube Music**. Na tej samej liście możesz zmienić kolejność istniejących przycisków, takich jak **Biblioteka**, **Karty kanałów** i **Historia**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Włącz Udostępnij i Otwórz URL i przeciągnij je na początek listy.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Ustawienia wyglądu na Androidzie z włączonymi opcjami Udostępnij i Otwórz URL w pierwszych dwóch wierszach oraz uchwytami przeciągania po prawej" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Udostępnij i Otwórz URL są teraz pierwszymi dwoma przyciskami na pasku narzędzi strony odtwarzania.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Pasek narzędzi NouTube nad stroną odtwarzania Big Buck Bunny, z ikoną Udostępnij i ikoną linku Otwórz URL po lewej stronie" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ustawienia wyglądu na Androidzie z włączonymi opcjami Udostępnij i Otwórz URL w pierwszych dwóch wierszach oraz uchwytami przeciągania po prawej](/blog/noutube-0-7-11/android-toolbar-settings.webp "Włącz Udostępnij i Otwórz URL i przeciągnij je na początek listy.")
+![Pasek narzędzi NouTube nad stroną odtwarzania Big Buck Bunny, z ikoną Udostępnij i ikoną linku Otwórz URL po lewej stronie](/blog/noutube-0-7-11/android-toolbar-result.webp "Udostępnij i Otwórz URL są teraz pierwszymi dwoma przyciskami na pasku narzędzi strony odtwarzania.")
 
 ## Pobieranie filmów na iPhonie i iPadzie
 
 W przypadku filmu, który masz prawo zapisać, otwórz **Narzędzia** i stuknij **Pobierz wideo**. NouTube pobiera zgodny plik MP4, jeśli jest dostępny. Po zakończeniu pobierania stuknij **Eksportuj**, aby zapisać lub udostępnić plik.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Narzędzia automatycznie wpisują URL bieżącego filmu.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Panel pobierania na iPhonie z wpisanym URL filmu, informacją o dostępności MP4 i przyciskiem Pobierz wideo" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Gdy plik jest gotowy, w Historii pobierania pojawia się przycisk Eksportuj.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Wpis w Historii pobierania na iPhonie z zielonym znacznikiem, stanem Pobieranie zakończone i przyciskiem Eksportuj" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Panel pobierania na iPhonie z wpisanym URL filmu, informacją o dostępności MP4 i przyciskiem Pobierz wideo](/blog/noutube-0-7-11/ios-download-tools.webp "Narzędzia automatycznie wpisują URL bieżącego filmu.")
+![Wpis w Historii pobierania na iPhonie z zielonym znacznikiem, stanem Pobieranie zakończone i przyciskiem Eksportuj](/blog/noutube-0-7-11/ios-download-export.webp "Gdy plik jest gotowy, w Historii pobierania pojawia się przycisk Eksportuj.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Na urządzeniach mobilnych przesuń palcem w górę po odtwarzaczu YouTube, aby 
 
 Aby usunąć sekcję komentarzy ze stron odtwarzania YouTube, otwórz **Ustawienia → Preferencje → Tryb skupienia** i włącz **Ukryj komentarze**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ukryj komentarze znajduje się na dole ustawień Trybu skupienia.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Ekran Preferencji na Androidzie z włączonym przełącznikiem Ukryj komentarze na dole sekcji Tryb skupienia" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ekran Preferencji na Androidzie z włączonym przełącznikiem Ukryj komentarze na dole sekcji Tryb skupienia](/blog/noutube-0-7-11/hide-comments-setting.webp "Ukryj komentarze znajduje się na dole ustawień Trybu skupienia.")
 
 ## Inne poprawki
 

@@ -13,20 +13,8 @@ Open **Settings → Services** and turn on **Pinterest**. The shortcut appears o
 
 With ad blocking enabled, Nora filters out promoted pins as you browse.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Turn on Pinterest in Services.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-8/pinterest-service.webp" alt="Nora’s Services screen on Android with the Pinterest switch turned on between LinkedIn and Reddit" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Pinterest appears in the shortcut grid on a new tab.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-8/pinterest-new-tab.webp" alt="Nora’s new tab page with a Pinterest shortcut beside Reddit and the address field above the grid" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora’s Services screen on Android with the Pinterest switch turned on between LinkedIn and Reddit](/blog/nora-0-9-8/pinterest-service.webp "Turn on Pinterest in Services.")
+![Nora’s new tab page with a Pinterest shortcut beside Reddit and the address field above the grid](/blog/nora-0-9-8/pinterest-new-tab.webp "Pinterest appears in the shortcut grid on a new tab.")
 
 ## Choose Whether to See Reels in Feed
 
@@ -34,14 +22,7 @@ From Nora’s **Feed**, open **Global feed settings** and turn off **Include Ins
 
 Reels are included by default. Feed backups carry your preference when you export and restore them.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Switch off Include Instagram Reels in Global feed settings.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-8/instagram-reels-setting.webp" alt="Nora’s Global feed settings with Include Instagram Reels switched off below Use my logins" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora’s Global feed settings with Include Instagram Reels switched off below Use my logins](/blog/nora-0-9-8/instagram-reels-setting.webp "Switch off Include Instagram Reels in Global feed settings.")
 
 ## Scroll X and Instagram DMs With Fewer Interruptions
 

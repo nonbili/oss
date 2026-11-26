@@ -21,14 +21,7 @@ Trong trình chỉnh sửa dấu trang, mục **Bài đăng đã lưu** hiển t
 
 Tính năng tự động lưu được bật theo mặc định. Bạn có thể tắt trong **Cài đặt → Chung → Lưu bài đăng mạng xã hội ngoại tuyến**. Nếu bạn dùng **Nori Sync**, các bài đăng đã lưu và hình ảnh của chúng sẽ đồng bộ trên các thiết bị của bạn.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Một bài đăng Bluesky đã lưu vẫn đọc được cùng hình ảnh khi điện thoại đang bật chế độ máy bay.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori hiển thị bài đăng Bluesky đã lưu gồm tác giả, văn bản và hình ảnh đính kèm khi đang bật chế độ máy bay" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori hiển thị bài đăng Bluesky đã lưu gồm tác giả, văn bản và hình ảnh đính kèm khi đang bật chế độ máy bay](/blog/nori-0-2-9/saved-social-post.webp "Một bài đăng Bluesky đã lưu vẫn đọc được cùng hình ảnh khi điện thoại đang bật chế độ máy bay.")
 
 ## Chia sẻ nhiều hơn một liên kết
 
@@ -38,14 +31,7 @@ Chọn nền **sáng hoặc tối** và quyết định xem có bao gồm **Ghi 
 
 Chạm **Chia sẻ** để gửi thẻ qua bảng chia sẻ trên thiết bị của bạn, hoặc chạm nút tải xuống để **Lưu hình ảnh** vào thư viện ảnh.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Xem trước thẻ, chọn nội dung muốn hiển thị rồi chia sẻ hoặc lưu hình ảnh.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Xem trước Chia sẻ dạng hình ảnh với giao diện sáng và tối, nút bật tắt Ghi chú và Thẻ, nút tải xuống và nút Chia sẻ" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Xem trước Chia sẻ dạng hình ảnh với giao diện sáng và tối, nút bật tắt Ghi chú và Thẻ, nút tải xuống và nút Chia sẻ](/blog/nori-0-2-9/share-as-image.webp "Xem trước thẻ, chọn nội dung muốn hiển thị rồi chia sẻ hoặc lưu hình ảnh.")
 
 ## Tạo thứ tự riêng cho từng danh sách
 
@@ -59,14 +45,7 @@ Mở **Chỉnh sửa danh sách**, hoặc tạo **Danh sách mới**, rồi ch�
 
 Lựa chọn này chỉ áp dụng cho danh sách đó, nên các danh sách khác của bạn vẫn giữ được thứ tự riêng. Bạn cũng có thể đổi tên danh sách ngay trong trình chỉnh sửa này.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Chọn thứ tự dấu trang cho danh sách Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Chỉnh sửa danh sách cho Reading queue với cả năm tùy chọn Thứ tự dấu trang đang hiển thị" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Chỉnh sửa danh sách cho Reading queue với cả năm tùy chọn Thứ tự dấu trang đang hiển thị](/blog/nori-0-2-9/list-bookmark-order.webp "Chọn thứ tự dấu trang cho danh sách Reading queue.")
 
 Bản phát hành này cũng cải thiện thao tác cuộn trong ngăn kéo **Tất cả dấu trang** trên iOS và khắc phục một sự cố đồng bộ hóa. Xem [ghi chú phát hành đầy đủ](https://github.com/nonbili/Nori/releases/tag/v0.2.9) để biết thêm chi tiết.
 

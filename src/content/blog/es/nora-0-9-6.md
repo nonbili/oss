@@ -22,14 +22,7 @@ Los accesos directos de la pantalla de inicio de Android ahora disponen de menú
 
 Puedes seguir leyendo en la ventana independiente y enviar los enlaces que quieras revisar en detalle a pestañas de Nora.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Al mantener pulsada una imagen en un acceso directo de la pantalla de inicio de Android se abren las acciones de imagen de Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Acceso directo independiente de Nora en Android mostrando las acciones Guardar imagen, Abrir imagen en pestaña nueva y Copiar enlace de imagen" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Acceso directo independiente de Nora en Android mostrando las acciones Guardar imagen, Abrir imagen en pestaña nueva y Copiar enlace de imagen](/blog/nora-0-9-6/shortcut-image-menu.webp "Al mantener pulsada una imagen en un acceso directo de la pantalla de inicio de Android se abren las acciones de imagen de Nora.")
 
 ## Lectura más cómoda en el feed
 

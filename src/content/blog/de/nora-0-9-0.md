@@ -13,40 +13,25 @@ Sehen Sie alles gemeinsam an, trennen Sie Ihre Interessen in verschiedene Timeli
 
 Öffnen Sie ein unterstütztes Profil oder eine Community in einem Nora-Tab und wählen Sie **Beobachten** aus dem Menü. Die neuesten Beiträge erscheinen daraufhin in Noras **Feed**. Tippen Sie auf einen Beitrag, um jederzeit die Originalseite zu öffnen, Antworten zu lesen oder zu interagieren.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Benutzerdefinierte Timelines</h2>
-    <p class="screenshot-card__body">
-      Lesen Sie chronologische Updates von beobachteten Konten auf Bluesky, Reddit, Mastodon und mehr.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 Feed-Timeline-Bildschirm" />
-    </div>
-  </figure>
+:::screenshots
+## Benutzerdefinierte Timelines
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Medien</div>
-    <h2 class="screenshot-card__title">Foto- & Videoraster</h2>
-    <p class="screenshot-card__body">
-      Schalten Sie jede Timeline um, sodass nur Fotos und Videos in einem visuellen Raster angezeigt werden, und wischen Sie in der Vollbild-Galerie durch die Medien.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 Foto- und Videoraster-Bildschirm" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Quellen</div>
-    <h2 class="screenshot-card__title">Quellen hinzufügen & verwalten</h2>
-    <p class="screenshot-card__body">
-      Fügen Sie Profillinks im Stapel ein, importieren Sie OPML-Dateien oder filtern und sortieren Sie Ihre beobachteten Quellen in einer speziellen Übersicht.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 Feed-Quellen-Verwaltungsbildschirm" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 Feed-Timeline-Bildschirm](/blog/nora-0-9-0/feed-timeline.webp "Lesen Sie chronologische Updates von beobachteten Konten auf Bluesky, Reddit, Mastodon und mehr.")
+
+## Foto- & Videoraster
+
+Medien
+
+![Nora 0.9.0 Foto- und Videoraster-Bildschirm](/blog/nora-0-9-0/media-grid.webp "Schalten Sie jede Timeline um, sodass nur Fotos und Videos in einem visuellen Raster angezeigt werden, und wischen Sie in der Vollbild-Galerie durch die Medien.")
+
+## Quellen hinzufügen & verwalten
+
+Quellen
+
+![Nora 0.9.0 Feed-Quellen-Verwaltungsbildschirm](/blog/nora-0-9-0/manage-sources.webp "Fügen Sie Profillinks im Stapel ein, importieren Sie OPML-Dateien oder filtern und sortieren Sie Ihre beobachteten Quellen in einer speziellen Übersicht.")
+:::
 
 Sie können folgenden Inhalten folgen:
 

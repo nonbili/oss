@@ -18,40 +18,25 @@ Herkese açık **Instagram** ve **X** profillerini oturum açmadan takip etmek, 
 
 Her iki seçenek de varsayılan olarak kapalıdır ve istediği zaman **Akış Ayarları** içinden etkinleştirilebilir.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Akış Ayarları</div>
-    <h2 class="screenshot-card__title">imginn ve Nitter Kaynakları</h2>
-    <p class="screenshot-card__body">
-      Instagram profillerini imginn'den ve X profillerini yapılandırdığınız Nitter sunucularından yedek veya birincil kaynak olarak okuyun.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="imginn ve Nitter seçeneklerini gösteren Nora 0.9.2 akış ayarları" />
-    </div>
-  </figure>
+:::screenshots
+## imginn ve Nitter Kaynakları
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Medya</div>
-    <h2 class="screenshot-card__title">Tam Ekran Galeri ve Yakınlaştırma</h2>
-    <p class="screenshot-card__body">
-      Tam ekran galeride fotoğraf ve videoları iki parmakla yakınlaştırın, oynatmayı hızlandırmak için ekran kenarına basılı tutun veya medyayı doğrudan kaydedin.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 tam ekran medya galerisi ekranı" />
-    </div>
-  </figure>
+Akış Ayarları
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profiller</div>
-    <h2 class="screenshot-card__title">Sekmeyi Profilde Yeniden Aç</h2>
-    <p class="screenshot-card__body">
-      Açık herhangi bir mobil sekmeyi doğrudan üst menüden veya sekme değiştiriciden başka bir Nora profiline geçirin.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 sekmeyi profilde yeniden açma iletişim kutusu" />
-    </div>
-  </figure>
-</div>
+![imginn ve Nitter seçeneklerini gösteren Nora 0.9.2 akış ayarları](/blog/nora-0-9-2/feed-settings.webp "Instagram profillerini imginn'den ve X profillerini yapılandırdığınız Nitter sunucularından yedek veya birincil kaynak olarak okuyun.")
+
+## Tam Ekran Galeri ve Yakınlaştırma
+
+Medya
+
+![Nora 0.9.2 tam ekran medya galerisi ekranı](/blog/nora-0-9-2/media-gallery.webp "Tam ekran galeride fotoğraf ve videoları iki parmakla yakınlaştırın, oynatmayı hızlandırmak için ekran kenarına basılı tutun veya medyayı doğrudan kaydedin.")
+
+## Sekmeyi Profilde Yeniden Aç
+
+Profiller
+
+![Nora 0.9.2 sekmeyi profilde yeniden açma iletişim kutusu](/blog/nora-0-9-2/reopen-in-profile.webp "Açık herhangi bir mobil sekmeyi doğrudan üst menüden veya sekme değiştiriciden başka bir Nora profiline geçirin.")
+:::
 
 ## Akış Video Kontrolleri, Yakınlaştırma ve Bildirimler
 

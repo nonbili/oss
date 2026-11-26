@@ -23,14 +23,7 @@ product: nora
 
 这些控制项均为可选。同一设置区域还提供了 **默认以“最新”搜索**，让搜索结果优先展示最新帖子而非热门内容。如果你需要不同的视图，仍可在 X 上随时切换搜索标签页。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Android 版 Nora 的 X 控制选项：自由选择隐藏的界面元素以及搜索时是否默认打开“最新”。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Pixel 手机上的 Nora X 设置界面，展示可选的 Grok、推荐、互动计数和最新搜索选项" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pixel 手机上的 Nora X 设置界面，展示可选的 Grok、推荐、互动计数和最新搜索选项](/blog/nora-0-9-5/x-settings.webp "Android 版 Nora 的 X 控制选项：自由选择隐藏的界面元素以及搜索时是否默认打开“最新”。")
 
 ## 保持 Facebook 普通帖子正常显示
 

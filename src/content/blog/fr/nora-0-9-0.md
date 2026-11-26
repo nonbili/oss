@@ -13,40 +13,25 @@ Consultez tout au même endroit, séparez vos centres d'intérêt dans différen
 
 Ouvrez un profil ou une communauté prise en charge dans un onglet Nora et sélectionnez **Suivre** dans le menu. Ses dernières publications apparaîtront dans le **Flux** de Nora. Touchez une publication pour ouvrir la page d'origine dès que vous souhaitez lire les réponses ou interagir.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Flux</div>
-    <h2 class="screenshot-card__title">Fils chronologiques personnalisés</h2>
-    <p class="screenshot-card__body">
-      Lisez les mises à jour chronologiques des comptes sociaux suivis sur Bluesky, Reddit, Mastodon et plus encore.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Écran du fil chronologique de Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Fils chronologiques personnalisés
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Médias</div>
-    <h2 class="screenshot-card__title">Grille de photos et vidéos</h2>
-    <p class="screenshot-card__body">
-      Basculez n'importe quel fil pour afficher uniquement les photos et vidéos dans une grille visuelle, puis faites-les défiler dans la galerie plein écran.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Écran de la grille de photos et vidéos de Nora 0.9.0" />
-    </div>
-  </figure>
+Flux
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Sources</div>
-    <h2 class="screenshot-card__title">Ajouter et gérer des sources</h2>
-    <p class="screenshot-card__body">
-      Collez des liens de profils en masse, importez des fichiers OPML, ou filtrez et triez vos sources suivies depuis un écran dédié.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Écran de gestion des sources de flux de Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Écran du fil chronologique de Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Lisez les mises à jour chronologiques des comptes sociaux suivis sur Bluesky, Reddit, Mastodon et plus encore.")
+
+## Grille de photos et vidéos
+
+Médias
+
+![Écran de la grille de photos et vidéos de Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Basculez n'importe quel fil pour afficher uniquement les photos et vidéos dans une grille visuelle, puis faites-les défiler dans la galerie plein écran.")
+
+## Ajouter et gérer des sources
+
+Sources
+
+![Écran de gestion des sources de flux de Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Collez des liens de profils en masse, importez des fichiers OPML, ou filtrez et triez vos sources suivies depuis un écran dédié.")
+:::
 
 Vous pouvez suivre :
 

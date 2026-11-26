@@ -23,14 +23,7 @@ product: nora
 
 這些設定皆為選用。同一設定頁面亦提供 **預設以「最新」搜尋**，讓搜尋結果以近期貼文開啟，而非熱門推文。如果您需要不同的檢視方式，仍可隨時在 X 上切換搜尋分頁。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Android 版 Nora 的 X 控制選項：選擇要隱藏的介面元素，以及搜尋時是否預設開啟「最新」。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Pixel 手機上的 Nora X 設定畫面，展示可選的 Grok、推薦內容、互動次數與最新搜尋設定" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pixel 手機上的 Nora X 設定畫面，展示可選的 Grok、推薦內容、互動次數與最新搜尋設定](/blog/nora-0-9-5/x-settings.webp "Android 版 Nora 的 X 控制選項：選擇要隱藏的介面元素，以及搜尋時是否預設開啟「最新」。")
 
 ## 維持 Facebook 一般貼文正常顯示
 

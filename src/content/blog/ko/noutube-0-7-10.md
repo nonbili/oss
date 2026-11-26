@@ -19,14 +19,7 @@ product: noutube
 
 다운로드 대화상자에서 **Folder** 아래의 **Browse**를 탭한 다음 Android 폴더 선택기에서 폴더를 고르세요. 기본 위치로 돌아가려면 **Use Downloads folder**를 탭하면 됩니다.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">전용 폴더에 동영상을 저장하거나 Downloads 폴더로 다시 전환하세요.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="선택된 폴더로 Download/NouTube가 표시되고 Browse 및 Use Downloads folder 버튼이 있는 NouTube의 Android 다운로드 대화상자" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![선택된 폴더로 Download/NouTube가 표시되고 Browse 및 Use Downloads folder 버튼이 있는 NouTube의 Android 다운로드 대화상자](/blog/noutube-0-7-10/download-folder.webp "전용 폴더에 동영상을 저장하거나 Downloads 폴더로 다시 전환하세요.")
 
 ## 피드 리더의 커뮤니티 게시물
 
@@ -34,20 +27,8 @@ product: noutube
 
 사용해 보려면 **Settings → Appearance**를 열고 **Channels feed** 바로 아래에 있는 **Community posts in feed**를 켜세요. 기본값은 **꺼짐**입니다. 게시물을 포함하면 저장된 각 채널의 Posts 탭을 확인해야 하므로 피드를 새로고침할 때 데이터를 더 많이 사용합니다.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Appearance 설정에서 커뮤니티 게시물을 활성화하세요.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Channels feed와 Community posts in feed가 활성화된 Android용 NouTube Appearance 설정" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">저장한 채널의 동영상과 함께 커뮤니티 게시물이 표시됩니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="동영상 업로드와 함께 텍스트 및 이미지가 포함된 Veritasium 커뮤니티 게시물이 표시된 NouTube 피드" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Channels feed와 Community posts in feed가 활성화된 Android용 NouTube Appearance 설정](/blog/noutube-0-7-10/community-posts-setting.webp "Appearance 설정에서 커뮤니티 게시물을 활성화하세요.")
+![동영상 업로드와 함께 텍스트 및 이미지가 포함된 Veritasium 커뮤니티 게시물이 표시된 NouTube 피드](/blog/noutube-0-7-10/community-post-in-feed.webp "저장한 채널의 동영상과 함께 커뮤니티 게시물이 표시됩니다.")
 
 ## 소소한 수정 사항
 

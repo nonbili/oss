@@ -22,14 +22,7 @@ Pintasan layar utama Android kini menyediakan menu konteks:
 
 Anda dapat melanjutkan membaca di jendela mandiri dan meneruskan tautan yang ingin dieksplorasi lebih jauh ke tab Nora.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Menekan lama gambar di pintasan layar utama Android akan membuka menu tindakan gambar Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Pintasan mandiri Nora di Android menampilkan tindakan Simpan gambar, Buka gambar di tab baru, dan Salin tautan gambar" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pintasan mandiri Nora di Android menampilkan tindakan Simpan gambar, Buka gambar di tab baru, dan Salin tautan gambar](/blog/nora-0-9-6/shortcut-image-menu.webp "Menekan lama gambar di pintasan layar utama Android akan membuka menu tindakan gambar Nora.")
 
 ## Membaca Lebih Nyaman di Feed
 

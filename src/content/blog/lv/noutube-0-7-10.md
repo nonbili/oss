@@ -19,14 +19,7 @@ Vai vēlaties saglabāt lejupielādētos video atsevišķā mapē? **Android** i
 
 Lejupielādes dialoglodziņā pieskarieties **Pārlūkot** sadaļā **Mape**, pēc tam izvēlieties mapi Android mapju atlasītājā. Lai atgrieztos noklusējuma atrašanās vietā, pieskarieties **Izmantot mapi Lejupielādes**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Saglabājiet video atsevišķā mapē vai pārslēdzieties atpakaļ uz Lejupielādes.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="NouTube Android lejupielādes dialoglodziņš, kas rāda Download/NouTube kā atlasīto mapi, Pārlūkot un Izmantot mapi Lejupielādes" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![NouTube Android lejupielādes dialoglodziņš, kas rāda Download/NouTube kā atlasīto mapi, Pārlūkot un Izmantot mapi Lejupielādes](/blog/noutube-0-7-10/download-folder.webp "Saglabājiet video atsevišķā mapē vai pārslēdzieties atpakaļ uz Lejupielādes.")
 
 ## Kopienas ieraksti plūsmu lasītājā
 
@@ -34,20 +27,8 @@ Jūsu saglabātie kanāli starp video augšupielādēm var dalīties ar jaunumie
 
 Lai to izmēģinātu, atveriet **Iestatījumi → Izskats** un ieslēdziet **Kopienas ieraksti plūsmā** tieši zem **Kanālu plūsma**. Pēc noklusējuma tā ir **izslēgta**: ierakstu iekļaušana nozīmē katra saglabātā kanāla cilnes Ieraksti pārbaudi, kas patērē vairāk datu, atsvaidzinot plūsmu.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Iespējojiet kopienas ierakstus sadaļā Izskata iestatījumi.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="NouTube Izskata iestatījumi Android ierīcē ar iespējotu Kanālu plūsmu un Kopienas ierakstiem plūsmā" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kopienas ieraksti parādās līdzās video no jūsu saglabātajiem kanāliem.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="NouTube plūsma, kas rāda Veritasium kopienas ierakstus ar tekstu un attēlu līdzās video augšupielādēm" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![NouTube Izskata iestatījumi Android ierīcē ar iespējotu Kanālu plūsmu un Kopienas ierakstiem plūsmā](/blog/noutube-0-7-10/community-posts-setting.webp "Iespējojiet kopienas ierakstus sadaļā Izskata iestatījumi.")
+![NouTube plūsma, kas rāda Veritasium kopienas ierakstus ar tekstu un attēlu līdzās video augšupielādēm](/blog/noutube-0-7-10/community-post-in-feed.webp "Kopienas ieraksti parādās līdzās video no jūsu saglabātajiem kanāliem.")
 
 ## Nelieli labojumi
 

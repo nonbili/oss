@@ -18,40 +18,25 @@ Instagram 或 X 动态停止更新了？**Nora 0.9.2** 新增了可选的备用�
 
 这两项功能默认关闭，可随时在 **动态设置** 中启用。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">动态设置</div>
-    <h2 class="screenshot-card__title">imginn 与 Nitter 源</h2>
-    <p class="screenshot-card__body">
-      从 imginn 读取 Instagram 主页，从配置的 Nitter 实例读取 X 主页——可作为备用源或首选源。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="显示 imginn 和 Nitter 选项的 Nora 0.9.2 动态设置界面" />
-    </div>
-  </figure>
+:::screenshots
+## imginn 与 Nitter 源
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">媒体</div>
-    <h2 class="screenshot-card__title">全屏画廊与缩放</h2>
-    <p class="screenshot-card__body">
-      在全屏画廊中双指缩放照片和视频，长按屏幕边缘加速播放，或直接保存媒体文件。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 全屏媒体画廊界面" />
-    </div>
-  </figure>
+动态设置
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">身份资料</div>
-    <h2 class="screenshot-card__title">在其他资料中重新打开标签页</h2>
-    <p class="screenshot-card__body">
-      直接从顶部菜单或标签页切换器，将任意打开的移动端标签页切换到另一个 Nora 身份资料。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 在其他身份资料中重新打开标签页对话框" />
-    </div>
-  </figure>
-</div>
+![显示 imginn 和 Nitter 选项的 Nora 0.9.2 动态设置界面](/blog/nora-0-9-2/feed-settings.webp "从 imginn 读取 Instagram 主页，从配置的 Nitter 实例读取 X 主页——可作为备用源或首选源。")
+
+## 全屏画廊与缩放
+
+媒体
+
+![Nora 0.9.2 全屏媒体画廊界面](/blog/nora-0-9-2/media-gallery.webp "在全屏画廊中双指缩放照片和视频，长按屏幕边缘加速播放，或直接保存媒体文件。")
+
+## 在其他资料中重新打开标签页
+
+身份资料
+
+![Nora 0.9.2 在其他身份资料中重新打开标签页对话框](/blog/nora-0-9-2/reopen-in-profile.webp "直接从顶部菜单或标签页切换器，将任意打开的移动端标签页切换到另一个 Nora 身份资料。")
+:::
 
 ## 动态视频控制、缩放与通知
 

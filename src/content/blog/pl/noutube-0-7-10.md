@@ -19,14 +19,7 @@ Chcesz trzymać pobrane filmy w dedykowanym folderze? Na **Androidzie** możesz 
 
 W oknie pobierania stuknij **Przeglądaj** pod pozycją **Folder**, a następnie wybierz folder w systemowym selektorze folderów Androida. Aby wrócić do domyślnej lokalizacji, stuknij **Użyj folderu Pobrane**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Zapisuj filmy w dedykowanym folderze lub wróć do folderu Pobrane.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Okno pobierania NouTube na Androidzie z wybranym folderem Download/NouTube oraz opcjami Przeglądaj i Użyj folderu Pobrane" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Okno pobierania NouTube na Androidzie z wybranym folderem Download/NouTube oraz opcjami Przeglądaj i Użyj folderu Pobrane](/blog/noutube-0-7-10/download-folder.webp "Zapisuj filmy w dedykowanym folderze lub wróć do folderu Pobrane.")
 
 ## Posty społeczności w czytniku kanałów
 
@@ -34,20 +27,8 @@ Zapisane kanały mogą publikować aktualizacje pomiędzy filmami. **Kanał subs
 
 Aby wypróbować, otwórz **Ustawienia → Wygląd** i włącz **Posty społeczności w kanale**, tuż pod opcją **Kanał subskrypcji**. Opcja jest **domyślnie wyłączona**: uwzględnianie postów wymaga sprawdzania karty Posty każdego zapisanego kanału, co zwiększa zużycie danych podczas odświeżania.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Włącz posty społeczności w ustawieniach Wyglądu.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Ustawienia Wyglądu NouTube na Androidzie z włączonymi opcjami Kanał subskrypcji i Posty społeczności w kanale" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Posty społeczności pojawiają się obok filmów z zapisanych kanałów.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Kanał NouTube wyświetlający posty społeczności Veritasium z tekstem i obrazkiem obok przesłanych filmów" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ustawienia Wyglądu NouTube na Androidzie z włączonymi opcjami Kanał subskrypcji i Posty społeczności w kanale](/blog/noutube-0-7-10/community-posts-setting.webp "Włącz posty społeczności w ustawieniach Wyglądu.")
+![Kanał NouTube wyświetlający posty społeczności Veritasium z tekstem i obrazkiem obok przesłanych filmów](/blog/noutube-0-7-10/community-post-in-feed.webp "Posty społeczności pojawiają się obok filmów z zapisanych kanałów.")
 
 ## Drobniejsze poprawki
 

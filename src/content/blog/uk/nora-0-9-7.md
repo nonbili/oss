@@ -17,14 +17,7 @@ product: nora
 
 Якщо ви оберете папку, Nora також використовуватиме її для медіафайлів, збережених зі стрічки на Android 10 і новіших версіях. У цьому випуску також виправлено завантаження за посиланнями `data:`, які деякі сайти використовують для файлів, згенерованих у браузері.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads вибрано як місце призначення для майбутніх завантажень.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Налаштування завантажень Android із вибраною папкою Nora Downloads та видимими параметрами Завантаження, Запитувати щоразу й Вибрати папку" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Налаштування завантажень Android із вибраною папкою Nora Downloads та видимими параметрами Завантаження, Запитувати щоразу й Вибрати папку](/blog/nora-0-9-7/download-destination.webp "Nora Downloads вибрано як місце призначення для майбутніх завантажень.")
 
 ## Налаштуйте меню з трьома крапками
 
@@ -32,20 +25,8 @@ product: nora
 
 **Налаштування** залишається в меню, а **Відновити типові параметри меню** скидає ваші зміни одним дотиком.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Залиште «Знайти на сторінці» увімкненим і вимкніть «Версію для ПК».</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Розгорнуті налаштування меню з трьома крапками, де «Знайти на сторінці» увімкнено, а «Версію для ПК» вимкнено" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">У меню браузера залишаються «Знайти на сторінці», «Поділитися» та «Налаштування».</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Налаштоване меню браузера з пунктами «Знайти на сторінці», «Поділитися» та «Налаштування» і прихованою «Версією для ПК»" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Розгорнуті налаштування меню з трьома крапками, де «Знайти на сторінці» увімкнено, а «Версію для ПК» вимкнено](/blog/nora-0-9-7/customize-three-dot-menu.webp "Залиште «Знайти на сторінці» увімкненим і вимкніть «Версію для ПК».")
+![Налаштоване меню браузера з пунктами «Знайти на сторінці», «Поділитися» та «Налаштування» і прихованою «Версією для ПК»](/blog/nora-0-9-7/customized-three-dot-menu.webp "У меню браузера залишаються «Знайти на сторінці», «Поділитися» та «Налаштування».")
 
 ## WhatsApp Web і Facebook Marketplace відкриваються в режимі для ПК
 

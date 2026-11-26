@@ -12,6 +12,10 @@
 	margin: 2rem 0 0;
 }
 
+.screenshot-gallery--single {
+	max-width: 24rem;
+}
+
 .screenshot-card {
 	position: relative;
 	margin: 0;
@@ -98,8 +102,11 @@
 	width: 100%;
 	height: auto;
 	border-radius: 1rem;
-	cursor: zoom-in;
 	transition: transform 0.18s ease;
+}
+
+img[data-lightbox-bound='true'] {
+	cursor: zoom-in;
 }
 
 .screenshot-frame img:hover {

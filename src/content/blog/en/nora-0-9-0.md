@@ -13,40 +13,25 @@ Browse everything together, separate your interests into different timelines, or
 
 Open a supported profile or community in a Nora tab and select **Watch** from the menu. Its latest posts will appear in Nora's **Feed**. Tap a post to open the original page whenever you want to read replies or interact.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Custom Timelines</h2>
-    <p class="screenshot-card__body">
-      Read chronological updates from watched social accounts across Bluesky, Reddit, Mastodon, and more.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 feed timeline screen" />
-    </div>
-  </figure>
+:::screenshots
+## Custom Timelines
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Photo & Video Grid</h2>
-    <p class="screenshot-card__body">
-      Switch any timeline to show only photos and videos in a visual grid, then swipe through them in the full-screen gallery.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 photo and video grid screen" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Sources</div>
-    <h2 class="screenshot-card__title">Add & Manage Sources</h2>
-    <p class="screenshot-card__body">
-      Paste profile links in bulk, import OPML files, or filter and sort your watched sources from a dedicated screen.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 manage feed sources screen" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 feed timeline screen](/blog/nora-0-9-0/feed-timeline.webp "Read chronological updates from watched social accounts across Bluesky, Reddit, Mastodon, and more.")
+
+## Photo & Video Grid
+
+Media
+
+![Nora 0.9.0 photo and video grid screen](/blog/nora-0-9-0/media-grid.webp "Switch any timeline to show only photos and videos in a visual grid, then swipe through them in the full-screen gallery.")
+
+## Add & Manage Sources
+
+Sources
+
+![Nora 0.9.0 manage feed sources screen](/blog/nora-0-9-0/manage-sources.webp "Paste profile links in bulk, import OPML files, or filter and sort your watched sources from a dedicated screen.")
+:::
 
 You can follow:
 

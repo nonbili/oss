@@ -17,14 +17,7 @@ Trên Android, hãy mở **Cài đặt → Tùy chọn → Tải xuống → Lư
 
 Nếu bạn chọn một thư mục, Nora cũng sẽ dùng thư mục đó cho nội dung đa phương tiện bạn lưu từ bảng tin trên Android 10 trở lên. Bản phát hành này cũng khắc phục lỗi tải xuống từ liên kết `data:`, vốn được một số trang web dùng cho tệp tạo trực tiếp trong trình duyệt.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads được chọn làm đích lưu cho các lần tải xuống sau này.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Cài đặt tải xuống Android với Nora Downloads được chọn cùng các tùy chọn Tải xuống, Luôn hỏi và Chọn thư mục đang hiển thị" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Cài đặt tải xuống Android với Nora Downloads được chọn cùng các tùy chọn Tải xuống, Luôn hỏi và Chọn thư mục đang hiển thị](/blog/nora-0-9-7/download-destination.webp "Nora Downloads được chọn làm đích lưu cho các lần tải xuống sau này.")
 
 ## Tùy chỉnh menu ba chấm
 
@@ -32,20 +25,8 @@ Mở **Cài đặt → Giao diện → Thanh công cụ → Tùy chỉnh menu ba
 
 **Cài đặt** vẫn được giữ trong menu, và **Khôi phục mặc định menu** sẽ xóa các thay đổi của bạn chỉ với một lần chạm.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Giữ Tìm trong trang bật và tắt Trang web cho máy tính.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Cài đặt Tùy chỉnh menu ba chấm đang mở rộng với Tìm trong trang bật và Trang web cho máy tính tắt" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Menu trình duyệt giữ lại Tìm trong trang, Chia sẻ và Cài đặt.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Menu trình duyệt đã tùy chỉnh hiển thị Tìm trong trang, Chia sẻ và Cài đặt, với Trang web cho máy tính đã được ẩn" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Cài đặt Tùy chỉnh menu ba chấm đang mở rộng với Tìm trong trang bật và Trang web cho máy tính tắt](/blog/nora-0-9-7/customize-three-dot-menu.webp "Giữ Tìm trong trang bật và tắt Trang web cho máy tính.")
+![Menu trình duyệt đã tùy chỉnh hiển thị Tìm trong trang, Chia sẻ và Cài đặt, với Trang web cho máy tính đã được ẩn](/blog/nora-0-9-7/customized-three-dot-menu.webp "Menu trình duyệt giữ lại Tìm trong trang, Chia sẻ và Cài đặt.")
 
 ## WhatsApp Web và Facebook Marketplace mở ở chế độ máy tính
 

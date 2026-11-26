@@ -13,40 +13,25 @@ Navegue por tudo junto, separe seus interesses em diferentes linhas do tempo ou 
 
 Abra um perfil ou comunidade compatível em uma aba do Nora e selecione **Seguir** no menu. Suas publicações mais recentes aparecerão no **Feed** do Nora. Toque em uma publicação para abrir a página original sempre que quiser ler respostas ou interagir.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Linhas do tempo personalizadas</h2>
-    <p class="screenshot-card__body">
-      Leia atualizações cronológicas de contas sociais seguidas no Bluesky, Reddit, Mastodon e mais.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Tela da linha do tempo do feed do Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Linhas do tempo personalizadas
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Mídia</div>
-    <h2 class="screenshot-card__title">Grade de fotos e vídeos</h2>
-    <p class="screenshot-card__body">
-      Alterne qualquer linha do tempo para exibir apenas fotos e vídeos em uma grade visual e deslize por eles na galeria em tela cheia.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Tela de grade de fotos e vídeos do Nora 0.9.0" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Fontes</div>
-    <h2 class="screenshot-card__title">Adicionar e gerenciar fontes</h2>
-    <p class="screenshot-card__body">
-      Cole links de perfis em massa, importe arquivos OPML ou filtre e ordene suas fontes seguidas em uma tela dedicada.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Tela de gerenciamento de fontes de feed do Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Tela da linha do tempo do feed do Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Leia atualizações cronológicas de contas sociais seguidas no Bluesky, Reddit, Mastodon e mais.")
+
+## Grade de fotos e vídeos
+
+Mídia
+
+![Tela de grade de fotos e vídeos do Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Alterne qualquer linha do tempo para exibir apenas fotos e vídeos em uma grade visual e deslize por eles na galeria em tela cheia.")
+
+## Adicionar e gerenciar fontes
+
+Fontes
+
+![Tela de gerenciamento de fontes de feed do Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Cole links de perfis em massa, importe arquivos OPML ou filtre e ordene suas fontes seguidas em uma tela dedicada.")
+:::
 
 Você pode seguir:
 

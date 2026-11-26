@@ -22,14 +22,7 @@ product: nora
 
 يمكنك مواصلة القراءة في النافذة المستقلة وإرسال أي رابط ترغب في استكشافه إلى علامة تبويب في Nora.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">يؤدي الضغط مطولاً على صورة في اختصار الشاشة الرئيسية على Android إلى فتح إجراءات الصور في Nora.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="اختصار Android المستقل لـ Nora يعرض إجراءات حفظ الصورة وفتح الصورة في علامة تبويب جديدة ونسخ رابط الصورة" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![اختصار Android المستقل لـ Nora يعرض إجراءات حفظ الصورة وفتح الصورة في علامة تبويب جديدة ونسخ رابط الصورة](/blog/nora-0-9-6/shortcut-image-menu.webp "يؤدي الضغط مطولاً على صورة في اختصار الشاشة الرئيسية على Android إلى فتح إجراءات الصور في Nora.")
 
 ## قراءة أسهل في الخلاصة
 

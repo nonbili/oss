@@ -19,14 +19,7 @@ Wil je gedownloade video's in een aparte map bewaren? Op **Android** kun je nu k
 
 Tik in het downloadvenster op **Browse** onder **Folder** en kies een map in de Android-mapkiezer. Tik op **Use Downloads folder** om terug te keren naar de standaardlocatie.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Sla video's op in een speciale map of schakel terug naar Downloads.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Het Android-downloadvenster van NouTube met Download/NouTube als geselecteerde map, Browse en Use Downloads folder" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Het Android-downloadvenster van NouTube met Download/NouTube als geselecteerde map, Browse en Use Downloads folder](/blog/noutube-0-7-10/download-folder.webp "Sla video's op in een speciale map of schakel terug naar Downloads.")
 
 ## Community-berichten in de feedlezer
 
@@ -34,20 +27,8 @@ Je opgeslagen kanalen delen mogelijk updates tussen video-uploads door. **Channe
 
 Om het uit te proberen, open je **Settings → Appearance** en schakel je **Community posts in feed** in, direct onder **Channels feed**. Dit staat **standaard uit**: het opnemen van berichten betekent dat het tabblad Berichten van elk opgeslagen kanaal moet worden gecontroleerd, wat meer data verbruikt bij het vernieuwen van de feed.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Schakel community-berichten in bij Weergave-instellingen.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="De Weergave-instellingen van NouTube op Android met Channels feed en Community posts in feed ingeschakeld" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Community-berichten verschijnen naast video's van je opgeslagen kanalen.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="De feed van NouTube met community-berichten van Veritasium met tekst en een afbeelding naast video-uploads" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![De Weergave-instellingen van NouTube op Android met Channels feed en Community posts in feed ingeschakeld](/blog/noutube-0-7-10/community-posts-setting.webp "Schakel community-berichten in bij Weergave-instellingen.")
+![De feed van NouTube met community-berichten van Veritasium met tekst en een afbeelding naast video-uploads](/blog/noutube-0-7-10/community-post-in-feed.webp "Community-berichten verschijnen naast video's van je opgeslagen kanalen.")
 
 ## Kleinere fixes
 

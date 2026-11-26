@@ -21,14 +21,7 @@ W edytorze zakładek pole **Zapisany wpis** pokazuje datę zapisanej kopii. Uży
 
 Automatyczne zapisywanie jest domyślnie włączone. Możesz je wyłączyć w **Ustawienia → Ogólne → Zapisuj wpisy społecznościowe offline**. Jeśli korzystasz z **Nori Sync**, zapisane wpisy i ich obrazy są synchronizowane między Twoimi urządzeniami.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Zapisany wpis z Bluesky pozostaje czytelny wraz z obrazem, gdy telefon jest w trybie samolotowym.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori wyświetlający zapisany wpis z Bluesky z autorem, tekstem i załączonym obrazem przy włączonym trybie samolotowym" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori wyświetlający zapisany wpis z Bluesky z autorem, tekstem i załączonym obrazem przy włączonym trybie samolotowym](/blog/nori-0-2-9/saved-social-post.webp "Zapisany wpis z Bluesky pozostaje czytelny wraz z obrazem, gdy telefon jest w trybie samolotowym.")
 
 ## Udostępniaj więcej niż sam link
 
@@ -38,14 +31,7 @@ Wybierz **jasne lub ciemne** tło i zdecyduj, czy dołączyć **Notatkę** oraz 
 
 Stuknij **Udostępnij**, aby wysłać kartę za pomocą systemowego menu udostępniania, lub stuknij przycisk pobierania, aby użyć opcji **Zapisz obraz** w swojej bibliotece zdjęć.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Podejrzyj kartę, wybierz, co ma zawierać, a następnie udostępnij lub zapisz obraz.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Podgląd funkcji Udostępnij jako obraz z jasnym i ciemnym motywem, przełącznikami Notatki i Tagów, przyciskiem pobierania i przyciskiem Udostępnij" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Podgląd funkcji Udostępnij jako obraz z jasnym i ciemnym motywem, przełącznikami Notatki i Tagów, przyciskiem pobierania i przyciskiem Udostępnij](/blog/nori-0-2-9/share-as-image.webp "Podejrzyj kartę, wybierz, co ma zawierać, a następnie udostępnij lub zapisz obraz.")
 
 ## Nadaj każdej liście własną kolejność
 
@@ -59,14 +45,7 @@ Otwórz **Edytuj listę** lub utwórz **Nową listę** i wybierz **Kolejność z
 
 Wybór jest przypisany do danej listy, więc pozostałe listy mogą zachować własną kolejność. W tym samym edytorze możesz też zmienić nazwę listy.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Wybierz kolejność zakładek dla listy Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Edycja listy Reading queue ze wszystkimi pięcioma widocznymi opcjami kolejności zakładek" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Edycja listy Reading queue ze wszystkimi pięcioma widocznymi opcjami kolejności zakładek](/blog/nori-0-2-9/list-bookmark-order.webp "Wybierz kolejność zakładek dla listy Reading queue.")
 
 To wydanie poprawia także przewijanie w szufladzie **Wszystkie zakładki** na iOS oraz usuwa błąd synchronizacji. Szczegóły znajdziesz w [pełnych informacjach o wydaniu](https://github.com/nonbili/Nori/releases/tag/v0.2.9).
 

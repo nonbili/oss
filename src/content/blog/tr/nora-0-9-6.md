@@ -22,14 +22,7 @@ Android ana ekran kısayolları artık bağlam menüleri sunar:
 
 Bağımsız pencerede okumaya devam edebilir ve bir sekmede ayrıntılı incelemek istediğiniz bir bağlantıyı Nora'ya gönderebilirsiniz.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Android ana ekran kısayolunda bir görsele uzun basmak, Nora'nın görsel işlemlerini açar.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Nora'nın Görseli kaydet, Görseli yeni sekmede aç ve Görsel bağlantısını kopyala işlemlerini gösteren bağımsız Android kısayolu" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora\'nın Görseli kaydet, Görseli yeni sekmede aç ve Görsel bağlantısını kopyala işlemlerini gösteren bağımsız Android kısayolu](/blog/nora-0-9-6/shortcut-image-menu.webp "Android ana ekran kısayolunda bir görsele uzun basmak, Nora'nın görsel işlemlerini açar.")
 
 ## Akışta Daha Kolay Okuma
 

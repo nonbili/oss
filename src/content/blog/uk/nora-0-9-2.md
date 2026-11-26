@@ -18,40 +18,25 @@ Instagram або X перестали оновлюватися? **Nora 0.9.2** �
 
 Обидві опції вимкнені за замовчуванням і їх можна ввімкнути будь-коли у **Feed Settings**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Налаштування стрічки</div>
-    <h2 class="screenshot-card__title">Джерела imginn та Nitter</h2>
-    <p class="screenshot-card__body">
-      Читайте профілі Instagram з imginn та профілі X з налаштованих інстансів Nitter — як резервне або основне джерело.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Налаштування стрічки Nora 0.9.2 з опціями imginn та Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Джерела imginn та Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Медіа</div>
-    <h2 class="screenshot-card__title">Повноекранна галерея та масштабування</h2>
-    <p class="screenshot-card__body">
-      Зводьте й розводьте пальці, щоб масштабувати фото та відео у повноекранній галереї, утримуйте край екрана для прискорення відтворення або зберігайте медіа напряму.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Екран повноекранної медіагалереї Nora 0.9.2" />
-    </div>
-  </figure>
+Налаштування стрічки
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Профілі</div>
-    <h2 class="screenshot-card__title">Відкрити вкладку в профілі</h2>
-    <p class="screenshot-card__body">
-      Перемикайте будь-яку відкриту мобільну вкладку в інший профіль Nora безпосередньо з меню заголовка або перемикача вкладок.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Діалог повторного відкриття вкладки в профілі Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Налаштування стрічки Nora 0.9.2 з опціями imginn та Nitter](/blog/nora-0-9-2/feed-settings.webp "Читайте профілі Instagram з imginn та профілі X з налаштованих інстансів Nitter — як резервне або основне джерело.")
+
+## Повноекранна галерея та масштабування
+
+Медіа
+
+![Екран повноекранної медіагалереї Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Зводьте й розводьте пальці, щоб масштабувати фото та відео у повноекранній галереї, утримуйте край екрана для прискорення відтворення або зберігайте медіа напряму.")
+
+## Відкрити вкладку в профілі
+
+Профілі
+
+![Діалог повторного відкриття вкладки в профілі Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Перемикайте будь-яку відкриту мобільну вкладку в інший профіль Nora безпосередньо з меню заголовка або перемикача вкладок.")
+:::
 
 ## Керування відео у стрічці, масштабування та сповіщення
 

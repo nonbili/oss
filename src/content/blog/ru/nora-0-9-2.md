@@ -18,40 +18,25 @@ product: nora
 
 Обе опции по умолчанию отключены и могут быть включены в любой момент в **Настройках ленты**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Настройки ленты</div>
-    <h2 class="screenshot-card__title">Источники imginn и Nitter</h2>
-    <p class="screenshot-card__body">
-      Читайте профили Instagram через imginn и профили X через настроенные инстансы Nitter — в качестве резервного или основного источника.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Настройки ленты Nora 0.9.2 с параметрами imginn и Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Источники imginn и Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Медиа</div>
-    <h2 class="screenshot-card__title">Полноэкранная галерея и масштаб</h2>
-    <p class="screenshot-card__body">
-      Масштабируйте фото и видео жестом щипка в полноэкранной галерее, удерживайте край экрана для ускорения воспроизведения или сохраняйте медиафайлы напрямую.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Экран полноэкранной медиагалереи Nora 0.9.2" />
-    </div>
-  </figure>
+Настройки ленты
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Профили</div>
-    <h2 class="screenshot-card__title">Открытие вкладки в другом профиле</h2>
-    <p class="screenshot-card__body">
-      Переключайте любую открытую мобильную вкладку в другой профиль Nora прямо из меню заголовка или переключателя вкладок.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Диалог открытия вкладки в другом профиле в Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Настройки ленты Nora 0.9.2 с параметрами imginn и Nitter](/blog/nora-0-9-2/feed-settings.webp "Читайте профили Instagram через imginn и профили X через настроенные инстансы Nitter — в качестве резервного или основного источника.")
+
+## Полноэкранная галерея и масштаб
+
+Медиа
+
+![Экран полноэкранной медиагалереи Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Масштабируйте фото и видео жестом щипка в полноэкранной галерее, удерживайте край экрана для ускорения воспроизведения или сохраняйте медиафайлы напрямую.")
+
+## Открытие вкладки в другом профиле
+
+Профили
+
+![Диалог открытия вкладки в другом профиле в Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Переключайте любую открытую мобильную вкладку в другой профиль Nora прямо из меню заголовка или переключателя вкладок.")
+:::
 
 ## Управление видео в ленте, масштабирование и уведомления
 

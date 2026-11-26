@@ -13,39 +13,15 @@ NouTube 0.7.11 позволяет размещать действия вроде
 
 На панель инструментов также можно добавить **Инструменты**, **Версию для ПК**, **Настройки** или переключатель **YouTube / YouTube Music**. В том же списке можно поменять порядок уже имеющихся кнопок, например **Библиотека**, **Лента каналов** и **История**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Включите Поделиться и Открыть URL и перетащите их в начало списка.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Настройки внешнего вида на Android: Поделиться и Открыть URL включены в первых двух строках, справа — маркеры перетаскивания" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Теперь Поделиться и Открыть URL — первые две кнопки на панели инструментов страницы просмотра.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Панель инструментов NouTube над страницей просмотра Big Buck Bunny, слева значок Поделиться и значок ссылки Открыть URL" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Настройки внешнего вида на Android: Поделиться и Открыть URL включены в первых двух строках, справа — маркеры перетаскивания](/blog/noutube-0-7-11/android-toolbar-settings.webp "Включите Поделиться и Открыть URL и перетащите их в начало списка.")
+![Панель инструментов NouTube над страницей просмотра Big Buck Bunny, слева значок Поделиться и значок ссылки Открыть URL](/blog/noutube-0-7-11/android-toolbar-result.webp "Теперь Поделиться и Открыть URL — первые две кнопки на панели инструментов страницы просмотра.")
 
 ## Скачивание видео на iPhone и iPad
 
 Для видео, которое вам разрешено сохранять, откройте **Инструменты** и нажмите **Скачать видео**. NouTube скачает совместимый MP4, если он доступен. Когда загрузка завершится, нажмите **Экспортировать**, чтобы сохранить файл или поделиться им.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Инструменты автоматически подставляют URL текущего видео.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Панель загрузки на iPhone с заполненным URL видео, примечанием о доступности MP4 и кнопкой Скачать видео" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Когда файл готов, в истории загрузок появляется кнопка Экспортировать.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Запись в истории загрузок на iPhone с зелёной галочкой, статусом Загрузка завершена и кнопкой Экспортировать" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Панель загрузки на iPhone с заполненным URL видео, примечанием о доступности MP4 и кнопкой Скачать видео](/blog/noutube-0-7-11/ios-download-tools.webp "Инструменты автоматически подставляют URL текущего видео.")
+![Запись в истории загрузок на iPhone с зелёной галочкой, статусом Загрузка завершена и кнопкой Экспортировать](/blog/noutube-0-7-11/ios-download-export.webp "Когда файл готов, в истории загрузок появляется кнопка Экспортировать.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ NouTube 0.7.11 позволяет размещать действия вроде
 
 Чтобы убрать раздел комментариев со страниц просмотра YouTube, откройте **Настройки → Параметры → Отвлекающие элементы** и включите **Скрыть комментарии**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Скрыть комментарии находится в самом низу раздела Отвлекающие элементы.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Экран параметров на Android с включённым переключателем Скрыть комментарии в самом низу раздела Отвлекающие элементы" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Экран параметров на Android с включённым переключателем Скрыть комментарии в самом низу раздела Отвлекающие элементы](/blog/noutube-0-7-11/hide-comments-setting.webp "Скрыть комментарии находится в самом низу раздела Отвлекающие элементы.")
 
 ## Другие исправления
 

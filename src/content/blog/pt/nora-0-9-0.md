@@ -13,40 +13,25 @@ Navegue por tudo em conjunto, separe os seus interesses em diferentes linhas cro
 
 Abra um perfil ou comunidade suportada num separador do Nora e selecione **Seguir** no menu. As publicações mais recentes aparecerão no **Feed** do Nora. Toque numa publicação para abrir a página original sempre que quiser ler respostas ou interagir.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Linhas cronológicas personalizadas</h2>
-    <p class="screenshot-card__body">
-      Leia atualizações cronológicas das contas sociais seguidas no Bluesky, Reddit, Mastodon e muito mais.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Ecrã da linha cronológica do feed do Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Linhas cronológicas personalizadas
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Multimédia</div>
-    <h2 class="screenshot-card__title">Grelha de fotografias e vídeos</h2>
-    <p class="screenshot-card__body">
-      Mude qualquer linha cronológica para mostrar apenas fotografias e vídeos numa grelha visual e deslize por eles na galeria em ecrã inteiro.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Ecrã da grelha de fotografias e vídeos do Nora 0.9.0" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Fontes</div>
-    <h2 class="screenshot-card__title">Adicionar e gerir fontes</h2>
-    <p class="screenshot-card__body">
-      Cole ligações de perfis em massa, importe ficheiros OPML ou filtre e ordene as suas fontes seguidas a partir de um ecrã dedicado.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Ecrã de gestão de fontes do feed do Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Ecrã da linha cronológica do feed do Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Leia atualizações cronológicas das contas sociais seguidas no Bluesky, Reddit, Mastodon e muito mais.")
+
+## Grelha de fotografias e vídeos
+
+Multimédia
+
+![Ecrã da grelha de fotografias e vídeos do Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Mude qualquer linha cronológica para mostrar apenas fotografias e vídeos numa grelha visual e deslize por eles na galeria em ecrã inteiro.")
+
+## Adicionar e gerir fontes
+
+Fontes
+
+![Ecrã de gestão de fontes do feed do Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Cole ligações de perfis em massa, importe ficheiros OPML ou filtre e ordene as suas fontes seguidas a partir de um ecrã dedicado.")
+:::
 
 Pode seguir:
 

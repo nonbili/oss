@@ -17,14 +17,7 @@ No Android, abra **Definições → Preferências → Transferências → Guarda
 
 Se escolher uma pasta, o Nora também a utiliza para os ficheiros multimédia guardados a partir do feed no Android 10 e posterior. Esta versão corrige ainda as transferências a partir de ligações `data:`, que alguns sites utilizam para ficheiros gerados no navegador.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads está selecionada como o destino para futuras transferências.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Definições de transferência do Android com Nora Downloads selecionada e as opções Transferências, Perguntar sempre e Escolher pasta visíveis" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Definições de transferência do Android com Nora Downloads selecionada e as opções Transferências, Perguntar sempre e Escolher pasta visíveis](/blog/nora-0-9-7/download-destination.webp "Nora Downloads está selecionada como o destino para futuras transferências.")
 
 ## Personalize o menu de três pontos
 
@@ -32,20 +25,8 @@ Abra **Definições → Aspeto → Barra de ferramentas → Personalizar menu de
 
 **Definições** permanece no menu e **Repor predefinições do menu** limpa as suas alterações com um toque.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Mantenha Procurar na página ativado e desative Site para computador.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Definições expandidas de Personalizar menu de três pontos com Procurar na página ativado e Site para computador desativado" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">O menu do navegador mantém Procurar na página, Partilhar e Definições.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Menu personalizado do navegador a mostrar Procurar na página, Partilhar e Definições, com Site para computador oculto" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Definições expandidas de Personalizar menu de três pontos com Procurar na página ativado e Site para computador desativado](/blog/nora-0-9-7/customize-three-dot-menu.webp "Mantenha Procurar na página ativado e desative Site para computador.")
+![Menu personalizado do navegador a mostrar Procurar na página, Partilhar e Definições, com Site para computador oculto](/blog/nora-0-9-7/customized-three-dot-menu.webp "O menu do navegador mantém Procurar na página, Partilhar e Definições.")
 
 ## WhatsApp Web e Facebook Marketplace abrem no modo de computador
 

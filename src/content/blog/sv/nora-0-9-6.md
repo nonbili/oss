@@ -22,14 +22,7 @@ Android-startskärmsgenvägar erbjuder nu kontextmenyer:
 
 Du kan fortsätta läsa i det fristående fönstret och skicka en länk till Nora när du vill utforska den i en separat flik.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Att hålla ned på en bild i en Android-startskärmsgenväg öppnar Noras bildåtgärder.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Noras fristående Android-genväg som visar åtgärderna Spara bild, Öppna bild i ny flik och Kopiera bildlänk" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Noras fristående Android-genväg som visar åtgärderna Spara bild, Öppna bild i ny flik och Kopiera bildlänk](/blog/nora-0-9-6/shortcut-image-menu.webp "Att hålla ned på en bild i en Android-startskärmsgenväg öppnar Noras bildåtgärder.")
 
 ## Enklare läsning i flödet
 

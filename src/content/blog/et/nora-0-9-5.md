@@ -23,14 +23,7 @@ Jaotises **Settings → Services → X** saad nüüd valida, kas peita:
 
 Need valikud on valikulised. Sama seadete jaotis pakub ka valikut **Default search to Latest**, nii et otsingud avanevad Top-tulemuste asemel hiljutiste postitustega. Saad X-is endiselt otsinguvahekaarte vahetada, kui soovid teistsugust vaadet.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">X-i juhtnupud Noras Androidis: vali, millised kasutajaliidese elemendid peita ja kas otsingud avanevad vaates Latest.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Nora X-i seaded Pixeli telefonis, mis näitavad valikulisi Groki, soovituste, kaasatuse arvu ja Latest-otsingu juhtnuppe" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora X-i seaded Pixeli telefonis, mis näitavad valikulisi Groki, soovituste, kaasatuse arvu ja Latest-otsingu juhtnuppe](/blog/nora-0-9-5/x-settings.webp "X-i juhtnupud Noras Androidis: vali, millised kasutajaliidese elemendid peita ja kas otsingud avanevad vaates Latest.")
 
 ## Hoia tavalised Facebooki postitused nähtaval
 

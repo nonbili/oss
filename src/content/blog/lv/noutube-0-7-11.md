@@ -13,39 +13,15 @@ Atveriet **Iestatījumi → Izskats → Rīkjoslas pogas**. Ar slēdžiem izvēl
 
 Rīkjoslai varat pievienot arī **Rīki**, **Datora versija**, **Iestatījumi** vai pārslēgu **YouTube / YouTube Music**. Tajā pašā sarakstā varat mainīt esošo pogu secību, piemēram, **Bibliotēka**, **Kanālu plūsma** un **Vēsture**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ieslēdziet Kopīgot un Atvērt URL un aizvelciet tās uz saraksta augšu.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Android izskata iestatījumi, kur pirmajās divās rindās ieslēgts Kopīgot un Atvērt URL, bet labajā pusē redzami vilkšanas turi" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kopīgot un Atvērt URL tagad ir pirmās divas pogas skatīšanās lapas rīkjoslā.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="NouTube rīkjosla virs Big Buck Bunny skatīšanās lapas ar kopīgošanas ikonu un Atvērt URL saites ikonu pašā kreisajā malā" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android izskata iestatījumi, kur pirmajās divās rindās ieslēgts Kopīgot un Atvērt URL, bet labajā pusē redzami vilkšanas turi](/blog/noutube-0-7-11/android-toolbar-settings.webp "Ieslēdziet Kopīgot un Atvērt URL un aizvelciet tās uz saraksta augšu.")
+![NouTube rīkjosla virs Big Buck Bunny skatīšanās lapas ar kopīgošanas ikonu un Atvērt URL saites ikonu pašā kreisajā malā](/blog/noutube-0-7-11/android-toolbar-result.webp "Kopīgot un Atvērt URL tagad ir pirmās divas pogas skatīšanās lapas rīkjoslā.")
 
 ## Lejupielādējiet video iPhone un iPad ierīcēs
 
 Video, kuru jums ir atļauts saglabāt, atveriet **Rīki** un pieskarieties **Lejupielādēt video**. NouTube lejupielādē saderīgu MP4 failu, ja tāds ir pieejams. Kad lejupielāde ir pabeigta, pieskarieties **Eksportēt**, lai saglabātu vai kopīgotu failu.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Rīki automātiski aizpilda pašreizējā video URL.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="iPhone lejupielādes panelis ar aizpildītu video URL, piezīmi par MP4 pieejamību un pogu Lejupielādēt video" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kad fails ir gatavs, lejupielāžu vēsturē parādās poga Eksportēt.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="iPhone lejupielāžu vēstures ieraksts ar zaļu ķeksīti, statusu Lejupielāde pabeigta un pogu Eksportēt" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![iPhone lejupielādes panelis ar aizpildītu video URL, piezīmi par MP4 pieejamību un pogu Lejupielādēt video](/blog/noutube-0-7-11/ios-download-tools.webp "Rīki automātiski aizpilda pašreizējā video URL.")
+![iPhone lejupielāžu vēstures ieraksts ar zaļu ķeksīti, statusu Lejupielāde pabeigta un pogu Eksportēt](/blog/noutube-0-7-11/ios-download-export.webp "Kad fails ir gatavs, lejupielāžu vēsturē parādās poga Eksportēt.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Mobilajās ierīcēs pārvelciet uz augšu YouTube atskaņotājā, lai pārietu 
 
 Lai noņemtu komentāru sadaļu no YouTube skatīšanās lapām, atveriet **Iestatījumi → Preferences → Bez traucēkļiem** un ieslēdziet **Paslēpt komentārus**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Paslēpt komentārus atrodas Bez traucēkļiem iestatījumu apakšā.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Android preferenču ekrāns ar ieslēgtu slēdzi Paslēpt komentārus sadaļas Bez traucēkļiem apakšā" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android preferenču ekrāns ar ieslēgtu slēdzi Paslēpt komentārus sadaļas Bez traucēkļiem apakšā](/blog/noutube-0-7-11/hide-comments-setting.webp "Paslēpt komentārus atrodas Bez traucēkļiem iestatījumu apakšā.")
 
 ## Citi labojumi
 

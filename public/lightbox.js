@@ -1,5 +1,5 @@
 (() => {
-	const SELECTOR = '.screenshot-frame img';
+	const SELECTOR = '.sl-markdown-content img, .screenshot-frame img';
 	/** @type {HTMLDialogElement | null} */
 	let dialog = null;
 	/** @type {HTMLImageElement | null} */
@@ -11,13 +11,13 @@
 	/** @type {HTMLButtonElement | null} */
 	let nextBtn = null;
 	/** @type {HTMLImageElement[]} */
-	let currentGroup = [];
+	let currentImages = [];
 	let currentIndex = -1;
 	let touchStartX = 0;
 
 	function step(delta) {
-		if (currentGroup.length <= 1) return;
-		showAt((currentIndex + delta + currentGroup.length) % currentGroup.length);
+		if (currentImages.length <= 1) return;
+		showAt((currentIndex + delta + currentImages.length) % currentImages.length);
 	}
 
 	function ensureDialog() {
@@ -47,7 +47,7 @@
 						<path d="m9 18 6-6-6-6" />
 					</svg>
 				</button>
-				<p class="image-lightbox__caption"></p>
+				<p class="image-lightbox__caption" aria-live="polite"></p>
 			</div>
 		`;
 
@@ -114,7 +114,7 @@
 		);
 
 		document.addEventListener('keydown', (event) => {
-			if (!dialog?.open || currentGroup.length <= 1) return;
+			if (!dialog?.open || currentImages.length <= 1) return;
 			if (event.key === 'ArrowRight') {
 				event.preventDefault();
 				step(1);
@@ -132,36 +132,43 @@
 	 * @param {number} index
 	 */
 	function showAt(index) {
-		const target = currentGroup[index];
+		const target = currentImages[index];
 		if (!target || !dialogImg || !dialogCaption) return;
 		currentIndex = index;
 		dialogImg.src = target.currentSrc || target.src;
 		dialogImg.alt = target.alt || '';
 		const cardTitle = target.closest('.screenshot-card')?.querySelector('.screenshot-card__title')?.textContent?.trim();
-		const baseCaption = cardTitle || target.alt || '';
-		const hasMultiple = currentGroup.length > 1;
-		const countText = hasMultiple ? `${index + 1} / ${currentGroup.length}` : '';
+		const figureCaption = target.closest('figure')?.querySelector('figcaption')?.textContent?.trim();
+		const baseCaption = cardTitle || figureCaption || target.title.trim() || target.alt;
+		const hasMultiple = currentImages.length > 1;
+		const countText = hasMultiple ? `${index + 1} / ${currentImages.length}` : '';
 		dialogCaption.textContent = baseCaption && countText ? `${baseCaption} (${countText})` : baseCaption || countText;
 		dialogCaption.hidden = !dialogCaption.textContent;
 		if (prevBtn) prevBtn.hidden = !hasMultiple;
 		if (nextBtn) nextBtn.hidden = !hasMultiple;
 	}
 
+	function pageImages() {
+		return Array.from(document.querySelectorAll(SELECTOR)).filter((img) =>
+			img instanceof HTMLImageElement &&
+			!img.closest('.not-content, .product-overview-header__logo, a[href], button'),
+		);
+	}
+
 	function bindImages() {
-		const images = Array.from(document.querySelectorAll(SELECTOR));
-		for (const img of images) {
-			if (!(img instanceof HTMLImageElement) || img.dataset.lightboxBound === 'true') continue;
+		for (const img of pageImages()) {
+			if (img.dataset.lightboxBound === 'true') continue;
 			img.dataset.lightboxBound = 'true';
 			img.tabIndex = 0;
 			img.setAttribute('role', 'button');
+			img.setAttribute('aria-haspopup', 'dialog');
 
 			const open = () => {
-				const gallery = img.closest('.screenshot-gallery');
-				currentGroup = gallery
-					? Array.from(gallery.querySelectorAll(SELECTOR)).filter((el) => el instanceof HTMLImageElement)
-					: [img];
+				currentImages = pageImages().filter((image) => image.getClientRects().length > 0);
+				const index = currentImages.indexOf(img);
+				if (index < 0) return;
 				const d = ensureDialog();
-				showAt(Math.max(0, currentGroup.indexOf(img)));
+				showAt(index);
 				if (!d.open) {
 					d.showModal();
 				}

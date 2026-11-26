@@ -23,14 +23,7 @@ En **Ajustes → Servicios → X**, ahora puedes optar por ocultar:
 
 Estas opciones son voluntarias. En este mismo apartado se ofrece **Búsqueda por defecto en Más recientes**, de forma que las búsquedas muestren las publicaciones recientes en lugar de los resultados destacados. Puedes cambiar de pestaña de búsqueda en X siempre que desees otra vista.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Controles de X en Nora para Android: elige qué elementos de la interfaz ocultar y si las búsquedas se abren en Más recientes.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Ajustes de X en Nora en un teléfono Pixel, mostrando controles opcionales de Grok, recomendaciones, contadores de interacciones y búsqueda en Más recientes" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Ajustes de X en Nora en un teléfono Pixel, mostrando controles opcionales de Grok, recomendaciones, contadores de interacciones y búsqueda en Más recientes](/blog/nora-0-9-5/x-settings.webp "Controles de X en Nora para Android: elige qué elementos de la interfaz ocultar y si las búsquedas se abren en Más recientes.")
 
 ## Mantén visibles las publicaciones ordinarias de Facebook
 

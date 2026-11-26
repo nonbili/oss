@@ -17,14 +17,7 @@ product: nora
 
 若您選擇了資料夾，在 Android 10 及更新版本上，Nora 也會將從動態消息儲存的媒體存放於此資料夾中。此版本同時修正了 `data:` 連結的下載問題（部分網站會用這類連結提供在瀏覽器中產生的檔案）。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">已選取 Nora Downloads 作為之後下載的儲存位置。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Android 下載設定畫面，已選取 Nora Downloads，並顯示下載、每次詢問與選擇資料夾選項" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android 下載設定畫面，已選取 Nora Downloads，並顯示下載、每次詢問與選擇資料夾選項](/blog/nora-0-9-7/download-destination.webp "已選取 Nora Downloads 作為之後下載的儲存位置。")
 
 ## 自訂三點選單
 
@@ -32,20 +25,8 @@ product: nora
 
 **設定** 會保留在選單中，點選 **重設為預設選單** 即可一鍵清除您的變更。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">保持「在頁面中尋找」開啟，並關閉「電腦版網站」。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="展開的自訂三點選單設定，其中在頁面中尋找為開啟狀態，電腦版網站為關閉狀態" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">瀏覽器選單保留了在頁面中尋找、分享與設定。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="自訂後的瀏覽器選單，顯示在頁面中尋找、分享與設定，並隱藏電腦版網站" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![展開的自訂三點選單設定，其中在頁面中尋找為開啟狀態，電腦版網站為關閉狀態](/blog/nora-0-9-7/customize-three-dot-menu.webp "保持「在頁面中尋找」開啟，並關閉「電腦版網站」。")
+![自訂後的瀏覽器選單，顯示在頁面中尋找、分享與設定，並隱藏電腦版網站](/blog/nora-0-9-7/customized-three-dot-menu.webp "瀏覽器選單保留了在頁面中尋找、分享與設定。")
 
 ## WhatsApp Web 與 Facebook Marketplace 以電腦版模式開啟
 

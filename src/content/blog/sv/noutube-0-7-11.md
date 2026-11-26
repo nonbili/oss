@@ -13,39 +13,15 @@ Med NouTube 0.7.11 kan du lägga åtgärder som **Dela** och **Öppna URL** dire
 
 Du kan också lägga till **Verktyg**, **Datorversion**, **Inställningar** eller växlaren **YouTube / YouTube Music** i verktygsfältet. I samma lista kan du ändra ordningen på befintliga knappar som **Bibliotek**, **Kanalflöde** och **Historik**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Slå på Dela och Öppna URL och dra dem högst upp i listan.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Utseendeinställningar på Android med Dela och Öppna URL påslagna på de två första raderna och draghandtag till höger" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Dela och Öppna URL är nu de två första knapparna i verktygsfältet på uppspelningssidan.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="NouTubes verktygsfält ovanför uppspelningssidan för Big Buck Bunny, med Dela-ikonen och länkikonen för Öppna URL längst till vänster" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Utseendeinställningar på Android med Dela och Öppna URL påslagna på de två första raderna och draghandtag till höger](/blog/noutube-0-7-11/android-toolbar-settings.webp "Slå på Dela och Öppna URL och dra dem högst upp i listan.")
+![NouTubes verktygsfält ovanför uppspelningssidan för Big Buck Bunny, med Dela-ikonen och länkikonen för Öppna URL längst till vänster](/blog/noutube-0-7-11/android-toolbar-result.webp "Dela och Öppna URL är nu de två första knapparna i verktygsfältet på uppspelningssidan.")
 
 ## Ladda ned videor på iPhone och iPad
 
 För en video som du har tillåtelse att spara öppnar du **Verktyg** och trycker på **Ladda ned video**. NouTube laddar ned en kompatibel MP4 när en sådan finns. När nedladdningen är klar trycker du på **Exportera** för att spara eller dela filen.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Verktyg fyller i den aktuella videons URL.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Nedladdningspanel på iPhone med videons URL ifylld, en notering om MP4-tillgänglighet och knappen Ladda ned video" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Exportera visas i nedladdningshistoriken när filen är klar.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Post i nedladdningshistoriken på iPhone med en grön bock, statusen Nedladdning klar och en Exportera-knapp" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nedladdningspanel på iPhone med videons URL ifylld, en notering om MP4-tillgänglighet och knappen Ladda ned video](/blog/noutube-0-7-11/ios-download-tools.webp "Verktyg fyller i den aktuella videons URL.")
+![Post i nedladdningshistoriken på iPhone med en grön bock, statusen Nedladdning klar och en Exportera-knapp](/blog/noutube-0-7-11/ios-download-export.webp "Exportera visas i nedladdningshistoriken när filen är klar.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ På mobilen sveper du uppåt på YouTube-spelaren för att gå till helskärm oc
 
 För att ta bort kommentarsavsnittet från YouTubes uppspelningssidor öppnar du **Inställningar → Preferenser → Distraktionsfritt** och slår på **Dölj kommentarer**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Dölj kommentarer finns längst ned i inställningarna för Distraktionsfritt.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Android-skärmen Preferenser där reglaget Dölj kommentarer är påslaget längst ned i avsnittet Distraktionsfritt" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android-skärmen Preferenser där reglaget Dölj kommentarer är påslaget längst ned i avsnittet Distraktionsfritt](/blog/noutube-0-7-11/hide-comments-setting.webp "Dölj kommentarer finns längst ned i inställningarna för Distraktionsfritt.")
 
 ## Övriga korrigeringar
 

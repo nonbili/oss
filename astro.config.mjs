@@ -1,6 +1,8 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import { satteri } from '@astrojs/markdown-satteri';
 import starlight from '@astrojs/starlight';
+import { blogScreenshotDirectives, blogScreenshots } from './src/lib/blog-screenshots.mjs';
 import { locales, sidebarLabels } from './src/lib/locales.mjs';
 
 /** @param {string} label @param {string} directory */
@@ -14,6 +16,12 @@ export default defineConfig({
 	site: 'https://oss.nonbili.jp',
 	server: {
 		host: true,
+	},
+	markdown: {
+		processor: satteri({
+			mdastPlugins: [blogScreenshotDirectives],
+			hastPlugins: [blogScreenshots],
+		}),
 	},
 	integrations: [
 		starlight({

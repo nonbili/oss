@@ -18,40 +18,25 @@ Avalike **Instagrami** ja **X-i** profiilide jälgimine ilma sisselogimiseta võ
 
 Mõlemad valikud on vaikimisi välja lülitatud ja neid saab igal ajal sisse lülitada jaotises **Feed Settings**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Voo seaded</div>
-    <h2 class="screenshot-card__title">imginn ja Nitter allikad</h2>
-    <p class="screenshot-card__body">
-      Loe Instagrami profiile imginn-ist ja X-i profiile oma seadistatud Nitteri eksemplaridest — varuallikana või esmase allikana.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Nora 0.9.2 voo seaded imginn ja Nitter valikutega" />
-    </div>
-  </figure>
+:::screenshots
+## imginn ja Nitter allikad
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Meedia</div>
-    <h2 class="screenshot-card__title">Täisekraani galerii ja suum</h2>
-    <p class="screenshot-card__body">
-      Näpista täisekraani galeriis fotode ja videote suumimiseks, hoia ekraani serva esituse kiirendamiseks või salvesta meediat otse.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Nora 0.9.2 täisekraani meediagalerii ekraan" />
-    </div>
-  </figure>
+Voo seaded
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profiilid</div>
-    <h2 class="screenshot-card__title">Ava vahekaart uuesti profiilis</h2>
-    <p class="screenshot-card__body">
-      Lülita mis tahes avatud mobiilivahekaart teise Nora profiili otse päisemenüüst või vahekaardivahetajast.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Nora 0.9.2 vahekaardi profiilis taasavamise dialoog" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.2 voo seaded imginn ja Nitter valikutega](/blog/nora-0-9-2/feed-settings.webp "Loe Instagrami profiile imginn-ist ja X-i profiile oma seadistatud Nitteri eksemplaridest — varuallikana või esmase allikana.")
+
+## Täisekraani galerii ja suum
+
+Meedia
+
+![Nora 0.9.2 täisekraani meediagalerii ekraan](/blog/nora-0-9-2/media-gallery.webp "Näpista täisekraani galeriis fotode ja videote suumimiseks, hoia ekraani serva esituse kiirendamiseks või salvesta meediat otse.")
+
+## Ava vahekaart uuesti profiilis
+
+Profiilid
+
+![Nora 0.9.2 vahekaardi profiilis taasavamise dialoog](/blog/nora-0-9-2/reopen-in-profile.webp "Lülita mis tahes avatud mobiilivahekaart teise Nora profiili otse päisemenüüst või vahekaardivahetajast.")
+:::
 
 ## Voo video juhtimine, suum ja teavitused
 

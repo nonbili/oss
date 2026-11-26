@@ -19,14 +19,7 @@ product: noutube
 
 Στο παράθυρο διαλόγου λήψης, πατήστε **Αναζήτηση** κάτω από το **Φάκελος** και έπειτα επιλέξτε έναν φάκελο στον επιλογέα φακέλων του Android. Για να επιστρέψετε στην προεπιλεγμένη τοποθεσία, πατήστε **Χρήση φακέλου Λήψεις**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Αποθηκεύστε βίντεο σε έναν αποκλειστικό φάκελο ή επιστρέψτε στις Λήψεις.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Το παράθυρο διαλόγου λήψης του NouTube στο Android που δείχνει το Download/NouTube ως επιλεγμένο φάκελο, Αναζήτηση και Χρήση φακέλου Λήψεις" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Το παράθυρο διαλόγου λήψης του NouTube στο Android που δείχνει το Download/NouTube ως επιλεγμένο φάκελο, Αναζήτηση και Χρήση φακέλου Λήψεις](/blog/noutube-0-7-10/download-folder.webp "Αποθηκεύστε βίντεο σε έναν αποκλειστικό φάκελο ή επιστρέψτε στις Λήψεις.")
 
 ## Αναρτήσεις κοινότητας στον αναγνώστη ροής
 
@@ -34,20 +27,8 @@ product: noutube
 
 Για να το δοκιμάσετε, ανοίξτε **Ρυθμίσεις → Εμφάνιση** και ενεργοποιήστε τις **Αναρτήσεις κοινότητας στη ροή**, ακριβώς κάτω από τη **Ροή καναλιών**. Είναι **απενεργοποιημένο από προεπιλογή**: η συμπερίληψη αναρτήσεων σημαίνει έλεγχο της καρτέλας Αναρτήσεις κάθε αποθηκευμένου καναλιού, κάτι που καταναλώνει περισσότερα δεδομένα κατά την ανανέωση της ροής.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ενεργοποιήστε τις αναρτήσεις κοινότητας στις ρυθμίσεις Εμφάνισης.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Οι ρυθμίσεις Εμφάνισης του NouTube στο Android με ενεργοποιημένη τη Ροή καναλιών και τις Αναρτήσεις κοινότητας στη ροή" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Οι αναρτήσεις κοινότητας εμφανίζονται μαζί με βίντεο από τα αποθηκευμένα κανάλια σας.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Η ροή του NouTube που δείχνει αναρτήσεις κοινότητας του Veritasium με κείμενο και εικόνα μαζί με μεταφορτώσεις βίντεο" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Οι ρυθμίσεις Εμφάνισης του NouTube στο Android με ενεργοποιημένη τη Ροή καναλιών και τις Αναρτήσεις κοινότητας στη ροή](/blog/noutube-0-7-10/community-posts-setting.webp "Ενεργοποιήστε τις αναρτήσεις κοινότητας στις ρυθμίσεις Εμφάνισης.")
+![Η ροή του NouTube που δείχνει αναρτήσεις κοινότητας του Veritasium με κείμενο και εικόνα μαζί με μεταφορτώσεις βίντεο](/blog/noutube-0-7-10/community-post-in-feed.webp "Οι αναρτήσεις κοινότητας εμφανίζονται μαζί με βίντεο από τα αποθηκευμένα κανάλια σας.")
 
 ## Μικρότερες διορθώσεις
 

@@ -13,40 +13,25 @@ Duyệt mọi thứ cùng nhau, tách các sở thích của bạn thành các d
 
 Mở một hồ sơ hoặc cộng đồng được hỗ trợ trong thẻ Nora và chọn **Watch** từ menu. Các bài viết mới nhất sẽ xuất hiện trong **Feed** của Nora. Nhấn vào một bài viết để mở trang gốc bất cứ khi nào bạn muốn đọc bình luận hoặc tương tác.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Dòng thời gian tùy chỉnh</h2>
-    <p class="screenshot-card__body">
-      Đọc cập nhật theo thứ tự thời gian từ các tài khoản mạng xã hội đang theo dõi trên Bluesky, Reddit, Mastodon và nhiều nền tảng khác.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Màn hình dòng thời gian bảng tin Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Dòng thời gian tùy chỉnh
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Media</div>
-    <h2 class="screenshot-card__title">Lưới ảnh & video</h2>
-    <p class="screenshot-card__body">
-      Chuyển bất kỳ dòng thời gian nào để chỉ hiển thị ảnh và video trong lưới trực quan, sau đó vuốt qua chúng trong thư viện toàn màn hình.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Màn hình lưới ảnh và video Nora 0.9.0" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Sources</div>
-    <h2 class="screenshot-card__title">Thêm & quản lý nguồn</h2>
-    <p class="screenshot-card__body">
-      Dán hàng loạt liên kết hồ sơ, nhập tệp OPML hoặc lọc và sắp xếp các nguồn đang theo dõi từ một màn hình chuyên dụng.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Màn hình quản lý nguồn bảng tin Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Màn hình dòng thời gian bảng tin Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Đọc cập nhật theo thứ tự thời gian từ các tài khoản mạng xã hội đang theo dõi trên Bluesky, Reddit, Mastodon và nhiều nền tảng khác.")
+
+## Lưới ảnh & video
+
+Media
+
+![Màn hình lưới ảnh và video Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Chuyển bất kỳ dòng thời gian nào để chỉ hiển thị ảnh và video trong lưới trực quan, sau đó vuốt qua chúng trong thư viện toàn màn hình.")
+
+## Thêm & quản lý nguồn
+
+Sources
+
+![Màn hình quản lý nguồn bảng tin Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Dán hàng loạt liên kết hồ sơ, nhập tệp OPML hoặc lọc và sắp xếp các nguồn đang theo dõi từ một màn hình chuyên dụng.")
+:::
 
 Bạn có thể theo dõi:
 

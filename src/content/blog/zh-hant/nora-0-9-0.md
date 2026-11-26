@@ -13,40 +13,25 @@ product: nora
 
 在 Nora 分頁中開啟支援的個人檔案或社群，從選單中選取 **追蹤**（Watch）。最新貼文隨即會顯示於 Nora 的 **動態**（Feed）中。點擊貼文即可隨時開啟原始網頁，查看回覆或進行互動。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">動態</div>
-    <h2 class="screenshot-card__title">自訂時間軸</h2>
-    <p class="screenshot-card__body">
-      按時間先後順序閱讀來自 Bluesky、Reddit、Mastodon 等追蹤社群帳號的最新動態。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 動態時間軸畫面" />
-    </div>
-  </figure>
+:::screenshots
+## 自訂時間軸
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">媒體</div>
-    <h2 class="screenshot-card__title">相片與影片網格</h2>
-    <p class="screenshot-card__body">
-      將任何時間軸切換為僅顯示相片與影片的網格檢視，並在全螢幕藝廊中滑動瀏覽。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 相片與影片網格畫面" />
-    </div>
-  </figure>
+動態
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">來源</div>
-    <h2 class="screenshot-card__title">新增與管理來源</h2>
-    <p class="screenshot-card__body">
-      批次貼上個人檔案連結、匯入 OPML 檔案，或在專屬畫面中篩選與排序追蹤的來源。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 動態來源管理畫面" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 動態時間軸畫面](/blog/nora-0-9-0/feed-timeline.webp "按時間先後順序閱讀來自 Bluesky、Reddit、Mastodon 等追蹤社群帳號的最新動態。")
+
+## 相片與影片網格
+
+媒體
+
+![Nora 0.9.0 相片與影片網格畫面](/blog/nora-0-9-0/media-grid.webp "將任何時間軸切換為僅顯示相片與影片的網格檢視，並在全螢幕藝廊中滑動瀏覽。")
+
+## 新增與管理來源
+
+來源
+
+![Nora 0.9.0 動態來源管理畫面](/blog/nora-0-9-0/manage-sources.webp "批次貼上個人檔案連結、匯入 OPML 檔案，或在專屬畫面中篩選與排序追蹤的來源。")
+:::
 
 您可以追蹤：
 

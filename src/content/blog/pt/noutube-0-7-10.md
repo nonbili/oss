@@ -19,14 +19,7 @@ Quer manter os vídeos transferidos numa pasta dedicada? No **Android**, pode ag
 
 Na caixa de diálogo de transferência, toque em **Procurar** em **Pasta** e escolha uma pasta no seletor de pastas do Android. Para regressar à localização predefinida, toque em **Utilizar pasta Transferências**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Guarde vídeos numa pasta dedicada ou volte para Transferências.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Caixa de diálogo de transferência do NouTube para Android a mostrar Download/NouTube como a pasta selecionada, Procurar e Utilizar pasta Transferências" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Caixa de diálogo de transferência do NouTube para Android a mostrar Download/NouTube como a pasta selecionada, Procurar e Utilizar pasta Transferências](/blog/noutube-0-7-10/download-folder.webp "Guarde vídeos numa pasta dedicada ou volte para Transferências.")
 
 ## Publicações da comunidade no leitor de feeds
 
@@ -34,20 +27,8 @@ Os seus canais guardados podem partilhar atualizações entre carregamentos de v
 
 Para experimentar, abra **Definições → Aspeto** e ative **Publicações da comunidade no feed**, logo abaixo de **Feed de canais**. Está **desativado por predefinição**: incluir publicações significa verificar o separador Publicações de cada canal guardado, o que utiliza mais dados ao atualizar o feed.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ative as publicações da comunidade nas definições de Aspeto.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Definições de Aspeto do NouTube no Android com Feed de canais e Publicações da comunidade no feed ativados" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">As publicações da comunidade aparecem junto aos vídeos dos seus canais guardados.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Feed do NouTube a mostrar publicações da comunidade do Veritasium com texto e uma imagem junto aos vídeos carregados" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Definições de Aspeto do NouTube no Android com Feed de canais e Publicações da comunidade no feed ativados](/blog/noutube-0-7-10/community-posts-setting.webp "Ative as publicações da comunidade nas definições de Aspeto.")
+![Feed do NouTube a mostrar publicações da comunidade do Veritasium com texto e uma imagem junto aos vídeos carregados](/blog/noutube-0-7-10/community-post-in-feed.webp "As publicações da comunidade aparecem junto aos vídeos dos seus canais guardados.")
 
 ## Pequenas correções
 

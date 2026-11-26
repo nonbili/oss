@@ -13,40 +13,25 @@ product: nora
 
 Nora のタブで対応しているプロフィールやコミュニティを開き、メニューから **ウォッチ** を選択します。最新の投稿が Nora の **フィード** に表示されます。返信を読んだりリアクションしたいときは、投稿をタップして元のページを開けます。
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">フィード</div>
-    <h2 class="screenshot-card__title">カスタムタイムライン</h2>
-    <p class="screenshot-card__body">
-      Bluesky、Reddit、Mastodon などのウォッチしたソーシャルアカウントの更新を時系列で閲覧できます。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Nora 0.9.0 フィードタイムライン画面" />
-    </div>
-  </figure>
+:::screenshots
+## カスタムタイムライン
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">メディア</div>
-    <h2 class="screenshot-card__title">写真・動画グリッド</h2>
-    <p class="screenshot-card__body">
-      任意のタイムラインを写真と動画のみのグリッド表示に切り替え、全画面ギャラリーでスワイプしながら閲覧できます。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Nora 0.9.0 写真・動画グリッド画面" />
-    </div>
-  </figure>
+フィード
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">ソース</div>
-    <h2 class="screenshot-card__title">ソースの追加と管理</h2>
-    <p class="screenshot-card__body">
-      プロフィールリンクの一括貼り付け、OPML ファイルのインポート、専用画面からのウォッチ中ソースのフィルタや並べ替えに対応しています。
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Nora 0.9.0 フィードソース管理画面" />
-    </div>
-  </figure>
-</div>
+![Nora 0.9.0 フィードタイムライン画面](/blog/nora-0-9-0/feed-timeline.webp "Bluesky、Reddit、Mastodon などのウォッチしたソーシャルアカウントの更新を時系列で閲覧できます。")
+
+## 写真・動画グリッド
+
+メディア
+
+![Nora 0.9.0 写真・動画グリッド画面](/blog/nora-0-9-0/media-grid.webp "任意のタイムラインを写真と動画のみのグリッド表示に切り替え、全画面ギャラリーでスワイプしながら閲覧できます。")
+
+## ソースの追加と管理
+
+ソース
+
+![Nora 0.9.0 フィードソース管理画面](/blog/nora-0-9-0/manage-sources.webp "プロフィールリンクの一括貼り付け、OPML ファイルのインポート、専用画面からのウォッチ中ソースのフィルタや並べ替えに対応しています。")
+:::
 
 以下のアカウントをフォローできます：
 

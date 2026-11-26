@@ -19,14 +19,7 @@ Vous souhaitez conserver vos vidéos téléchargées dans un dossier dédié ? S
 
 Dans la fenêtre de téléchargement, appuyez sur **Parcourir** sous **Dossier**, puis sélectionnez un dossier dans le sélecteur de dossiers Android. Pour revenir à l'emplacement par défaut, appuyez sur **Utiliser le dossier Téléchargements**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Enregistrez les vidéos dans un dossier dédié ou revenez à Téléchargements.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/download-folder.webp" alt="Boîte de dialogue de téléchargement Android de NouTube affichant Download/NouTube comme dossier sélectionné, Parcourir et Utiliser le dossier Téléchargements" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Boîte de dialogue de téléchargement Android de NouTube affichant Download/NouTube comme dossier sélectionné, Parcourir et Utiliser le dossier Téléchargements](/blog/noutube-0-7-10/download-folder.webp "Enregistrez les vidéos dans un dossier dédié ou revenez à Téléchargements.")
 
 ## Posts de communauté dans le lecteur de flux
 
@@ -34,20 +27,8 @@ Vos chaînes enregistrées peuvent partager des actualités entre deux vidéos. 
 
 Pour l'essayer, ouvrez **Paramètres → Apparence** et activez **Posts de communauté dans le flux**, juste en dessous de **Flux des chaînes**. Cette option est **désactivée par défaut** : inclure les posts implique de vérifier l'onglet Posts de chaque chaîne enregistrée, ce qui consomme davantage de données lors de l'actualisation du flux.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Activez les posts de communauté dans les paramètres d'Apparence.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-posts-setting.webp" alt="Paramètres d'Apparence de NouTube sur Android avec Flux des chaînes et Posts de communauté dans le flux activés" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Les posts de communauté apparaissent aux côtés des vidéos de vos chaînes enregistrées.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-10/community-post-in-feed.webp" alt="Flux de NouTube affichant des posts de communauté de Veritasium avec du texte et une image aux côtés des vidéos publiées" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Paramètres d\'Apparence de NouTube sur Android avec Flux des chaînes et Posts de communauté dans le flux activés](/blog/noutube-0-7-10/community-posts-setting.webp "Activez les posts de communauté dans les paramètres d'Apparence.")
+![Flux de NouTube affichant des posts de communauté de Veritasium avec du texte et une image aux côtés des vidéos publiées](/blog/noutube-0-7-10/community-post-in-feed.webp "Les posts de communauté apparaissent aux côtés des vidéos de vos chaînes enregistrées.")
 
 ## Petites corrections
 

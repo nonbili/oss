@@ -13,39 +13,15 @@ NouTube 0.7.11에서는 **공유**, **URL 열기** 같은 작업을 Android 툴�
 
 **도구**, **데스크톱 사이트**, **설정**, **YouTube / YouTube Music** 전환 버튼도 툴바에 추가할 수 있습니다. 같은 목록에서 **보관함**, **채널 피드**, **기록** 같은 기존 버튼의 순서도 바꿀 수 있습니다.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">공유와 URL 열기를 켜고 목록 맨 위로 드래그합니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="처음 두 행에서 공유와 URL 열기가 켜져 있고 오른쪽에 드래그 핸들이 있는 Android 화면 설정" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">이제 공유와 URL 열기가 시청 페이지 툴바의 첫 두 버튼입니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Big Buck Bunny 시청 페이지 위의 NouTube 툴바. 맨 왼쪽에 공유 아이콘과 URL 열기 링크 아이콘이 있음" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![처음 두 행에서 공유와 URL 열기가 켜져 있고 오른쪽에 드래그 핸들이 있는 Android 화면 설정](/blog/noutube-0-7-11/android-toolbar-settings.webp "공유와 URL 열기를 켜고 목록 맨 위로 드래그합니다.")
+![Big Buck Bunny 시청 페이지 위의 NouTube 툴바. 맨 왼쪽에 공유 아이콘과 URL 열기 링크 아이콘이 있음](/blog/noutube-0-7-11/android-toolbar-result.webp "이제 공유와 URL 열기가 시청 페이지 툴바의 첫 두 버튼입니다.")
 
 ## iPhone과 iPad에서 동영상 다운로드하기
 
 저장 권한이 있는 동영상에서 **도구**를 열고 **동영상 다운로드**를 탭합니다. 호환되는 MP4가 있으면 NouTube가 이를 다운로드합니다. 다운로드가 끝나면 **내보내기**를 탭해 파일을 저장하거나 공유합니다.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">도구에 현재 동영상의 URL이 자동으로 입력됩니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="동영상 URL이 입력되어 있고 MP4 제공 여부 안내와 동영상 다운로드 버튼이 있는 iPhone 다운로드 패널" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">파일이 준비되면 다운로드 기록에 내보내기가 나타납니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="초록색 체크 표시, 다운로드 완료 상태, 내보내기 버튼이 있는 iPhone 다운로드 기록 항목" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![동영상 URL이 입력되어 있고 MP4 제공 여부 안내와 동영상 다운로드 버튼이 있는 iPhone 다운로드 패널](/blog/noutube-0-7-11/ios-download-tools.webp "도구에 현재 동영상의 URL이 자동으로 입력됩니다.")
+![초록색 체크 표시, 다운로드 완료 상태, 내보내기 버튼이 있는 iPhone 다운로드 기록 항목](/blog/noutube-0-7-11/ios-download-export.webp "파일이 준비되면 다운로드 기록에 내보내기가 나타납니다.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ NouTube 0.7.11에서는 **공유**, **URL 열기** 같은 작업을 Android 툴�
 
 YouTube 시청 페이지에서 댓글 섹션을 없애려면 **설정 → 환경설정 → 방해 요소 제거**를 열고 **댓글 숨기기**를 켭니다.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">댓글 숨기기는 방해 요소 제거 설정 맨 아래에 있습니다.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="방해 요소 제거 섹션 맨 아래에서 댓글 숨기기 스위치가 켜져 있는 Android 환경설정 화면" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![방해 요소 제거 섹션 맨 아래에서 댓글 숨기기 스위치가 켜져 있는 Android 환경설정 화면](/blog/noutube-0-7-11/hide-comments-setting.webp "댓글 숨기기는 방해 요소 제거 설정 맨 아래에 있습니다.")
 
 ## 기타 수정 사항
 

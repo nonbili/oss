@@ -13,39 +13,15 @@ Apri **Impostazioni → Aspetto → Pulsanti della barra degli strumenti**. Usa 
 
 Puoi anche aggiungere alla barra degli strumenti **Strumenti**, **Sito desktop**, **Impostazioni** o il selettore **YouTube / YouTube Music**. Nello stesso elenco puoi riordinare i pulsanti esistenti come **Libreria**, **Feed dei canali** e **Cronologia**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Attiva Condividi e Apri URL e trascinali in cima all’elenco.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Impostazioni Aspetto su Android con Condividi e Apri URL attivati nelle prime due righe e maniglie di trascinamento a destra" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Condividi e Apri URL sono ora i primi due pulsanti della barra degli strumenti nella pagina di riproduzione.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Barra degli strumenti di NouTube sopra la pagina di riproduzione di Big Buck Bunny, con l’icona Condividi e l’icona di collegamento Apri URL all’estrema sinistra" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Impostazioni Aspetto su Android con Condividi e Apri URL attivati nelle prime due righe e maniglie di trascinamento a destra](/blog/noutube-0-7-11/android-toolbar-settings.webp "Attiva Condividi e Apri URL e trascinali in cima all’elenco.")
+![Barra degli strumenti di NouTube sopra la pagina di riproduzione di Big Buck Bunny, con l’icona Condividi e l’icona di collegamento Apri URL all’estrema sinistra](/blog/noutube-0-7-11/android-toolbar-result.webp "Condividi e Apri URL sono ora i primi due pulsanti della barra degli strumenti nella pagina di riproduzione.")
 
 ## Scarica i video su iPhone e iPad
 
 Per un video che hai il permesso di salvare, apri **Strumenti** e tocca **Download video**. NouTube scarica un MP4 compatibile quando è disponibile. Al termine del download, tocca **Esporta** per salvare o condividere il file.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Strumenti compila automaticamente l’URL del video corrente.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Pannello di download su iPhone con l’URL del video compilato, una nota sulla disponibilità dell’MP4 e il pulsante Download video" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Esporta compare nella Cronologia download quando il file è pronto.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Voce della Cronologia download su iPhone con un segno di spunta verde, lo stato Download completato e un pulsante Esporta" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pannello di download su iPhone con l’URL del video compilato, una nota sulla disponibilità dell’MP4 e il pulsante Download video](/blog/noutube-0-7-11/ios-download-tools.webp "Strumenti compila automaticamente l’URL del video corrente.")
+![Voce della Cronologia download su iPhone con un segno di spunta verde, lo stato Download completato e un pulsante Esporta](/blog/noutube-0-7-11/ios-download-export.webp "Esporta compare nella Cronologia download quando il file è pronto.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Su dispositivi mobili, scorri verso l’alto sul player di YouTube per passare a
 
 Per rimuovere la sezione dei commenti dalle pagine di riproduzione di YouTube, apri **Impostazioni → Preferenze → Senza distrazioni** e attiva **Nascondi commenti**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nascondi commenti si trova in fondo alle impostazioni Senza distrazioni.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Schermata Preferenze su Android con l’interruttore Nascondi commenti attivo in fondo alla sezione Senza distrazioni" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Schermata Preferenze su Android con l’interruttore Nascondi commenti attivo in fondo alla sezione Senza distrazioni](/blog/noutube-0-7-11/hide-comments-setting.webp "Nascondi commenti si trova in fondo alle impostazioni Senza distrazioni.")
 
 ## Altre correzioni
 

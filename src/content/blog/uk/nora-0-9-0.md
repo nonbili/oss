@@ -13,40 +13,25 @@ product: nora
 
 Відкрийте підтримуваний профіль або спільноту у вкладці Nora та виберіть **Watch** у меню. Останні дописи з'являться у **Feed** в Nora. Натисніть на допис, щоб відкрити оригінальну сторінку, коли захочете прочитати відповіді або взаємодіяти.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Стрічка</div>
-    <h2 class="screenshot-card__title">Власні стрічки</h2>
-    <p class="screenshot-card__body">
-      Читайте хронологічні оновлення від відстежуваних акаунтів у Bluesky, Reddit, Mastodon та інших мережах.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Екран хронологічної стрічки Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Власні стрічки
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Медіа</div>
-    <h2 class="screenshot-card__title">Сітка фото та відео</h2>
-    <p class="screenshot-card__body">
-      Перемкніть будь-яку стрічку в режим показу лише фото та відео у вигляді візуальної сітки, а потім гортайте їх у повноекранній галереї.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Екран сітки фото та відео Nora 0.9.0" />
-    </div>
-  </figure>
+Стрічка
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Джерела</div>
-    <h2 class="screenshot-card__title">Додавання та керування джерелами</h2>
-    <p class="screenshot-card__body">
-      Вставляйте посилання на профілі списком, імпортуйте OPML-файли або фільтруйте й сортуйте відстежувані джерела на окремому екрані.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Екран керування джерелами стрічки Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Екран хронологічної стрічки Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Читайте хронологічні оновлення від відстежуваних акаунтів у Bluesky, Reddit, Mastodon та інших мережах.")
+
+## Сітка фото та відео
+
+Медіа
+
+![Екран сітки фото та відео Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Перемкніть будь-яку стрічку в режим показу лише фото та відео у вигляді візуальної сітки, а потім гортайте їх у повноекранній галереї.")
+
+## Додавання та керування джерелами
+
+Джерела
+
+![Екран керування джерелами стрічки Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Вставляйте посилання на профілі списком, імпортуйте OPML-файли або фільтруйте й сортуйте відстежувані джерела на окремому екрані.")
+:::
 
 Ви можете стежити за:
 

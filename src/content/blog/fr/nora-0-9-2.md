@@ -18,40 +18,25 @@ Suivre des profils publics **Instagram** et **X** sans se connecter peut se heur
 
 Ces deux options sont désactivées par défaut et peuvent être activées à tout moment dans les **Paramètres du flux**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Paramètres du flux</div>
-    <h2 class="screenshot-card__title">Sources imginn et Nitter</h2>
-    <p class="screenshot-card__body">
-      Lisez les profils Instagram depuis imginn et les profils X depuis vos instances Nitter configurées — en tant que source de secours ou source principale.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/feed-settings.webp" alt="Paramètres du flux de Nora 0.9.2 affichant les options imginn et Nitter" />
-    </div>
-  </figure>
+:::screenshots
+## Sources imginn et Nitter
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Médias</div>
-    <h2 class="screenshot-card__title">Galerie plein écran et zoom</h2>
-    <p class="screenshot-card__body">
-      Pincez pour zoomer sur les photos et vidéos dans la galerie plein écran, maintenez le bord de l'écran pour accélérer la lecture ou enregistrez directement les médias.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/media-gallery.webp" alt="Écran de la galerie multimédia plein écran de Nora 0.9.2" />
-    </div>
-  </figure>
+Paramètres du flux
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Profils</div>
-    <h2 class="screenshot-card__title">Rouvrir l'onglet dans un profil</h2>
-    <p class="screenshot-card__body">
-      Basculez n'importe quel onglet mobile ouvert vers un autre profil Nora directement depuis le menu d'en-tête ou le sélecteur d'onglets.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-2/reopen-in-profile.webp" alt="Boîte de dialogue de réouverture d'onglet dans un profil de Nora 0.9.2" />
-    </div>
-  </figure>
-</div>
+![Paramètres du flux de Nora 0.9.2 affichant les options imginn et Nitter](/blog/nora-0-9-2/feed-settings.webp "Lisez les profils Instagram depuis imginn et les profils X depuis vos instances Nitter configurées — en tant que source de secours ou source principale.")
+
+## Galerie plein écran et zoom
+
+Médias
+
+![Écran de la galerie multimédia plein écran de Nora 0.9.2](/blog/nora-0-9-2/media-gallery.webp "Pincez pour zoomer sur les photos et vidéos dans la galerie plein écran, maintenez le bord de l'écran pour accélérer la lecture ou enregistrez directement les médias.")
+
+## Rouvrir l\'onglet dans un profil
+
+Profils
+
+![Boîte de dialogue de réouverture d\'onglet dans un profil de Nora 0.9.2](/blog/nora-0-9-2/reopen-in-profile.webp "Basculez n'importe quel onglet mobile ouvert vers un autre profil Nora directement depuis le menu d'en-tête ou le sélecteur d'onglets.")
+:::
 
 ## Commandes vidéo du flux, zoom et notifications
 

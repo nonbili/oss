@@ -22,14 +22,7 @@ Android sākuma ekrāna īsceļi tagad piedāvā konteksta izvēlnes:
 
 Varat turpināt lasīt atsevišķajā logā un nosūtīt saiti uz Nora, kad vēlaties to izpētīt cilnē.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Ilgi nospiežot attēlu Android sākuma ekrāna īsceļā, atveras Nora attēlu darbības.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Nora atsevišķais Android īsceļš, kas rāda darbības Saglabāt attēlu, Atvērt attēlu jaunā cilnē un Kopēt attēla saiti" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nora atsevišķais Android īsceļš, kas rāda darbības Saglabāt attēlu, Atvērt attēlu jaunā cilnē un Kopēt attēla saiti](/blog/nora-0-9-6/shortcut-image-menu.webp "Ilgi nospiežot attēlu Android sākuma ekrāna īsceļā, atveras Nora attēlu darbības.")
 
 ## Vieglāka lasīšana plūsmā
 

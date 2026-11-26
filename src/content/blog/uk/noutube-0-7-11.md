@@ -13,39 +13,15 @@ NouTube 0.7.11 дає змогу розміщувати дії на кшталт
 
 На панель інструментів також можна додати **Інструменти**, **Десктопний вид**, **Налаштування** або перемикач **YouTube / YouTube Music**. У тому ж списку можна змінити порядок наявних кнопок, як-от **Бібліотека**, **Стрічка каналів** та **Історія**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Увімкніть Поділитись і Відкрити URL та перетягніть їх на початок списку.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Налаштування вигляду на Android: Поділитись і Відкрити URL увімкнено в перших двох рядках, праворуч — маркери перетягування" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Тепер Поділитись і Відкрити URL — перші дві кнопки на панелі інструментів сторінки перегляду.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="Панель інструментів NouTube над сторінкою перегляду Big Buck Bunny, ліворуч значок Поділитись і значок посилання Відкрити URL" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Налаштування вигляду на Android: Поділитись і Відкрити URL увімкнено в перших двох рядках, праворуч — маркери перетягування](/blog/noutube-0-7-11/android-toolbar-settings.webp "Увімкніть Поділитись і Відкрити URL та перетягніть їх на початок списку.")
+![Панель інструментів NouTube над сторінкою перегляду Big Buck Bunny, ліворуч значок Поділитись і значок посилання Відкрити URL](/blog/noutube-0-7-11/android-toolbar-result.webp "Тепер Поділитись і Відкрити URL — перші дві кнопки на панелі інструментів сторінки перегляду.")
 
 ## Завантаження відео на iPhone та iPad
 
 Для відео, яке вам дозволено зберігати, відкрийте **Інструменти** й торкніться **Завантажити відео**. NouTube завантажить сумісний MP4, якщо він доступний. Коли завантаження завершиться, торкніться **Експортувати**, щоб зберегти файл або поділитися ним.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Інструменти автоматично підставляють URL поточного відео.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="Панель завантаження на iPhone із заповненим URL відео, приміткою про доступність MP4 та кнопкою Завантажити відео" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Коли файл готовий, в історії завантажень з'являється кнопка Експортувати.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Запис в історії завантажень на iPhone із зеленою позначкою, статусом Завантаження завершено та кнопкою Експортувати" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Панель завантаження на iPhone із заповненим URL відео, приміткою про доступність MP4 та кнопкою Завантажити відео](/blog/noutube-0-7-11/ios-download-tools.webp "Інструменти автоматично підставляють URL поточного відео.")
+![Запис в історії завантажень на iPhone із зеленою позначкою, статусом Завантаження завершено та кнопкою Експортувати](/blog/noutube-0-7-11/ios-download-export.webp "Коли файл готовий, в історії завантажень з'являється кнопка Експортувати.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ NouTube 0.7.11 дає змогу розміщувати дії на кшталт
 
 Щоб прибрати розділ коментарів зі сторінок перегляду YouTube, відкрийте **Налаштування → Бажані → Без відволікань** і ввімкніть **Приховати коментарі**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Приховати коментарі розташовано в самому низу розділу Без відволікань.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Екран бажаних налаштувань на Android з увімкненим перемикачем Приховати коментарі в самому низу розділу Без відволікань" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Екран бажаних налаштувань на Android з увімкненим перемикачем Приховати коментарі в самому низу розділу Без відволікань](/blog/noutube-0-7-11/hide-comments-setting.webp "Приховати коментарі розташовано в самому низу розділу Без відволікань.")
 
 ## Інші виправлення
 

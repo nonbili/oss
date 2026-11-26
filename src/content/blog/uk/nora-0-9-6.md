@@ -22,14 +22,7 @@ product: nora
 
 Ви можете продовжувати читання в окремому вікні та надсилати посилання до Nora, коли захочете відкрити їх у вкладці.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Довге натискання на зображення в ярлику на головному екрані Android відкриває дії Nora для зображень.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-6/shortcut-image-menu.webp" alt="Окремий ярлик Nora на Android із діями Save image, Open image in new tab та Copy image link" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Окремий ярлик Nora на Android із діями Save image, Open image in new tab та Copy image link](/blog/nora-0-9-6/shortcut-image-menu.webp "Довге натискання на зображення в ярлику на головному екрані Android відкриває дії Nora для зображень.")
 
 ## Зручніше читання у стрічці
 

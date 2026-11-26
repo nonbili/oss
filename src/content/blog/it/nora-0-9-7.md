@@ -17,14 +17,7 @@ Su Android, apri **Impostazioni → Preferenze → Download → Salva download i
 
 Se scegli una cartella, Nora la utilizza anche per i contenuti multimediali salvati dal feed su Android 10 e versioni successive. Questa versione corregge inoltre i download dai link `data:`, utilizzati da alcuni siti per i file generati nel browser.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads è selezionata come destinazione per i download futuri.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Impostazioni di download di Android con Nora Downloads selezionata e le opzioni Download, Chiedi ogni volta e Scegli cartella visibili" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Impostazioni di download di Android con Nora Downloads selezionata e le opzioni Download, Chiedi ogni volta e Scegli cartella visibili](/blog/nora-0-9-7/download-destination.webp "Nora Downloads è selezionata come destinazione per i download futuri.")
 
 ## Personalizza il menu a tre punti
 
@@ -32,20 +25,8 @@ Apri **Impostazioni → Aspetto → Barra degli strumenti → Personalizza menu 
 
 **Impostazioni** rimane nel menu e **Ripristina menu predefinito** annulla le modifiche con un tocco.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Mantieni attivo Trova nella pagina e disattiva Sito desktop.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Impostazioni espanse di Personalizza menu a tre punti con Trova nella pagina attivo e Sito desktop disattivato" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Il menu del browser mantiene Trova nella pagina, Condividi e Impostazioni.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Menu personalizzato del browser che mostra Trova nella pagina, Condividi e Impostazioni, con Sito desktop nascosto" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Impostazioni espanse di Personalizza menu a tre punti con Trova nella pagina attivo e Sito desktop disattivato](/blog/nora-0-9-7/customize-three-dot-menu.webp "Mantieni attivo Trova nella pagina e disattiva Sito desktop.")
+![Menu personalizzato del browser che mostra Trova nella pagina, Condividi e Impostazioni, con Sito desktop nascosto](/blog/nora-0-9-7/customized-three-dot-menu.webp "Il menu del browser mantiene Trova nella pagina, Condividi e Impostazioni.")
 
 ## WhatsApp Web e Facebook Marketplace si aprono in modalità desktop
 

@@ -21,14 +21,7 @@ Dans l'éditeur de favoris, **Publication enregistrée** affiche la date de votr
 
 L'enregistrement automatique est activé par défaut. Vous pouvez le désactiver dans **Paramètres → Général → Enregistrer les publications sociales hors ligne**. Si vous utilisez **Nori Sync**, les publications enregistrées et leurs images sont synchronisées sur tous vos appareils.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Une publication Bluesky enregistrée reste lisible avec son image lorsque le téléphone est en mode avion.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="Nori affichant une publication Bluesky enregistrée avec l'auteur, le texte et l'image jointe, avec le mode avion activé" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Nori affichant une publication Bluesky enregistrée avec l\'auteur, le texte et l\'image jointe, avec le mode avion activé](/blog/nori-0-2-9/saved-social-post.webp "Une publication Bluesky enregistrée reste lisible avec son image lorsque le téléphone est en mode avion.")
 
 ## Partager bien plus qu'un lien
 
@@ -38,14 +31,7 @@ Choisissez un arrière-plan **clair ou sombre** et décidez d'inclure ou non la 
 
 Touchez **Partager** pour envoyer la carte via la feuille de partage de votre appareil, ou touchez le bouton de téléchargement pour **Enregistrer l'image** dans votre photothèque.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Prévisualisez la carte, choisissez quoi inclure, puis partagez ou enregistrez l'image.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="Aperçu de Partager en image avec thèmes clair et sombre, contrôles Note et Étiquettes, bouton de téléchargement et bouton Partager" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Aperçu de Partager en image avec thèmes clair et sombre, contrôles Note et Étiquettes, bouton de téléchargement et bouton Partager](/blog/nori-0-2-9/share-as-image.webp "Prévisualisez la carte, choisissez quoi inclure, puis partagez ou enregistrez l'image.")
 
 ## Donner à chaque liste son propre ordre
 
@@ -59,14 +45,7 @@ Ouvrez **Modifier la liste**, ou créez une **Nouvelle liste**, puis choisissez 
 
 Ce choix s'applique uniquement à cette liste, de sorte que vos autres listes conservent leur propre ordre. Vous pouvez aussi renommer la liste dans le même éditeur.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Choisissez un ordre des favoris pour la liste Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="Modifier la liste pour Reading queue avec les cinq options d'ordre des favoris visibles" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Modifier la liste pour Reading queue avec les cinq options d\'ordre des favoris visibles](/blog/nori-0-2-9/list-bookmark-order.webp "Choisissez un ordre des favoris pour la liste Reading queue.")
 
 Cette version améliore également le défilement dans le tiroir **Tous les favoris** sur iOS et corrige un problème de synchronisation. Consultez les [notes de version complètes](https://github.com/nonbili/Nori/releases/tag/v0.2.9) pour plus de détails.
 

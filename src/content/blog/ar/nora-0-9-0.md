@@ -13,40 +13,25 @@ product: nora
 
 افتح أي ملف شخصي أو مجتمع مدعوم في علامة تبويب Nora وحدد **مراقبة** من القائمة. ستظهر أحدث منشوراته في **خلاصة** Nora. اضغط على أي منشور لفتح الصفحة الأصلية متى أردت قراءة الردود أو التفاعل.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">خلاصة</div>
-    <h2 class="screenshot-card__title">خطوط زمنية مخصصة</h2>
-    <p class="screenshot-card__body">
-      اقرأ التحديثات مرتبة زمنيًا من الحسابات الاجتماعية المراقبة عبر Bluesky و Reddit و Mastodon وغيرها.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="شاشة الخط الزمني للخلاصة في Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## خطوط زمنية مخصصة
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">وسائط</div>
-    <h2 class="screenshot-card__title">شبكة الصور ومقاطع الفيديو</h2>
-    <p class="screenshot-card__body">
-      بدّل أي خط زمني لعرض الصور ومقاطع الفيديو فقط في شبكة مرئية، ثم تنقل بينها عبر التمرير في معرض ملء الشاشة.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="شاشة شبكة الصور ومقاطع الفيديو في Nora 0.9.0" />
-    </div>
-  </figure>
+خلاصة
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">المصادر</div>
-    <h2 class="screenshot-card__title">إضافة المصادر وإدارتها</h2>
-    <p class="screenshot-card__body">
-      الصق روابط الملفات الشخصية دفعة واحدة، أو استورد ملفات OPML، أو قم بتصفية مصادرك المراقبة وفرزها من شاشة مخصصة.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="شاشة إدارة مصادر الخلاصة في Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![شاشة الخط الزمني للخلاصة في Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "اقرأ التحديثات مرتبة زمنيًا من الحسابات الاجتماعية المراقبة عبر Bluesky و Reddit و Mastodon وغيرها.")
+
+## شبكة الصور ومقاطع الفيديو
+
+وسائط
+
+![شاشة شبكة الصور ومقاطع الفيديو في Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "بدّل أي خط زمني لعرض الصور ومقاطع الفيديو فقط في شبكة مرئية، ثم تنقل بينها عبر التمرير في معرض ملء الشاشة.")
+
+## إضافة المصادر وإدارتها
+
+المصادر
+
+![شاشة إدارة مصادر الخلاصة في Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "الصق روابط الملفات الشخصية دفعة واحدة، أو استورد ملفات OPML، أو قم بتصفية مصادرك المراقبة وفرزها من شاشة مخصصة.")
+:::
 
 يمكنك متابعة:
 

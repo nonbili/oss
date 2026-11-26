@@ -13,39 +13,15 @@ Mit NouTube 0.7.11 kannst du Aktionen wie **Teilen** und **URL öffnen** direkt 
 
 Du kannst auch **Werkzeuge**, **Desktop-Website**, **Einstellungen** oder den Umschalter **YouTube / YouTube Music** zur Werkzeugleiste hinzufügen. In derselben Liste lassen sich vorhandene Schaltflächen wie **Bibliothek**, **Kanal-Feed** und **Verlauf** neu anordnen.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Aktiviere Teilen und URL öffnen und ziehe sie an den Anfang der Liste.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Android-Einstellungen für das Aussehen mit aktiviertem Teilen und URL öffnen in den ersten beiden Zeilen und Ziehgriffen rechts" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Teilen und URL öffnen sind jetzt die ersten beiden Schaltflächen der Werkzeugleiste auf der Wiedergabeseite.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="NouTube-Werkzeugleiste über der Wiedergabeseite von Big Buck Bunny, mit dem Teilen-Symbol und dem Link-Symbol für URL öffnen ganz links" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android-Einstellungen für das Aussehen mit aktiviertem Teilen und URL öffnen in den ersten beiden Zeilen und Ziehgriffen rechts](/blog/noutube-0-7-11/android-toolbar-settings.webp "Aktiviere Teilen und URL öffnen und ziehe sie an den Anfang der Liste.")
+![NouTube-Werkzeugleiste über der Wiedergabeseite von Big Buck Bunny, mit dem Teilen-Symbol und dem Link-Symbol für URL öffnen ganz links](/blog/noutube-0-7-11/android-toolbar-result.webp "Teilen und URL öffnen sind jetzt die ersten beiden Schaltflächen der Werkzeugleiste auf der Wiedergabeseite.")
 
 ## Videos auf iPhone und iPad herunterladen
 
 Öffne bei einem Video, das du speichern darfst, **Werkzeuge** und tippe auf **Video herunterladen**. NouTube lädt eine kompatible MP4-Datei herunter, sofern eine verfügbar ist. Wenn der Download abgeschlossen ist, tippe auf **Exportieren**, um die Datei zu speichern oder zu teilen.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Werkzeuge trägt die URL des aktuellen Videos automatisch ein.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="iPhone-Downloadbereich mit eingetragener Video-URL, einem Hinweis zur MP4-Verfügbarkeit und der Schaltfläche Video herunterladen" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Exportieren erscheint im Download-Verlauf, sobald die Datei bereit ist.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="Eintrag im Download-Verlauf auf dem iPhone mit grünem Häkchen, dem Status Herunterladen abgeschlossen und einer Exportieren-Schaltfläche" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![iPhone-Downloadbereich mit eingetragener Video-URL, einem Hinweis zur MP4-Verfügbarkeit und der Schaltfläche Video herunterladen](/blog/noutube-0-7-11/ios-download-tools.webp "Werkzeuge trägt die URL des aktuellen Videos automatisch ein.")
+![Eintrag im Download-Verlauf auf dem iPhone mit grünem Häkchen, dem Status Herunterladen abgeschlossen und einer Exportieren-Schaltfläche](/blog/noutube-0-7-11/ios-download-export.webp "Exportieren erscheint im Download-Verlauf, sobald die Datei bereit ist.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Wische auf Mobilgeräten auf dem YouTube-Player nach oben, um in den Vollbildmod
 
 Um den Kommentarbereich von YouTube-Wiedergabeseiten zu entfernen, öffne **Einstellungen → Voreinstellungen → Ablenkungsfrei** und aktiviere **Kommentare ausblenden**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kommentare ausblenden befindet sich ganz unten in den Ablenkungsfrei-Einstellungen.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Android-Bildschirm Voreinstellungen mit aktiviertem Schalter Kommentare ausblenden ganz unten im Abschnitt Ablenkungsfrei" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Android-Bildschirm Voreinstellungen mit aktiviertem Schalter Kommentare ausblenden ganz unten im Abschnitt Ablenkungsfrei](/blog/noutube-0-7-11/hide-comments-setting.webp "Kommentare ausblenden befindet sich ganz unten in den Ablenkungsfrei-Einstellungen.")
 
 ## Weitere Korrekturen
 

@@ -17,14 +17,7 @@ Ava Androidis **Seaded → Eelistused → Allalaadimised → Salvesta allalaadim
 
 Kui valid kausta, kasutab Nora seda Android 10 ja uuemates versioonides ka voost salvestatud meedia jaoks. See väljalase parandab ka allalaadimised `data:`-linkidelt, mida mõned saidid kasutavad brauseris loodud failide jaoks.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Nora Downloads on valitud tulevaste allalaadimiste sihtkohaks.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/download-destination.webp" alt="Androidi allalaadimiste seaded, kus on valitud Nora Downloads ning nähtavad valikud Allalaadimised, Küsi iga kord ja Vali kaust" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Androidi allalaadimiste seaded, kus on valitud Nora Downloads ning nähtavad valikud Allalaadimised, Küsi iga kord ja Vali kaust](/blog/nora-0-9-7/download-destination.webp "Nora Downloads on valitud tulevaste allalaadimiste sihtkohaks.")
 
 ## Kohanda kolme punktiga menüüd
 
@@ -32,20 +25,8 @@ Ava **Seaded → Välimus → Tööriistariba → Kohanda kolme punktiga menüü
 
 **Seaded** jääb menüüsse alles ja **Taasta menüü vaikesätted** tühistab sinu muudatused ühe puudutusega.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Jäta „Otsi lehelt“ sisselülitatuks ja lülita „Töölauasait“ välja.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customize-three-dot-menu.webp" alt="Laiendatud kolme punktiga menüü kohandamise seaded, kus Otsi lehelt on sees ja Töölauasait väljas" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Brauseri menüü jätab alles valikud Otsi lehelt, Jaga ja Seaded.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-7/customized-three-dot-menu.webp" alt="Kohandatud brauserimenüü, kus on nähtavad Otsi lehelt, Jaga ja Seaded ning Töölauasait on peidetud" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Laiendatud kolme punktiga menüü kohandamise seaded, kus Otsi lehelt on sees ja Töölauasait väljas](/blog/nora-0-9-7/customize-three-dot-menu.webp "Jäta „Otsi lehelt“ sisselülitatuks ja lülita „Töölauasait“ välja.")
+![Kohandatud brauserimenüü, kus on nähtavad Otsi lehelt, Jaga ja Seaded ning Töölauasait on peidetud](/blog/nora-0-9-7/customized-three-dot-menu.webp "Brauseri menüü jätab alles valikud Otsi lehelt, Jaga ja Seaded.")
 
 ## WhatsApp Web ja Facebook Marketplace avanevad töölauarežiimis
 

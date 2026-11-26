@@ -13,40 +13,25 @@ Explora todo junto, separa tus intereses en diferentes cronologías o cambia a u
 
 Abre un perfil o comunidad compatible en una pestaña de Nora y selecciona **Seguir** en el menú. Sus últimas publicaciones aparecerán en el **Feed** de Nora. Toca una publicación para abrir la página original siempre que desees leer respuestas o interactuar.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Feed</div>
-    <h2 class="screenshot-card__title">Cronologías personalizadas</h2>
-    <p class="screenshot-card__body">
-      Lee actualizaciones cronológicas de cuentas sociales seguidas en Bluesky, Reddit, Mastodon y más.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/feed-timeline.webp" alt="Pantalla de cronología del feed de Nora 0.9.0" />
-    </div>
-  </figure>
+:::screenshots
+## Cronologías personalizadas
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Multimedia</div>
-    <h2 class="screenshot-card__title">Cuadrícula de fotos y vídeos</h2>
-    <p class="screenshot-card__body">
-      Cambia cualquier cronología para ver solo fotos y vídeos en una cuadrícula visual y navega por ellos deslizando en la galería a pantalla completa.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/media-grid.webp" alt="Pantalla de cuadrícula de fotos y vídeos de Nora 0.9.0" />
-    </div>
-  </figure>
+Feed
 
-  <figure class="screenshot-card">
-    <div class="screenshot-card__eyebrow">Fuentes</div>
-    <h2 class="screenshot-card__title">Añadir y gestionar fuentes</h2>
-    <p class="screenshot-card__body">
-      Pega enlaces de perfiles por lotes, importa archivos OPML, o filtra y ordena tus fuentes seguidas desde una pantalla dedicada.
-    </p>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-0/manage-sources.webp" alt="Pantalla de gestión de fuentes de feed de Nora 0.9.0" />
-    </div>
-  </figure>
-</div>
+![Pantalla de cronología del feed de Nora 0.9.0](/blog/nora-0-9-0/feed-timeline.webp "Lee actualizaciones cronológicas de cuentas sociales seguidas en Bluesky, Reddit, Mastodon y más.")
+
+## Cuadrícula de fotos y vídeos
+
+Multimedia
+
+![Pantalla de cuadrícula de fotos y vídeos de Nora 0.9.0](/blog/nora-0-9-0/media-grid.webp "Cambia cualquier cronología para ver solo fotos y vídeos en una cuadrícula visual y navega por ellos deslizando en la galería a pantalla completa.")
+
+## Añadir y gestionar fuentes
+
+Fuentes
+
+![Pantalla de gestión de fuentes de feed de Nora 0.9.0](/blog/nora-0-9-0/manage-sources.webp "Pega enlaces de perfiles por lotes, importa archivos OPML, o filtra y ordena tus fuentes seguidas desde una pantalla dedicada.")
+:::
 
 Puedes seguir:
 

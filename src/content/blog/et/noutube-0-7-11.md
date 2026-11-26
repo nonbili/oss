@@ -13,39 +13,15 @@ Ava **Seaded → Välimus → Tööriistariba nupud**. Vali lülititega, millise
 
 Tööriistaribale saad lisada ka **Tööriistad**, **Arvutisaidi**, **Seaded** või lüliti **YouTube / YouTube Music**. Samas loendis saad ümber järjestada olemasolevaid nuppe, nagu **Kogu**, **Kanalite voog** ja **Ajalugu**.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Lülita sisse Jaga ja Ava URL ning lohista need loendi algusesse.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-settings.webp" alt="Androidi välimuse seaded, kus Jaga ja Ava URL on kahes esimeses reas sisse lülitatud ja paremal on lohistamispidemed" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Jaga ja Ava URL on nüüd vaatamislehe tööriistariba kaks esimest nuppu.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/android-toolbar-result.webp" alt="NouTube'i tööriistariba Big Buck Bunny vaatamislehe kohal, vasakus servas Jaga ikoon ja Ava URL lingiikoon" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Androidi välimuse seaded, kus Jaga ja Ava URL on kahes esimeses reas sisse lülitatud ja paremal on lohistamispidemed](/blog/noutube-0-7-11/android-toolbar-settings.webp "Lülita sisse Jaga ja Ava URL ning lohista need loendi algusesse.")
+![NouTube\'i tööriistariba Big Buck Bunny vaatamislehe kohal, vasakus servas Jaga ikoon ja Ava URL lingiikoon](/blog/noutube-0-7-11/android-toolbar-result.webp "Jaga ja Ava URL on nüüd vaatamislehe tööriistariba kaks esimest nuppu.")
 
 ## Laadi videoid alla iPhone'is ja iPadis
 
 Video puhul, mida sul on luba salvestada, ava **Tööriistad** ja puuduta **Laadi video alla**. NouTube laadib alla ühilduva MP4-faili, kui see on saadaval. Kui allalaadimine on lõppenud, puuduta **Ekspordi**, et fail salvestada või jagada.
 
-<div class="screenshot-gallery">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Tööriistad täidavad praeguse video URL-i automaatselt.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-tools.webp" alt="iPhone'i allalaadimispaneel täidetud video URL-i, MP4 saadavuse märkuse ja nupuga Laadi video alla" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Kui fail on valmis, ilmub allalaadimiste ajalukku nupp Ekspordi.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/ios-download-export.webp" alt="iPhone'i allalaadimiste ajaloo kirje rohelise linnukese, olekuga Allalaadimine lõpetatud ja nupuga Ekspordi" width="1206" height="2622" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![iPhone\'i allalaadimispaneel täidetud video URL-i, MP4 saadavuse märkuse ja nupuga Laadi video alla](/blog/noutube-0-7-11/ios-download-tools.webp "Tööriistad täidavad praeguse video URL-i automaatselt.")
+![iPhone\'i allalaadimiste ajaloo kirje rohelise linnukese, olekuga Allalaadimine lõpetatud ja nupuga Ekspordi](/blog/noutube-0-7-11/ios-download-export.webp "Kui fail on valmis, ilmub allalaadimiste ajalukku nupp Ekspordi.")
 
 *Big Buck Bunny* © 2008 Blender Foundation / [www.bigbuckbunny.org](https://peach.blender.org/about/). [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
 
@@ -57,14 +33,7 @@ Mobiilis pühi YouTube'i pleieril üles, et minna täisekraanile, ja alla, et na
 
 Kommentaaride jaotise eemaldamiseks YouTube'i vaatamislehtedelt ava **Seaded → Eelistused → Segajateta** ja lülita sisse **Peida kommentaarid**.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Peida kommentaarid asub Segajateta seadete allosas.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/noutube-0-7-11/hide-comments-setting.webp" alt="Androidi eelistuste kuva, kus lüliti Peida kommentaarid on Segajateta jaotise allosas sisse lülitatud" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Androidi eelistuste kuva, kus lüliti Peida kommentaarid on Segajateta jaotise allosas sisse lülitatud](/blog/noutube-0-7-11/hide-comments-setting.webp "Peida kommentaarid asub Segajateta seadete allosas.")
 
 ## Muud parandused
 

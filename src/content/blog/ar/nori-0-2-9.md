@@ -21,14 +21,7 @@ product: nori
 
 الحفظ التلقائي مفعّل افتراضيًا. يمكنك إيقافه من **الإعدادات ← عام ← حفظ منشورات الشبكات الاجتماعية دون اتصال**. وإذا كنت تستخدم **Nori Sync**، فتتم مزامنة المنشورات المحفوظة وصورها عبر أجهزتك.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">يبقى منشور Bluesky المحفوظ قابلًا للقراءة مع صورته أثناء وضع الطيران على الهاتف.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/saved-social-post.webp" alt="تطبيق Nori يعرض منشور Bluesky محفوظًا مع الكاتب والنص والصورة المرفقة مع تفعيل وضع الطيران" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![تطبيق Nori يعرض منشور Bluesky محفوظًا مع الكاتب والنص والصورة المرفقة مع تفعيل وضع الطيران](/blog/nori-0-2-9/saved-social-post.webp "يبقى منشور Bluesky المحفوظ قابلًا للقراءة مع صورته أثناء وضع الطيران على الهاتف.")
 
 ## شارك أكثر من مجرد رابط
 
@@ -38,14 +31,7 @@ product: nori
 
 انقر على **مشاركة** لإرسال البطاقة عبر ورقة المشاركة في جهازك، أو انقر على زر التنزيل لـ **حفظ الصورة** في مكتبة الصور لديك.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">عاين البطاقة، واختر ما تريد تضمينه، ثم شارك الصورة أو احفظها.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/share-as-image.webp" alt="معاينة المشاركة كصورة مع السمة الفاتحة والداكنة، وعناصر التحكم في الملاحظة والوسوم، وزر التنزيل وزر المشاركة" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![معاينة المشاركة كصورة مع السمة الفاتحة والداكنة، وعناصر التحكم في الملاحظة والوسوم، وزر التنزيل وزر المشاركة](/blog/nori-0-2-9/share-as-image.webp "عاين البطاقة، واختر ما تريد تضمينه، ثم شارك الصورة أو احفظها.")
 
 ## امنح كل قائمة ترتيبها الخاص
 
@@ -59,14 +45,7 @@ product: nori
 
 يرتبط هذا الخيار بتلك القائمة، لذا يمكن لقوائمك الأخرى الاحتفاظ بترتيبها الخاص. ويمكنك إعادة تسمية القائمة في المحرر نفسه.
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">اختر ترتيب الإشارات المرجعية لقائمة Reading queue.</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nori-0-2-9/list-bookmark-order.webp" alt="تعديل قائمة Reading queue مع ظهور جميع خيارات ترتيب الإشارات المرجعية الخمسة" width="1080" height="2400" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![تعديل قائمة Reading queue مع ظهور جميع خيارات ترتيب الإشارات المرجعية الخمسة](/blog/nori-0-2-9/list-bookmark-order.webp "اختر ترتيب الإشارات المرجعية لقائمة Reading queue.")
 
 يحسّن هذا الإصدار أيضًا التمرير في درج **كل الإشارات المرجعية** على iOS ويصلح مشكلة في المزامنة. راجع [ملاحظات الإصدار الكاملة](https://github.com/nonbili/Nori/releases/tag/v0.2.9) للتفاصيل.
 

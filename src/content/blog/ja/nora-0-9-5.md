@@ -23,14 +23,7 @@ product: nora
 
 これらのコントロールは任意で設定できます。同じ設定画面で **検索時に「最新」をデフォルトにする** を有効にすれば、「話題のツイート」ではなく最新の投稿が最初に表示されます。別のタブで検索結果を見たい場合は、X 上でいつでもタブを切り替えられます。
 
-<div class="screenshot-gallery" style="max-width: 24rem;">
-  <figure class="screenshot-card">
-    <figcaption class="screenshot-card__body">Android 版 Nora の X 設定：非表示にする UI 要素や検索時に最新タブを開くかどうかを選択できます。</figcaption>
-    <div class="screenshot-frame">
-      <img src="/blog/nora-0-9-5/x-settings.webp" alt="Pixel スマホでの Nora の X 設定画面。Grok、おすすめ、エンゲージメント数、最新検索の各設定項目を表示" width="1080" height="2220" loading="lazy" />
-    </div>
-  </figure>
-</div>
+![Pixel スマホでの Nora の X 設定画面。Grok、おすすめ、エンゲージメント数、最新検索の各設定項目を表示](/blog/nora-0-9-5/x-settings.webp "Android 版 Nora の X 設定：非表示にする UI 要素や検索時に最新タブを開くかどうかを選択できます。")
 
 ## Facebook の通常投稿を確実に表示
 
